@@ -47,7 +47,7 @@
      <string name="button_text_select_all">Επιλογή</string>
      <string name="button_text_select_pic">Επιλογή</string>
      <string name="button_text_uninstall">Απεγκατάσταση</string>
-     <string name="button_text_uninstall_only">Απεγκατάσταση</string>
+     <string name="button_text_uninstall_only">Απεγκατάσταση %s</string>
      <string name="button_text_unselect_all">Αποεπιλογή</string>
      <string name="button_text_unselect_pic">Αποεπιλογή</string>
      <string name="button_text_view_detail">Λεπτομέρειες</string>
@@ -57,9 +57,9 @@
      <string name="cache_title_system_cache">Cache συστήματος</string>
      <string name="cancel">Ακύρωση</string>
      <string name="clean_content_all">Τα πάντα</string>
-     <string name="clean_content_one">%s</string>
-     <string name="clean_content_three">Εκτός από %s</string>
-     <string name="clean_content_two">%1$s και %2$s</string>
+     <string name="clean_content_one">1 στοιχείο</string>
+     <string name="clean_content_three">3 στοιχεία</string>
+     <string name="clean_content_two">2 στοιχεία</string>
      <string name="clean_content_zero">Μην καθαρίσεις τίποτα</string>
      <string name="confirm_auto_cleaner">OK</string>
      <string name="deepclean_cache_header_left">Cache αρχεία: %d</string>
@@ -87,11 +87,11 @@
      <string name="header_optimizer">Με τη χρήση αυτής της εφαρμογής, συμφωνείτε με %s.</string>
      <string name="hint_bar_select_image">%d επιλεγμένα</string>
      <string name="hint_clean_select_similar_image">Διαγραφή διπλότυπων…</string>
-     <string name="hints_ad_header_left">Διαφημίσεις: %d</string>
-     <string name="hints_apk_header_left">Εφαρμογές: %d</string>
+     <string name="hints_ad_header_left">Διαφημίσεις</string>
+     <string name="hints_apk_header_left">Εφαρμογές</string>
      <string name="hints_apk_version">Έκδοση: %s</string>
      <string name="hints_app_uninstall_residual">Καθαρισμός υπολειμμάτων;</string>
-     <string name="hints_cache_header_left">Αρχεία cache: %d</string>
+     <string name="hints_cache_header_left">Αρχεία cache</string>
      <string name="hints_finish_quick_cleanup">Δείτε λεπτομέρειες</string>
      <string name="hints_finish_quick_cleanup_title">Καθαρισμός %s σκουπιδιών</string>
      <string name="hints_finish_quick_scan">Ολοκλήρωση σάρωσης</string>
@@ -115,7 +115,7 @@
      <string name="hints_quick_cleanning">Καθαρισμός…</string>
      <string name="hints_quick_cleanuping">Βελτιστοποίηση…</string>
      <string name="hints_quick_scanning">Σάρωση…</string>
-     <string name="hints_residual_header_left">Υπολείμματα: %d</string>
+     <string name="hints_residual_header_left">Υπολείμματα</string>
      <string name="hints_storage_free">Δωρεάν</string>
      <string name="hints_storage_free_size">%s διαθέσιμα</string>
      <string name="hints_title_garbage">Σκουπίδια</string>

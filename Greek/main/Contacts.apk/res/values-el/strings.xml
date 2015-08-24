@@ -949,7 +949,7 @@
      <string name="user_profile_contacts_list_header">Εγώ</string>
      <string name="vcard_export_request_rejected_message">Η αίτηση εξαγωγής vCard έχει απορριφθεί. Δοκιμάστε ξανά αργότερα.</string>
      <string name="vcard_export_will_start_message">%s θα εξαχθούν σύντομα.</string>
-     <string name="vcard_import_failed">"Δεν ήταν δυνατή η εισαγωγή vCard."</string>
+     <string name="vcard_import_failed">"Δεν ήταν δυνατή η εισαγωγή %s vCard."</string>
      <string name="vcard_import_request_rejected_message">Η αίτηση εισαγωγής vCard έχει απορριφθεί. Δοκιμάστε ξανά αργότερα.</string>
      <string name="vcard_import_will_start_message">%s θα εισαχθεί σύντομα.</string>
      <string name="vcard_import_will_start_message_with_default_name">Το αρχείο θα εισαχθεί σύντομα.</string>

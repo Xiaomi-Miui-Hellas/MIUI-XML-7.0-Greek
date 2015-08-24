@@ -36,19 +36,4 @@
         <item>Παλαιότερη</item>
         <item>Λίστα συζητήσεων</item>
      </string-array>
-     <string-array name="prefEntries_removal_action">
-        <item>Εμφάνιση μόνο του αρχείου</item>
-        <item>Εμφάνιση μόνο διαγραμμένων</item>
-        <item>Εμφάνιση αρχείου &amp; διαγραφή</item>
-     </string-array>
-     <string-array name="prefSummaries_autoAdvance">
-        <item>Εμφάνιση νεότερης συζήτησης μετά την διαγραφή</item>
-        <item>Εμφάνιση παλαιότερης συζήτησης μετά την διαγραφή</item>
-        <item>Εμφάνιση λίστας συζητήσεων μετά την διαγραφή</item>
-     </string-array>
-     <string-array name="prefSummaries_removal_action_summary">
-        <item>Εμφάνιση μόνο του αρχείου</item>
-        <item>Εμφάνιση μόνο διαγραμμένων</item>
-        <item>Εμφάνιση αρχείου &amp; διαγραφή</item>
-     </string-array>
 </resources>

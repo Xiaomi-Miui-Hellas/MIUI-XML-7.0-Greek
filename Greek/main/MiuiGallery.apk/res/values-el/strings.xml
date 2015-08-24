@@ -331,7 +331,7 @@
      <string name="internal_sdcard_root">Κατάλογος root εσωτερικής κάρτας SD</string>
      <string name="invalid_invition_url">Λάθος πρόσκλησης URL.</string>
      <string name="invalid_recipient_message">Διορθώστε τα λάθη στους παραλήπτες, διαφορετικά δεν θα λάβουν μήνυμα.</string>
-     <string name="is">Είναι %s;</string>
+     <string name="is">Είναι</string>
      <string name="iso">ISO</string>
      <string name="item_not_sync_for_origin_image">Δεν μπορείτε να κατεβάστε αυτή την εικόνα, επειδή δεν έχει συγχρονιστεί με το cloud σας.</string>
      <string name="item_not_sync_for_origin_video">Δεν μπορείτε να κατεβάσετε αυτό το βίντεο γιατί δεν έχει συγχρονιστεί με το cloud σας.</string>
@@ -419,7 +419,7 @@
      <string name="no_thumbnail">Χωρίς μικρογραφία</string>
      <string name="none_picture">Δεν βρέθηκαν φωτογραφίες</string>
      <string name="not_auto_create_recent_album">Μη αυτόματη δημιουργία πρόσφατου άλμπουμ</string>
-     <string name="not_is">Δεν είναι %s;</string>
+     <string name="not_is">Δεν είναι</string>
      <string name="not_now">Όχι τώρα</string>
      <string name="not_show_hidden_albums">Να μην προβάλλονται τα κρυφά άλμπουμ</string>
      <string name="old">​Ρετρό</string>
