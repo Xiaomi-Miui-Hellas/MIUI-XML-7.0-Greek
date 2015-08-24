@@ -9,6 +9,8 @@
      <string name="caller_info_name_delimiter">" ή "</string>
      <string name="copy">Αντιγραφή</string>
      <string name="cut">Αποκοπή</string>
+     <string name="fc_dialog_body">Αποστολή αναφοράς σφάλματος στη Mi για ανάλυση; Αυτή η αναφορά μπορεί να περιέχει προσωπικά αναγνωρίσιμες πληροφορίες. Η αναφορά σας θα χρησιμοποιηθεί για να διορθωθεί αυτό το σφάλμα και δεν πρόκειται ποτέ να μοιράζεται σε εμπορικό πλαίσιο.</string>
+     <string name="fc_dialog_jump_to_preview">Δείτε την περίληψη</string>
      <string name="first_back_long_press_message">"Πατήστε &amp; κρατήστε το κουμπί Back για τερματισμό της τρέχουσας διεργασίας και όλων των υπηρεσιών της που τρέχουν στο παρασκήνιο.
 
 Για να ενεργοποιήσετε αυτή τη λειτουργία, πηγαίνετε στις Ρυθμίσεις > Πρόσθετες Ρυθμίσεις > Πλήκτρα"</string>
@@ -19,6 +21,8 @@
      <string name="global_actions_reboot">Επανεκκίνηση</string>
      <string name="global_actions_shutdown">Τερματισμός</string>
      <string name="global_actions_silent_mode">Αθόρυβη λειτουργία</string>
+     <string name="handy_mode_enter_dlg_msg">Είσοδος στην λειτουργία με ένα χέρι;</string>
+     <string name="handy_mode_enter_dlg_title">Είσοδος στην λειτουργία με ένα χέρι</string>
      <string name="handy_mode_summary">Κάντε κλικ στη μικρή οθόνη έξω από την περιοχή για να βγείτε</string>
      <string name="handy_mode_title">Λειτουργία με ένα χέρι</string>
      <string name="key_btn_ok">OK</string>
@@ -60,28 +64,19 @@
      <string name="status_bar_toggle_ac">Πρόσβαση</string>
      <string name="status_bar_toggle_auto_brightness">Αυτόματο</string>
      <string name="status_bar_toggle_bluetooth">BΤ</string>
-     <string name="status_bar_toggle_brightness">Φωτεινότητα</string>
      <string name="status_bar_toggle_data">Δεδομένα</string>
-     <string name="status_bar_toggle_divider">Περισσότερα</string>
-     <string name="status_bar_toggle_drive_mode">Αυτοκίνητο</string>
      <string name="status_bar_toggle_flight_mode">Πτήση</string>
      <string name="status_bar_toggle_gps">GPS</string>
      <string name="status_bar_toggle_lock">Κλείδωμα</string>
      <string name="status_bar_toggle_mute">Αθόρυβο</string>
-     <string name="status_bar_toggle_network_type">Δίκτυο</string>
      <string name="status_bar_toggle_paper_mode">Λειτουργία ανάγνωσης</string>
      <string name="status_bar_toggle_power_mode">Ενέργεια</string>
      <string name="status_bar_toggle_privacy_mode">Επισκέπτης</string>
      <string name="status_bar_toggle_quiet_mode">DND</string>
-     <string name="status_bar_toggle_reboot">Επανεκκίνηση</string>
      <string name="status_bar_toggle_rotate">Περιστροφή</string>
      <string name="status_bar_toggle_screen_button">Πλήκτρα</string>
      <string name="status_bar_toggle_screenshot">Στιγμιότυπο</string>
-     <string name="status_bar_toggle_shutdown">Τερματισμός</string>
      <string name="status_bar_toggle_sync">Συγχρονισμός</string>
-     <string name="status_bar_toggle_sync_auto">Αυτόματος συγχρ.</string>
-     <string name="status_bar_toggle_sync_manual">Χειροκίνητος συγχρ.</string>
-     <string name="status_bar_toggle_syncing">Συγχρονισμός…</string>
      <string name="status_bar_toggle_torch">Φακός</string>
      <string name="status_bar_toggle_vibrate">Δόνηση</string>
      <string name="status_bar_toggle_wifi">Wi-Fi</string>

@@ -45,6 +45,7 @@
      <string name="ad_update_time">Ενημερώθηκε: %s</string>
      <string name="ad_update_time_unKnown">Ενημερώθηκε: unknown</string>
      <string name="ad_update_title">Αυτόματη ενημέρωση</string>
+     <string name="address">Διεύθυνση</string>
      <string name="address_choose_hint">%1$s, %2$s και %3$d τοποθεσίες</string>
      <string name="addwhitelist">Προσθήκη στις εξαιρέσεις</string>
      <string name="all_address_choose_hint">Όλες οι τοποθεσίες</string>
@@ -55,6 +56,7 @@
      <string name="app_name">Φρουρός</string>
      <string name="backsound_set_hint">Ρύθμιση τόνου επιστροφής σε %s;</string>
      <string name="baidu_thanks">Powered by Baidu</string>
+     <string name="birthday">Γενέθλια</string>
      <string name="bl_block_info" formatted="false">Φραγμένα: αριθμός %d, λεπτομέρειες %d</string>
      <string name="bl_no_blacklist">Χωρίς φραγμένους αριθμούς</string>
      <string name="bl_no_block_call">Χωρίς φραγμένες κλήσεις</string>
@@ -106,19 +108,23 @@
      <string name="dlg_remove_address_whitelist">Διαγραφή αυτής της τοποθεσίας από τις εξαιρέσεις;</string>
      <string name="dlg_remove_blacklist">Διαγραφή αυτών των αριθμών από την λίστα;</string>
      <string name="dlg_remove_blacklist_ing">Αφαίρεση από λίστα φραγών…</string>
-     <string name="dlg_remove_blacklist_ok">Διαγραφή</string>
-     <string name="dlg_remove_whitelist">Διαγραφή των αριθμών από τις εξαιρέσεις;</string>
+     <string name="dlg_remove_blacklist_ok">Αφαίρεση</string>
+     <string name="dlg_remove_whitelist_content">Αφαίρεση αυτών των αριθμών από τις εξαιρέσεις;</string>
      <string name="dlg_remove_whitelist_ing">Αφαίρεση από τις εξαιρέσεις…</string>
+     <string name="dlg_remove_whitelist_title">Αφαίρεση</string>
      <string name="dlg_retore">Επαναφορά στα εισερχόμενα μηνύματα;</string>
      <string name="dlg_retore_ok">Επαναφορά</string>
      <string name="dlg_title_not_open_stranger_identify">Ενεργοποίηση αναγνώρισης κλήσης αγνώστων αριθμών</string>
      <string name="dlg_white_address_antispam_message">Προσθήκη της τοποθεσίας στις εξαιρέσεις;</string>
      <string name="dlg_white_antispam_hint">Εξαιρέσεις</string>
      <string name="dlg_white_antispam_message">Προσθήκη μηνύματος στις εξαιρέσεις;</string>
+     <string name="email">Email</string>
+     <string name="empty_activity_title">" "</string>
      <string name="fw_blocked">Λίστα αποκλεισμένων</string>
      <string name="fw_blocked_count">Αποκλεισμένο(ι)</string>
      <string name="fw_blocked_join">" και "</string>
      <string name="hint_antispam_mode_edit">Προσαρμοσμένη λειτουργία</string>
+     <string name="im">IM</string>
      <string name="info_antispam_close">AntiSpam ανενεργό</string>
      <string name="info_antispam_current_mode">%s</string>
      <string name="info_antispam_phone">Φραγή κλήσεων</string>
@@ -132,12 +138,15 @@
      <string name="log_count">(%d)</string>
      <string name="mark_agent">Αντιπρ. πωλήσεων</string>
      <string name="mark_agent_block">Επισήμανση ως αντιπρ. πωλήσεων</string>
+     <string name="mark_agent_block_large">Μεσάζων</string>
      <string name="mark_agent_time_setting">Φραγή αριθμών που έχουν αναφερθεί ορισμένες φορές ως αντιπρ. πωλήσεων</string>
      <string name="mark_fraud">Απάτη</string>
      <string name="mark_fraud_block">Αναφέρθηκε ως απάτη</string>
+     <string name="mark_fraud_block_large">Απάτη</string>
      <string name="mark_fraud_time_setting">Φραγή αριθμών που έχουν αναφερθεί ορισμένες φορές ως απάτη</string>
      <string name="mark_harass">Παρενόχληση</string>
      <string name="mark_harass_block">Αναφέρθηκε ως παρενόχληση</string>
+     <string name="mark_harass_block_large">Παρενόχληση</string>
      <string name="mark_harass_time_setting">Φραγή αριθμών που έχουν αναφερθεί ορισμένες φορές ως παρενόχληση</string>
      <string name="mark_number_agent">Αντιπρ. πωλήσεων</string>
      <string name="mark_number_fraud">Απάτη</string>
@@ -152,6 +161,7 @@
      <string name="mark_number_setting_guide_title">Αποκλεισμός αναφερθέντων αριθμών</string>
      <string name="mark_sell">Τηλεπωλητής</string>
      <string name="mark_sell_block">Επισήμανση ως τηλεπωλητής</string>
+     <string name="mark_sell_block_large">Τηλεπωλητής</string>
      <string name="mark_sell_time_setting">Φραγή αριθμών που έχουν αναφερθεί ορισμένες φορές ως τηλεπωλητές</string>
      <string name="mark_time_setting_dialog_title">Ρυθμίσεις αναφερθέντων αριθμών</string>
      <string name="mark_time_text">%d</string>
@@ -179,6 +189,9 @@
      <string name="menu_restore">Επαναφορά στα εισερχόμενα μηνύματα</string>
      <string name="menu_sms">Αποστολή μηνύματος</string>
      <string name="menu_wh_remove">Αφαιρέστε από τη λίστα εξαιρέσεων</string>
+     <string name="name">Όνομα</string>
+     <string name="nickname">Ψευδώνυμο</string>
+     <string name="note">Σημείωση</string>
      <string name="note_call_none">Χωρίς εγγραφή κλήσης</string>
      <string name="note_keyword_none">Χωρίς λέξεις-κλειδιά</string>
      <string name="note_list_none">Χωρίς λίστα για επεξεργασία</string>
@@ -186,6 +199,8 @@
      <string name="note_sms_none">Χωρίς μήνυμα για επεξεργασία</string>
      <string name="one_address_choose_hint">%s1 τοποθεσία</string>
      <string name="open_callwait">Ενεργοποίηση</string>
+     <string name="organization">Εταιρεία</string>
+     <string name="phone">Τηλέφωνο</string>
      <string name="quiet">Σίγαση</string>
      <string name="quiet_group">Αθόρυβη λειτουργία</string>
      <string name="quiet_important_interruptions_mode">Επέτρεψε μόνο τις εξαιρέσεις</string>
@@ -204,6 +219,7 @@
      <string name="report_warning_title">Αναφορά SMS</string>
      <string name="sim_not_ready">Η κάρτα SIM δεν είναι έτοιμη</string>
      <string name="sim_not_ready_toast">Η κάρτα SIM δεν είναι έτοιμη. Η ρύθμιση απέτυχε</string>
+     <string name="sip_phone">Τηλέφωνο SIP</string>
      <string name="sms_delete_hint">Διαγραφή των φραγμένων μηνυμάτων αυτού του αριθμού;</string>
      <string name="sms_delete_title">Διαγραφή Μηνύματος</string>
      <string name="sms_smart_engine_update">Αυτόματη ενημέρωση φίλτρου SMS</string>
@@ -325,6 +341,7 @@
      <string name="toast_keyword_invalid">Άκυρη λέξη-κλειδί</string>
      <string name="two_address_choose_hint">%1$s, %2$s2 τοποθεσίες</string>
      <string name="user_define_title">Προσαρμογή</string>
+     <string name="website">Ιστοσελίδα</string>
      <string name="whitelist_prefix_add_hint">Προσθήκη όλων των αριθμών με πρόθεμα στις εξαιρέσεις</string>
      <string name="wl_no_whitelist">Λευκή Λίστα άδεια</string>
      <string name="xiaomi_account_type">com.xiaomi</string>

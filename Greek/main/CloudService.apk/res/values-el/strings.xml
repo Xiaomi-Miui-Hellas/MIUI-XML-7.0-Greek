@@ -117,6 +117,7 @@
      <string name="micloud_check_sim_notify_title">Επανενεργοποίηση Mi Cloud</string>
      <string name="micloud_check_sim_title">"Φαίνεται ότι έχετε αλλάξει τις κάρτες SIM. Συνδεθείτε
 στον λογαριασμό Mi για επανενεργοποίηση του Mi Cloud."</string>
+     <string name="micloud_detail_download_syncing">Λήψη %s</string>
      <string name="micloud_detail_fail">απέτυχε</string>
      <string name="micloud_detail_lastest">συγχρονισμένο</string>
      <string name="micloud_detail_pending">σε αναμονή</string>
@@ -124,6 +125,7 @@
      <string name="micloud_detail_preference_wlan">Συγχρονισμός με Wi-Fi</string>
      <string name="micloud_detail_success">συγχρονισμένο</string>
      <string name="micloud_detail_syncing">συγχρονίζει</string>
+     <string name="micloud_detail_upload_syncing">Αποστολή %s</string>
      <string name="micloud_detail_wlan">%d περιμένουν συγχρονισμό</string>
      <string name="micloud_detail_wlan_contact">%d φωτογραφίες επαφών περιμένουν συγχρονισμό</string>
      <string name="micloud_detail_wlan_mms">%d MMS περιμένουν συγχρονισμό</string>
@@ -254,9 +256,10 @@
      <string name="phone_number_required_dspt_provision">"Αυτή η υπηρεσία απαιτεί τον αριθμό τηλεφώνου σας. "</string>
      <string name="photo">Φωτογραφίες</string>
      <string name="pref_summary_sync_display_photo_on_wifi_only">Συγχρονισμός φωτογραφιών επαφών μόνο όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi</string>
+     <string name="pref_summary_sync_video_on_wifi_only">"Συγχρονισμός βίντεο προφίλ επαφών μόνο όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi"</string>
      <string name="pref_title_sync_contacts_title">Συγχρονισμός επαφών</string>
-     <string name="pref_title_sync_display_photo_on_wifi_only">Χρησιμοποιείτε μόνο Wi-Fi για να συγχρονίσετε φωτογραφίες</string>
-     <string name="pref_title_sync_my_profile_title">Προφίλ συγχρονισμού</string>
+     <string name="pref_title_sync_display_photo_on_wifi_only">Χρήση μόνο Wi-Fi για να συγχρονίσετε φωτογραφίες</string>
+     <string name="pref_title_sync_video_on_wifi_only">Χρήση μόνο Wi-Fi για να συγχρονίσετε βίντεο</string>
      <string name="privacy_policy">Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
      <string name="remind_later">Υπενθύμιση αργότερα</string>
      <string name="restoreSync">Συγχρονισμός τώρα</string>

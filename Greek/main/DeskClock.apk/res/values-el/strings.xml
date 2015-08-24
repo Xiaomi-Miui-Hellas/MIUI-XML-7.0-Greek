@@ -27,6 +27,8 @@
      <string name="auto_silence_summary">Οι αφυπνίσεις θα σιγήσουν μετά από %d λεπτά</string>
      <string name="auto_silence_title">Αυτόματη σίγαση</string>
      <string name="battery_charging_level">%d %%</string>
+     <string name="birthday_alarm">Ξυπνητήρι γενεθλίων</string>
+     <string name="birthday_alarm_summary">Χρήση του \"Happy Birthday\" αντί το προεπιλεγμένο ξυπνητήρι στα γενέθλιά σας</string>
      <string name="cancel">Ακύρωση</string>
      <string name="close_alarm">Κλείστε το ξυπνητήρι</string>
      <string name="common_settings">Ρυθμίσεις</string>
