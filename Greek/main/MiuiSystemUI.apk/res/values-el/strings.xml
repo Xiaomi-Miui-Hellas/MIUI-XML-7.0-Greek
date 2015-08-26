@@ -109,7 +109,6 @@
      <string name="ext_media_safe_unmount_notification_title">Η συσκευή αποθήκευσης USB μπορεί να αφαιρεθεί με ασφάλεια</string>
      <string name="ext_media_unmountable_notification_message">Η συσκευή αποθήκευσης USB έχει υποστεί βλάβη. Ίσως χρειαστεί να την διαμορφώσετε.</string>
      <string name="ext_media_unmountable_notification_title">Κατεστραμμένη συσκευή αποθήκευσης USB</string>
-     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
      <string name="gps_notification_found_text">Η τοποθεσία έχει καθοριστεί από το GPS</string>
      <string name="gps_notification_searching_text">Ανίχνευση για GPS</string>
      <string name="headset_custom">Προσαρμογή</string>
