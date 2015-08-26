@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="status_bar_accessibility_recent_apps">
+     <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Φραγή %d εφαρμογών</item>
+        <item quantity="one">Φραγή %d εφαρμογής</item>
+     </plurals>
+     <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">%d πρόσφατες εφαρμογές</item>
         <item quantity="one">1 πρόσφατη εφαρμογή</item>
-    </plurals>
+     </plurals>
 </resources>

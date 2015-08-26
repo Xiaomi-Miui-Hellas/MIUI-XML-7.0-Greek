@@ -24,6 +24,18 @@
         <item>Αυτό &amp; μελλοντικά γεγονότα</item>
         <item>Όλα τα γεγονότα</item>
      </string-array>
+     <string-array name="miui_preferences_default_reminder_labels">
+        <item>Χωρίς υπενθύμιση</item>
+        <item>0 λεπτά</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>1 ημέρα</item>
+        <item>2 ημέρες</item>
+        <item>1 εβδομάδα</item>
+     </string-array>
      <string-array name="miui_reminder_minutes_labels">
         <item>Χωρίς υπενθύμιση</item>
         <item>0 λεπτά</item>
@@ -89,6 +101,39 @@
         <item>1 ημέρα</item>
         <item>2 ημέρες</item>
         <item>1 εβδομάδα</item>
+     </string-array>
+     <string-array name="repeat_choose_day">
+        <item>1η</item>
+        <item>2η</item>
+        <item>3η</item>
+        <item>4η</item>
+        <item>5η</item>
+        <item>6η</item>
+        <item>7η</item>
+        <item>8η</item>
+        <item>9η</item>
+        <item>10η</item>
+        <item>11η</item>
+        <item>12η</item>
+        <item>13η</item>
+        <item>14η</item>
+        <item>15η</item>
+        <item>16η</item>
+        <item>17η</item>
+        <item>18η</item>
+        <item>19η</item>
+        <item>20η</item>
+        <item>21η</item>
+        <item>22η</item>
+        <item>23η</item>
+        <item>24η</item>
+        <item>25η</item>
+        <item>26η</item>
+        <item>27η</item>
+        <item>28η</item>
+        <item>29η</item>
+        <item>30η</item>
+        <item>31st</item>
      </string-array>
      <string-array name="repeat_choose_end">
         <item>Ποτέ</item>
@@ -227,6 +272,13 @@
         <item>Auckland</item>
         <item>Φίτζι</item>
         <item>Τόνγκα</item>
+     </string-array>
+     <string-array name="travel_reminder_minutes_labels">
+        <item>3 ώρες</item>
+        <item>4 ώρες</item>
+        <item>5 ώρες</item>
+        <item>6 ώρες</item>
+        <item>1 ημέρα</item>
      </string-array>
      <string-array name="visibility">
         <item>Προκαθορισμένο</item>

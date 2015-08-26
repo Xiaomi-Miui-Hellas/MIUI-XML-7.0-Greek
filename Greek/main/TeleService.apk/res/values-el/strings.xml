@@ -365,6 +365,8 @@
      <string name="incall_error_sim_deactive">Ανενεργή κάρτα SIM</string>
      <string name="incall_error_turn_off_airplane_mode">Απενεργ. λειτουργίας πτήσης</string>
      <string name="incall_status_dialed_mmi">Έναρξη ακολουθίας MMI…</string>
+     <string name="incoming_video_show_pref_summary">Εμφάνιση βίντεο προφίλ που ορίστηκε από τον καλούντα. Για να χρησιμοποιήσετε αυτή τη λειτουργία, ενεργοποιήστε τις κάρτες επαφών.</string>
+     <string name="incoming_video_show_pref_title">"Εμφάνιση βίντεο προφίλ καλούντος"</string>
      <string name="international_disable">Διεθνείς ειδήσεις απενεργοποιημένες</string>
      <string name="international_enable">Διεθνείς ειδήσεις ενεργοποιημένες</string>
      <string name="international_roaming_setting">Διεθνής περιαγωγή</string>
@@ -576,6 +578,8 @@
 Δοκιμάστε ξανά ή καλέστε την υπηρεσία εξυπηρέτησης πελατών για περισσότερες επιλογές."</string>
      <string name="other_settings">Άλλες ρυθμίσεις κλήσεων</string>
      <string name="other_settings_category">Άλλα</string>
+     <string name="overseas_roaming_setting">Διεθνής περιαγωγή</string>
+     <string name="password">Κωδικός</string>
      <string name="password_changed">Ο κωδικός σας άλλαξε</string>
      <string name="password_title">Κωδικός</string>
      <string name="payphone">Καρτοκινητή</string>

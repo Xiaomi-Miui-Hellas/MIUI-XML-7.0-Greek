@@ -95,7 +95,6 @@
      <string name="button_text_uninstall_shortcut">Διαγραφή συντόμευσης</string>
      <string name="button_text_view">Προβολή</string>
      <string name="button_text_view_power">Προβολή ενέργειας</string>
-     <string name="cache_check_content">Εφαρμογές: %1$d , cache: %2$s</string>
      <string name="cache_header_title">%2$s μπορούν να απελευθερωθούν (αρχεία cache %1$d εφαρμ.)</string>
      <string name="call_and_contact">Κλήσεις και Επαφές</string>
      <string name="cancel">Ακύρωση</string>
@@ -213,7 +212,7 @@
      <string name="manual_item_white_list_summary">Αποτρέπει την βελτιστοποίηση των επιλεγμένων εφαρμογών</string>
      <string name="manual_item_white_list_title">Εξαιρέσεις</string>
      <string name="manual_white_list_header">%d εξαιρέσεις</string>
-     <string name="memeory_check_content">Εφαρμογές: %1$d , μνήμη: %2$s</string>
+     <string name="memory_check_content_none">Κανένα</string>
      <string name="menu_item_about_content">Έκδοση: %s</string>
      <string name="menu_item_about_summary">Έκδοση: %s</string>
      <string name="menu_item_about_title">Σχετικά με</string>

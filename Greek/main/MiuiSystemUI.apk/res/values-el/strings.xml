@@ -55,6 +55,9 @@
      <string name="battery_low_percent_format">Έχει μείνει λιγότερο από %d%%</string>
      <string name="battery_low_title">Συνδέστε το φορτιστή σας!</string>
      <string name="battery_profiles">Χρησιμοποιήστε τα προφίλ μπαταρίας</string>
+     <string name="block_record_notification_more_text">%1$s %2$d εφαρμογές. Πατήστε για εμφάνιση</string>
+     <string name="block_record_notification_text">%1$s. Πατήστε για εμφάνιση</string>
+     <string name="block_record_notification_title">Αρχείο φραγών</string>
      <string name="bluetooth_tethered">Πρόσδεση Bluetooth</string>
      <string name="call_status_dialing">Κλήση</string>
      <string name="call_status_ringing">Χτυπάει</string>
@@ -89,6 +92,7 @@
      <string name="dlg_error_title">Η λειτουργία USB απέτυχε</string>
      <string name="dlg_ok">OK</string>
      <string name="drive_mode_tip">Λειτουργία στο αυτοκίνητο, παρακαλώ οδηγείτε προσεχτικά</string>
+     <string name="expanded_confirm_disable_notification">Επιβεβαίωση</string>
      <string name="expanded_notification_manager">Διαχείριση</string>
      <string name="ext_media_badremoval_notification_message">Αποσυνδέστε την συσκευή αποθήκευσης USB πριν από την αφαίρεση για να αποφύγετε απώλεια δεδομένων.</string>
      <string name="ext_media_badremoval_notification_title">Η συσκευή αποθήκευσης USB αφαιρέθηκε απροσδόκητα</string>
@@ -105,6 +109,7 @@
      <string name="ext_media_safe_unmount_notification_title">Η συσκευή αποθήκευσης USB μπορεί να αφαιρεθεί με ασφάλεια</string>
      <string name="ext_media_unmountable_notification_message">Η συσκευή αποθήκευσης USB έχει υποστεί βλάβη. Ίσως χρειαστεί να την διαμορφώσετε.</string>
      <string name="ext_media_unmountable_notification_title">Κατεστραμμένη συσκευή αποθήκευσης USB</string>
+     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
      <string name="gps_notification_found_text">Η τοποθεσία έχει καθοριστεί από το GPS</string>
      <string name="gps_notification_searching_text">Ανίχνευση για GPS</string>
      <string name="headset_custom">Προσαρμογή</string>
@@ -113,6 +118,7 @@
      <string name="hint_for_long_press_app_switch_key">Πιέστε παρατεταμένα για να δείτε το μενού</string>
      <string name="invalid_charger">"Η φόρτιση μέσω USB δεν υποστηρίζεται.
 Κάντε χρήση του φορτιστή σας."</string>
+     <string name="kilobyte_per_second">K/s</string>
      <string name="label_view">Μορφή</string>
      <string name="lockscreen_carrier_default">(χωρίς δίκτυο)</string>
      <string name="mdb_entering">Εισέρχεται…</string>
@@ -125,7 +131,9 @@
      <string name="media_projection_action_text">Έναρξη τώρα</string>
      <string name="media_projection_dialog_text">"%s θα αρχίσει να καταγράφει ότι εμφανίζεται στην οθόνη σας."</string>
      <string name="media_projection_remember_text">"Να μην εμφανιστεί ξανά"</string>
+     <string name="megabyte_per_second">M/s</string>
      <string name="mount_storage">Ναι</string>
+     <string name="network_speed_suffix">%1$s%2$s</string>
      <string name="no_notification_tips">Χωρίς ειδοποιήσεις</string>
      <string name="notification_otg_gamestick_in">Ο ελεγκτής παιχνιδιού συνδέθηκε</string>
      <string name="notification_otg_gamestick_out">Ο ελεγκτής παιχνιδιού αποσυνδέθηκε</string>

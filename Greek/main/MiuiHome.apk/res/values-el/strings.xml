@@ -39,7 +39,8 @@
      <string name="cant_remove_folder">Αδύνατη η διαγραφή του άδειου φακέλου</string>
      <string name="cant_remove_retained_app">Αδύνατη η απεγκατάσταση διατηρητέας εφαρμογής</string>
      <string name="cant_remove_system_app">Αδύνατη η διαγραφή εφαρμογής συστήματος</string>
-     <string name="choose_theme">Θέμα</string>
+     <string name="children_folder_title">Παιδιά</string>
+     <string name="children_mode_exit">Έξοδος</string>
      <string name="choose_wallpaper">Επιλογή ταπετσαρίας</string>
      <string name="chooser_wallpaper">Επιλογή ταπετσαρίας από</string>
      <string name="cloud_app_restore_title">Σε αναμονή</string>
@@ -53,7 +54,6 @@
      <string name="default_folder_title_security">Ασφάλεια</string>
      <string name="default_folder_title_tools">Εργαλεία</string>
      <string name="default_shortcut_title_10086">10086.cn</string>
-     <string name="default_theme_name">Προεπιλεγμένο</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
      <string name="delete_wallpapers_message">Διαγραφή %1$d επιλεγμένων ταπετσαριών;</string>
@@ -239,9 +239,9 @@
      <string name="unknown_artist_name">Άγνωστος Καλλιτέχνης</string>
      <string name="unnamed_folder_name">Χωρίς όνομα</string>
      <string name="wallpaper">Ταπετσαρία</string>
+     <string name="wallpaper_auto_change_title">Οθόνη κλειδώματος</string>
      <string name="wallpaper_failed_message">Αδυναμία εφαρμογής ταπετσαρίας</string>
      <string name="wallpaper_settings">Ρυθμίσεις ταπετσαρίας</string>
-     <string name="wallpaper_settings_for_pad">Ταπετσαρία</string>
      <string name="wallpaper_success_message">Επιτυχής εφαρμογή ταπετσαρίας</string>
      <string name="widget_favorite_contacts_edit">Επεξεργασία</string>
      <string name="widget_favorite_contacts_label">Αγαπημένες επαφές</string>
