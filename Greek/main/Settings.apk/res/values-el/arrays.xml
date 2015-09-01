@@ -389,6 +389,7 @@
         <item>Άλμπουμ</item>
         <item>Μουσική</item>
         <item>Email</item>
+        <item>Βίντεο</item>
      </string-array>
      <string-array name="priority_storage_entries">
         <item>Εσωτερικός χώρος</item>

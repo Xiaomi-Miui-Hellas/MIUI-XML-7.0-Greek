@@ -5,12 +5,12 @@
      <string name="alert_action_edit_anyway">Συνέχιση επεξεργασίας</string>
      <string name="alert_edit_action_delete">Αφαίρεση</string>
      <string name="alert_edit_action_update">Ενημέρωση</string>
-     <string name="alert_message_delete_folders">Διαγραφή %1$s φακέλων;</string>
-     <string name="alert_message_delete_folders_notes">Διαγραφή %1$s φακέλων και %2$s σημειώσεων;</string>
+     <string name="alert_message_delete">Διαγραφή %1$s;</string>
      <string name="alert_message_delete_note">Διαγραφή αυτής της σημείωσης;</string>
-     <string name="alert_message_delete_notes">Διαγραφή %1$s σημειώσεων;</string>
      <string name="alert_message_edit_anyway">Εάν επεξεργαστείτε αυτό το σημείωμα ορισμένα από τα περιεχόμενά του μπορεί να χαθούν.</string>
+     <string name="alert_title_delete">Διαγραφή σημείωσης</string>
      <string name="alert_title_edit_anyway">Αυτό το σημείωμα περιέχει μη υποστηριζόμενο περιεχόμενο</string>
+     <string name="all_terms">%1$s και %2$s</string>
      <string name="app_name">Σημειώσεις</string>
      <string name="app_widget">Σημειώσεις</string>
      <string name="attachment_camera">Κάμερα</string>
@@ -48,6 +48,7 @@
      <string name="menu_stick">Καρφίτσωμα</string>
      <string name="menu_title_select_folder">Επιλογή φακέλου</string>
      <string name="menu_unstick">Ξεκαρφίτσωμα</string>
+     <string name="micloud_state_total_count">%1$s</string>
      <string name="not_now">Όχι τώρα</string>
      <string name="note_alert_expired">Έληξε</string>
      <string name="note_link_email">Αποστολή email</string>

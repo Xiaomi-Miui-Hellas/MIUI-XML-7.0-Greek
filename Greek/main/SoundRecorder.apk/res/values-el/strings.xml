@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="alert_message_delete_record">Θέλετε να διαγράψετε την επιλεγμένη εγγραφή;</string>
+     <string name="alert_message_delete_record_title">Διαγραφή εγγραφής</string>
      <string name="app_name">Ηχογράφηση</string>
      <string name="back">Πίσω</string>
      <string name="button_queue_for_wifi">Queue</string>
@@ -27,6 +28,7 @@
      <string name="error_sdcard_access">Αδύνατη η πρόσβαση στην κάρτα SD</string>
      <string name="error_sdcard_unmounted">Η κάρτα SD δεν είναι προσαρτημένη, παρακαλώ εισάγετε μια κάρτα SD</string>
      <string name="fm_record">Ηχογράφηση Ράδιο FM (%d)</string>
+     <string name="loading_recording">Φόρτωση</string>
      <string name="low_battery_error">Στην μπαταρία έχει απομείνει λιγότερο από 5%, για να μη χαθεί η ηχογράφηση η εγγραφή σταμάτησε και το αρχείο αποθηκεύτηκε.</string>
      <string name="message_file_size_error">Η εγγραφή έχει φτάσει το μέγιστο επιτρεπόμενο μήκος που υποστηρίζεται για %s</string>
      <string name="no_downloading_file">Δεν λαμβάνονται αρχεία.</string>
@@ -68,8 +70,8 @@
      <string name="record_list_cloud_call">Εγγραφές κλήσεων Cloud</string>
      <string name="record_list_cloud_fm">Εγγραφές FM Cloud</string>
      <string name="record_list_fm">Εγγραφές FM</string>
-     <string name="record_mark_point">%s σημ.αναφοράς</string>
      <string name="record_name_hour">.</string>
+     <string name="record_name_minute" />
      <string name="record_picker_title">Επιλέξτε μια εγγραφή</string>
      <string name="recording">Ηχογράφηση…</string>
      <string name="recording_stopped">Η ηχογράφηση σταμάτησε</string>
