@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="apk_clean_menu">
+        <item>Καθαρισμός</item>
+        <item>Αρχείο</item>
+        <item>Εξαίρεση</item>
+        <item>Εγκατάσταση</item>
+     </string-array>
+     <string-array name="app_clean_menu">
+        <item>Λεπτομέρειες</item>
+        <item>Αρχείο</item>
+        <item>Λήψη αντιγράφου και απεγκατάσταση</item>
+        <item>Απεγκατάσταση</item>
+     </string-array>
+     <string-array name="auto_clean_size">
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>500MB</item>
+        <item>1GB</item>
+     </string-array>
      <string-array name="auto_clean_time">
         <item>Καθημερινά</item>
         <item>Κάθε 3 ημέρες</item>
@@ -9,6 +27,11 @@
         <item>Προτροπή με ειδοποίηση</item>
         <item>Καθαρισμός στο παρασκήνιο</item>
         <item>Προβολή ειδοποίησης μετά</item>
+     </string-array>
+     <string-array name="cache_clean_menu">
+        <item>Καθαρισμός</item>
+        <item>Αρχείο</item>
+        <item>Εξαίρεση</item>
      </string-array>
      <string-array name="cache_sort_type">
         <item>Μέγεθος</item>
