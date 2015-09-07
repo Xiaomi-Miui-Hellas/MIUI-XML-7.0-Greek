@@ -1,35 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="ims_call_cap_types">
+     <string-array name="cdma_system_select_choices">
+        <item>Μόνο το τοπικό σύστημα</item>
+        <item>Αυτόματο</item>
+     </string-array>
+     <string-array name="ims_call_cap_types">
         <item>Φωνή</item>
         <item>Βίντεο</item>
-    </string-array>
-    <string-array name="ims_call_types">
+     </string-array>
+     <string-array name="ims_call_types">
         <item>Φωνή</item>
         <item>Βίντεο</item>
         <item>CSVoice</item>
-    </string-array>
-    <string-array name="ims_video_cs_call_types">
+     </string-array>
+     <string-array name="ims_video_cs_call_types">
         <item>Βίντεο</item>
         <item>CSVoice</item>
-    </string-array>
-    <string-array name="ims_voice_cs_call_types">
+     </string-array>
+     <string-array name="ims_voice_cs_call_types">
         <item>Φωνή</item>
         <item>CSVoice</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_td_choices">
-        <item>GSM</item>
-        <item>TD-SCDMA</item>
-        <item>LTE</item>
-        <item>Τριπλή λειτουργία</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_w_choices">
-        <item>GSM</item>
-        <item>WCDMA</item>
-        <item>LTE</item>
-        <item>Τριπλή λειτουργία</item>
-    </string-array>
-    <string-array name="preferred_network_mode_choices">
+     </string-array>
+     <string-array name="list_language_entries">
+        <item>Αγγλικά</item>
+        <item>Γαλλικά</item>
+        <item>Ισπανικά</item>
+        <item>Ιαπωνικά</item>
+        <item>Κορεάτικα</item>
+        <item>Κινέζικα</item>
+        <item>Εβραϊκά</item>
+     </string-array>
+     <string-array name="livetalk_about_info_array">
+        <item>- Υποστηρίζει τοπικούς και διεθνείς αριθμούς τηλεφώνου.</item>
+        <item>- Κάθε κλήση χρησιμοποιεί 1Kb δεδομένων κινητής.</item>
+        <item>- Ο φορέας σας μπορεί να σας χρεώσει για την περιαγωγή ενώ χρησιμοποιείτε αυτή την υπηρεσία.</item>
+        <item>- Πρέπει να ενεργοποιήσετε την Δωρεάν Ακρόαση για να χρησιμοποιήσετε αυτή την υπηρεσία, αλλιώς ο φορέας σας μπορεί να σας χρεώσει κατά την περιαγωγή.</item>
+        <item>- Τεχνική Υποστήριξη: YunZhiXun, RonLianYunTongXun, LTSC</item>
+     </string-array>
+     <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
         <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
         <item>TD-SCDMA/GSM/WCDMA/LTE</item>
@@ -53,18 +61,17 @@
         <item>Μόνο WCDMA</item>
         <item>Μόνο GSM</item>
         <item>Προτιμώμενο GSM/WCDMA</item>
-    </string-array>
-    <string-array name="cdma_system_select_choices">
-        <item>Μόνο το τοπικό σύστημα</item>
-        <item>Αυτόματο</item>
-    </string-array>
-    <string-array name="list_language_entries">
-        <item>Αγγλικά</item>
-        <item>Γαλλικά</item>
-        <item>Ισπανικά</item>
-        <item>Ιαπωνικά</item>
-        <item>Κορεάτικα</item>
-        <item>Κινέζικα</item>
-        <item>Εβραϊκά</item>
-    </string-array>
+     </string-array>
+     <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Τριπλή λειτουργία</item>
+     </string-array>
+     <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Τριπλή λειτουργία</item>
+     </string-array>
 </resources>
