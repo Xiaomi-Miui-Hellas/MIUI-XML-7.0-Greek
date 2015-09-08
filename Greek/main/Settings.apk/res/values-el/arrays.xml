@@ -228,6 +228,7 @@
         <item>L</item>
         <item>XL</item>
         <item>XXL</item>
+        <item>XXXL</item>
      </string-array>
      <string-array name="fluency_mode_confirms">
         <item>Επανεκκίνηση της συσκευής για εφαρμογή αυτής της ρύθμισης;</item>

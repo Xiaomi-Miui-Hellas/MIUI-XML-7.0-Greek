@@ -23,6 +23,7 @@
      <string name="click_to_play">Κενό</string>
      <string name="confirm_delete_history_text">Διαγραφή επιλεγμένων στοιχείων;</string>
      <string name="continue_play">Συνέχιση</string>
+     <string name="default_cp_name">Qingting FM</string>
      <string name="device_connected">Συνδέθηκε</string>
      <string name="device_not_connected">Δεν έχει συνδεθεί</string>
      <string name="dialog_title_download_quality">Ποιότητα λήψης</string>
@@ -89,7 +90,7 @@
      <string name="priority_storage">Χρήση εξωτερικής κάρτας SD</string>
      <string name="priority_storage_summary">Αυτόματη λήψη σε εξωτερική κάρτα SD εάν είναι διαθέσιμη</string>
      <string name="project_device">Mi Phone</string>
-     <string name="qingting_logo"> | Qingting FM</string>
+     <string name="qingting_logo"> | %1$s </string>
      <string name="remaining_time">"Χρόνος που απομένει: "</string>
      <string name="search_hint">Αναζήτηση</string>
      <string name="section">Προτεινόμενα</string>
@@ -97,7 +98,7 @@
      <string name="share">Κοινή χρήση</string>
      <string name="share_button">Κοινή χρήση</string>
      <string name="share_in_development" />
-     <string name="share_text">από το Ράδιο</string>
+     <string name="share_text">από το Xiaomi Ράδιο [%1$s]</string>
      <string name="share_text_other">Ακούστε το %1$s στο %2$s.</string>
      <string name="similar_programs">Παρόμοια προγράμματα</string>
      <string name="sleep_mode_canceled">Η λειτουργία ύπνου απενεργοποιήθηκε</string>

@@ -212,6 +212,7 @@
      <string name="deactivate_all">Ακύρωση όλων</string>
      <string name="default_area_code_setting">Προεπιλεγμένος κωδικός περιοχής</string>
      <string name="default_areacode">Προεπιλεγμένος κωδικός περιοχής</string>
+     <string name="default_call_type">CSVoice</string>
      <string name="default_preference_summary">&lt;Δεν έχει οριστεί></string>
      <string name="delete">Διαγραφή</string>
      <string name="deleteAllSimEntries">Διαγραφή επαφών SIM</string>
@@ -852,6 +853,7 @@
      <string name="select_voice_call_sim">Επιλογή κάρτας SIM</string>
      <string name="sendSms">Αποστολή μηνύματος</string>
      <string name="send_button">Αποστολή</string>
+     <string name="send_keepalive_title">Αποστολή KeepAlive</string>
      <string name="send_order_failed">"Αδυναμία αποστολής παραγγελίας"</string>
      <string name="set_primary_summary">Χρησιμοποιείται για εξερχόμενες κλήσεις</string>
      <string name="set_primary_title">Ορισμός ως κύριος λογαριασμός</string>

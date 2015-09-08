@@ -195,6 +195,9 @@
      <string name="mycamera">Τα βίντεο μου</string>
      <string name="myfavorite">Με αστέρι</string>
      <string name="myfavorite_onlylocal">Με αστέρι</string>
+     <string name="need_upgrade_button">Έλεγχος</string>
+     <string name="need_upgrade_summary">Αυτή η λειτουργία είναι διαθέσιμη στη νέα έκδοση. Παρακαλώ πατήστε Ενημέρωση για την εγκατάσταση της νέας έκδοσης.</string>
+     <string name="need_upgrade_title">Διαθέσιμο στη νέα έκδοση</string>
      <string name="negative_comment">Αρνητικό</string>
      <string name="netease">NetEase</string>
      <string name="no_login_xiaomi_account">Σύνδεση με το λογαριασμό σας Mi για να υποβάλετε τις παρατηρήσεις σας.</string>
@@ -349,7 +352,7 @@
      <string name="video_info_resolution_label">Ανάλυση βίντεο:</string>
      <string name="video_info_video_coding_label">Κωδικοποίηση βίντεο:</string>
      <string name="video_plugin">Βίντεο plug-in</string>
-     <string name="video_plugin_downloading">Λήψη…</string>
+     <string name="video_plugin_downloading">Λήψη (%1$s). Παρακαλώ περιμένετε λίγο.</string>
      <string name="video_plugin_prepare">Προετοιμασία βίντεο plug-in. Παρακαλώ περιμένετε λίγο.</string>
      <string name="vp_VideoView_error_button">ΟΚ</string>
      <string name="vp_VideoView_error_network_not_available">Μη διαθέσιμο δίκτυο</string>
@@ -392,6 +395,7 @@
      <string name="vp_low_definition">LOW</string>
      <string name="vp_maintitlearea">Απολαύστε την υψηλής ευκρίνειας βίντεο και μεγάλες ταχύτητες λήψης, σε ότι υπάρχει διαθέσιμο! Πατήστε το πλήκτρο OK για την αρχική οθόνη</string>
      <string name="vp_media_info">Προβολή πληροφοριών βίντεο</string>
+     <string name="vp_media_type_banned">Αδύνατη η αναπαραγωγή αυτού του είδους βίντεο</string>
      <string name="vp_milink">MiLink</string>
      <string name="vp_milink_function">Cast to display</string>
      <string name="vp_mobile_network_using_negative">Ακύρωση</string>
