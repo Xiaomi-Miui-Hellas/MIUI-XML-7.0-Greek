@@ -305,9 +305,9 @@
      <string name="stay_awake_summary">Η οθόνη μένει ενεργή κατά τη χρήση του FTP</string>
      <string name="stay_awake_title">Ενεργή οθόνη</string>
      <string name="stop_server">Διακοπή Υπηρεσίας</string>
-     <string name="storage_internal">Εσωτερική αποθήκευση</string>
+     <string name="storage_internal">Εσωτερική μνήμη</string>
      <string name="storage_sd_card">Κάρτα SD</string>
-     <string name="storage_usb">Αποθήκευση USB</string>
+     <string name="storage_usb">Μνήμη USB</string>
      <string name="storage_warning">Η εξωτερική αποθήκευση δεν είναι διαθέσιμη.</string>
      <string name="sys_size_enable">" διαθέσιμα"</string>
      <string name="system_alert">Υπενθύμιση</string>

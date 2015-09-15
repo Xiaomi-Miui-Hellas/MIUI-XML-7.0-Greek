@@ -521,9 +521,9 @@
      <string name="ssl_untrusted">"Το πιστοποιητικό δεν είναι από αξιόπιστη αρχή."</string>
      <string name="ssl_warnings_header">Υπάρχουν προβλήματα με το πιστοποιητικό ασφαλείας της σελίδας.</string>
      <string name="start_save_page_capture">Αποθήκευση στιγμιότυπου…</string>
-     <string name="storage_internal">Εσωτερική αποθήκευση</string>
+     <string name="storage_internal">Εσωτερική μνήμη</string>
      <string name="storage_sd_card">Κάρτα SD</string>
-     <string name="storage_usb">Αποθήκευση USB</string>
+     <string name="storage_usb">Μνήμη USB</string>
      <string name="suggest_access_appstore">Κατάστημα Mi App</string>
      <string name="suggest_access_btn_install">Εγκατάσταση</string>
      <string name="suggest_access_btn_open">Άνοιγμα</string>
