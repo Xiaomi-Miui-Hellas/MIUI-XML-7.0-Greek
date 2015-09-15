@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="baby_age_subtitle_day">
+        <item quantity="other">%1$d ημέρες</item>
+        <item quantity="one">%1$d ημέρα</item>
+     </plurals>
+     <plurals name="baby_age_subtitle_month">
+        <item quantity="other">"%1$d μήνες "</item>
+        <item quantity="one">"%1$d μήνας "</item>
+     </plurals>
+     <plurals name="baby_age_subtitle_year">
+        <item quantity="other">"%1$d έτη "</item>
+        <item quantity="one">"%1$d έτος "</item>
+     </plurals>
+     <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d φωτογραφίες του %2$s θα προστεθούν</item>
+        <item quantity="one">%1$d φωτογραφία του %2$s θα προστεθεί</item>
+     </plurals>
+     <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d φωτογραφίες του %2$s θα προστεθούν</item>
+        <item quantity="one">%1$d φωτογραφία του %2$s θα προστεθούν</item>
+     </plurals>
      <plurals name="confirm_delete_album">
         <item quantity="other">Διαγραφή %1$s άλμπουμ (%2$s συνολικά);</item>
         <item quantity="one">Διαγραφή %1$s άλμπουμ (%2$s συνολικά);</item>
@@ -8,25 +28,49 @@
         <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφιών από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
         <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφίας από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
      </plurals>
-     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφιών ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφίας ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+     <plurals name="confirm_delete_has_cloud_image_from_homepage">
+        <item quantity="other">&amp;lt;Data>Τα επιλεγμένα στοιχεία είναι φωτογραφίες στο Mi Cloud. Διαγραφή &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> φωτογραφιών από το Mi Cloud;&amp;lt;/Data></item>
+        <item quantity="one">&amp;lt;Data>Το επιλεγμένο στοιχείο είναι φωτογραφία στο Mi Cloud. Διαγραφή &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> φωτογραφίας από το Mi Cloud;&amp;lt;/Data></item>
      </plurals>
-     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+     <plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other">&amp;lt;Data>Διαγραφή &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> στοιχείων από το άλμπουμ;&amp;lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+        <item quantity="other">&amp;lt;Data>Τα επιλεγμένα στοιχεία είναι φωτογραφίες ή βίντεο στο Mi Cloud. Διαγραφή &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> στοιχείων από το Mi Cloud;&amp;lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+        <item quantity="other">&amp;lt;Data>Τα επιλεγμένα στοιχεία περιλαμβάνουν φωτογραφίες στο Mi Cloud. Διαγραφή &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> φωτογραφιών από την συσκευή και το Mi Cloud;&amp;lt;/Data></item>
+        <item quantity="one">&amp;lt;Data>Το επιλεγμένο στοιχείο περιλαμβάνει φωτογραφία στο Mi Cloud. Διαγραφή &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> φωτογραφίας από την συσκευή και το Mi Cloud&amp;lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+        <item quantity="other">&amp;lt;Data>Τα επιλεγμένα στοιχεία περιλαμβάνουν φωτογραφίες ή βίντεο στο Mi Cloud. Διαγραφή &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> στοιχείων από την συσκευή και το Mi Cloud;&amp;lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+        <item quantity="other">&amp;lt;Data>Τα επιλεγμένα στοιχεία περιλαμβάνουν βίντεο στο Mi Cloud. Διαγραφή &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> βίντεο από την συσκευή και το Mi Cloud;&amp;lt;/Data></item>
+        <item quantity="one">&amp;lt;Data>Το επιλεγμένο στοιχείο περιλαμβάνει βίντεο στο Mi Cloud. Διαγραφή &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> βίντεο από την συσκευή και το Mi Cloud&amp;lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
         <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
         <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
      </plurals>
+     <plurals name="confirm_delete_has_cloud_video_from_homepage">
+        <item quantity="other">&amp;lt;Data>Τα επιλεγμένα στοιχεία είναι βίντεο στο Mi Cloud. Διαγραφή &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> βίντεο από το Mi Cloud;&amp;lt;/Data></item>
+        <item quantity="one">&amp;lt;Data>Το επιλεγμένο στοιχείο είναι βίντεο στο Mi Cloud. Διαγραφή &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> βίντεο από το Mi Cloud;&amp;lt;/Data></item>
+     </plurals>
      <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Διαγραφή %s φωτογραφιών;</item>
         <item quantity="one">Διαγραφή %s φωτογραφίας;</item>
      </plurals>
+     <plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">Διαγραφή %s στοιχείων;</item>
+     </plurals>
      <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Διαγραφή %s βίντεο;</item>
         <item quantity="one">Διαγραφή %s βίντεο;</item>
+     </plurals>
+     <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">&amp;lt;Data>Διαγραφή &amp;amp;lt;xliff:g id=ITEM>%1$d εικόνων&amp;amp;lt;/xliff:g> από %2$d άλμπουμ;&amp;lt;/Data></item>
+        <item quantity="one">&amp;lt;Data>Διαγραφή &amp;amp;lt;xliff:g id=ITEM>%1$d εικόνας&amp;amp;lt;/xliff:g> από %2$d άλμπουμ;&amp;lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_video_from_many_albums">
         <item quantity="other">&lt;Data>Διαγραφή &lt;xliff:g id=ITEM>%1$d βίντεο&lt;/xliff:g> από %2$d άλμπουμ;&lt;/Data></item>
@@ -44,6 +88,10 @@
         <item quantity="other">%d βίντεο</item>
         <item quantity="one">%d βίντεο</item>
      </plurals>
+     <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">"Να μην εμφανίζονται αυτά τα πρόσωπα;"</item>
+        <item quantity="one">"Να μην εμφανίζεται αυτό το πρόσωπο;"</item>
+     </plurals>
      <plurals name="message_no_delete_access_with_count">
         <item quantity="other">"Δεν έχετε άδεια να διαγράψετε αυτά τα %d αρχεία."</item>
         <item quantity="one">"Δεν έχετε άδεια να διαγράψετε αυτό το %d αρχείο."</item>
@@ -56,6 +104,14 @@
         <item quantity="other">%1$d φωτογραφίες</item>
         <item quantity="zero">%1$d φωτογραφίες</item>
         <item quantity="one">%1$d φωτογραφία</item>
+     </plurals>
+     <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d στοιχεία σε αναμονή συγχρονισμού</item>
+        <item quantity="one">1 στοιχείο σε αναμονή συγχρονισμού</item>
+     </plurals>
+     <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d φωτογραφίες σε αναμονή συγχρονισμού</item>
+        <item quantity="one">1 φωτογραφία για αποστολή</item>
      </plurals>
      <plurals name="number_of_items">
         <item quantity="other">%1$d στοιχεία</item>
@@ -72,8 +128,28 @@
         <item quantity="zero">%1$d</item>
         <item quantity="one">%1$d</item>
      </plurals>
+     <plurals name="number_of_uploading_images">
+        <item quantity="other">Συγχρονισμός %1$d φωτογραφιών…</item>
+        <item quantity="one">Συγχρονισμός μιας φωτογραφίας…</item>
+     </plurals>
+     <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Συγχρονισμός %1$d στοιχείων…</item>
+        <item quantity="one">Συγχρονισμός ενός στοιχείου…</item>
+     </plurals>
+     <plurals name="number_of_uploading_videos">
+        <item quantity="other">Συγχρονισμός %1$d βίντεο…</item>
+        <item quantity="one">Συγχρονισμός ενός βίντεο…</item>
+     </plurals>
+     <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d βίντεο σε αναμονή συγχρονισμού</item>
+        <item quantity="one">1 βίντεο για αποστολή</item>
+     </plurals>
      <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">Μπορείτε να επιλέξετε %d στοιχεία</item>
         <item quantity="one">Μπορείτε να επιλέξετε %d στοιχείο</item>
+     </plurals>
+     <plurals name="seconds">
+        <item quantity="other">%d δευτερόλεπτα</item>
+        <item quantity="one">1 δευτερόλεπτο</item>
      </plurals>
 </resources>
