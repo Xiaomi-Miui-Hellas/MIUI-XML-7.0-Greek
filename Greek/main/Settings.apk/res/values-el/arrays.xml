@@ -341,9 +341,9 @@
      <string-array name="msd_pc_system_retry_linux">
         <item>Εγκατάσταση: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>Δημιουργία φακέλου: mkdir /media/mtp</item>
-        <item>Επιβεβαίωση άδειας χρήστη για το τρέχον fuse user group</item>
+        <item>Επιβεβαίωση άδειας χρήστη στην ομάδα ασφαλείας</item>
         <item>Συνδεθείτε ξανά</item>
-        <item>Πρόσβαση συνδεδεμένης συσκευής: mtpfs /media/mtp via file explorer; same as local directory</item>
+        <item>Πρόσβαση συνδεδεμένης συσκευής: mtpfs /media/mtp μέσω file explorer; ίδιο  με τοπικό κατάλογο</item>
         <item>"Απεγκατάσταση συσκευής: fusermount -u /media/mtp
 Σημείωση: Μόνο για Ubuntu 8.04!"</item>
      </string-array>
