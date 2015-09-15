@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="all_call_livetalk_enable">Χρήση πακέτων top-up για τις εγχώριες και διεθνείς κλήσεις</string>
+     <string name="all_call_livetalk_remain_mins">Λεπτά που απομένουν: (%1$s εγχώρια) | %2$s (%3$s)</string>
      <string name="alwaysUsePrompt">Να θυμάται την επιλογή</string>
      <string name="auto_start_warning_allow">Επέτρεψε</string>
      <string name="auto_start_warning_deny">Άρνηση</string>
@@ -25,6 +27,10 @@
      <string name="handy_mode_enter_dlg_title">Είσοδος στην λειτουργία με ένα χέρι</string>
      <string name="handy_mode_summary">Κάντε κλικ στη μικρή οθόνη έξω από την περιοχή για να βγείτε</string>
      <string name="handy_mode_title">Λειτουργία με ένα χέρι</string>
+     <string name="internal_livetalk_enable">Χρήση πακέτων top-up για τις εγχώριες κλήσεις</string>
+     <string name="internal_remain_mins">Απομένουν %1$s λεπτά (εγχώριες κλήσεις)</string>
+     <string name="international_livetalk_enable">Χρήση πακέτων top-up για διεθνείς κλήσεις</string>
+     <string name="international_remain_mins">Απομένουν %1$s λεπτά (%2$s κλήσεις)</string>
      <string name="key_btn_ok">OK</string>
      <string name="key_btn_space">Space</string>
      <string name="location_usage_restricted_body">Πατήστε για άρση των περιορισμών.</string>
@@ -42,6 +48,8 @@
      <string name="permdesc_manageLocationPolicy">Επιτρέπει στην εφαρμογή να διαχειρίζεται τις πολιτικές σχετικά με την τοποθεσία και να καθορίζει ειδικούς κανόνες εφαρμογών.</string>
      <string name="permlab_manageLocationPolicy">Διαχείριση πολιτικής εντοπισμού</string>
      <string name="reboot_confirm_title">Το τηλέφωνό σας θα επανεκκινήσει.</string>
+     <string name="reboot_info_auto_boot">Το τηλέφωνό σας θα ενεργοποιηθεί στις %s λόγω του χρονοδιαγράμματος αυτόματης εκκίνησης</string>
+     <string name="reboot_info_shutdown_alarm">Το τηλέφωνό σας θα ενεργοποιηθεί και θα χτυπήσει το ξυπνητήρι στις %s</string>
      <string name="reboot_progress">Επανεκκίνηση…</string>
      <string name="replace">Αντικατάσταση</string>
      <string name="screen_button_disabled_message">Πλήκτρα οθόνης ανενεργά. Μπορούν να ενεργοποιηθούν πιέζοντας το \"Home\" και \"Power\"</string>

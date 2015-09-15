@@ -214,7 +214,7 @@
      <string name="item_mms">Φιλτράρισμα ανεπιθύμητων μηνυμάτων</string>
      <string name="item_usb_debug">Εντοπισμός σφαλμάτων USB</string>
      <string name="item_virus">Virus</string>
-     <string name="item_virus_lib">Αυτόματη ενημέρωση ορισμών ιών</string>
+     <string name="item_virus_lib">Αυτόματη ενημέρωση βάσης ιών</string>
      <string name="last_check_canceled">Η προηγούμενη σάρωση είχε ακυρωθεί</string>
      <string name="last_check_date_today">Τελευταία ανάλυση σήμερα</string>
      <string name="last_check_date_yesterday">Τελευταία ανάλυση χθες</string>
