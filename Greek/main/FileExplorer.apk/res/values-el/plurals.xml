@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="backup_message_wechat_video">
+        <item quantity="other">Θα διαγραφούν %1$d προσωρινά αρχεία βίντεο του WeChat. Θέλετε να κρατήσετε αντίγραφα ασφαλείας;</item>
+        <item quantity="zero">Θα διαγραφεί %1$d προσωρινό αρχείο βίντεο του WeChat. Θέλετε να κρατήσετε αντίγραφα ασφαλείας;</item>
+        <item quantity="one">Θα διαγραφεί %1$d προσωρινό αρχείο βίντεο του WeChat. Θέλετε να κρατήσετε αντίγραφο ασφαλείας;</item>
+        <item quantity="two">Θα διαγραφούν %1$d προσωρινά αρχεία βίντεο του WeChat. Θέλετε να κρατήσετε αντίγραφο ασφαλείας;</item>
+        <item quantity="few">Θα διαγραφούν %1$d προσωρινά αρχεία βίντεο του WeChat. Θέλετε να κρατήσετε αντίγραφα ασφαλείας;</item>
+        <item quantity="many">Θα διαγραφούν %1$d προσωρινά αρχεία βίντεο του WeChat. Θέλετε να κρατήσετε αντίγραφα ασφαλείας;</item>
+     </plurals>
+     <plurals name="days_ago">
+        <item quantity="other">πριν %1$d ημέρες</item>
+        <item quantity="zero">πριν %1$d ημέρες</item>
+        <item quantity="one">πριν %1$d ημέρα</item>
+        <item quantity="two">πριν %1$d ημέρες</item>
+        <item quantity="few">πριν %1$d ημέρες</item>
+        <item quantity="many">πριν %1$d ημέρες</item>
+     </plurals>
      <plurals name="delete_files_confirm">
         <item quantity="other">Διαγραφή %1$d αρχείων</item>
         <item quantity="zero">Διαγραφή %1$d αρχείων</item>
@@ -24,6 +40,46 @@
         <item quantity="few">%d στοιχεία</item>
         <item quantity="many">%d στοιχεία</item>
      </plurals>
+     <plurals name="file_notify_title">
+        <item quantity="other">Ελήφθησαν %1$d αρχεία της εφαρμογής %2$s</item>
+        <item quantity="zero">Ελήφθη %1$d αρχείο της εφαρμογής %2$s</item>
+        <item quantity="one">Ελήφθη %1$d αρχείο της εφαρμογής %2$s</item>
+        <item quantity="two">Ελήφθησαν %1$d αρχεία της εφαρμογής %2$s</item>
+        <item quantity="few">Ελήφθησαν %1$d αρχεία της εφαρμογής %2$s</item>
+        <item quantity="many">Ελήφθησαν %1$d αρχεία της εφαρμογής %2$s</item>
+     </plurals>
+     <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Ελήφθησαν %1$d αρχεία του WeChat</item>
+        <item quantity="zero">Ελήφθη %1$d αρχείο του WeChat</item>
+        <item quantity="one">Ελήφθη %1$d αρχείο του WeChat</item>
+        <item quantity="two">Ελήφθησαν %1$d αρχεία του WeChat</item>
+        <item quantity="few">Ελήφθησαν %1$d αρχεία του WeChat</item>
+        <item quantity="many">Ελήφθησαν %1$d αρχεία του WeChat</item>
+     </plurals>
+     <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d αρχεία βίντεο του WeChat Video θα λήξουν</item>
+        <item quantity="zero">%1$d αρχείο βίντεο του WeChat Video θα λήξει</item>
+        <item quantity="one">%1$d αρχείο βίντεο του WeChat Video θα λήξει</item>
+        <item quantity="two">%1$d αρχεία βίντεο του WeChat Video θα λήξουν</item>
+        <item quantity="few">%1$d αρχεία βίντεο του WeChat Video θα λήξουν</item>
+        <item quantity="many">%1$d αρχεία βίντεο του WeChat Video θα λήξουν</item>
+     </plurals>
+     <plurals name="found_new_files">
+        <item quantity="other">βρέθηκαν %1$d νέα αρχεία</item>
+        <item quantity="zero">βρέθηκαν %1$d νέα αρχεία</item>
+        <item quantity="one">βρέθηκε %1$d νέο αρχείο</item>
+        <item quantity="two">βρέθηκαν %1$d νέα αρχεία</item>
+        <item quantity="few">βρέθηκαν %1$d νέα αρχεία</item>
+        <item quantity="many">βρέθηκαν %1$d νέα αρχεία</item>
+     </plurals>
+     <plurals name="hours_ago">
+        <item quantity="other">πριν %1$d ώρες</item>
+        <item quantity="zero">πριν %1$d ώρες</item>
+        <item quantity="one">πριν %1$d ώρα</item>
+        <item quantity="two">πριν %1$d ώρες</item>
+        <item quantity="few">πριν %1$d ώρες</item>
+        <item quantity="many">πριν %1$d ώρες</item>
+     </plurals>
      <plurals name="items_file">
         <item quantity="other"> (%1$d στοιχεία)</item>
         <item quantity="zero"> (%1$d στοιχεία)</item>
@@ -40,6 +96,14 @@
         <item quantity="few"> (%1$d στοιχεία)</item>
         <item quantity="many"> (%1$d στοιχεία)</item>
      </plurals>
+     <plurals name="mins_ago">
+        <item quantity="other">πριν %1$d λεπτά</item>
+        <item quantity="zero">πριν %1$d λεπτά</item>
+        <item quantity="one">πριν %1$d λεπτό</item>
+        <item quantity="two">πριν %1$d λεπτά</item>
+        <item quantity="few">πριν %1$d λεπτά</item>
+        <item quantity="many">πριν %1$d λεπτά</item>
+     </plurals>
      <plurals name="numSelectedFile">
         <item quantity="other">%1$d επιλεγμένα</item>
         <item quantity="zero">%1$d επιλεγμένα</item>
@@ -47,6 +111,30 @@
         <item quantity="two">%1$d επιλεγμένα</item>
         <item quantity="few">%1$d επιλεγμένα</item>
         <item quantity="many">%1$d επιλεγμένα</item>
+     </plurals>
+     <plurals name="search_head_hint_app">
+        <item quantity="other">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχεία)</item>
+        <item quantity="zero">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχεία)</item>
+        <item quantity="one">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχείο)</item>
+        <item quantity="two">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχεία)</item>
+        <item quantity="few">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχεία)</item>
+        <item quantity="many">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχεία)</item>
+     </plurals>
+     <plurals name="search_head_hint_file">
+        <item quantity="other">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
+        <item quantity="zero">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
+        <item quantity="one">%1$s σχετικά αρχεία (%2$d στοιχείο)</item>
+        <item quantity="two">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
+        <item quantity="few">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
+        <item quantity="many">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
+     </plurals>
+     <plurals name="search_head_hint_tag">
+        <item quantity="other">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
+        <item quantity="zero">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
+        <item quantity="one">%1$s σχετικά αρχεία (%2$d στοιχείο)</item>
+        <item quantity="two">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
+        <item quantity="few">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
+        <item quantity="many">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
      </plurals>
      <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">%1$d αρχεία έμειναν για λήψη</item>

@@ -683,6 +683,7 @@
   <string name="permdesc_bindDeviceAdmin">Επιτρέπει στον κάτοχο την αποστολή στόχων σε έναν διαχειριστή συσκευής. Δεν είναι απαραίτητο για συνήθεις εφαρμογές.</string>
   <string name="permdesc_bindGadget">Επιτρέπει στην εφαρμογή να ορίσει στο σύστημα ποια γραφικά στοιχεία μπορεί να χρησιμοποιήσει κάθε εφαρμογή. Με αυτή την άδεια, οι εφαρμογές μπορούν να παρέχουν πρόσβαση σε προσωπικά δεδομένα σε άλλες εφαρμογές. Δεν προορίζεται για χρήση με συνήθεις εφαρμογές.</string>
   <string name="permdesc_bindInputMethod">Επιτρέπει στον κάτοχο τη δέσμευση στη διεπαφή ανωτάτου επιπέδου μιας μεθόδου εισόδου. Δεν απαιτείται για συνήθεις εφαρμογές.</string>
+  <string name="permdesc_bindJobService">Αυτή η άδεια, επιτρέπει στο σύστημα Android να εκτελέσει την εφαρμογή στο παρασκήνιο, όταν ζητηθεί.</string>
   <string name="permdesc_bindNfcService">Δίνει στον κάτοχο τη δυνατότητα σύνδεσης με εφαρμογές που προσομοιώνουν κάρτες NFC. Δεν ζητείται ποτέ για κανονικές εφαρμογές.</string>
   <string name="permdesc_bindNotificationListenerService">Επιτρέπει στον κάτοχο τη δέσμευση στη διεπαφή ανωτάτου επιπέδου μιας υπηρεσίας ακρόασης ειδοποιήσεων. Δεν απαιτείται σε κανονικές εφαρμογές.</string>
   <string name="permdesc_bindPackageVerifier">Επιτρέπει στον κάτοχο να υποβάλλει ερωτήματα σε προγράμματα επαλήθευσης πακέτου. Δεν απαιτείται για συνήθεις εφαρμογές.</string>
@@ -963,6 +964,7 @@
   <string name="permlab_bindDeviceAdmin">επικοινωνία με έναν διαχειριστή συσκευής</string>
   <string name="permlab_bindGadget">επιλογή γραφικών στοιχείων</string>
   <string name="permlab_bindInputMethod">δέσμευση σε μέθοδο εισόδου</string>
+  <string name="permlab_bindJobService">"εκτέλεση των προγραμματισμένων εργασιών παρασκηνίου της εφαρμογής"</string>
   <string name="permlab_bindNfcService">σύνδεση με υπηρεσία NFC</string>
   <string name="permlab_bindNotificationListenerService">δέσμευση σε υπηρεσία ακρόασης ειδοποίησης</string>
   <string name="permlab_bindPackageVerifier">δέσμευση με επαλήθευση πακέτου</string>

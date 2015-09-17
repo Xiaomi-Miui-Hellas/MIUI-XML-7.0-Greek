@@ -27,11 +27,6 @@
         <item>"Χρήση δεδομένων "</item>
         <item>"Χρήση Wi-Fi "</item>
      </string-array>
-     <string-array name="min_limit_pkg_default">
-        <item>1 MB</item>
-        <item>2 MB</item>
-        <item>3 MB</item>
-     </string-array>
      <string-array name="network_speed_update_internals">
         <item>3 δευτ</item>
         <item>4 δευτ</item>
@@ -49,6 +44,12 @@
         <item>Συχνή χρήση</item>
         <item>Όνομα</item>
      </string-array>
+     <string-array name="traffic_saving_compress_level_string_array">
+        <item>Κανένα</item>
+        <item>Χαμηλό</item>
+        <item>Μέτριο</item>
+        <item>Υψηλό</item>
+     </string-array>
      <string-array name="traffic_setting_sms_template">
         <item>Πάρτε ένα πρότυπο μηνύματος αυτόματα</item>
         <item>Ρυθμίστε το πρότυπο μήνυμα με το χέρι</item>
@@ -62,9 +63,5 @@
         <item>"Χρήση δεδομένων "</item>
         <item>"Χρήση Wi-Fi "</item>
         <item>"Εξοικονόμηση δεδομένων "</item>
-     </string-array>
-     <string-array name="traffic_uints">
-        <item>MB</item>
-        <item>GB</item>
      </string-array>
 </resources>

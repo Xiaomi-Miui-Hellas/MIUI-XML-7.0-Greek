@@ -159,6 +159,8 @@
      <string name="privacy_tip_content">"Χρήση του επιταχυντή Xunlei για επιτάχυνση λήψεων; Η διεύθυνση URL λήψης θα φορτωθεί στους διακομιστές του Xunlei. Επίσης θα φορτωθούν τα στοιχεία του Mi λογαριασμού σας, για να ελεγχθεί αν έχετε ενεργές συνδρομές σε αυτή την υπηρεσία."</string>
      <string name="privacy_tip_ok">OK</string>
      <string name="privacy_tip_title">Χρήση του επιταχυντή Xunlei;</string>
+     <string name="quit_btn">Έξοδος</string>
+     <string name="rebind_btn">Προσθήκη ξανά</string>
      <string name="recommend_downloading">Λήψη…</string>
      <string name="recommend_failed">Απέτυχε</string>
      <string name="recommend_install">Εγκατάσταση</string>
@@ -198,6 +200,8 @@
      <string name="third_web_filesize">Μέγεθος</string>
      <string name="third_web_savepath">Τοποθεσία</string>
      <string name="third_web_title">Αποθήκευση</string>
+     <string name="title_tips">Προσοχή</string>
+     <string name="title_unbind_xunlei">Κατάργηση του λογαριασμού σας Xunlei</string>
      <string name="toast_xunlei_engine_open">Ενεργοποίηση επιτάχυνσης λήψεων Xunlei</string>
      <string name="turn_off_xunlei_message">Μπορεί να έχετε αργή ταχύτητα λήψεων</string>
      <string name="turn_off_xunlei_tips">Η επιτάχυνση της Xunlei είναι ανενεργή</string>
@@ -213,6 +217,8 @@
 Ανανεώστε τώρα και κερδίστε 5% έκπτωση."</string>
      <string name="vip_show_info">"5 εκατομμύρια μέλη.
 Επιταχύνετε τις λήψεις σας σε όλες τις συσκευές σας."</string>
+     <string name="xiaomi_account_not_exist_message">"Αυτός ο λογαριασμός Mi δεν υπάρχει"</string>
+     <string name="xunlei_account_has_unbind_message">Ο λογαριασμός Xunlei αφαιρέθηκε</string>
      <string name="xunlei_brand">Powered by Xunlei</string>
      <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
      <string name="xunlei_close_tips_button">Ενεργοποίηση</string>
