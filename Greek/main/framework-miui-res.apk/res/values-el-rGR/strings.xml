@@ -188,7 +188,7 @@
   <string name="provider_114">Powered by 114</string>
   <string name="provider_sougou">Powered by Sohu</string>
   <string name="reboot_confirm">Το τηλέφωνο θα επανεκκινήσει</string>
-  <string name="reboot_confirm_title">Είστε σίγουροι ότι θέλετε να κάνετε επανεκκίνηση του τηλεφώνου σας?</string>
+  <string name="reboot_confirm_title">Είστε σίγουροι ότι θέλετε να κάνετε επανεκκίνηση του τηλεφώνου σας;</string>
   <string name="reboot_progress">Επανεκκίνηση…</string>
   <string name="reverse_all">Εκκαθάριση όλων</string>
   <string name="safetylegal_activity_unreachable">Το τηλέφωνό σας δεν είναι συνδεδεμένο σε υπηρεσία δεδομένων. Για να προβάλετε αυτές τις πληροφορίες τώρα, μεταβείτε στη %s από οποιονδήποτε υπολογιστή συνδεδεμένο στο Internet.</string>
@@ -207,7 +207,7 @@
   <string name="send_sms_for_sync_notice">Πρέπει να σταλεί ένα SMS ενεργοποίησης. Συνέχεια;</string>
   <string name="send_sms_for_sync_title">Υπηρεσία συγχρονισμού ανενεργή</string>
   <string name="share">Κοινή χρήση</string>
-  <string name="shutdown_confirm_title">Είστε σίγουροι ότι θέλετε να κλείσει το τηλέφωνό σας?</string>
+  <string name="shutdown_confirm_title">Είστε σίγουροι ότι θέλετε να κλείσει το τηλέφωνό σας;</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">Η τρέχουσα SIM είναι ανενεργή. Ένα διεθνές SMS απαιτείται για την ενεργοποίηση της υπηρεσίας. Ενεργοποίηση τώρα;</string>
   <string name="sim_changed_reactivate_notice">Η τρέχουσα SIM είναι ανενεργή. Ένα κοινό SMS απαιτείται για την ενεργοποίηση της υπηρεσίας. Ενεργοποίηση τώρα;</string>

@@ -479,7 +479,7 @@
      <string name="livetalk_introduction_text">Διεθνείς κλήσεις χαμηλού κόστους</string>
      <string name="livetalk_last_step">Πίσω</string>
      <string name="livetalk_login_experience_button">Σύνδεση</string>
-     <string name="livetalk_name">πακέτο top-up</string>
+     <string name="livetalk_name">Πακέτο top-up</string>
      <string name="livetalk_network_confirm">OK</string>
      <string name="livetalk_network_confirm_summary">Τα πακέτα top-up χρησιμοποιούν περίπου 1KB δεδομένων κινητής κάθε φορά που συνδέεται μια κλήση.</string>
      <string name="livetalk_next_step">Επόμενο</string>
@@ -497,7 +497,7 @@
      <string name="livetalk_sim_card_not_activated">"Η κάρτα SIM δεν έχει ενεργοποιηθεί."</string>
      <string name="livetalk_unavaiable_info">Αυτή η υπηρεσία είναι προσωρινά μη διαθέσιμη</string>
      <string name="livetalk_user_config_title">Ενεργοποίηση κάρτας SIM</string>
-     <string name="livetalk_version">πακέτο top-up έκδοση 0.9 | Beta</string>
+     <string name="livetalk_version">Πακέτο top-up έκδοση 0.9 | Beta</string>
      <string name="livetalk_white_list_number_title">Καλέστε χωρίς τη χρήση πακέτου top-up</string>
      <string name="load_networks_progress">Αναζήτηση…</string>
      <string name="load_rates_failed">"Αδυναμία φόρτωσης"</string>

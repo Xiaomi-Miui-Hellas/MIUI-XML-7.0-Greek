@@ -6,7 +6,7 @@
      <plurals name="confirm_archive_conversation">
         <item quantity="other">Αρχειοθέτηση αυτών των %1$d συζητήσεων;</item>
         <item quantity="zero">Αρχειοθέτηση αυτών των %1$d συζητήσεων;</item>
-        <item quantity="one">Αρχειοθέτηση της συζήτησης?</item>
+        <item quantity="one">Αρχειοθέτηση της συζήτησης;</item>
         <item quantity="two">Αρχειοθέτηση αυτών των %1$d συζητήσεων;</item>
         <item quantity="few">Αρχειοθέτηση αυτών των %1$d συζητήσεων;</item>
         <item quantity="many">Αρχειοθέτηση αυτών των %1$d συζητήσεων;</item>
