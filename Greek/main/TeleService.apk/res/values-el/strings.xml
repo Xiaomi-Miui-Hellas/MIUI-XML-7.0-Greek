@@ -642,7 +642,7 @@
      <string name="optional_summary">&lt;Προαιρετικό></string>
      <string name="order_by_name">Αλφαβητικά</string>
      <string name="order_by_recent">Χρησιμοποιούνται συχνά</string>
-     <string name="order_id">"ID παραγγελίας: "</string>
+     <string name="order_id">ID παραγγελίας:%1$s</string>
      <string name="order_price">¥ %1$s</string>
      <string name="order_status_fail">Κατάσταση παραγγελίας: απέτυχε</string>
      <string name="order_status_successful">Κατάσταση παραγγελίας: ολοκληρώθηκε</string>
@@ -680,7 +680,6 @@
      <string name="other_settings">Άλλες ρυθμίσεις κλήσεων</string>
      <string name="other_settings_category">Άλλα</string>
      <string name="overseas_roaming_setting">Διεθνής περιαγωγή</string>
-     <string name="password">Κωδικός</string>
      <string name="password_changed">Ο κωδικός σας άλλαξε</string>
      <string name="password_title">Κωδικός</string>
      <string name="payphone">Καρτοκινητή</string>
@@ -1001,7 +1000,7 @@
      <string name="uplmn_list_setting_title">Προτιμώμενα δίκτυα</string>
      <string name="uplmn_numeric_is_empty">Εισάγετε ένα αναγνωριστικό δικτύου</string>
      <string name="use_history">Δραστηριότητα</string>
-     <string name="use_history_duration_hour">%1$ώ</string>
+     <string name="use_history_duration_hour">%1$sώρα</string>
      <string name="use_history_duration_min">%1$sλεπτά</string>
      <string name="use_history_endtime">Τερματίστηκε: %1$s</string>
      <string name="use_history_starttime">Άρχισε: %1$s</string>
