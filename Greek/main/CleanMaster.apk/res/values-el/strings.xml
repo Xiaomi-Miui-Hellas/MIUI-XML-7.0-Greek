@@ -114,10 +114,11 @@
      <string name="hints_garbage_handle_item_content">%1$d στοιχεία, %2$s</string>
      <string name="hints_garbage_handle_item_empty_content">Κενό</string>
      <string name="hints_header_left">%d</string>
-     <string name="hints_install_apps_interval">χρησιμοποιήθηκε πριν %d ημέρες</string>
-     <string name="hints_install_apps_new">δεν έχει χρησιμοποιηθεί ποτέ</string>
+     <string name="hints_install_apps_else">Χρησιμοποιήθηκε %s</string>
+     <string name="hints_install_apps_interval">Χρησιμοποιήθηκε πριν %d ημέρες</string>
+     <string name="hints_install_apps_new">Δεν έχει χρησιμοποιηθεί ποτέ</string>
      <string name="hints_install_apps_risk">ανιχνεύθηκε απειλή</string>
-     <string name="hints_install_apps_today">χρησιμοποιήθηκε σήμερα</string>
+     <string name="hints_install_apps_today">Χρησιμοποιήθηκε σήμερα</string>
      <string name="hints_install_apps_virus">ανιχνεύθηκε ιός</string>
      <string name="hints_installed_apps_header_left">Εγκατεστημένες εφαρμογές: %d</string>
      <string name="hints_large_file_header_left">Μεγάλα αρχεία: %d</string>

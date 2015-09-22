@@ -16,10 +16,13 @@
      <string name="add_2sec_pause">Προσθήκη παύσης 2 δευτερολέπτων</string>
      <string name="add_account">Προσθήκη λογαριασμού</string>
      <string name="add_blacklist">Φραγή</string>
+     <string name="add_blacklist_dialog_message">Φραγή αυτού του αριθμού;</string>
      <string name="add_blacklist_dialog_title">Προσθήκη στη λίστα φραγών</string>
      <string name="add_connection_button">Προσθήκη σύνδεσης</string>
      <string name="add_contact_dlg_message_fmt">Προσθήκη \"%s\" στις επαφές;</string>
+     <string name="add_display_photo_entry">Προσθήκη φωτογραφίας προφίλ</string>
      <string name="add_field">Προσθήκη άλλου πεδίου</string>
+     <string name="add_incall_show_entry">Προσθήκη βίντεο</string>
      <string name="add_new_account">Προσθήκη νέου λογαριασμού</string>
      <string name="add_new_entry_for_section">Προσθήκη νέου</string>
      <string name="add_organization">Προσθήκη οργανισμού</string>
@@ -120,6 +123,7 @@
      <string name="callrecordview_menu_show_stranger">Κλήσεις από άγνωστους αριθμούς</string>
      <string name="callrecordview_menu_show_title">Προβολή μητρώου κλήσεων</string>
      <string name="cancel_confirmation_dialog_message">Απορρίψετε τις αλλαγές σας;</string>
+     <string name="cancel_confirmation_dialog_title">Ακύρωση</string>
      <string name="cancel_export_confirmation_message">Ακύρωση εξαγωγής %s;</string>
      <string name="cancel_import_confirmation_message">Ακύρωση εισαγωγής %s;</string>
      <string name="cancel_import_dialog_message">Σταματήστε την εισαγωγή επαφών;</string>
@@ -149,6 +153,13 @@
      <string name="cloud_antispam_mark">Ετικέτα ως spam</string>
      <string name="cloud_antispam_title">Εντοπισμός άγνωστων αριθμών</string>
      <string name="cloud_recommend_msg">Πατήστε για να συγχρονίσετε τις επαφές με το Mi Cloud.</string>
+     <string name="cloud_state_disabled">Ο συγχρονισμός με Mi Cloud είναι ανενεργός</string>
+     <string name="cloud_state_loading">Μισό λεπτό…</string>
+     <string name="cloud_state_sync_finished">Συγχρονισμένο με Mi Cloud</string>
+     <string name="cloud_state_syncing">Συγχρονισμένο με Mi Cloud</string>
+     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
+     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
+%2$s"</string>
      <string name="composer_failed_to_get_database_infomation">"Δεν μπορούν να ληφθούν πληροφορίες από την βάσης δεδομένων."</string>
      <string name="composer_has_no_exportable_contact">Δεν υπάρχουν επαφές προς εξαγωγή. Αν έχετε επαφές στο τηλέφωνό σας, ορισμένοι πάροχοι δεδομένων ενδέχεται να μην επιτρέπουν την εξαγωγή επαφών από το τηλέφωνο.</string>
      <string name="composer_not_initialized">"Ο συνθέτης vCard δεν έχει ξεκινήσει σωστά."</string>
@@ -160,6 +171,7 @@
      <string name="config_prohibited_phone_number_regexp" />
      <string name="confirm_delete_contact_all_call_logs">Διαγραφή ιστορικού κλήσεων;</string>
      <string name="confirm_delete_selected_all_call_logs">Διαγραφή ιστορικού κλήσεων;</string>
+     <string name="confirm_delete_sim_entry_miui_title">Διαγραφή</string>
      <string name="confirm_export_message">Η λίστα επαφών σας θα εξαχθεί στο αρχείο: %s.</string>
      <string name="confirm_export_title">Εξαγωγή επαφών</string>
      <string name="connections">Συνδέσεις</string>
@@ -173,12 +185,38 @@
      <string name="contact_delete_toast">Η επαφή διαγράφηκε</string>
      <string name="contact_detail_calllog_call_note_tips">Σημειώσεις</string>
      <string name="contact_detail_calllog_call_record_tips">Ηχογράφηση κλήσης</string>
+     <string name="contact_detail_menu_delete_miprofile">Διαγραφή κάρτας</string>
+     <string name="contact_detail_miprofile_accept">Ανταλλαγή καρτών επαφής</string>
+     <string name="contact_detail_miprofile_accept_fail_toast">"Αδυναμία ανταλλαγής καρτών επαφής"</string>
+     <string name="contact_detail_miprofile_accept_success_toast">Επιτυχής ανταλλαγή καρτών επαφής</string>
+     <string name="contact_detail_miprofile_binded_label">Προστέθηκε</string>
+     <string name="contact_detail_miprofile_exchange_closed">"Δεν υπάρχει τηλεφωνικός αριθμός συνδεδεμένος με αυτόν τον λογαριασμό Mi
+Οι κάρτες επαφών είναι ανενεργές"</string>
+     <string name="contact_detail_miprofile_privacy_settings">Απαιτείται άδεια για προβολή</string>
+     <string name="contact_detail_miprofile_request">Ανταλλαγή καρτών επαφής</string>
+     <string name="contact_detail_miprofile_request_fail_toast">"Αδυναμία αποστολής αίτησης"</string>
+     <string name="contact_detail_miprofile_request_subtitle">Αυτόματη ενημέρωση φωτογραφίας προφίλ και πληροφοριών επαφής</string>
+     <string name="contact_detail_miprofile_request_success_toast">Το αίτημα εστάλη</string>
+     <string name="contact_detail_miprofile_save">Πατήστε για λήψη κάρτας επαφής</string>
+     <string name="contact_detail_miprofile_save_fail_toast">"Αδυναμία λήψης κάρτας επαφής"</string>
+     <string name="contact_detail_miprofile_save_success_toast">Η κάρτα επαφής ελήφθη</string>
+     <string name="contact_detail_miprofile_settings_header">ΠΡΟΣΘΕΤΕΣ ΡΥΘΜΙΣΕΙΣ</string>
+     <string name="contact_detail_miprofile_subtitle">Ήδη ανταλλαγμένες κάρτες</string>
+     <string name="contact_detail_profile_switch_fail_network_toast">"Αδυναμία σύνδεσης στο δίκτυο"</string>
+     <string name="contact_detail_profile_switch_fail_toast">Κάτι πήγε στραβά με τον διακομιστή μας</string>
+     <string name="contact_detail_profile_switch_off">Απενεργοποίηση καρτών επαφής</string>
+     <string name="contact_detail_profile_switch_off_fail_toast">"Αδυναμία απενεργοποίησης καρτών επαφής"</string>
+     <string name="contact_detail_profile_switch_off_success_toast">Κάρτες επαφών ανενεργές</string>
+     <string name="contact_detail_profile_switch_on">"Προβολή φωτογραφιών προφίλ επαφών"</string>
+     <string name="contact_detail_profile_switch_on_fail_toast">"Αδυναμία ενεργοποίησης καρτών επαφής"</string>
+     <string name="contact_detail_profile_switch_on_subtitle">Πατήστε για ενεργοποίηση καρτών επαφής</string>
+     <string name="contact_detail_profile_switch_on_success_toast">Κάρτες επαφών ενεργές</string>
      <string name="contact_directory_description">Φάκελος %1$s</string>
      <string name="contact_edit_title_edit">Επεξεργασία επαφής</string>
      <string name="contact_edit_title_insert">Προσθήκη %s επαφών</string>
      <string name="contact_edit_title_readonly">Επαφή μόνο για ανάγνωση</string>
-     <string name="contact_editor_prompt_multiple_accounts">Επιλέξτε το λογαριασμό επαφή για να αποθηκευτεί σε</string>
-     <string name="contact_editor_prompt_one_account">Η νέα επαφή θα είναι %1$s Sync</string>
+     <string name="contact_editor_prompt_multiple_accounts">Αποθήκευση επαφής στο</string>
+     <string name="contact_editor_prompt_one_account">Η νέα επαφή θα συγχρονιστεί με %1$s</string>
      <string name="contact_editor_prompt_zero_accounts">Αποθηκεύστε στο κινητό ή σε ένα νέο online λογαριασμό</string>
      <string name="contact_is_readOnly">"Δεν μπορείτε να επεξεργαστείτε τις επαφές που είναι μόνο για ανάγνωση"</string>
      <string name="contact_list_loading">Φορτώνει…</string>
@@ -192,6 +230,7 @@
      <string name="contactsGroupsLabel">Ομάδες</string>
      <string name="contactsJoinedMessage">Οι επαφές συγχωνεύθηκαν</string>
      <string name="contactsList">Επαφές</string>
+     <string name="contacts_in_call_show">"βίντεο του %s"</string>
      <string name="contacts_unavailable_add_account">Συνδεθείτε στο λογαριασμό</string>
      <string name="contacts_unavailable_create_contact">Δημιουργία νέας επαφής</string>
      <string name="contacts_unavailable_import_contacts">Εισαγωγή επαφών από αρχείο</string>
@@ -210,6 +249,7 @@
      <string name="deleteConfirmation">Αυτή η επαφή θα διαγραφεί.</string>
      <string name="deleteConfirmationDetail">Διαγραφή \"%s\";</string>
      <string name="deleteConfirmation_title">Διαγραφή</string>
+     <string name="delete_call_log_message">Διαγραφή ιστορικού κλήσεων;</string>
      <string name="delete_call_log_selected_title">Διαγραφή επιλεγμένου αρχείου ιστορικού κλήσεων;</string>
      <string name="delete_call_log_title">Επιλέξτε αρχείο καταγραφής κλήσεων</string>
      <string name="delete_contact_calllog_title">Διαγραφή ιστορικού κλήσεων;</string>
@@ -260,6 +300,8 @@
      <string name="description_view_contact_detail">Προβολή επαφής</string>
      <string name="description_voicemail_button">τηλεφωνητής</string>
      <string name="deselect_all">Αποεπιλογή όλων</string>
+     <string name="details_list_group_header_more_action">Περισσότερα</string>
+     <string name="details_list_group_header_other">ΑΛΛΑ</string>
      <string name="device_bluetooth_title">Μεταφορά επαφών</string>
      <string name="device_brand_title">Επιλέξτε μάρκα</string>
      <string name="device_import_account_dialog_title">Επιλέξτε ένα λογαριασμό</string>
@@ -327,6 +369,7 @@
      <string name="email_mobile">Email κινητού</string>
      <string name="email_other">Email</string>
      <string name="email_work">Email δουλειάς</string>
+     <string name="emergency_number_label">Αριθμός έκτακτης ανάγκης</string>
      <string name="emptyGroup">Δεν υπάρχουν άνθρωποι σε αυτή την ομάδα</string>
      <string name="empty_divider_title" />
      <string name="enter_contact_name">"Πληκτρολογήστε το όνομα του ατόμου"</string>
@@ -442,6 +485,28 @@
      <string name="importing_vcard_canceled_title">Εισαγωγή %s ακυρώθηκε</string>
      <string name="importing_vcard_description">Εισαγωγή %s</string>
      <string name="importing_vcard_finished_title">Ολοκληρώθηκε η εισαγωγή vCard %s</string>
+     <string name="in_call_show">Βίντεο</string>
+     <string name="in_call_show_camera_open_error">"Αδυναμία ανοίγματος κάμερας"</string>
+     <string name="in_call_show_delete_message">Διαγραφή του βίντεό σας;</string>
+     <string name="in_call_show_delete_title">Διαγραφή βίντεο;</string>
+     <string name="in_call_show_demo_present">Προεπισκόπηση</string>
+     <string name="in_call_show_guide_intro">"Εγγράψτε ένα βίντεο προφίλ,
+ το οποίο θα παίζει στις συσκευές άλλων χρηστών MIUI όταν τους καλείτε"</string>
+     <string name="in_call_show_guide_start_recording">Εγγραφή τώρα</string>
+     <string name="in_call_show_guide_title">Βίντεο προφίλ</string>
+     <string name="in_call_show_long_press_to_record">Πατήστε &amp; κρατήστε για εγγραφή</string>
+     <string name="in_call_show_pick_video">Επιλέξτε βίντεο</string>
+     <string name="in_call_show_preview">Προεπισκόπηση</string>
+     <string name="in_call_show_preview_reshoot">Δοκιμάστε ξανά</string>
+     <string name="in_call_show_recording">Εγγραφή…</string>
+     <string name="in_call_show_reshoot">Εγγραφή ξανά</string>
+     <string name="in_call_show_save_completed">Το βίντεο προφίλ αποθηκεύτηκε</string>
+     <string name="in_call_show_save_failed">"Αδυναμία αποθήκευσης βίντεο"</string>
+     <string name="in_call_show_tap_to_show_demo">Πατήστε στην οθόνη για προεπισκόπηση</string>
+     <string name="in_call_show_too_short">Πολύ μικρό. Δοκιμάστε εγγραφή βίντεο μεγαλύτερης διάρκειας.</string>
+     <string name="in_call_show_video_pick">Επιλέξτε</string>
+     <string name="in_call_show_video_pick_filter">"Το βίντεο πρέπει να είναι μικρότερο από 3MB και μικρότερο από 20 δευτερόλεπτα. "</string>
+     <string name="in_call_show_view_play_error">"Αδυναμία αναπαραγωγής βίντεο"</string>
      <string name="insertContactDescription">Δημιουργία επαφής</string>
      <string name="insertGroupDescription">Δημιουργία ομάδας</string>
      <string name="invalidContactMessage">"Η επαφή δεν υπάρχει"</string>
@@ -540,10 +605,51 @@
      <string name="menu_viewContact">Προβολή επαφής</string>
      <string name="merge_contact_message">%1$d επαφές με εν μέρει ταυτόσημες πληροφορίες</string>
      <string name="messageShortcutActivityTitle">Επιλέξτε έναν αριθμό για μήνυμα</string>
+     <string name="miprofile_account_type">Λογαριασμός Mi</string>
+     <string name="miprofile_alertdialog_edit">Πληκτρολογήστε το όνομα</string>
+     <string name="miprofile_alertdialog_message">Δείξτε αυτό το όνομα στις επαφές, όταν σας ζητηθεί ανταλλαγή καρτών.</string>
+     <string name="miprofile_alertdialog_title">Πληκτρολογήστε το όνομα</string>
+     <string name="miprofile_bind_account_alertdialog_message">"Θα πρέπει να προσθέσετε τον αριθμό τηλεφώνου αυτής της συσκευής στον Mi Λογαριασμό σας, για να χρησιμοποιήσετε αυτήν τη λειτουργία."</string>
+     <string name="miprofile_bind_account_alertdialog_positive">Προσθήκη αριθμού</string>
+     <string name="miprofile_bind_account_alertdialog_title">Προσθήκη αριθμού τηλεφώνου</string>
+     <string name="miprofile_edit_title">Επεξεργασία προφίλ</string>
+     <string name="miprofile_error_accept_self">"Δεν μπορείτε να ανταλλάξετε την δική σας κάρτα επαφής</string>
+     <string name="miprofile_error_no_miaccount">Σύνδεση στον Mi λογαριασμός σας</string>
+     <string name="miprofile_error_not_opened">Απενεργοποίηση καρτών επαφής</string>
+     <string name="miprofile_error_not_set">"Η κάρτα επαφής σας δεν έχει συγχρονιστεί με τον διακομιστή"</string>
+     <string name="miprofile_error_unknown">Άγνωστο σφάλμα</string>
+     <string name="miprofile_name">Το προφίλ μου</string>
+     <string name="miprofile_notice_text">"Πατήστε για προβολή φωτογραφίας προφίλ επαφής"</string>
+     <string name="miprofile_request_agenda_date">%1$s θέλει να ανταλλάξει κάρτες επαφών</string>
+     <string name="miprofile_request_agenda_today">%1$s θέλει να ανταλλάξει κάρτες επαφών</string>
+     <string name="miprofile_request_agenda_yesterday">%1$s θέλει να ανταλλάξει κάρτες επαφών</string>
+     <string name="miprofile_request_agree">Αποδοχή</string>
+     <string name="miprofile_request_agree_exchange_profile">Επιτυχής ανταλλαγή καρτών επαφής</string>
+     <string name="miprofile_request_agreed">%1$s συμφώνησε να ανταλλάξει κάρτα επαφής μαζί μου</string>
+     <string name="miprofile_request_alertdialog_message">Η κάρτα σας θα αποσταλεί αυτόματα όταν αυτό το άτομο την αποδεχτεί.</string>
+     <string name="miprofile_request_alertdialog_title">Ανταλλαγή καρτών επαφών</string>
+     <string name="miprofile_request_clear_alertdialog_message">Καθαρισμός ιστορικού ανταλλαγής καρτών επαφών;</string>
+     <string name="miprofile_request_clear_alertdialog_title">Καθαρισμός ιστορικού</string>
+     <string name="miprofile_request_deleted">Η κάρτα διαγράφηκε</string>
+     <string name="miprofile_request_empty_request">Δεν υπάρχουν αιτήσεις ανταλλαγής</string>
+     <string name="miprofile_request_exchange_title">Αίτηση κάρτας επαφής</string>
+     <string name="miprofile_request_menu_clear_request">Καθαρισμός ιστορικού</string>
+     <string name="miprofile_request_message">%1$s άτομα θέλουν να ανταλλάξουν κάρτες επαφών</string>
+     <string name="miprofile_request_notification_message">Αποδεχτείτε για να δείτε τη φωτογραφία προφίλ και περισσότερες πληροφορίες</string>
+     <string name="miprofile_request_notification_title">%1$s άτομα θέλουν να ανταλλάξουν κάρτες επαφών</string>
+     <string name="miprofile_request_notification_title_name">%1$s θέλουν να ανταλλάξουν κάρτες επαφών</string>
+     <string name="miprofile_request_time_expired_deleted">Αιτήσεις παλαιότερες της 1 εβδομάδας, θα διαγράφονται αυτόματα.</string>
+     <string name="miprofile_save_alertdialog_message">Η κάρτα σας θα σταλεί σε αυτή την επαφή αυτόματα.</string>
+     <string name="miprofile_save_alertdialog_title">Η κάρτα επαφής ελήφθη</string>
+     <string name="miprofile_switch_off_alertdialog_message">"Δεν θα είστε σε θέση να ανταλλάξετε κάρτες επαφών με άλλα άτομα. Οι επαφές σας δεν θα είναι σε θέση να δουν το βίντεο του προφίλ σας."</string>
+     <string name="miprofile_switch_on_alertdialog_message">Ανταλλάξτε κάρτες επαφών για να δείτε την ενημερωμένη φωτογραφία προφίλ.</string>
+     <string name="miprofile_switch_on_alertdialog_positive">Ενεργοποίηση</string>
+     <string name="miprofile_switch_on_alertdialog_title">Ενημέρωση φωτογραφίας προφίλ</string>
      <string name="missing_name">(Ανώνυμο)</string>
      <string name="move_and_resize">Μετακίνηση και αλλαγή μεγέθους</string>
      <string name="multipleContactDeleteConfirmation">Η διαγραφή αυτής της επαφής θα διαγράψει πληροφορίες από πολλαπλούς λογαριασμούς.</string>
      <string name="multipleContactDeleteConfirmationDetail">Διαγραφή \"%s\" θα διαγράψει πληροφορίες από πολλαπλούς λογαριασμούς.</string>
+     <string name="my_in_call_show">Το βίντεό μου</string>
      <string name="my_phone_not_provider_bluetooth">"Το τηλέφωνό μου δεν έχει Bluetooth"</string>
      <string name="my_phone_provider_bluetooth">Το τηλέφωνό μου έχει Bluetooth</string>
      <string name="nameLabelsGroup">Όνομα</string>
@@ -569,7 +675,7 @@
      <string name="noContacts">Δεν υπάρχουν επαφές</string>
      <string name="noContactsHelpText">"Δεν έχετε επαφές για προβολή.
 
-Για να προσθέσετε επαφές, ακουμπήστε "<font fgcolor="#ffffffff"><b>Μενού</b></font>", μετά ακουμπήστε:
+Για να προσθέσετε επαφές, πατήστε "<font fgcolor="#ffffffff"><b>Μενού</b></font>", μετά πατήστε:
 
 "<li><font fgcolor="#ffffffff"><b>"Λογαριασμοί για να προσθέσετε ή να ρυθμίσετε έναν λογαριασμό με επαφές που μπορείτε να συγχρονίσετε στο τηλέφωνο
 "</b></font></li>" 
@@ -579,9 +685,9 @@
 "</b></font></li>"
 "</string>
      <string name="noContactsHelpTextForCreateShortcut">"Δεν έχετε επαφές για προβολή."</string>
-     <string name="noContactsHelpTextWithSync">"Δεν έχετε επαφές για προβολή. (Αν μόλις προσθέσατε ένα λογαριασμό, μπορεί να χρειαστούν μερικά λεπτά για να συγχρονίσετε τις επαφές.)
+     <string name="noContactsHelpTextWithSync">"Δεν έχετε επαφές για προβολή. (Αν μόλις προσθέσατε ένα λογαριασμό, μπορεί να χρειαστούν μερικά λεπτά για να συγχρονιστούν οι επαφές.)
 
-Για να προσθέσετε επαφές, ακουμπήστε "<font fgcolor="#ffffffff"><b>Μενού</b></font>", μετά ακουμπήστε:
+Για να προσθέσετε επαφές, πατήστε "<font fgcolor="#ffffffff"><b>Μενού</b></font>", μετά πατήστε:
 
 "<li><font fgcolor="#ffffffff"><b>"Λογαριασμοί για να προσθέσετε ή να ρυθμίσετε έναν λογαριασμό με επαφές που μπορείτε να συγχρονίσετε στο τηλέφωνο
 "</b></font></li>" 
@@ -595,7 +701,7 @@
      <string name="noContactsHelpTextWithSyncForCreateShortcut">"Δεν έχετε επαφές για προβολή. (Αν μόλις προσθέσατε ένα λογαριασμό, μπορεί να χρειαστούν μερικά λεπτά για να συγχρονίσετε τις επαφές.)"</string>
      <string name="noContactsNoSimHelpText">"Δεν έχετε επαφές για προβολή.
 
-Για να προσθέσετε επαφές, ακουμπήστε "<font fgcolor="#ffffffff"><b>Μενού</b></font>", μετά ακουμπήστε:
+Για να προσθέσετε επαφές, πατήστε "<font fgcolor="#ffffffff"><b>Μενού</b></font>", μετά πατήστε:
 
 "<li><font fgcolor="#ffffffff"><b>"Λογαριασμοί για να προσθέσετε ή να ρυθμίσετε έναν λογαριασμό με επαφές που μπορείτε να συγχρονίσετε στο τηλέφωνο
 "</b></font></li>" 
@@ -606,7 +712,7 @@
 "</string>
      <string name="noContactsNoSimHelpTextWithSync">"Δεν έχετε επαφές για προβολή. (Αν μόλις προσθέσατε ένα λογαριασμό, μπορεί να χρειαστούν μερικά λεπτά για να συγχρονίσετε τις επαφές.)
 
-Για να προσθέσετε επαφές, ακουμπήστε "<font fgcolor="#ffffffff"><b>Μενού</b></font>", μετά ακουμπήστε:
+Για να προσθέσετε επαφές, πατήστε "<font fgcolor="#ffffffff"><b>Μενού</b></font>", μετά πατήστε:
 
 "<li><font fgcolor="#ffffffff"><b>"Λογαριασμοί για να προσθέσετε ή να ρυθμίσετε έναν λογαριασμό με επαφές που μπορείτε να συγχρονίσετε στο τηλέφωνο
 "</b></font></li>" 
@@ -622,11 +728,11 @@
 
 Για να προσθέσετε μια επαφή στην λίστα των αγαπημένων:
 
-"<li>Αγγίξτε την <b>Επαφές</b>" καρτέλα
+"<li>Πατήστε στην καρτέλα <b>Επαφές</b>"
 "</li>" 
-"<li>"Αγγίξτε την επαφή που θέλετε να προσθέσετε στα αγαπημένα σας
+"<li>"Πατήστε την επαφή που θέλετε να προσθέσετε στα αγαπημένα σας
 "</li>" 
-"<li>"Αγγίξτε το αστέρι δίπλα στο όνομα της επαφής
+"<li>"Πατήστε το αστέρι δίπλα στο όνομα της επαφής
 "</li>"
 "</string>
      <string name="noGroups">Δεν υπάρχουν ομάδες</string>
@@ -675,6 +781,8 @@
      <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_primary">Κύριο</string>
      <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες εικόνες στο τηλέφωνο.</string>
+     <string name="photo_fragment">Φωτογραφία</string>
+     <string name="photo_load_failed">"Αδυναμία φόρτωσης φωτογραφίας"</string>
      <string name="pick_new_photo">Επιλέξτε νέα φωτογραφία από Γκαλερί</string>
      <string name="pick_photo">Επιλογή φωτογραφίας από Γκαλερί</string>
      <string name="pickerNewContactHeader">Δημιουργία νέας επαφής</string>
@@ -689,6 +797,7 @@
      <string name="picker_postal_title">Επιλέξτε ένα ταχυδρομικό κώδικα</string>
      <string name="picker_recent_list_empty">Δεν υπάρχουν πρόσφατες επαφές</string>
      <string name="pkgLabel">Επαφές και πληκτρολόγιο</string>
+     <string name="play_incall_show_entry">Αναπαραγωγή βίντεο</string>
      <string name="postalLabelsGroup">Διεύθυνση</string>
      <string name="postal_address">Διεύθυνση</string>
      <string name="postal_city">Πόλη</string>
@@ -732,8 +841,8 @@
      <string name="preference_phone">Τηλέφωνο</string>
      <string name="preference_phone_more_title">Ρυθμίσεις κλήσεων</string>
      <string name="preference_remove_duplicate">Συγχώνευση όμοιων επαφών</string>
-     <string name="preference_simple_mode_description">Απόκρυψη εικόνων και άλλων στοιχείων επικοινωνίας στην προβολή λίστας</string>
-     <string name="preference_simple_mode_title">Απόκρυψη στοιχείων</string>
+     <string name="preference_simple_mode_description">Εμφάνιση φωτογραφιών και άλλων πληροφοριών επαφής στην προβολή λίστας</string>
+     <string name="preference_simple_mode_title">Εμφάνιση στοιχείων</string>
      <string name="preference_smart_group_company_summary">Ομαδοποίηση βάση εταιρείας</string>
      <string name="preference_smart_group_company_title">Βάση εταιρείας</string>
      <string name="preference_smart_group_frequency_summary">Ομάδα με την πιο πρόσφατη</string>
@@ -749,6 +858,7 @@
      <string name="preference_tone_title">Ήχοι</string>
      <string name="prepare_import">Εισαγωγή επαφών</string>
      <string name="preview_contact_card_title">Εισαγωγή επαφών…</string>
+     <string name="preview_incall_show_entry">Προεπισκόπηση βίντεο</string>
      <string name="previous">Προηγούμενο</string>
      <string name="private_num">Απόρρητος αριθμός</string>
      <string name="profile_display_name">Ρύθμιση του προφίλ μου</string>
@@ -760,7 +870,8 @@
      <string name="qr_card_card">Ο QR κωδικός μου</string>
      <string name="qrcode_card_title">QR κωδικός</string>
      <string name="quickcontact_missing_app">Καμία εφαρμογή δεν βρέθηκε για να χειριστεί αυτή την ενέργεια</string>
-     <string name="quit_dialog_confirm_title">"Δεν έχουν συγχωνευθεί επαφές"</string>
+     <string name="quit_dialog_confirm_message">"Δεν έχετε συγχωνεύσει καμία επαφή"</string>
+     <string name="quit_dialog_confirm_title">"Ακύρωση συγχώνευσης επαφών"</string>
      <string name="readOnlyContactDeleteConfirmation">Αυτή η επαφή περιέχει πληροφορίες από πολλαπλούς λογαριασμούς. Οι πληροφορίες από τους λογαριασμούς μόνο για ανάγνωση θα είναι κρυμμένες στις λίστες επαφών σας, δεν διαγράφονται.</string>
      <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" περιέχουν πληροφορίες από πολλαπλούς λογαριασμούς. Οι πληροφορίες από τους λογαριασμούς μόνο για ανάγνωση θα είναι κρυμμένες στη λίστα επαφών σας.</string>
      <string name="readOnlyContactWarning">"Δεν μπορείτε να διαγράψετε επαφές από λογαριασμούς που είναι μόνο για ανάγνωση, αλλά μπορείτε να τις αποκρύψετε στις λίστες επαφών σας."</string>
@@ -787,6 +898,7 @@
      <string name="relationLabelsGroup">Σχέση</string>
      <string name="removePhoto">Αφαίρεση φωτογραφίας</string>
      <string name="remove_blacklist">Άρση φραγής</string>
+     <string name="remove_blacklist_dialog_message">Άρση φραγής αυτού του αριθμού;</string>
      <string name="remove_blacklist_dialog_title">Αφαίρεση από την λίστα γραφών</string>
      <string name="remove_duplicate">"Η MIUI θα σας βοηθήσει να βρείτε και να συγχωνεύσετε τις διπλές επαφές.
 

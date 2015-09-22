@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Αναβολή για %d λεπτά.</item>
+        <item quantity="one">Αναβολή για %d λεπτό.</item>
+     </plurals>
+     <plurals name="auto_silence_summary">
+        <item quantity="other">Τα ξυπνητήρια θα σιγήσουν μετά από %d λεπτά</item>
+        <item quantity="one">Τα ξυπνητήρια θα σιγήσουν μετά από %d λεπτό</item>
+     </plurals>
      <plurals name="snooze_message">
         <item quantity="other">Αναβολή για %d λεπτά</item>
         <item quantity="one">Αναβολή για %d λεπτό</item>

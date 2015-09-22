@@ -24,7 +24,6 @@
      <string name="analog_gadget">Αναλογικό ρολόι</string>
      <string name="app_label">Ρολόι</string>
      <string name="auto_silence_never">Ποτέ</string>
-     <string name="auto_silence_summary">Οι αφυπνίσεις θα σιγήσουν μετά από %d λεπτά</string>
      <string name="auto_silence_title">Αυτόματη σίγαση</string>
      <string name="battery_charging_level">%d %%</string>
      <string name="birthday_alarm">Ξυπνητήρι γενεθλίων</string>
