@@ -186,14 +186,14 @@
      <string name="contact_detail_calllog_call_note_tips">Σημειώσεις</string>
      <string name="contact_detail_calllog_call_record_tips">Ηχογράφηση κλήσης</string>
      <string name="contact_detail_menu_delete_miprofile">Διαγραφή κάρτας</string>
-     <string name="contact_detail_miprofile_accept">Ανταλλαγή καρτών επαφής</string>
-     <string name="contact_detail_miprofile_accept_fail_toast">"Αδυναμία ανταλλαγής καρτών επαφής"</string>
-     <string name="contact_detail_miprofile_accept_success_toast">Επιτυχής ανταλλαγή καρτών επαφής</string>
+     <string name="contact_detail_miprofile_accept">Ανταλλαγή καρτών επαφών</string>
+     <string name="contact_detail_miprofile_accept_fail_toast">"Αδυναμία ανταλλαγής καρτών επαφών"</string>
+     <string name="contact_detail_miprofile_accept_success_toast">Επιτυχής ανταλλαγή καρτών επαφών</string>
      <string name="contact_detail_miprofile_binded_label">Προστέθηκε</string>
      <string name="contact_detail_miprofile_exchange_closed">"Δεν υπάρχει τηλεφωνικός αριθμός συνδεδεμένος με αυτόν τον λογαριασμό Mi
 Οι κάρτες επαφών είναι ανενεργές"</string>
      <string name="contact_detail_miprofile_privacy_settings">Απαιτείται άδεια για προβολή</string>
-     <string name="contact_detail_miprofile_request">Ανταλλαγή καρτών επαφής</string>
+     <string name="contact_detail_miprofile_request">Ανταλλαγή καρτών επαφών</string>
      <string name="contact_detail_miprofile_request_fail_toast">"Αδυναμία αποστολής αίτησης"</string>
      <string name="contact_detail_miprofile_request_subtitle">Αυτόματη ενημέρωση φωτογραφίας προφίλ και πληροφοριών επαφής</string>
      <string name="contact_detail_miprofile_request_success_toast">Το αίτημα εστάλη</string>
@@ -204,12 +204,12 @@
      <string name="contact_detail_miprofile_subtitle">Ήδη ανταλλαγμένες κάρτες</string>
      <string name="contact_detail_profile_switch_fail_network_toast">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="contact_detail_profile_switch_fail_toast">Κάτι πήγε στραβά με τον διακομιστή μας</string>
-     <string name="contact_detail_profile_switch_off">Απενεργοποίηση καρτών επαφής</string>
-     <string name="contact_detail_profile_switch_off_fail_toast">"Αδυναμία απενεργοποίησης καρτών επαφής"</string>
+     <string name="contact_detail_profile_switch_off">Απενεργοποίηση καρτών επαφών</string>
+     <string name="contact_detail_profile_switch_off_fail_toast">"Αδυναμία απενεργοποίησης καρτών επαφών"</string>
      <string name="contact_detail_profile_switch_off_success_toast">Κάρτες επαφών ανενεργές</string>
      <string name="contact_detail_profile_switch_on">"Προβολή φωτογραφιών προφίλ επαφών"</string>
-     <string name="contact_detail_profile_switch_on_fail_toast">"Αδυναμία ενεργοποίησης καρτών επαφής"</string>
-     <string name="contact_detail_profile_switch_on_subtitle">Πατήστε για ενεργοποίηση καρτών επαφής</string>
+     <string name="contact_detail_profile_switch_on_fail_toast">"Αδυναμία ενεργοποίησης καρτών επαφών"</string>
+     <string name="contact_detail_profile_switch_on_subtitle">Πατήστε για ενεργοποίηση καρτών επαφών</string>
      <string name="contact_detail_profile_switch_on_success_toast">Κάρτες επαφών ενεργές</string>
      <string name="contact_directory_description">Φάκελος %1$s</string>
      <string name="contact_edit_title_edit">Επεξεργασία επαφής</string>
@@ -230,7 +230,7 @@
      <string name="contactsGroupsLabel">Ομάδες</string>
      <string name="contactsJoinedMessage">Οι επαφές συγχωνεύθηκαν</string>
      <string name="contactsList">Επαφές</string>
-     <string name="contacts_in_call_show">"βίντεο του %s"</string>
+     <string name="contacts_in_call_show">"Βίντεο του %s"</string>
      <string name="contacts_unavailable_add_account">Συνδεθείτε στο λογαριασμό</string>
      <string name="contacts_unavailable_create_contact">Δημιουργία νέας επαφής</string>
      <string name="contacts_unavailable_import_contacts">Εισαγωγή επαφών από αρχείο</string>
@@ -615,7 +615,7 @@
      <string name="miprofile_edit_title">Επεξεργασία προφίλ</string>
      <string name="miprofile_error_accept_self">"Δεν μπορείτε να ανταλλάξετε την δική σας κάρτα επαφής</string>
      <string name="miprofile_error_no_miaccount">Σύνδεση στον Mi λογαριασμός σας</string>
-     <string name="miprofile_error_not_opened">Απενεργοποίηση καρτών επαφής</string>
+     <string name="miprofile_error_not_opened">Απενεργοποίηση καρτών επαφών</string>
      <string name="miprofile_error_not_set">"Η κάρτα επαφής σας δεν έχει συγχρονιστεί με τον διακομιστή"</string>
      <string name="miprofile_error_unknown">Άγνωστο σφάλμα</string>
      <string name="miprofile_name">Το προφίλ μου</string>
@@ -624,7 +624,7 @@
      <string name="miprofile_request_agenda_today">%1$s θέλει να ανταλλάξει κάρτες επαφών</string>
      <string name="miprofile_request_agenda_yesterday">%1$s θέλει να ανταλλάξει κάρτες επαφών</string>
      <string name="miprofile_request_agree">Αποδοχή</string>
-     <string name="miprofile_request_agree_exchange_profile">Επιτυχής ανταλλαγή καρτών επαφής</string>
+     <string name="miprofile_request_agree_exchange_profile">Επιτυχής ανταλλαγή καρτών επαφών</string>
      <string name="miprofile_request_agreed">%1$s συμφώνησε να ανταλλάξει κάρτα επαφής μαζί μου</string>
      <string name="miprofile_request_alertdialog_message">Η κάρτα σας θα αποσταλεί αυτόματα όταν αυτό το άτομο την αποδεχτεί.</string>
      <string name="miprofile_request_alertdialog_title">Ανταλλαγή καρτών επαφών</string>

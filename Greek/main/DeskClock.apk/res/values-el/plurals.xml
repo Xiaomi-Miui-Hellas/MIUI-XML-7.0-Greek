@@ -5,8 +5,8 @@
         <item quantity="one">Αναβολή για %d λεπτό.</item>
      </plurals>
      <plurals name="auto_silence_summary">
-        <item quantity="other">Τα ξυπνητήρια θα σιγήσουν μετά από %d λεπτά</item>
-        <item quantity="one">Τα ξυπνητήρια θα σιγήσουν μετά από %d λεπτό</item>
+        <item quantity="other">Οι αφυπνίσεις θα σιγήσουν μετά από %d λεπτά</item>
+        <item quantity="one">Οι αφυπνίσεις θα σιγήσουν μετά από %d λεπτό</item>
      </plurals>
      <plurals name="snooze_message">
         <item quantity="other">Αναβολή για %d λεπτά</item>
