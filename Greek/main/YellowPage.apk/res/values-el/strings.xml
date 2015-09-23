@@ -130,6 +130,7 @@
      <string name="express_inquiry_trace_user_notice_content">Θα σας ενημερώνουμε όταν η κατάσταση της παραγγελίας σας αλλάζει.</string>
      <string name="express_inquiry_untrace">Ακύρωση εντοπισμού</string>
      <string name="express_inquiry_untrace_success">Ο εντοπισμός ακυρώθηκε</string>
+     <string name="express_location_failed">"Αδυναμία εντοπισμού σας. Εισάγετε τη διεύθυνσή σας."</string>
      <string name="express_no_address">Δεν υπάρχει διεύθυνση</string>
      <string name="express_no_order">Καμία παραγγελία</string>
      <string name="express_no_order_info">Δεν υπάρχουν πληροφορίες παραγγελίας</string>
@@ -177,6 +178,7 @@
      <string name="expresss_inquiry_all_logistics">Όλα</string>
      <string name="expresss_inquiry_frequently_used_logistics">Κοινό</string>
      <string name="follow_label">Ακολουθήστε %1$s</string>
+     <string name="follow_processing">επεξεργασία</string>
      <string name="follow_success">Μην ακολουθείτε %1$s.</string>
      <string name="fraud_number_online_identification">Αποκλεισμός τηλεπωλητών(απαιτείται σύνδεση στο Internet)</string>
      <string name="gallery">Άλμπουμ</string>
