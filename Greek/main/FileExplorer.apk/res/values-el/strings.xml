@@ -255,7 +255,7 @@
      <string name="no_wifi">Δεν υπάρχει δίκτυο Wi-Fi</string>
      <string name="no_wifi_hint">Δε βρέθηκε σύνδεση Wi-Fi</string>
      <string name="notif_server_starting">Ξεκίνησε ο διακομιστής FTP</string>
-     <string name="notif_title">Ο FTP διακομιστής τρέχει.</string>
+     <string name="notif_title">Ο διακομιστής FTP τρέχει.</string>
      <string name="notification_content_hint">Πατήστε για να δείτε</string>
      <string name="notification_dialog_confirm">OK</string>
      <string name="notification_dialog_content">Αυτόματη ειδοποίηση και να οργάνωση όταν προστίθενται ή να αλλάζουν αρχεία στο %1$s.</string>

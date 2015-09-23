@@ -154,8 +154,8 @@
      <string name="app_factory_reset">Απεγκατάσταση ενημερώσεων</string>
      <string name="app_factory_reset_dlg_text">Όλες οι ενημερώσεις για αυτήν την εφαρμογή συστήματος Android θα απεγκατασταθούν.</string>
      <string name="app_factory_reset_dlg_title">Απεγκατάσταση ενημερώσεων;</string>
-     <string name="app_floating_window_dlg_disable">"Η απενεργοποίηση %1$s's κυμαινόμενο παράθυρο των ρυθμίσεων απαιτεί από την εφαρμογή να κάνει επανεκκίνηση."</string>
-     <string name="app_floating_window_dlg_enable">"Ενεργοποίηση %1$s's κυμαινόμενο παράθυρο των ρυθμίσεων απαιτεί από την εφαρμογή να κάνει επανεκκίνηση."</string>
+     <string name="app_floating_window_dlg_disable">"Η απενεργοποίηση των ρυθμίσεων αναδυόμενου παράθυρου του %1$s, απαιτεί από την εφαρμογή να κάνει επανεκκίνηση."</string>
+     <string name="app_floating_window_dlg_enable">"Η ενεργοποίηση των ρυθμίσεων αναδυόμενου παράθυρου του %1$s, απαιτεί από την εφαρμογή να κάνει επανεκκίνηση."</string>
      <string name="app_forward_locked">Προστασία αντιγραφής εφαρμογής</string>
      <string name="app_install_location_summary">Αλλαγή της προτιμώμενης θέσης εγκατάστασης για νέες εφαρμογές</string>
      <string name="app_install_location_title">Προτιμώμενη τοποθεσία εγκατάστασης</string>
