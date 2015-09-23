@@ -258,7 +258,7 @@
      <string name="notif_title">Ο διακομιστής FTP τρέχει.</string>
      <string name="notification_content_hint">Πατήστε για να δείτε</string>
      <string name="notification_dialog_confirm">OK</string>
-     <string name="notification_dialog_content">Αυτόματη ειδοποίηση και να οργάνωση όταν προστίθενται ή να αλλάζουν αρχεία στο %1$s.</string>
+     <string name="notification_dialog_content">Αυτόματη ειδοποίηση και οργάνωση όταν προστίθενται ή να αλλάζουν αρχεία στο %1$s.</string>
      <string name="notification_dialog_title">Ειδοποιήσεις</string>
      <string name="notification_setting">Ειδοποιήσεις</string>
      <string name="notification_summary">"%1$s δεν υποστηρίζει ακόμα αυτή τη λειτουργία"</string>
