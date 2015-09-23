@@ -157,6 +157,11 @@
      <string name="return_to_incall_screen">Κάντε κλικ για επιστροφή στην κλήση</string>
      <string name="screen_button_notification_text">Για να τα ενεργοποιήσετε, πατήστε τα πλήκτρα Home και Power ταυτόχρονα.</string>
      <string name="screen_button_notification_title">Τα πλήκτρα πλοήγησης είναι ανενεργά</string>
+     <string name="screen_pinning_description">Αυτό κλειδώνει την συγκεκριμένη οθόνη μέχρι να την ξεκαρφιτσώσετε. Πατήστε και κρατήστε πατημένα ταυτόχρονα το πλήκτρο Πίσω και Επισκόπηση για να ξεκαρφιτσώσετε.</string>
+     <string name="screen_pinning_description_accessible">Αυτό κλειδώνει την συγκεκριμένη οθόνη μέχρι να την ξεκαρφιτσώσετε. Πατήστε και κρατήστε την Επισκόπηση για να ξεκαρφιτσώσετε.</string>
+     <string name="screen_pinning_negative">Όχι ευχαριστώ</string>
+     <string name="screen_pinning_positive">Το κατάλαβα</string>
+     <string name="screen_pinning_title">Η οθόνη καρφιτσώθηκε</string>
      <string name="screenshot_failed_text">Αδύνατη η αποθήκευση του στιγμιότυπου. Ο αποθ.χώρος ενδέχεται να βρίσκεται σε χρήση.</string>
      <string name="screenshot_saved_text">Αγγίξτε για να δείτε το στιγμιότυπο.</string>
      <string name="screenshot_saved_title">Αποθηκευμένο στιγμιότυπο</string>

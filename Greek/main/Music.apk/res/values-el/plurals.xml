@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Διαγραφή %d λιστών αναπαραγωγής;</item>
+        <item quantity="one">Διαγραφή %d λίστας αναπαραγωγής;</item>
+     </plurals>
      <plurals name="NTrackstoDownload">
-        <item quantity="other">%d τραγούδια θα ληφθούν.</item>
-        <item quantity="one">1 τραγούδι θα ληφθεί.</item>
+        <item quantity="other">Θα ληφθούν %d τραγούδια.</item>
+        <item quantity="one">Θα ληφθεί 1 τραγούδι.</item>
+     </plurals>
+     <plurals name="Nartists_count">
+        <item quantity="other">%d καλλιτέχνες</item>
+        <item quantity="one">%d καλλιτέχνης</item>
      </plurals>
      <plurals name="Nexpired_remind">
-        <item quantity="other">%d ημέρες απομένουν</item>
-        <item quantity="one">%d ημέρα απομένει</item>
+        <item quantity="other">Απομένουν %d ημέρες</item>
+        <item quantity="one">Απομένει %d ημέρα</item>
+     </plurals>
+     <plurals name="Ngroups_count">
+        <item quantity="other">%d συγκροτήματα</item>
+        <item quantity="one">%d συγκρότημα</item>
      </plurals>
      <plurals name="Nnew_local_audios">
-        <item quantity="other">%d τραγούδια προστέθηκαν</item>
-        <item quantity="one">%d τραγούδι προστέθηκε</item>
+        <item quantity="other">Προστέθηκαν %d τραγούδια</item>
+        <item quantity="one">Προστέθηκε %d τραγούδι</item>
      </plurals>
      <plurals name="Nnew_tracks_count">
         <item quantity="other">%d νέα</item>
         <item quantity="one">1 νέο</item>
+     </plurals>
+     <plurals name="Nquit_warning">
+        <item quantity="other">Η αναπαραγωγή θα σταματήσει σε %d λεπτά</item>
+        <item quantity="one">>Η αναπαραγωγή θα σταματήσει σε %d λεπτό</item>
      </plurals>
      <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d τραγούδια προστέθηκαν στη λίστα</item>
@@ -29,8 +45,8 @@
         <item quantity="one">1 τραγούδι διαγράφηκε από την λίστα</item>
      </plurals>
      <plurals name="Ntracks_search_result">
-        <item quantity="other">%d τραγούδια βρέθηκαν</item>
-        <item quantity="one">%d τραγούδι βρέθηκε</item>
+        <item quantity="other">Βρέθηκαν %d τραγούδια</item>
+        <item quantity="one">Βρέθηκε %d τραγούδι</item>
      </plurals>
      <plurals name="Ntracks_similar_count">
         <item quantity="other">%d παρόμοια τραγούδια</item>
@@ -40,12 +56,28 @@
         <item quantity="other">%d τραγούδια</item>
         <item quantity="one">1 τραγούδι</item>
      </plurals>
+     <plurals name="dialog_delete_descript">
+        <item quantity="other">Διαγραφή %d τραγουδιών;</item>
+        <item quantity="one">Διαγραφή %d τραγουδιού;</item>
+     </plurals>
+     <plurals name="dialog_remove_descript">
+        <item quantity="other">Διαγραφή %d τραγουδιών;</item>
+        <item quantity="one">Διαγραφή %d τραγουδιού;</item>
+     </plurals>
      <plurals name="folder_songs_count">
         <item quantity="other">%d τραγούδια</item>
         <item quantity="one">1 τραγούδι</item>
      </plurals>
+     <plurals name="multichoice_title">
+        <item quantity="other">Επιλέχθηκαν %d στοιχεία</item>
+        <item quantity="one">Επιλέχθηκε %d στοιχείο</item>
+     </plurals>
      <plurals name="send_songs_toast">
-        <item quantity="other">%d τραγούδια θα αποσταλούν</item>
-        <item quantity="one">1 τραγούδι θα αποσταλεί</item>
+        <item quantity="other">Θα αποσταλούν %d τραγούδια</item>
+        <item quantity="one">Θα αποσταλεί 1 τραγούδι</item>
+     </plurals>
+     <plurals name="song_already_favorite">
+        <item quantity="other">Τα τραγούδια είναι ήδη στα αγαπημένα.</item>
+        <item quantity="one">Το τραγούδι είναι ήδη στα αγαπημένα.</item>
      </plurals>
 </resources>

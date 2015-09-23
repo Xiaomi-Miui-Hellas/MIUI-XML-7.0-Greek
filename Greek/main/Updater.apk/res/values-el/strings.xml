@@ -123,6 +123,8 @@
 http://zhushou.xiaomi.com"</string>
      <string name="recovery_failed_notification_msg">"Αδυναμία εισόδου σε λειτουργία Recovery"</string>
      <string name="recovery_failed_title">Χρησιμοποιείστε το Mi PC Suite για να ενημερώσετε το σύστημά σας</string>
+     <string name="recovery_power_not_enough_msg">Συνδέστε το φορτιστή για την ενημέρωση, αν έχει απομείνει λιγότερο από το 30% της μπαταρίας</string>
+     <string name="recovery_power_not_enough_title">Χαμηλή μπαταρία</string>
      <string name="repeat">Επανάληψη</string>
      <string name="set_auto">Αυτόματος έλεγχος ενημερώσεων</string>
      <string name="set_auto_msg">Όταν υπάρχει νέα έκδοση, δεν θα χρειάζεται να κάνετε χειροκίνητη ενημέρωση. Σε περίπτωση σύνδεσης σε δίκτυο Wi-Fi, θα γίνεται έξυπνα η επιλογή του κατάλληλου χρόνου ενημέρωσης της συσκευής, χωρίς να χρειάζεται πλέον να ασχολείστε επί μακρόν για την λήψη της ενημέρωσης.</string>
