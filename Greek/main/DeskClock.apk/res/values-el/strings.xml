@@ -94,6 +94,8 @@
      <string name="stopwatch_title">Χρονόμετρο</string>
      <string name="system_time_setting">Ρυθμίσεις</string>
      <string name="time">Ώρα</string>
+     <string name="timer_alarm_alert_pad">%s</string>
+     <string name="timer_alarm_cancel_pad">κάντε κλικ στην οθόνη για να σταματήσει το κουδούνισμα</string>
      <string name="timer_alert_alert_silenced">Το χρονόμετρο σταμάτησε μετά από %d λεπτά.</string>
      <string name="timer_continue">Συνέχιση</string>
      <string name="timer_got_it">OK</string>

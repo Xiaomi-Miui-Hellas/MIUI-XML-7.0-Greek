@@ -17,13 +17,13 @@
         <item>Σε 1 λεπτό</item>
         <item>Σε 5 λεπτά</item>
         <item>Σε 10 λεπτά</item>
+        <item>Σε 30 λεπτά</item>
         <item>Ποτέ</item>
      </string-array>
      <string-array name="power_dialog_auto_clean_memory_items">
         <item>Μετά από 1 λεπτό</item>
         <item>Μετά από 5 λεπτά</item>
         <item>Μετά από 10 λεπτά</item>
-	<item>Μετά από 30 λεπτά</item>
         <item>Ποτέ</item>
      </string-array>
      <string-array name="power_dialog_cpu_state_items">
@@ -58,6 +58,5 @@
         <item>Άλμπουμ</item>
         <item>Μουσική</item>
         <item>Email</item>
-	<item>Βίντεο</item>
      </string-array>
 </resources>

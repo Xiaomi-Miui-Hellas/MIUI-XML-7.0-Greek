@@ -186,6 +186,7 @@
      <string name="hints_last_virus_scan_yesterday_virus">Χθες: επικίνδυνο</string>
      <string name="hints_loading_text">Φόρτωση…</string>
      <string name="hints_need_quick_scan">Συνιστάται ταχεία σάρωση</string>
+     <string name="hints_need_regular_scan">Σαρώνετε τη συσκευή σας τακτικά</string>
      <string name="hints_power_percent_title">Μπαταρία</string>
      <string name="hints_remember_choice">Να μην ερωτηθώ ξανά</string>
      <string name="hints_risk_apk_list_item_summary">Απειλή (apk)</string>
