@@ -68,6 +68,7 @@
      <string name="important_suggestion">Η Πολιτική Προστασίας Προσωπικών Δεδομένων έχει αλλάξει</string>
      <string name="install">Εγκατάσταση</string>
      <string name="install_failed">Η ενημέρωση απέτυχε</string>
+     <string name="install_file_explorer">Εγκατάσταση του File Explorer πρώτα</string>
      <string name="install_local">Τοπική εγκατάσταση</string>
      <string name="install_qq">Λήψη Tencent Weibo</string>
      <string name="internal_build">Εσωτερική</string>
@@ -82,6 +83,8 @@
      <string name="miui_summary_has_new_version">Μια ενημερωμένη έκδοση είναι διαθέσιμη</string>
      <string name="miui_summary_no_new_version">Δεν υπάρχουν διαθέσιμες ενημερώσεις</string>
      <string name="miui_summary_now_version">Τρέχουσα έκδοση</string>
+     <string name="miui_summary_slogan">"  Σχεδιασμένο για εσάς  "</string>
+     <string name="miui_summary_updating">"  Ενημέρωση…  "</string>
      <string name="monthly_build">Μηνιαία</string>
      <string name="my_best_update">Η καλύτερη αναβάθμιση</string>
      <string name="my_expect_update">Προσδοκίες</string>

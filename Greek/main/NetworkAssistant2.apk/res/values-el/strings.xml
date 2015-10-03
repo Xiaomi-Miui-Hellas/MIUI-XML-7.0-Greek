@@ -108,6 +108,7 @@
      <string name="firewall_fragment_tab_title_nonsys">Εγκαταστάθηκε</string>
      <string name="firewall_fragment_tab_title_sys">Σύστημα</string>
      <string name="firewall_network_restrict_notify_message">Πατήστε για αλλαγή ρυθμίσεων.</string>
+     <string name="firewall_network_restrict_notify_mobile">Δεδομένα κινητής</string>
      <string name="firewall_network_restrict_notify_title">"%1$s δεν επιτρέπεται να συνδεθεί με %2$s."</string>
      <string name="firewall_rule_group_title_mobile">Κινητή</string>
      <string name="firewall_rule_group_title_roaming">Διεθνής περιαγωγή</string>
@@ -279,6 +280,10 @@
      <string name="operator_setted_error_notify_title">Σφάλμα κάρτας SIM</string>
      <string name="other_exception_summary">"Δεν έχετε σύνδεση στο Internet"</string>
      <string name="other_exception_title">Έλεγχος για άλλα προβλήματα</string>
+     <string name="package_change_notification_summary">Πατήστε για να μάθετε περισσότερα.</string>
+     <string name="package_change_notification_title">Ρυθμίστε το όριο δεδομένων αυτόματα</string>
+     <string name="package_setted_error_notification_summary">Πατήστε για να δείτε λεπτομέρειες για τη χρήση δεδομένων.</string>
+     <string name="package_setted_error_notification_titile">"Αδυναμία ρύθμισης προγράμματος δεδομένων"</string>
      <string name="pay_charge">Αγορά επιπλέον δεδομένων</string>
      <string name="per_month_pkg_traffic_settings">Ορισμός ορίου δεδομένων</string>
      <string name="permission_exception_summary">"Ορισμένες εφαρμογές δεν έχουν άδεια να συνδεθούν στο Internet"</string>

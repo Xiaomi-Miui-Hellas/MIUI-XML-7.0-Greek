@@ -8,7 +8,6 @@
      <string name="altitude_uncalibrate_tip">"Αδυναμία βαθμονόμησης υψομέτρου"</string>
      <string name="altitude_unit">μ</string>
      <string name="app_label">Πυξίδα</string>
-     <string name="calibrate_altitude">Βαθμονόμηση υψομέτρου…</string>
      <string name="calibrate_failed">Αποτυχία βαθμονόμησης υψομέτρου</string>
      <string name="calibrate_failed_no_location">Αποτυχία Βαθμονόμησης: Αδυναμία λήψης για το τρέχον γεωγραφικό πλάτος και μήκος</string>
      <string name="calibrate_failed_timeout">Η βαθμονόμηση απέτυχε: Το χρονικό όριο του διακομιστή έληξε</string>
@@ -33,7 +32,6 @@
      <string name="error_camera_unavailable_title">Η Κάμερα δεν είναι διαθέσιμη</string>
      <string name="first_using_dialog_message">"Η πυξίδα χρειάζεται να χρησιμοποιήσει τη σύνδεση δικτύου της συσκευής σας, την φωτογραφική μηχανή και τις υπηρεσίες τοποθεσίας για να λειτουργήσει κανονικά."</string>
      <string name="first_using_dialog_title">Άδεια πρόσβασης</string>
-     <string name="getting_location">Λήψη τοποθεσίας…</string>
      <string name="guide_toast">Βαθμονομήστε την πυξίδα, χρησιμοποιώντας την ακόλουθη κίνηση.</string>
      <string name="latitude">LAT</string>
      <string name="location_east">Α</string>
@@ -46,7 +44,6 @@
      <string name="location_south">Ν</string>
      <string name="location_west">Δ</string>
      <string name="longitude">LON</string>
-     <string name="menu_calibrate">Βαθμονόμηση</string>
      <string name="mobiledata_alert_dialog_message">Συνδεθείτε στο διαδίκτυο για τη βαθμονόμηση υψομέτρου;</string>
      <string name="mobiledata_alert_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="pressure">%.1f</string>

@@ -73,6 +73,7 @@
      <string name="record_name_hour">.</string>
      <string name="record_name_minute" />
      <string name="record_picker_title">Επιλέξτε μια εγγραφή</string>
+     <string name="record_quliaty_preference_title">Ποιότητα εγγραφής</string>
      <string name="recording">Ηχογράφηση…</string>
      <string name="recording_stopped">Η ηχογράφηση σταμάτησε</string>
      <string name="rename">Μετονομασία</string>

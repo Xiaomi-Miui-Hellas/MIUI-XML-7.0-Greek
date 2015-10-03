@@ -104,9 +104,8 @@
      <string name="jeejen_end_call_text">Τερματισμός κλήσης</string>
      <string name="jeejen_reject_call_text">Απόρριψη κλήσης</string>
      <string name="jeejen_toggle_dialpad_text">Πληκτρολόγιο</string>
+     <string name="livetalk_dial">Με χρήση πακέτου top-up</string>
      <string name="livetalk_left_minute">απομένουν %s λεπτά</string>
-     <string name="livetalk_provider_info">Provided by %s</string>
-     <string name="livetalk_waiting">Αναμονή…</string>
      <string name="manageConferenceLabel">Διαχείριση κλήσης συνδιάσκεψης</string>
      <string name="miprofile_stranger_card">Ξένη κάρτα</string>
      <string name="modify_call_failure_str">"Το αίτημα τροποποίησης κλήσης απέτυχε

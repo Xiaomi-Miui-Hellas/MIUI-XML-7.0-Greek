@@ -76,6 +76,7 @@
      <string name="status_bar_toggle_flight_mode">Πτήση</string>
      <string name="status_bar_toggle_gps">GPS</string>
      <string name="status_bar_toggle_lock">Κλείδωμα</string>
+     <string name="status_bar_toggle_midrop">Mi Drop</string>
      <string name="status_bar_toggle_mute">Αθόρυβο</string>
      <string name="status_bar_toggle_paper_mode">Λειτουργία ανάγνωσης</string>
      <string name="status_bar_toggle_power_mode">Ενέργεια</string>

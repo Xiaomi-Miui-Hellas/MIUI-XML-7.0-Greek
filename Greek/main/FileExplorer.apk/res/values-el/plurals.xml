@@ -40,6 +40,14 @@
         <item quantity="few">%d στοιχεία</item>
         <item quantity="many">%d στοιχεία</item>
      </plurals>
+     <plurals name="file_count">
+        <item quantity="other"> %1$d στοιχεία</item>
+        <item quantity="zero"> %1$d στοιχεία</item>
+        <item quantity="one"> %1$d στοιχείο</item>
+        <item quantity="two"> %1$d στοιχεία</item>
+        <item quantity="few"> %1$d στοιχεία</item>
+        <item quantity="many"> %1$d στοιχεία</item>
+     </plurals>
      <plurals name="file_notify_title">
         <item quantity="other">Ελήφθησαν %1$d αρχεία της εφαρμογής %2$s</item>
         <item quantity="zero">Ελήφθη %1$d αρχείο της εφαρμογής %2$s</item>
