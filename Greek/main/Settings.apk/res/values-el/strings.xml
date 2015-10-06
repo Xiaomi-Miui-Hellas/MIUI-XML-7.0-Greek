@@ -1471,7 +1471,7 @@
      <string name="miui_screensaver_state_on">Ενεργό</string>
      <string name="miui_screensaver_title">Προφύλαξη οθόνης</string>
      <string name="miui_screensaver_usage">Η εικόνα στο άλμπουμ οθόνης θα εμφανιστεί πέντε δευτερόλεπτα μετά την απενεργοποίηση της οθόνης.</string>
-     <string name="mms_breathing_light_color_title">Χρώμ. Φωτισμού μηνυμάτων</string>
+     <string name="mms_breathing_light_color_title">Χρωματισμός LED μηνυμάτων</string>
      <string name="mms_breathing_light_freq_title">Συχνότητα LED flash μηνυμάτων</string>
      <string name="mobile_connect_to_internet">Παρακαλώ συνδεθείτε με το διαδίκτυο</string>
      <string name="mobile_insert_sim_card">Παρακαλώ εισάγετε την κάρτα SIM και κάντε επανεκκίνηση</string>
@@ -2397,8 +2397,8 @@
      <string name="title_font_current2">Γραμματοσειρά συστήματος</string>
      <string name="title_font_size">Μέγεθος κειμένου</string>
      <string name="title_hdmi_color_calibration">Διόρθωση χρωμάτων προκαθορισμένη</string>
-     <string name="title_layout_current">Επιλέξτε το μέγεθος της γραμματοσειράς</string>
-     <string name="title_layout_current2">Επιλέξτε μέγεθος γραμματοσειράς</string>
+     <string name="title_layout_current">Μέγεθος κειμένου</string>
+     <string name="title_layout_current2">Μέγεθος κειμένου</string>
      <string name="title_local_resource">Τοπικοί πόροι</string>
      <string name="title_system_resource">Πόροι του συστήματος</string>
      <string name="toast_lockscreen_glogin_empty_password">Εισαγωγή κωδικού</string>
@@ -2544,9 +2544,9 @@
      <string name="usb_msd_summary">Μετακίνηση αρχείων σε Windows και Mac</string>
      <string name="usb_msd_title">Μαζική αποθήκευση</string>
      <string name="usb_mtp_summary">Σας επιτρέπει να μεταφέρετε αρχεία πολυμέσων στα Windows ή χρησιμοποιώντας την μεταφορά αρχείων Android σε Mac δείτε www android com/filetransfer</string>
-     <string name="usb_mtp_title">Συσκευή πολυμέσων MTP</string>
+     <string name="usb_mtp_title">Συσκευή πολυμέσων(MTP)</string>
      <string name="usb_ptp_summary">Σας επιτρέπει να μεταφέρετε εικόνες χρησιμοποιώντας λογισμικό της κάμερας και να μεταφέρετε αρχεία σε υπολογιστές που δεν υποστηρίζουν το MTP</string>
-     <string name="usb_ptp_title">Κάμερα PTP</string>
+     <string name="usb_ptp_title">Κάμερα (PTP)</string>
      <string name="usb_tethering_active_subtext">Προσδεδεμένο</string>
      <string name="usb_tethering_available_subtext">Το USB συνδέθηκε επιλέξτε για πρόσδεση</string>
      <string name="usb_tethering_button_text">Πρόσδεση USB</string>
