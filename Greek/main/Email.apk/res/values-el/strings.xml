@@ -387,7 +387,6 @@
      <string name="forward_attribution_no_headers">---------- Προωθημένο μήνυμα ----------</string>
      <string name="forward_download_failed_ticker">"Αδύνατη προώθηση ενός ή παραπάνω συνημμένων."</string>
      <string name="forward_download_failed_title">Συνημμένο δεν προωθήθηκε</string>
-     <string name="forward_subject_label">Fwd:</string>
      <string name="from_heading">"Από: "</string>
      <string name="general_preference_confirm_delete_label">Επιβεβαίωση πριν την διαγραφή</string>
      <string name="general_preference_confirm_send_label">Επιβεβαίωση πριν την αποστολή</string>
@@ -624,7 +623,6 @@
      <string name="policy_screen_timeout">Απαιτείται μια συσκευή σε αδράνεια για να κλειδώσει η οθόνη</string>
      <string name="policy_text_truncation">Περιορισμός μεγέθους κειμένου email</string>
      <string name="pop3_name">POP3</string>
-     <string name="prefDefault_autoAdvance">list</string>
      <string name="preference_eas_tips">Η σελίδα ενεργοποίησης ζητήθηκε από τον διακομιστή email. Παρακαλώ κάντε ενεργοποίηση.</string>
      <string name="preference_imap_tips" />
      <string name="preference_pop_tips">Τα συνημμένα θα ληφθούν μαζί με τα περιεχόμενα του email καθώς απαιτείται από το POP3 πρωτόκολλο. Προσέξτε την χρήση δεδομένων κινητής.</string>
@@ -684,7 +682,6 @@
      <string name="reply">Απάντηση</string>
      <string name="reply_all">Απάντηση όλων</string>
      <string name="reply_attribution" formatted="false">Την %s, %s έγραψε:</string>
-     <string name="reply_subject_label">Re:</string>
      <string name="report_phishing">Αναφορά ψευδούς</string>
      <string name="report_spam">Αναφορά spam</string>
      <string name="request_entity_large">Το ζητούμενο αρχείο είναι μεγάλο!</string>
