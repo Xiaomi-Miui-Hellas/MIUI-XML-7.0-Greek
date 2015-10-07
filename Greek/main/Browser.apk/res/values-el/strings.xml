@@ -417,7 +417,7 @@
      <string name="pref_setting_title">Ρυθμίσεις σελίδας</string>
      <string name="pref_ua_string">Αναγνωριστικό περιήγησης</string>
      <string name="pref_version_info">Πληροφορίες έκδοσης</string>
-     <string name="pref_volume_key_action">Πλήκτρα ήχου: Προηγούμενη/Επόμενη σελίδα</string>
+     <string name="pref_volume_key_action">Πλήκτρα έντασης: Προηγούμενη/Επόμενη σελίδα</string>
      <string name="private_browsing_warning">Αυτή η λειτουργία δεν υποστηρίζεται σε αυτή την έκδοση του Android.</string>
      <string name="profiler_error_toast">Αδυναμία εκκίνησης profiler</string>
      <string name="profiler_no_storage_toast">"Αδυναμία εκκίνησης profiler επειδή δεν είναι έτοιμος ο χώρος αποθήκευσης"</string>
