@@ -14,6 +14,8 @@
      <string name="camera_error_title">Σφάλμα κάμερας</string>
      <string name="camera_label">Κάμερα</string>
      <string name="camera_settings_label">Κάμερα</string>
+     <string name="camera_snap_mode_title">Λειτουργία γρήγορης λήψης</string>
+     <string name="camera_snap_mode_title_detail">Πατήστε για λεπτομέρειες</string>
      <string name="cannot_connect_camera_once">Δεν είναι δυνατή η σύνδεση με κάμερα</string>
      <string name="cannot_connect_camera_twice">Ακόμα δεν είναι δυνατή η σύνδεση με κάμερα. Παρακαλώ κάντε επανεκκίνηση του τηλεφώνου σας</string>
      <string name="cannot_move_warning_message">Λήψη φωτογραφίας, κρατήστε την κάμερα σταθερή</string>
@@ -84,7 +86,7 @@
      <string name="pref_camera_coloreffect_entry_aqua" />
      <string name="pref_camera_coloreffect_entry_brannan">Αυγή</string>
      <string name="pref_camera_coloreffect_entry_earlybird">Φθινόπωρο</string>
-     <string name="pref_camera_coloreffect_entry_fisheye">Ημισφαιρικό</string>
+     <string name="pref_camera_coloreffect_entry_fisheye">Fish Eye</string>
      <string name="pref_camera_coloreffect_entry_gaussianblur">Θολούρα</string>
      <string name="pref_camera_coloreffect_entry_jstyle">Ιαπωνικό</string>
      <string name="pref_camera_coloreffect_entry_mirror">Καθρέπτης</string>
@@ -103,9 +105,11 @@
      <string name="pref_camera_coloreffect_title">Φίλτρα</string>
      <string name="pref_camera_contrast_title">Αντίθεση</string>
      <string name="pref_camera_delay_capture_entry_audio">Ήχος</string>
+     <string name="pref_camera_delay_capture_entry_off">Ανενεργό</string>
      <string name="pref_camera_delay_capture_title">Αντ.μέτρηση</string>
      <string name="pref_camera_exposuretime_entry_auto">Αυτόματος</string>
      <string name="pref_camera_facedetection_title">Ανίχνευση προσώπου</string>
+     <string name="pref_camera_fisheye_title">Fish eye</string>
      <string name="pref_camera_flashmode_entry_auto">Αυτόματο</string>
      <string name="pref_camera_flashmode_entry_off">Ανενεργό</string>
      <string name="pref_camera_flashmode_entry_on">Ενεργό</string>
@@ -184,7 +188,10 @@
      <string name="pref_camera_skinToneEnhancement_entry_auto">Αυτόματη βελτίωση</string>
      <string name="pref_camera_skinToneEnhancement_entry_disable">Απενεργοποίηση</string>
      <string name="pref_camera_skinToneEnhancement_entry_enable">Ενεργοποίηση</string>
+     <string name="pref_camera_snap_enable_summary">Όταν η οθόνη είναι ανενεργή, πατήστε &amp; κρατήστε το κουμπί μείωσης έντασης (Volume -) για να μπείτε στην λειτουργία γρήγορης λήψης. Πατήστε το ξανά για να βγάλετε μια φωτογραφία.</string>
+     <string name="pref_camera_snap_enable_title">Λειτουργία γρήγορης λήψης</string>
      <string name="pref_camera_sound_title">Ήχοι κάμερας</string>
+     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
      <string name="pref_camera_touchafaec_entry_off">Ανενεργό</string>
      <string name="pref_camera_touchafaec_entry_on">Ενεργό</string>
      <string name="pref_camera_ubifocus_title">Επανεστίαση</string>
@@ -259,10 +266,12 @@
      <string name="setting_top_text">Επιλογές</string>
      <string name="simple_mode_button_asd_flash">Κλείσιμο φωτογράφησης με φλας</string>
      <string name="simple_mode_button_asd_hdr">Κλείσιμο φωτογράφησης HDR</string>
+     <string name="simple_mode_button_text_audio_capture">Κλείσιμο φωνητικού κλείστρου</string>
      <string name="simple_mode_button_text_color_effect">Κλείσιμο φίλτρων</string>
      <string name="simple_mode_button_text_delay_capture">Κλείσιμο αντίστροφης μέτρησης</string>
      <string name="simple_mode_button_text_face_beauty">Κλείσιμο αποχρώσεων δέρματος</string>
      <string name="simple_mode_button_text_fast_video">Κλείσιμο αργής κίνησης</string>
+     <string name="simple_mode_button_text_fisheye">Κλείσιμο Fish eye</string>
      <string name="simple_mode_button_text_gradienter">Κλείσιμο Gradienter</string>
      <string name="simple_mode_button_text_hand_night">Κλείσιμο Νυχτερινής λειτουργίας</string>
      <string name="simple_mode_button_text_hdr">Κλείσιμο λειτουργίας HDR</string>
@@ -270,6 +279,7 @@
      <string name="simple_mode_button_text_panorama">Κλείσιμο λειτουργίας Πανόραμα</string>
      <string name="simple_mode_button_text_scene">Κλείσιμο λειτουργίας σκηνής</string>
      <string name="simple_mode_button_text_slow_video">Κλείσιμο γρήγορης κίνησης</string>
+     <string name="simple_mode_button_text_tilt_shift">Κλείσιμο Tilt-shift</string>
      <string name="simple_mode_button_text_ubifocus">Κλείσιμο επανεστίασης</string>
      <string name="snapshot_lower_than_video">Το μέγεθος σύλληψης βίντεο είναι μικρότερο από το μέγεθος του βίντεο. Παρακαλώ επιλέξτε μια ανάλυση μεγαλύτερη ή ίση με το τρέχον μέγεθος του βίντεο.</string>
      <string name="snapshotsize_low_powermode">Η διαχείριση της ανάλυσης εικόνας σε λειτουργία χαμηλής κατανάλωσης δεν υποστηρίζεται. Θα χρησιμοποιηθούν στιγμιότυπα βίντεο. Παρακαλώ επιλέξτε τη λειτουργία υψηλής απόδοσης για να επιλέξετε την ανάλυση της εικόνας.</string>

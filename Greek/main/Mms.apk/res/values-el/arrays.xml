@@ -24,6 +24,10 @@
         <item>Ώρα λήψης</item>
         <item>Ώρα αποστολής</item>
     </string-array>
+     <string-array name="entries_date_type_rightvalue">
+        <item>Λήψη</item>
+        <item>Αποστολή</item>
+     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>Με SMS</item>
         <item>Με Mi message</item>

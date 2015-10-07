@@ -150,6 +150,7 @@
      <string name="ex_type_mx">Mi Message</string>
      <string name="ex_type_sms">SMS/MMS</string>
      <string name="exceed_message_size_limitation">Το όριο μεγέθους μηνυμάτων έχει επιτευχθεί.</string>
+     <string name="exceed_message_text_limitation">Το όριο μεγέθους του μηνύματος έχει επιτευχθεί.</string>
      <string name="expire_on">Λήγει: %s</string>
      <string name="exporting_progress_private_message">Εξαγωγή…</string>
      <string name="failed_to_add_media">Δεν μπορείτε να το προσθέσετε αυτό %1$s στο μήνυμά σας.</string>
@@ -252,8 +253,11 @@
      <string name="move_down">Μετακίνηση προς τα κάτω</string>
      <string name="move_up">Μετακίνηση προς τα πάνω</string>
      <string name="msg_type_hint_mms">Μήνυμα πολυμέσων (MMS)</string>
+     <string name="msg_type_hint_mms_omit">MMS</string>
      <string name="msg_type_hint_mx">Mi message</string>
+     <string name="msg_type_hint_mx_omit">Mi Msg</string>
      <string name="msg_type_hint_sms">Μήνυμα κειμένου</string>
+     <string name="msg_type_hint_sms_omit">SMS</string>
      <string name="msglist_continue_to_pull_for_more">Σύρετε προς τα κάτω για περισσότερα</string>
      <string name="msglist_more_refreshing">Ανανέωση…</string>
      <string name="msglist_no_more_to_refresh">Ήδη ενημερωμένο</string>
@@ -273,10 +277,14 @@
      <string name="mx_activate_int_hint_malformed_info">Ο φορέας σας μπορεί να χρεώσει για ένα διεθνές μήνυμα SMS που χρησιμοποιείται για να ενεργοποιήσετε ξανά το Mi Message</string>
      <string name="mx_activate_int_hint_server">Ο φορέας σας μπορεί να χρεώσει για ένα διεθνές μήνυμα SMS που χρησιμοποιείται για να ενεργοποιήσετε ξανά το Mi Message</string>
      <string name="mx_activate_int_hint_sim_change">Φαίνεται ότι έχετε αλλάξει κάρτα SIM. Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για να ενεργοποιήσετε ξανά το Mi Message.</string>
+     <string name="mx_and_voip_enable">Mi Message &amp; Voice</string>
+     <string name="mx_and_voip_enable_popup_msg">"Στείλτε μηνύματα και κάντε κλήσεις σε άλλους χρήστες MIUI χωρίς επιβάρυνση από το φορέα σας. Το VoIP υποστηρίζεται από το Weihui. Δείτε την πολιτική απορρήτου του Weihui."</string>
+     <string name="mx_and_voip_enable_popup_msg2">Πολιτική Απορρήτου</string>
      <string name="mx_auto_resend_mms">Αποστολή ως MMS</string>
      <string name="mx_auto_resend_mms_summary">Αποστολή ως MMS μέσω σύνδεσης δεδομένων κινητής τηλεφωνίας όταν δεν είστε συνδεδεμένοι σε δίκτυο Wi-Fi. Θα επιβαρυνθείτε με τις τακτικές χρεώσεις του φορέα σας.</string>
      <string name="mx_auto_resend_sms">Αποστολή ως SMS</string>
      <string name="mx_auto_resend_sms_summary">Αποστολή ως SMS μέσω σύνδεσης δεδομένων κινητής τηλεφωνίας όταν δεν είστε συνδεδεμένοι σε δίκτυο Wi-Fi. Θα επιβαρυνθείτε με τις τακτικές χρεώσεις του φορέα σας.</string>
+     <string name="mx_b2c_message_desc">Ειδοποιήσεις δικτύου</string>
      <string name="mx_btn_enable">Ενεργοποίηση</string>
      <string name="mx_btn_enable_now">Ενεργοποίηση</string>
      <string name="mx_count_dspt">Έχετε στείλει %1$d SMS και %2$d MMS</string>
@@ -335,6 +343,7 @@
      <string name="pref_notification_settings_title">Ρυθμίσεις ειδοποιήσεων</string>
      <string name="pref_other_title">Πρόσθετες ρυθμίσεις</string>
      <string name="pref_show_blocked_messages_summary">Εμφάνιση φραγμένων SMS στη λίστα των συζητήσεων</string>
+     <string name="pref_show_sms_template_in_summary">Αυτόματος εντοπισμός OTP σε μηνύματα SMS</string>
      <string name="pref_show_sms_template_summary">Αυτόματη αντιγραφή και συμπλήρωση κωδικών επαλήθευσης</string>
      <string name="pref_sms_theme_title">Ρυθμίσεις θεμάτων</string>
      <string name="pref_summary_allow_si_sl_push">Να επιτρέψετε τη λήψη και την κοινοποίηση των μηνυμάτων WAP push (SI/SL)</string>
@@ -354,6 +363,7 @@
      <string name="pref_summary_show_recent_contacts">Δείτε μια λίστα των πρόσφατων επαφών σας κατά τη σύνθεση ενός νέου μηνύματος</string>
      <string name="pref_summary_wake_up_screen">Ενεργοποίηση οθόνης όταν ληφθεί νέο μήνυμα</string>
      <string name="pref_system_title">Σύστημα</string>
+     <string name="pref_time_auto_group_disabled_summary">"Δεν υποστηρίζεται στο τρέχον μέγεθος γραμματοσειράς"</string>
      <string name="pref_time_auto_group_summary">Ομαδοποίηση μηνυμάτων που ελήφθησαν σε διάστημα ενός λεπτού μεταξύ τους, στο ίδιο νήμα</string>
      <string name="pref_time_auto_group_title">Ομαδοποίηση κατά χρόνο</string>
      <string name="pref_title_allow_si_sl_push">Επιτρέψτε την προώθηση WAP</string>
@@ -537,6 +547,7 @@
      <string name="title_date_type">Χρονοσήμανση μηνυμάτων</string>
      <string name="title_show_blocked_messages">Εμφάνιση φραγμένων SMS</string>
      <string name="title_show_sms_template">Έλεγχος στα SMS για κωδικούς επαλήθευσης</string>
+     <string name="title_show_sms_template_in">Έλεγχος SMS για OTP</string>
      <string name="title_timed_message_dialog">Ορισμός χρονικού μηνύματος</string>
      <string name="to_address_label">"Προς: "</string>
      <string name="to_count">%d παραλήπτες</string>
@@ -577,6 +588,9 @@
      <string name="view_hms_attachment_fail">Αδυναμία λήψης εικόνας</string>
      <string name="view_hms_details">Λεπτομέρειες</string>
      <string name="view_message_details">Προβολή λεπτομερειών</string>
+     <string name="voip_enable">Mi Message και Voice</string>
+     <string name="voip_enable_popup_msg">"Κάντε κλήσεις σε άλλους χρήστες MIUI χωρίς επιβάρυνση από το φορέα σας. Το VoIP υποστηρίζεται από το Weihui. Δείτε την πολιτική απορρήτου του Weihui."</string>
+     <string name="voip_enable_popup_msg2">Πολιτική Απορρήτου</string>
      <string name="wap_push_title">"[WAP Push] "</string>
      <string name="warning_show">Αποστολή σε %ds</string>
      <string name="xiaomi_service_number">Αριθμός υπηρεσίας</string>
