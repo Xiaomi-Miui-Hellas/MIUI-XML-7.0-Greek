@@ -164,7 +164,6 @@
      <string name="passport_account_not_actived">Ο λογαριασμός σας δεν ενεργοποιήθηκε</string>
      <string name="passport_active_email_visit">Ελέγξτε τα εισερχόμενά σας στο %s</string>
      <string name="passport_activing_account">Ενεργοποίηση…</string>
-     <string name="passport_app_name">Mi Account</string>
      <string name="passport_area_code_hot">Χρησιμοποιείται συχνά</string>
      <string name="passport_area_code_title">Κωδικός χώρας/περιοχής</string>
      <string name="passport_bad_authentication">Λανθασμένο όνομα χρήστη ή κωδικός πρόσβασης</string>
@@ -184,8 +183,6 @@
      <string name="passport_confirm">Επιβεβαίωση</string>
      <string name="passport_confirm_recycle_account">Ναι</string>
      <string name="passport_delete_account">Αποσύνδεση</string>
-     <string name="passport_dspt_provision">"Χρησιμοποιήστε τον λογαριασμό Mi για να συνδεθείτε στο Mi Cloud, MIUI Theme Store και στις άλλες υπηρεσίες Mi από παντού. "</string>
-     <string name="passport_dspt_provision2">Μάθετε περισσότερα</string>
      <string name="passport_email">Διεύθυνση email</string>
      <string name="passport_email_or_id_hint_text">Διεύθυνση email ή Mi Account ID</string>
      <string name="passport_email_reg_success_summary">%1$s έχει προστεθεί στον λογαριασμό σας. Μπορείτε να το χρησιμοποιήσετε για είσοδο ή επαναφορά του κωδικού σας.</string>
@@ -243,7 +240,6 @@
      <string name="passport_phone_num_hint_text">Αριθμός τηλεφώνου</string>
      <string name="passport_prev">Προηγούμενο</string>
      <string name="passport_privacy_policy">Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
-     <string name="passport_provision_skip_login"><u>Αγνοήστε αυτό το βήμα</u></string>
      <string name="passport_quick_login_dialog_step2_title">Επαλήθευση 2 σταδίων</string>
      <string name="passport_quick_login_dialog_title">Επαλήθευση κωδικού</string>
      <string name="passport_quick_login_step2_title">Επαλήθευση 2 σταδίων</string>
@@ -302,7 +298,6 @@
      <string name="passport_verification_failed">Ο έλεγχος ταυτότητας απέτυχε</string>
      <string name="passport_verify">Επαλήθευση</string>
      <string name="passport_wait_for_sms_prompt">"Θα ξεκινήστε από την αρχή τώρα; Τα μηνύματα επαλήθευσης μπορεί να χρειαστούν έως 10 λεπτά για να παραδοθούν όταν το τηλέφωνό σας βρίσκεται εντός της εμβέλειας του δικτύου του παρόχου σας."</string>
-     <string name="passport_welcome_skip_login"><u>Αγνοήστε αυτό το βήμα</u></string>
      <string name="passport_wrong_captcha">Λανθασμένος κωδικός επαλήθευσης</string>
      <string name="passport_wrong_password">Λανθασμένος κωδικός πρόσβασης</string>
      <string name="passport_wrong_phone_number_format">Η μορφή του αριθμού τηλεφώνου δεν είναι έγκυρη</string>
@@ -318,6 +313,7 @@
      <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες φωτογραφίες.</string>
      <string name="prev">Προηγούμενο</string>
      <string name="privacy_policy">Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
+     <string name="provision_skip_login"><u>Παραλείψτε αυτό το βήμα</u></string>
      <string name="qq">QQ</string>
      <string name="quick_login_dialog_step2_title">Επαλήθευση 2 σταδίων</string>
      <string name="quick_login_dialog_title">Επαλήθευση κωδικού</string>
