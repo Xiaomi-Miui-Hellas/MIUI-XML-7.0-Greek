@@ -213,7 +213,7 @@
      <string name="offline_alert_title">Προσωρινή αποθήκευση κοινοποιήσεων</string>
      <string name="offline_alert_wifi">Χρησιμοποιείτε δίκτυο κινητής τηλεφωνίας, για να μην καταναλώνετε τα δεδομένα σας, τα καθήκοντα προσωρινής αποθήκευσης είναι σε παύση και θα συνεχιστούν όταν μεταβείτε σε δίκτυο Wi-Fi.</string>
      <string name="offline_already_in">\"%1$s\" υπάρχει στην ουρά λήψης</string>
-     <string name="offline_created_order">Προστέθηκε \"%1$s\" στην ουρά λήψης. Αριθμός: %2$s</string>
+     <string name="offline_created_order">Προστέθηκε \"%1$s\" είναι ήδη σε αναμονή για λήψη</string>
      <string name="offline_loaded">Offline βίντεο</string>
      <string name="offline_loading">Offline</string>
      <string name="offline_max_promote">Αναμονή για προσωρινή αποθήκευση, υπάρχουν μόνο 2 εργασίες προσωρινής αποθήκευσης που μπορούν να τρέχουν ταυτόχρονα.</string>

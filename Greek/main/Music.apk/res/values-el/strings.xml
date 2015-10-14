@@ -316,6 +316,6 @@
      <string name="upgrade_remind">Διαθέσιμη ενημέρωση</string>
      <string name="upgrade_suggest">"Διακόπτουμε την τρέχουσα υπηρεσία μας ροής, λόγω δικαιωμάτων πνευματικής ιδιοκτησίας. Εγκαταστήστε την πιο πρόσφατη έκδοση της εφαρμογής Μουσική για να ακούσετε μουσική υψηλής ποιότητας."</string>
      <string name="upgrade_waringing">"Θα είστε είναι σε θέση να ακούσετε μουσική που είναι αποθηκευμένη εκτός σύνδεσης."</string>
-     <string name="valid_period">"Έγκυρο από: "</string>
+     <string name="valid_period">Έγκυρο: %s</string>
      <string name="vip_recommend_title">Υψηλότερη ποιότητα μουσικής</string>
 </resources>
