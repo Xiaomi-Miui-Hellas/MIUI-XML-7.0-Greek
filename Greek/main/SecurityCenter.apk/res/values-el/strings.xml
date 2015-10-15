@@ -473,7 +473,7 @@
      <string name="process_kernel_label">Λειτουργικό Android</string>
      <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
      <string name="protection_category_dangerous_title">Δυνητικά επικίνδυνα: %d</string>
-     <string name="protection_category_recommend_title">Συνιστώμενες βελτιστοποιήσεις: %d</string>
+     <string name="protection_category_recommend_title">Προτεινόμενες βελτιστοποιήσεις: %d</string>
      <string name="protection_category_security_title">Ασφάλεια: %d</string>
      <string name="risk_list_header_title">Ύποπτες εφαρμογές ανιχνεύθηκαν: %d</string>
      <string name="root_apply_step_1">Χορήγηση πρόσβασης root στο %s ;</string>

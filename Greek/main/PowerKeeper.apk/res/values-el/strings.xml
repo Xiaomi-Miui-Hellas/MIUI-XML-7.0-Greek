@@ -15,8 +15,14 @@
      <string name="alter_message_open_hide_title">"Διαχείριση χρήσης μπαταρίας εφαρμογών;"</string>
      <string name="alter_message_switch_mode">Εναλλαγή λειτουργιών;</string>
      <string name="alter_message_switch_mode_message">Όταν εναλλάσσετε λειτουργίες, οι προηγούμενες ρυθμίσεις σας δεν θα ισχύουν για αυτή την εφαρμογή.</string>
+     <string name="app_frozen_app_list_summary">Εφαρμογές παρασκηνίου</string>
+     <string name="app_list_title">Επιλέξτε εφαρμογές</string>
      <string name="app_name">Εξοικονόμηση μπαταρίας</string>
      <string name="background">Η εφαρμογή τρέχει στο παρασκήνιο</string>
+     <string name="config_custom_description">Όταν χρειάζεστε λιγότερο από ότι αναμενόταν, χρησιμοποιήστε την προσαρμοσμένη ρύθμιση</string>
+     <string name="config_custom_title">Προσαρμοσμένη</string>
+     <string name="config_suggest_description">Για εφαρμογές, χρησιμοποιείστε διαφορετικές ρυθμίσεις εξοικονόμησης ενέργειας</string>
+     <string name="config_suggest_title">Προτεινόμενη</string>
      <string name="disabled">Ανενεργό</string>
      <string name="empty_title_apps_container_list">Χωρίς εφαρμογές</string>
      <string name="error_filename_too_long">Το όνομα αρχείου που εισαγάγατε είναι πολύ μεγάλο.</string>
@@ -29,6 +35,13 @@
      <string name="high">Επιδόσεις</string>
      <string name="hints_loading_text">Μισό λεπτό…</string>
      <string name="invalid_size_value">"Δεν είναι δυνατό να προσδιοριστεί το μέγεθος του πακέτου."</string>
+     <string name="keep_connect_description">Οι εφαρμογές μπορούν να χρησιμοποιούν το δίκτυο στο παρασκήνιο/string>
+     <string name="keep_connect_title">Παραμονή σε σύνδεση</string>
+     <string name="location_disable_description">Οι εφαρμογές δεν θα έχουν πρόσβαση στην τοποθεσία σας στο παρασκήνιο</string>
+     <string name="location_disable_title">Απενεργοποίηση</string>
+     <string name="location_enable_description">Η εφαρμογές μπορούν να έχουν πρόσβαση στην τοποθεσία σας στο παρασκήνιο</string>
+     <string name="location_enable_title">Ενεργοποίηση</string>
+     <string name="location_mode_title">Τοποθεσία στο παρασκήνιο</string>
      <string name="low">Εξοικονόμηση μπαταρίας</string>
      <string name="low_power_auto_title">Περιορισμός εφαρμογών όταν η μπαταρία είναι χαμηλή</string>
      <string name="media">Λειτουργία πολυμέσων</string>
@@ -40,6 +53,7 @@
      <string name="mode_import">Εισαγωγή</string>
      <string name="mode_settings">Ρυθμίσεις</string>
      <string name="movie">Ταινία</string>
+     <string name="network_mode_title">Δίκτυο στο παρασκήνιο</string>
      <string name="new_group_name">Προσαρμοσμένη λειτουργία</string>
      <string name="no_applications">Κενό</string>
      <string name="none">Χωρίς διεργασίες</string>
@@ -89,7 +103,6 @@
      <string name="power_event_user_define_title">Νέα γεγονότα</string>
      <string name="power_event_view_event_title">Συνθήκες ενεργοποίησης</string>
      <string name="power_hide_mode_app_list_summary">Ρυθμίσεις εφαρμογής</string>
-     <string name="power_hide_mode_app_list_title">Επιλέξτε εφαρμογές που θα περιοριστούν</string>
      <string name="power_hide_mode_app_list_total">%d εφαρμογές</string>
      <string name="power_hide_mode_summary">"Εξοικονομήστε μπαταρία, μέσω του περιορισμού των διεργασιών παρασκηνίου μεμονωμένων εφαρμογών, όπως WLAN, συνδέσεις δεδομένων κινητής και GPS"</string>
      <string name="power_hide_mode_title">"Διαχ. χρήσης μπαταρίας εφαρμογών"</string>
@@ -104,6 +117,8 @@
      <string name="power_mode_view_event_title">Γεγονότα</string>
      <string name="power_mode_view_user_define_title">Νέα γεγονότα</string>
      <string name="power_optimize_activity_profile_file_error">Σφάλμα εξοικονόμησης μπαταρίας</string>
+     <string name="quick_disconnect_description">Οι εφαρμογές δεν θα έχουν πρόσβαση στο δίκτυο στο παρασκήνιο</string>
+     <string name="quick_disconnect_title">Άμεση αποσύνδεση</string>
      <string name="reading">Λειτουργία ανάγνωσης</string>
      <string name="screen_off">Ανενεργή οθόνη</string>
      <string name="screen_off_10_min">Ανενεργή οθόνη πάνω από 10 λεπτά</string>

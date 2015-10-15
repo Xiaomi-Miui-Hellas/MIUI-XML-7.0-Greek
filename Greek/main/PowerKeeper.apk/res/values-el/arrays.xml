@@ -49,4 +49,8 @@
         <item>Λειτουργία ανάγνωσης</item>
         <item>Λειτουργία πολυμέσων</item>
      </string-array>
+     <string-array name="hmode_app_groups">
+        <item>Προσαρμοσμένη ρύθμιση</item>
+        <item>Προτεινόμενη ρύθμιση</item>
+     </string-array>
 </resources>

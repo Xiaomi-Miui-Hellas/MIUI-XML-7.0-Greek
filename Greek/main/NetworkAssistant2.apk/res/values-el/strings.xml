@@ -519,6 +519,8 @@
      <string name="traffic_saving_msg_today">Εξοικονόμηση σήμερα:</string>
      <string name="traffic_saving_need_optimize">Μπορούν να βελτιστοποιηθούν</string>
      <string name="traffic_saving_notification_button_start">Ενεργοποίηση</string>
+     <string name="traffic_saving_notify_no_apps_saving">Καμία εφαρμογή δεν χρησιμοποιεί την εξοικονόμηση δεδομένων</string>
+     <string name="traffic_saving_notify_no_apps_saving_content">Πατήστε για ενεργοποίηση της εξοικονόμησης δεδομένων.</string>
      <string name="traffic_saving_notify_start_content">%s σώθηκαν αυτό το μήνα</string>
      <string name="traffic_saving_notify_start_title">Μείωση χρήσης δεδομένων</string>
      <string name="traffic_saving_one_key_optimize">Βελτιστοποίηση για εξοικονόμηση δεδομένων</string>

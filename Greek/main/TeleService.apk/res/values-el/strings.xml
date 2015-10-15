@@ -348,6 +348,7 @@
      <string name="fdn_disabled">Τα FDN έχουν απενεργοποιηθεί</string>
      <string name="fdn_enable_puk2_requested">Λανθασμένος κωδικός, το PIN2 έχει μπλοκάρει. Παρακαλώ αλλάξτε το PIN2 και δοκιμάστε ξανά!</string>
      <string name="fdn_enabled">Τα FDNs έχουν ενεργοποιηθεί</string>
+     <string name="fdn_full">"Ο FDN δεν ενημερώθηκε επειδή η λίστα είναι πλήρης."</string>
      <string name="fdn_invalid_number">Ο FDN δεν ενημερώθηκε επειδή ο αριθμός δεν μπορεί να υπερβαίνει τα 20 ψηφία.</string>
      <string name="fdn_summary">Περιορισμός εξερχόμενων κλήσεων σε καταχωρημένα FDNs, ή αριθμούς με συγκεκριμένα προθέματα</string>
      <string name="feedback">Σχόλια</string>

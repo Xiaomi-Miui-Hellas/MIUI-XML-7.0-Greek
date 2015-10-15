@@ -301,6 +301,7 @@
 
 Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις.
 "</string>
+     <string name="sync_dspt_provision_header">Συγχρονισμός</string>
      <string name="sync_dspt_provision_title">Mi Cloud</string>
      <string name="sync_item_calllog_summary">Συγχρονισμός αρχείων κλήσεων που έγιναν και ελήφθησαν σε αυτό το τηλέφωνο</string>
      <string name="sync_item_calllog_title">Συγχρονισμός αρχείων καταγραφής κλήσεων</string>

@@ -194,7 +194,7 @@
      <string name="process" />
      <string name="recommend_apps_default_title">Κενό</string>
      <string name="recommend_apps_notice">Προτεινόμενες εφαρμογές</string>
-     <string name="recommend_apps_switch_summary">Εμφάνιση συνιστώμενων εφαρμογών στο κάτω μέρος της οθόνης.</string>
+     <string name="recommend_apps_switch_summary">Εμφάνιση προτεινόμενων εφαρμογών στο κάτω μέρος της οθόνης.</string>
      <string name="recommend_apps_switch_title">Προτεινόμενες εφαρμογές</string>
      <string name="recommend_apps_tips">"Για αυτή τη λειτουργία, πρέπει να συνδεθείτε στο Internet για να λειτουργήσει κανονικά. Για να την απενεργοποιήσετε, αγγίξτε το όνομα του τρέχοντος φακέλου."</string>
      <string name="reset_scene_prompt">H σκηνή θα επανέλθει στην προεπιλεγμένη διάταξη</string>

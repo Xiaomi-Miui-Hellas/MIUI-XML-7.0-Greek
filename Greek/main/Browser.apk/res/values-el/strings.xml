@@ -59,6 +59,14 @@
      <string name="app_new_version">Έχετε ήδη λάβει την τελευταία έκδοση</string>
      <string name="app_update_install">Νέα έκδοση έχει ληφθεί και αναμένει εγκατάσταση</string>
      <string name="application_name">Πλοηγός</string>
+     <string name="aqi_quality_index_break">AQI %1$s</string>
+     <string name="aqi_quality_index_dangerous">AQI %1$s</string>
+     <string name="aqi_quality_index_good">AQI %1$s</string>
+     <string name="aqi_quality_index_hazardous">AQI %1$s</string>
+     <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
+     <string name="aqi_quality_index_moderate">AQI %1$s</string>
+     <string name="aqi_quality_index_pure">AQI %1$s</string>
+     <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
      <string name="autologin_bar_error">"Αδύνατη σύνδεση."</string>
      <string name="autologin_bar_hide_text">Απόκρυψη</string>
      <string name="autologin_bar_login_text">Σύνδεση</string>
@@ -99,6 +107,7 @@
      <string name="cannot_download">Δυνατότητα λήψης μόνο \"http\" ή \"https\" URLs.</string>
      <string name="choosertitle_sharevia">Κοινή χρήση μέσω</string>
      <string name="clear_history">Καθαρισμός ιστορικού</string>
+     <string name="clear_most_visited">Πρόσφατο ιστορικό</string>
      <string name="clear_search_history">Καθαρισμός ιστορικού</string>
      <string name="clip_dialog_title">Άνοιγμα url από αντιγραφή;</string>
      <string name="close_ads_choice_no">Επέτρεψε</string>
@@ -234,6 +243,13 @@
      <string name="have_sent_bookmark_to_home_screen">Σελιδοδείκτης στάλθηκε στην αρχική οθόνη</string>
      <string name="history_saved_webpage">Αποθήκευση σελίδας</string>
      <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+     <string name="homepage_delete_card_menu">Διαγραφή</string>
+     <string name="homepage_get_location">Λήψη τοποθεσίας</string>
+     <string name="homepage_get_location_failed">"Αδυναμία λήψης πληροφοριών. Επιλέξτε μια πόλη"</string>
+     <string name="homepage_more_cards">Περισσότερες υπηρεσίες</string>
+     <string name="homepage_more_sites">Περισσότερες ιστοσελίδες</string>
+     <string name="homepage_search_hint">Αναζήτηση</string>
+     <string name="homepage_top_card_menu">Κορυφή</string>
      <string name="in_incognito">Η λειτουργία σελίδας πλοηγού είναι ενεργή, δεν θα κρατηθεί κανένα ιστορικό πλοήγησης.</string>
      <string name="is_first_history_item">Αυτό είναι το πρώτο αντικείμενο ιστορικού</string>
      <string name="is_first_tab">Αυτή είναι η πρώτη καρτέλα</string>
@@ -320,6 +336,11 @@
      <string name="miuishare_weibo_title">Weibo</string>
      <string name="modify_download_path_no_sdcard_dlg_msg">Απαιτείται USB αποθήκευση για μετατροπή.</string>
      <string name="month_picker_dialog_title">ορισμός μήνα</string>
+     <string name="nav_bottom_bar_back">Πίσω</string>
+     <string name="nav_bottom_bar_close_all">Κλείσιμο όλων</string>
+     <string name="nav_bottom_bar_new_tab">Νέα καρτέλα</string>
+     <string name="nav_screen_container_tab_incognito">Καρτέλα ανώνυμης περιήγησης</string>
+     <string name="nav_screen_container_tab_normal">Κανονική καρτέλα</string>
      <string name="network_show_wifi_setting_tip_dialog_description">Wi-Fi σύνδεση βρέθηκε, θέλετε να συνδεθείτε;</string>
      <string name="network_show_wifi_setting_tip_dialog_title">Διαθέσιμο τοπικό δίκτυο Wi-Fi</string>
      <string name="new_folder_name_lable">Όνομα ομάδας</string>
@@ -341,6 +362,7 @@
      <string name="pref_adblock_counts">σύνολο μπλοκ.διαφημίσεων %d</string>
      <string name="pref_adblock_title">Adblock</string>
      <string name="pref_auto_update_under_wifi">Αυτόματη ενημέρωση με Wi-Fi</string>
+     <string name="pref_category_hint">Κατηγορία</string>
      <string name="pref_check_security_url_summary">"Αποστολή σελίδων' URLs στους server της Xiaomi για έλεγχο"</string>
      <string name="pref_check_security_url_title">Έλεγχος ασφάλειας URL</string>
      <string name="pref_clear_adblock_statistics">Καθαρισμός στατιστικών Adblock</string>
@@ -359,6 +381,9 @@
      <string name="pref_content_search_engine">Ορισμός μηχανής αναζήτησης</string>
      <string name="pref_content_search_engine_summary">Επιλογή μηχανής αναζήτησης</string>
      <string name="pref_enable_adblock_notification">Ειδοποιήσεις Ad blocker</string>
+     <string name="pref_enable_news">Ειδήσεις</string>
+     <string name="pref_enable_novels">Βιβλία</string>
+     <string name="pref_enable_videos">Βίντεο</string>
      <string name="pref_extras_reset_default">Επαναφορά στα προκαθορισμένα</string>
      <string name="pref_extras_reset_default_dlg">Επαναφορά στις προκαθορισμένες ρυθμίσεις;</string>
      <string name="pref_extras_reset_default_summary">Επαναφορά προκαθορισμένων ρυθμίσεων</string>
@@ -377,7 +402,10 @@
      <string name="pref_force_userscalable_summary">"Παράκαμψη ελέγχου ζουμ από σελίδες"</string>
      <string name="pref_general_title">Γενικά</string>
      <string name="pref_key_gesture_title">Κουμπιά και χειρονομίες</string>
-     <string name="pref_other_title">Other</string>
+     <string name="pref_notifications_hint">Ειδοποιήσεις</string>
+     <string name="pref_notifications_receive">Ειδοποιήσεις</string>
+     <string name="pref_notifications_title">Ειδοποιήσεις</string>
+     <string name="pref_other_title">Άλλο</string>
      <string name="pref_privacy_clear_cache">Καθαρισμός cache</string>
      <string name="pref_privacy_clear_cache_dlg">Διαγραφή τοπικού cached περιεχομένου και βάσεων δεδομένων;</string>
      <string name="pref_privacy_clear_cache_summary">Καθαρισμός τοπικού cached περιεχομένου και βάσεων δεδομένων</string>
@@ -418,6 +446,8 @@
      <string name="pref_ua_string">Αναγνωριστικό περιήγησης</string>
      <string name="pref_version_info">Πληροφορίες έκδοσης</string>
      <string name="pref_volume_key_action">Πλήκτρα έντασης: Προηγούμενη/Επόμενη σελίδα</string>
+     <string name="pref_weather_location_summary">"Χρησιμοποιείται από το plug-in καιρού του προγράμματος περιήγησης"</string>
+     <string name="pref_weather_location_title">Καιρός τοποθεσίας</string>
      <string name="private_browsing_warning">Αυτή η λειτουργία δεν υποστηρίζεται σε αυτή την έκδοση του Android.</string>
      <string name="profiler_error_toast">Αδυναμία εκκίνησης profiler</string>
      <string name="profiler_no_storage_toast">"Αδυναμία εκκίνησης profiler επειδή δεν είναι έτοιμος ο χώρος αποθήκευσης"</string>
@@ -490,7 +520,8 @@
      <string name="search_label">Αναζήτηση</string>
      <string name="search_s139">139</string>
      <string name="search_settings_description">Σελιδοδείκτες και ιστορικό πλοήγησης</string>
-     <string name="search_shipin">Video</string>
+     <string name="search_shipin">Βίντεο</string>
+     <string name="search_sm">SM</string>
      <string name="search_sogou">Sogou</string>
      <string name="search_taobao">Taobao</string>
      <string name="search_tupian">Image</string>
@@ -502,7 +533,8 @@
      <string name="select_download_device">Επιλογή συσκευής</string>
      <string name="share_page_text">"Απολαμβάνω 【%1$s】 | %2$s"</string>
      <string name="show_check_security_url_check_tip_dialog_description">"Αυτή η σελίδα(URL) θα σταλθεί στους Server της Xiaomi για έλεγχο της ασφάλειας. Μπορείτε να απενεργοποιήσετε αυτή τη λειτουργαία από τις ρυθμίσεις."</string>
-     <string name="show_check_security_url_check_tip_dialog_title">Ασφάλεια URL</string>
+     <string name="show_security_tip_dialog_title">Όροι Παροχής Υπηρεσιών</string>
+     <string name="show_weather_location_getter_tip_dialog_description">Οι υπηρεσίες καιρού, χρειάζονται πληροφορίες για την τοποθεσίας σας για να σας παρέχουν ενημερωμένες πληροφορίες καιρού στο πρόγραμμα περιήγησής σας. Μπορείτε να απενεργοποιήσετε αυτή τη δυνατότητα στις Ρυθμίσεις.</string>
      <string name="sign_in_to" formatted="false">Σύνδεση σε %s1 \"%s2\"</string>
      <string name="skip_button_label">Παράλειψη</string>
      <string name="skip_current_version">Παράλειψη αυτής την έκδοση</string>
@@ -555,6 +587,7 @@
      <string name="url_find_on_page_result">Προβολή στο πρόγραμμα περιήγησης</string>
      <string name="url_find_on_page_result_item">Δείτε όλο το κείμενο για \"%s\"</string>
      <string name="url_hint">Εύρεση ή εισαγωγή ιστοσελίδας</string>
+     <string name="url_hint_from_search">Εισάγετε τη λέξη-κλειδί</string>
      <string name="url_opened_in_background">Άνοιγμα σε καρτέλα στο παρασκήνιο</string>
      <string name="url_suggest_indicator_bookmark">Αγαπημένα/Ιστορικό</string>
      <string name="url_suggest_indicator_hoturl">Δημοφιλή</string>

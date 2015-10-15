@@ -8,6 +8,12 @@
      <string name="button_start_now">Λήψη</string>
      <string name="call_record">Ηχογράφηση κλήσης (%d)</string>
      <string name="cloud_record">Ηχογράφηση στο cloud(%d)</string>
+     <string name="cloud_record_open">Συγχρονισμός εγγραφών</string>
+     <string name="cloud_record_tip">Συγχρονισμός εγγραφών με το Mi Cloud.</string>
+     <string name="cloud_status_full_dialog_cancel">Όχι τώρα</string>
+     <string name="cloud_status_full_dialog_msg">"Ο χώρος αποθήκευσης στο cloud είναι πλήρης. Αδύνατος ο συγχρονισμός εγγραφών. Αναβαθμίστε το λογαριασμό σας για να πάρετε περισσότερο χώρο αποθήκευσης."</string>
+     <string name="cloud_status_full_dialog_ok">Αναβάθμιση</string>
+     <string name="cloud_status_full_dialog_title">Ο χώρος αποθήκευσης Mi Cloud είναι πλήρης</string>
      <string name="data_connection_body">"Συμβουλή:
 Στο δίκτυο του φορέα, η λήψη θα κοστίσει πολύ."</string>
      <string name="data_connection_button_text">OK</string>
@@ -28,10 +34,8 @@
      <string name="error_sdcard_access">Αδύνατη η πρόσβαση στην κάρτα SD</string>
      <string name="error_sdcard_unmounted">Η κάρτα SD δεν είναι προσαρτημένη, παρακαλώ εισάγετε μια κάρτα SD</string>
      <string name="fm_record">Ηχογράφηση Ράδιο FM (%d)</string>
-     <string name="loading_recording">Φόρτωση</string>
      <string name="low_battery_error">Στην μπαταρία έχει απομείνει λιγότερο από 5%, για να μη χαθεί η ηχογράφηση η εγγραφή σταμάτησε και το αρχείο αποθηκεύτηκε.</string>
      <string name="message_file_size_error">Η εγγραφή έχει φτάσει το μέγιστο επιτρεπόμενο μήκος που υποστηρίζεται για %s</string>
-     <string name="no_downloading_file">Δεν λαμβάνονται αρχεία.</string>
      <string name="no_file">Χωρίς εγγραφές</string>
      <string name="notification_message_all_paused">Μπορεί να αυξήσει τη χρήση δεδομένων κινητής.</string>
      <string name="notification_playback">Αναπαραγωγή ηχογράφησης…</string>
@@ -46,21 +50,14 @@
      <string name="preference_led_indicator">Ένδειξη με κλειδωμένη οθόνη</string>
      <string name="preference_led_indicator_prompt">Προβολή στο δείκτη LED και την μπάρα κατάστασης όταν η οθόνη είναι κλειδωμένη</string>
      <string name="preference_record_scenes_dialog_title">Επιλογή σκηνής εγγραφής</string>
-     <string name="preference_record_type_dialog_title">Επιλογή τύπου εγγραφής</string>
-     <string name="preference_record_type_title">Τύπος εγγραφής</string>
      <string name="preference_scenes">Ρυθμίσεις σκηνών</string>
      <string name="preference_silent_mode">Σιωπηλή λειτ. ηχογράφησης</string>
      <string name="preference_tip_rename">Μετονομασία αρχείου μετά την εγγραφή</string>
      <string name="record_back_pressed_hint">Για να σταματήσετε την εγγραφή, πατήστε ξανά το Πίσω</string>
      <string name="record_download">Λήψη από το Mi Cloud</string>
-     <string name="record_download_activity">Λήψη εγγραφών</string>
      <string name="record_download_complete">Ολοκληρώθηκε</string>
-     <string name="record_download_failed">Απέτυχε</string>
      <string name="record_download_msg">Οι εγγραφές μπορούν να αναπαραχθούν μόνο αφού έχουν τελειώσει η λήψη τους.</string>
      <string name="record_download_msg_reload">"Αυτή η εγγραφή δεν υπάρχει"</string>
-     <string name="record_download_paused">Σε παύση</string>
-     <string name="record_download_pending">Σε αναμονή</string>
-     <string name="record_download_progress">%d%%</string>
      <string name="record_downloading_notification">Λήψη…</string>
      <string name="record_downloading_notification_complete">Η λήψη ολοκληρώθηκε</string>
      <string name="record_downloading_notification_count">Λαμβάνονται %d</string>
@@ -90,7 +87,6 @@
      <string name="sync_only_in_wifi_summary">Η Ηχογράφηση δεν θα χρησιμοποιεί δεδομένα κινητής τηλεφωνίας για να κατεβάσει και να ανεβάσει εγγραφές αν αυτή η επιλογή είναι ενεργοποιημένη</string>
      <string name="sync_records">Συγχρονισμός με Mi Cloud</string>
      <string name="timer_format" formatted="false">%02d:%02d</string>
-     <string name="toast_file_is_downloading">Αυτό το αρχείο λαμβάνεται</string>
      <string name="toast_max_record_time">%1$s μπορεί να ηχογραφήσει για %2$s</string>
      <string name="toast_uninstall_fileexplorer">"Η εφαρμογή εξερεύνησης αρχείων δεν υπάρχει"</string>
      <string name="wifi_recommended_body" formatted="false">"Ξεκινώντας αυτή %s τη λήψη τώρα μπορεί να ελαττώσει τη διάρκεια της μπαταρίας σας ή/και να οδηγήσει σε υπερβολική χρήση της σύνδεσης δεδομένων κινητής τηλεφωνίας, η οποία μπορεί να οδηγήσει σε χρεώσεις από την εταιρεία κινητής τηλεφωνίας, ανάλογα με το πρόγραμμα δεδομένων σας.
