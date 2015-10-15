@@ -35,7 +35,7 @@
      <string name="high">Επιδόσεις</string>
      <string name="hints_loading_text">Μισό λεπτό…</string>
      <string name="invalid_size_value">"Δεν είναι δυνατό να προσδιοριστεί το μέγεθος του πακέτου."</string>
-     <string name="keep_connect_description">Οι εφαρμογές μπορούν να χρησιμοποιούν το δίκτυο στο παρασκήνιο/string>
+     <string name="keep_connect_description">Οι εφαρμογές μπορούν να χρησιμοποιούν το δίκτυο στο παρασκήνιο</string>
      <string name="keep_connect_title">Παραμονή σε σύνδεση</string>
      <string name="location_disable_description">Οι εφαρμογές δεν θα έχουν πρόσβαση στην τοποθεσία σας στο παρασκήνιο</string>
      <string name="location_disable_title">Απενεργοποίηση</string>
