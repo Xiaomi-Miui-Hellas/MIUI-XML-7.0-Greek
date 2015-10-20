@@ -189,7 +189,7 @@
      <string name="status_bar_recent_guide_bottom">Σύρετε προς τα κάτω για κλείδωμα</string>
      <string name="status_bar_recent_guide_top">Σύρετε προς τα πάνω για κλείσιμο</string>
      <string name="status_bar_recent_memory_info1">%1$sB από %2$sB διαθέσιμα</string>
-     <string name="status_bar_recent_memory_info2">" %s διαθέσιμα"</string>
+     <string name="status_bar_recent_memory_info2" />
      <string name="status_bar_recording_back">Κλικ για επιστροφή στην εγγραφή</string>
      <string name="status_bar_recording_pause">Η εγγραφή έχει παγώσει.</string>
      <string name="status_bar_settings_airplane">Λειτουργία πτήσης</string>

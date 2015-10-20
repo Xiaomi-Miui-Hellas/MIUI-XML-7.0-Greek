@@ -18,7 +18,7 @@
      <string name="accessibility_sync_cal">Συγχρονισμός ημερολογίου</string>
      <string name="account_and_calendar">Λογαριασμός και ημερολόγιο</string>
      <string name="account_and_calendar_to_display">Λογαριασμός και ημερολόγιο για εμφάνιση</string>
-     <string name="accounts">Λογαριασμός &amp; Συγχρονισμός</string>
+     <string name="accounts">Λογαριασμοί &amp; Συγχρονισμός</string>
      <string name="acct_not_synced">"Αυτός ο λογαριασμός δεν έχει συγχρονιστεί έτσι τα ημερολόγιά σας μπορεί να μην είναι ενημερωμένα μέχρι και σήμερα."</string>
      <string name="acessibility_cal_notification">Ειδοποίηση ημερολογίου</string>
      <string name="acessibility_selected_marker_description">Επιλεγμένο γεγονός</string>
