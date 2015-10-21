@@ -2784,7 +2784,7 @@
      <string name="vpn_username">Όνομα χρήση</string>
      <string name="wait_for_debugger">Αναμονή για debugger</string>
      <string name="wait_for_debugger_summary">Η debugged εφαρμογή περιμένει τον debugger να επισυναφθεί πριν ξεκινήσει η εκτέλεση</string>
-     <string name="wakeup_for_keyguard_notification_title" />
+     <string name="wakeup_for_keyguard_notification_title">Wake up screen with new notification</string>
      <string name="wallpaper_desktop">Αρχική οθόνη</string>
      <string name="wallpaper_live">Ζωντανή ταπετσαρία</string>
      <string name="wallpaper_lockscreen">Οθόνη κλειδώματος</string>
