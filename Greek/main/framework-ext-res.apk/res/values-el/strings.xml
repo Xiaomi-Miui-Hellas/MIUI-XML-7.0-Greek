@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="all_call_livetalk_enable">Χρήση πακέτων top-up για τις εγχώριες και διεθνείς κλήσεις</string>
-     <string name="all_call_livetalk_remain_mins">Λεπτά που απομένουν: (%1$s εγχώρια) | %2$s (%3$s)</string>
+     <string name="all_call_livetalk_remain_mins">Λεπτά που απομένουν: %1$s εγχώρια | %2$s διεθνή</string>
      <string name="alwaysUsePrompt">Να θυμάται την επιλογή</string>
      <string name="auto_start_warning_allow">Επέτρεψε</string>
      <string name="auto_start_warning_deny">Άρνηση</string>
