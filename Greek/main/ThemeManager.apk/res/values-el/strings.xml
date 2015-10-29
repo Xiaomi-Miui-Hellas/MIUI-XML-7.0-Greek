@@ -77,6 +77,11 @@
      <string name="loading">Φορτώνει…</string>
      <string name="loading_resource_detail_fail">Απέτυχε η φόρτωση πόρων!</string>
      <string name="loading_resource_detail_info">Φορτώνει…</string>
+     <string name="lockscreen_magazine_subscribe">%1$s ακόλουθοι</string>
+     <string name="lockscreen_magazine_summary">Πάρτε μια νέα ταπετσαρία κάθε μέρα απευθείας στην οθόνη κλειδώματος.</string>
+     <string name="lockscreen_magazine_system_subscribe">%1$s ταπετσαρίες</string>
+     <string name="lockscreen_magazine_system_title">Προεπιλογή</string>
+     <string name="lockscreen_magazine_title">Ημερήσιες οθόνες κλειδώματος</string>
      <string name="lockscreen_wallpaper">Οθόνη κλειδώματος</string>
      <string name="lockstyle_personal_settings">Προσαρμογή</string>
      <string name="long_ringtone_resource">Μακρύς</string>
@@ -284,6 +289,9 @@
      <string name="selected_resource_file_invalid">Το επιλεγμένο αρχείο δεν είναι έγκυρο.</string>
      <string name="settings">Ρυθμίσεις</string>
      <string name="short_ringtone_resource">Βραχύς</string>
+     <string name="theme_apply_failured">"Αδυναμία εφαρμογής ταπετσαρίας στην οθόνη κλειδώματος"</string>
+     <string name="theme_apply_success">Εφαρμόστηκε στην οθόνη κλειδώματος</string>
+     <string name="theme_applying">Εφαρμογή…</string>
      <string name="theme_batch_update_all">Ενημέρωση όλων</string>
      <string name="theme_batch_update_dlg_content">Ενημέρωση %1$s και %2$d άλλων θεμάτων τώρα;</string>
      <string name="theme_batch_update_dlg_content_single">Ενημέρωση %1$s τώρα;</string>
@@ -333,6 +341,14 @@
      <string name="theme_multiple_button_title_customize">Μείξη</string>
      <string name="theme_name">%1$s</string>
      <string name="theme_no">Όχι</string>
+     <string name="theme_precast_create_notification_content">Πατήστε για να δείτε νέα θέματα.</string>
+     <string name="theme_precast_create_notification_title">Ενημερώθηκε σε MIUI 7</string>
+     <string name="theme_precast_update_notification_content">Πατήστε για να εξερευνήσετε τις ενημερώσεις</string>
+     <string name="theme_precast_update_notification_title">Τα θέματα για MIUI 7 ενημερώθηκαν</string>
+     <string name="theme_provision_default_theme_title">Προεπιλογή</string>
+     <string name="theme_provision_loading_tips">Μισό λεπτό…</string>
+     <string name="theme_provision_oper_button_next">Επόμενο</string>
+     <string name="theme_provision_title">Επιλέξτε ένα θέμα</string>
      <string name="theme_purchased_list_empty">Δεν έχετε αγοράσει κανένα θέμα.</string>
      <string name="theme_purchased_non_local">Μη-Τοπικά</string>
      <string name="theme_select_others">Άλλα</string>

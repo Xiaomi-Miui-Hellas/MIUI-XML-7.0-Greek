@@ -1648,7 +1648,7 @@
      <string name="notification_breathing_light_freq_title">Συχνότητα LED flash ειδοποιήσεων</string>
      <string name="notification_listener_security_warning_summary">%1$s θα είναι σε θέση να διαβάσει όλες τις κοινοποιήσεις που δημοσιεύτηκε από το σύστημα ή εγκατεστημένη εφαρμογή, που μπορεί να περιλαμβάνουν προσωπικές πληροφορίες, όπως τα ονόματα των επαφών και του κειμένου των μηνυμάτων που αποστέλλονται σε εσάς. Επίσης, θα είναι σε θέση να απορρίψει αυτές τις ειδοποιήσεις ή να αγγίξετε τα κουμπιά δράσης στο εσωτερικό τους.</string>
      <string name="notification_listener_security_warning_title">Ενεργοποίηση %1$s;</string>
-     <string name="notification_pulse_title">Led ειδοποίησης</string>
+     <string name="notification_pulse_title">LED ειδοποίησης</string>
      <string name="notification_sound_dialog_title">Επιλογή ήχου ειδοποίησης</string>
      <string name="notification_sound_title">Προεπιλεγμένη ειδοποίηση</string>
      <string name="notification_volume_title">Ειδοποίηση</string>
@@ -2142,7 +2142,7 @@
      <string name="search_settings_summary">Συγχώνευση ρυθμίσεων αναζήτησης και ιστορικού</string>
      <string name="search_silent">Σιωπηλό</string>
      <string name="search_sms_received">Ληφθέντα SMS</string>
-     <string name="search_status_bar">Μπάρα κατάστασης</string>
+     <string name="search_status_bar">Γραμμή κατάστασης</string>
      <string name="search_storage">αποθήκευση</string>
      <string name="search_sync">Συγχρονίστε</string>
      <string name="search_tether">Πρόσδεση</string>
@@ -2339,7 +2339,7 @@
      <string name="status_bar_settings_show_notification_icon">Προβολή εικονιδίων ειδοποίησης</string>
      <string name="status_bar_settings_show_screenshot_notification">Προβολή ειδοπ. στιγμιότυπου</string>
      <string name="status_bar_settings_show_wifi_name">Προβολή Wi-Fi</string>
-     <string name="status_bar_settings_status_bar">Μπάρα κατάστασης</string>
+     <string name="status_bar_settings_status_bar">Γραμμή κατάστασης</string>
      <string name="status_bar_settings_toggle_collapse_after_clicked">Κλείσιμο μετά το άγγιγμα</string>
      <string name="status_bar_settings_toggle_position">Οργάνωση διακοπτών</string>
      <string name="status_bt_address">Διεύθυνση Bluetooth</string>
@@ -2783,8 +2783,8 @@
      <string name="vpn_type">Τύπος</string>
      <string name="vpn_username">Όνομα χρήση</string>
      <string name="wait_for_debugger">Αναμονή για debugger</string>
-     <string name="wait_for_debugger_summary">Η debugged εφαρμογή περιμένει τον debugger να επισυναφθεί πριν ξεκινήσει η εκτέλεση</string>
-     <string name="wakeup_for_keyguard_notification_title">Wake up screen with new notification</string>
+     <string name="wait_for_debugger_summary">Η εφαρμογή για αποσφαλμάτωση, περιμένει την επισύναψη του debugger πριν από την εκτέλεση</string>
+     <string name="wakeup_for_keyguard_notification_title">Ενεργοποίηση οθόνης με κάθε νέα ειδοποίηση</string>
      <string name="wallpaper_desktop">Αρχική οθόνη</string>
      <string name="wallpaper_live">Ζωντανή ταπετσαρία</string>
      <string name="wallpaper_lockscreen">Οθόνη κλειδώματος</string>

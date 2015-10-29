@@ -12,6 +12,11 @@
         <item>Λήψη αντιγράφου και απεγκατάσταση</item>
         <item>Απεγκατάσταση</item>
      </string-array>
+     <string-array name="auto_alert_apps_time">
+        <item>Κάθε 7 ημέρες</item>
+        <item>Κάθε 15 ημέρες</item>
+        <item>Κάθε 30 ημέρες</item>
+     </string-array>
      <string-array name="auto_clean_size">
         <item>100MB</item>
         <item>300MB</item>

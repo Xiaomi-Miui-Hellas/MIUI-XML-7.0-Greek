@@ -90,7 +90,7 @@
     <string name="splash_add_device_des">Προσθέστε το πρώτο τηλεχειριστήριο!</string>
     <string name="add_device_match_desc_top">    1. Ευθυγραμμίστε την συσκευή %1$s</string>
     <string name="add_device_match_desc_center">    2. Κάντε κλικ στο κουμπί για να στείλει εντολές IR</string>
-    <string name="add_device_match_desc_bottom">    3. Επαληθεύσετε τη σύνδεση</string>
+    <string name="add_device_match_desc_bottom">    3. Επιλέξτε %1$s για επαλήθευση της σύνδεσης</string>
     <string name="match_type_selection_des">Παρακαλώ επιλέξτε για ποια συσκευή θέλετε να προσθέσετε ένα τηλεχειριστήριο</string>
     <string name="match_type_selection_title">Τύπος συσκευής</string>
     <string name="match_stb_seletion_des">Επιλέξτε τον τύπο που ταιριάζει στη συσκευή σας</string>

@@ -110,6 +110,8 @@
      <string name="firewall_network_restrict_notify_message">Πατήστε για αλλαγή ρυθμίσεων.</string>
      <string name="firewall_network_restrict_notify_mobile">Δεδομένα κινητής</string>
      <string name="firewall_network_restrict_notify_title">"%1$s δεν επιτρέπεται να συνδεθεί με %2$s."</string>
+     <string name="firewall_restrict_android_dialog_content">"Αν δεν επιτρέψετε στο Android να συνδεθεί στο Internet, μερικά βασικά χαρακτηριστικά όπως το Wi-Fi hotspot, μπορεί να επηρεαστούν."</string>
+     <string name="firewall_restrict_android_dialog_title">Προσοχή</string>
      <string name="firewall_rule_group_title_mobile">Κινητή</string>
      <string name="firewall_rule_group_title_roaming">Διεθνής περιαγωγή</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -136,6 +138,7 @@
      <string name="international_roaming_setting">Διεθνής περιαγωγή</string>
      <string name="international_roaming_whitelist_count">%d εφαρμογές μπορούν να συνδεθούν σε υπηρεσίες δεδομένων κατά τη διεθνή περιαγωγή</string>
      <string name="ip_address_exception_summary">"Αδυναμία λήψης διεύθυνσης IP. Εάν αντιμετωπίσετε ξανά από το πρόβλημα, δοκιμάστε να χρησιμοποιήσετε μια στατική διεύθυνση IP."</string>
+     <string name="kilobyte_per_second">K/s</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Άδειο</string>
      <string name="load_fail">"Αδυναμία φόρτωσης"</string>
@@ -193,15 +196,12 @@
      <string name="main_traffic_used_text">αναλώθηκαν</string>
      <string name="manual_input_free_traffic">Ρυθμίστε τη χρήση δεδομένων εκτός αιχμής</string>
      <string name="manual_input_traffic">Ορισμός χρήσης δεδομένων</string>
+     <string name="megabyte_per_second">M/s</string>
      <string name="mi_service_app_detail">Λεπτομέρειες χρήσης δεδομένων</string>
      <string name="mi_service_framework">Πλαίσιο υπηρεσιών Mi</string>
      <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
      <string name="mi_service_traffic_detail">Λεπτομέρειες υπηρεσιών Mi</string>
      <string name="mian_page_primary_txt">Διεθνής περιαγωγή</string>
-     <string name="miuishare_title_more">Περισσότερα</string>
-     <string name="miuishare_title_share">Κοινή χρήση</string>
-     <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
-     <string name="miuishare_weibo_title">Weibo</string>
      <string name="network_assistant_upgraded_body">Πατήστε για να περιορίσετε τη χρήση των δεδομένων.</string>
      <string name="network_assistant_upgraded_title">Ενημέρωση ολοκληρώθηκε</string>
      <string name="network_blocked_connected_open_wifi">Συνδεδεμένο σε δημόσιο δίκτυο</string>
@@ -217,7 +217,6 @@
  2. Αν έχετε μόλις ανανεώσει το υπόλοιπό σας, κάντε επανεκκίνηση της συσκευής σας και προσπαθήστε ξανά.
 
  3. Το σήμα δικτύου του φορέα σας μπορεί να είναι ασθενές στην τρέχουσα τοποθεσία σας."</string>
-     <string name="network_not_available">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="network_operator_exception_summary">"Αδυναμία ενεργοποίησης κάρτας SIM. Βεβαιωθείτε ότι έχετε τοποθετήσει σωστά την κάρτα SIM και ότι το πακέτο δεδομένων κινητής έχει ενεργοποιηθεί από τον φορέα σας."</string>
      <string name="network_permission_exception_tips">"Αδυναμία χρήσης δεδομένων κινητής για σύνδεση στο δίκτυο"</string>
      <string name="network_roaming_exception_tips">"Αδυναμία χρήσης δεδομένων κινητής κατά την περιαγωγή για σύνδεση στο δίκτυο."</string>
@@ -252,7 +251,6 @@
      <string name="network_speed_for_apps_total">Ταχύτητα σύνδεσης</string>
      <string name="networkchanged_exception_summary">Η σύνδεση δικτύου έχει αλλάξει. Παρακαλώ ελέγξτε ξανά.</string>
      <string name="networkchanged_exception_title">Η σύνδεση άλλαξε</string>
-     <string name="no_network_btn">Δοκιμάστε ξανά</string>
      <string name="none_mi_service_app_detail">Κενό</string>
      <string name="notify_daily_data_usage_body">Για να περιορίσετε αυτόματα τη χρήση δεδομένων, ορίστε το μηνιαίο πρόγραμμα δεδομένων σας.</string>
      <string name="notify_daily_limit_body">Πατήστε για να ορίσετε το όριο δεδομένων.</string>
@@ -504,16 +502,16 @@
      <string name="traffic_saving_button_start">Ενεργοποίηση</string>
      <string name="traffic_saving_button_stop">Απενεργοποίηση</string>
      <string name="traffic_saving_can_optimized">Βελτιστοποίηση</string>
+     <string name="traffic_saving_detail">Λεπτομέρειες</string>
      <string name="traffic_saving_history_title">Ιστορικό</string>
      <string name="traffic_saving_history_total_money">Εξοικονόμηση συνολικά</string>
      <string name="traffic_saving_history_total_money_unit">RMB</string>
      <string name="traffic_saving_history_total_month">Εξοικονόμηση αυτό το μήνα:</string>
      <string name="traffic_saving_history_total_month_default">Μέσος όρος ανά μήνα:</string>
-     <string name="traffic_saving_history_total_month_value">"Ακρόαση &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> τραγουδιών / Συνομιλία για &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> ώρες / Ανάγνωση &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> άρθρων"</string>
-     <string name="traffic_saving_history_total_month_value_default">"Ακρόαση &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> τραγουδιών / Συνομιλία για &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> ώρες / Ανάγνωση &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> άρθρων"</string>
      <string name="traffic_saving_history_total_rate">Τιμή</string>
      <string name="traffic_saving_history_total_rate_unit">%</string>
      <string name="traffic_saving_history_total_traffic">Εξοικονόμηση δεδομένων</string>
+     <string name="traffic_saving_mobile_usage">Χρήση δεδομένων</string>
      <string name="traffic_saving_msg_month">Εξοικονόμηση αυτό το μήνα:</string>
      <string name="traffic_saving_msg_not_started">Χωρίς οικονομία</string>
      <string name="traffic_saving_msg_today">Εξοικονόμηση σήμερα:</string>
@@ -533,6 +531,7 @@
      <string name="traffic_saving_start_tip_context">"&lt;big>&lt;font color='#7F000000'>Αυτόματη ενεργοποίηση εξοικονόμησης δεδομένων για την μείωση χρήσης δεδομένων των εφαρμογών.&lt;/font>&lt;/big>&lt;br />&lt;br />&lt;font color='#FF000000'>Αν έχετε ένα μηνιαίο πρόγραμμα δεδομένων, θυμηθείτε να απενεργοποιήσετε την εξοικονόμηση δεδομένων για μεμονωμένες εφαρμογές, για να αποφύγετε επιπλέον χρεώσεις από το φορέα σας.&lt;/font>"</string>
      <string name="traffic_saving_start_tip_title">Ενεργοποίηση</string>
      <string name="traffic_saving_tecsupport">Powered by Opera</string>
+     <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
      <string name="traffic_saving_title">Οικονομία δεδομένων</string>
      <string name="traffic_saving_toast_start_mobile">Ενεργή οικονομία</string>
      <string name="traffic_saving_toast_start_none_mobile">Η οικονομία δεδομένων κινητής, θα αρχίζει κάθε φορά που αρχίζει η χρήση τους</string>
@@ -545,6 +544,7 @@
      <string name="traffic_saving_whitelist_btn_removed">Η εφαρμογή διαγράφηκε από την λίστα</string>
      <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'>%1$d&lt;/font> εφαρμογές δεν έχουν περιορισμούς δεδομένων"</string>
      <string name="traffic_saving_whitelist_no_app">Χωρίς εφαρμογές</string>
+     <string name="traffic_saving_wifi_usage">Χρήση Wi-Fi</string>
      <string name="traffic_setting_app_count">%d εφαρμογές</string>
      <string name="traffic_setting_completed">OK</string>
      <string name="traffic_setting_extra_pkg_oversea_summary">Ρύθμιση προγράμματος δεδομένων και ορίων χρήσης</string>

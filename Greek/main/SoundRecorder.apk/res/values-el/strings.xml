@@ -48,7 +48,7 @@
      <string name="preference_enable_earpiece_summary">Εξωτερική αναπαραγωγή</string>
      <string name="preference_enable_earpiece_title">Αναπαραγωγή ήχου</string>
      <string name="preference_led_indicator">Ένδειξη με κλειδωμένη οθόνη</string>
-     <string name="preference_led_indicator_prompt">Προβολή στο δείκτη LED και την μπάρα κατάστασης όταν η οθόνη είναι κλειδωμένη</string>
+     <string name="preference_led_indicator_prompt">Κατά την εγγραφή, εμφάνιση στη γραμμή κατάστασης και ένδειξη LED όταν η οθόνη είναι κλειδωμένη</string>
      <string name="preference_record_scenes_dialog_title">Επιλογή σκηνής εγγραφής</string>
      <string name="preference_scenes">Ρυθμίσεις σκηνών</string>
      <string name="preference_silent_mode">Σιωπηλή λειτ. ηχογράφησης</string>

@@ -646,6 +646,7 @@
      <string name="miprofile_switch_on_alertdialog_positive">Ενεργοποίηση</string>
      <string name="miprofile_switch_on_alertdialog_title">Ενημέρωση φωτογραφίας προφίλ</string>
      <string name="missing_name">(Ανώνυμο)</string>
+     <string name="more_call_logs">Περισσότερες εγγραφές κλήσεων στο i.mi.com</string>
      <string name="move_and_resize">Μετακίνηση και αλλαγή μεγέθους</string>
      <string name="multipleContactDeleteConfirmation">Η διαγραφή αυτής της επαφής θα διαγράψει πληροφορίες από πολλαπλούς λογαριασμούς.</string>
      <string name="multipleContactDeleteConfirmationDetail">Διαγραφή \"%s\" θα διαγράψει πληροφορίες από πολλαπλούς λογαριασμούς.</string>

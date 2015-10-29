@@ -12,6 +12,10 @@
         <item quantity="other">"%1$d έτη "</item>
         <item quantity="one">"%1$d έτος "</item>
      </plurals>
+     <plurals name="baby_album_share_user_count_tip">
+        <item quantity="other">%1$d ακόλουθοι</item>
+        <item quantity="one">%1$d ακόλουθος</item>
+     </plurals>
      <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d φωτογραφίες του %2$s θα προστεθούν</item>
         <item quantity="one">%1$d φωτογραφία του %2$s θα προστεθεί</item>
