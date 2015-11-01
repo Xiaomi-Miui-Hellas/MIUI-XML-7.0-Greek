@@ -86,10 +86,10 @@
      <string name="baby_album_new_photo_page_title">"%1$s άλμπουμ"</string>
      <string name="baby_album_new_photo_remind">Υπάρχουν νέες φωτογραφίες στο άλμπουμ του μωρού σας.</string>
      <string name="baby_album_no_share_user_tip">Δεν υπάρχουν ακόλουθοι  προς το παρόν</string>
-     <string name="baby_album_picker_default_title">"Επιλέξτε %1$s's πρόσωπο"</string>
+     <string name="baby_album_picker_default_title">"Επιλέξτε το πρόσωπο του %1$s"</string>
      <string name="baby_album_setting_title">Πληροφορίες μωρού</string>
-     <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
-%3$s's %4$s μοιράστηκαν %5$s's άλμπουμ μαζί σας"</string>
+     <string name="baby_album_sharer_accept_dialog_msg">"Οι %1$s %2$s,
+%3$s %4$s μοιράστηκαν το άλμπουμ του %5$s μαζί σας"</string>
      <string name="baby_album_sharer_recommand_face">Προσθήκη υφιστάμενων φωτογραφιών του %1$s;</string>
      <string name="baby_album_sharers_page_title">Κοινή χρήση με οικογένειες</string>
      <string name="baby_birthday">Γενέθλια</string>
@@ -396,7 +396,7 @@
      <string name="invite_sharer_confirm_button_text">Πρόσκληση</string>
      <string name="invite_sharer_phone_number_tip">Εισάγετε τον αριθμό τηλεφώνου</string>
      <string name="invite_sharer_relation_tip">Σχέση με %1$s</string>
-     <string name="invite_sharer_title">"Πρόσκληση %1$s's %2$s"</string>
+     <string name="invite_sharer_title">"Πρόσκληση %1$s %2$s"</string>
      <string name="invite_tip">"Μοιραστείτε τις φωτογραφίες του μωρού σας"</string>
      <string name="invited_tip">Προσκλήθηκε</string>
      <string name="is">Είναι</string>

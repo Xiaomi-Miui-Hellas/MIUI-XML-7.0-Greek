@@ -450,7 +450,7 @@
      <string name="power_save_on_time_option_recovery_title">Αν φτάσει η προγραμματισμένη ώρα, μεταβείτε στο</string>
      <string name="power_save_on_time_option_summary">Στο τέλος της περιόδου αυτής, η συσκευή θα επιστρέψει στο προηγούμενο προφίλ</string>
      <string name="power_save_on_time_option_title">Κατά τη διάρκεια</string>
-     <string name="power_save_on_time_start_time_summary">Ξεκινώντας</string>
+     <string name="power_save_on_time_start_time_summary">Έναρξη</string>
      <string name="power_save_on_time_start_time_title">%1$d : %2$d</string>
      <string name="power_save_on_time_title">Σχεδιασμός</string>
      <string name="power_screen">Οθόνη</string>

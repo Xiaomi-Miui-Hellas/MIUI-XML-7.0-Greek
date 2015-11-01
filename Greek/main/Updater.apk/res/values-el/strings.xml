@@ -125,7 +125,7 @@
      <string name="recovery_failed_msg">"Η συσκευή σας δεν έχει αρκετή μνήμη για να μπείτε σε λειτουργία Recovery και να ενημερώσετε το σύστημά σας. Δοκιμάσετε χρησιμοποιώντας το Mi PC Suite:
 http://zhushou.xiaomi.com"</string>
      <string name="recovery_failed_notification_msg">"Αδυναμία εισόδου σε λειτουργία Recovery"</string>
-     <string name="recovery_failed_title">Χρησιμοποιείστε το Mi PC Suite για να ενημερώσετε το σύστημά σας</string>
+     <string name="recovery_failed_title">Ενημέρωση συστήματος μέσω Mi PC Suite</string>
      <string name="recovery_power_not_enough_msg">Συνδέστε το φορτιστή για την ενημέρωση, αν έχει απομείνει λιγότερο από το 30% της μπαταρίας</string>
      <string name="recovery_power_not_enough_msg_plugged">Η μπαταρία πρέπει να είναι άνω του 15% για να μπορεί να γίνει ενημέρωση της συσκευής</string>
      <string name="recovery_power_not_enough_title">Χαμηλή μπαταρία</string>
