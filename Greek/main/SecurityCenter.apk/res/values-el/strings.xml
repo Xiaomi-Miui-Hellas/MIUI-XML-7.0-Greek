@@ -185,6 +185,7 @@
      <string name="hints_last_virus_scan_yesterday_safe">Χθες: ασφαλείς</string>
      <string name="hints_last_virus_scan_yesterday_virus">Χθες: επικίνδυνο</string>
      <string name="hints_loading_text">Φόρτωση…</string>
+     <string name="hints_need_quick_clean">Βρείτε και διαγράψτε επικίνδυνα αρχεία</string>
      <string name="hints_need_quick_scan">Συνιστάται ταχεία σάρωση</string>
      <string name="hints_need_regular_scan">Σαρώνετε τη συσκευή σας τακτικά</string>
      <string name="hints_power_percent_title">Μπαταρία</string>
@@ -262,20 +263,8 @@
      <string name="menu_text_networkassistants_remain">%s υπόλοιπο</string>
      <string name="menu_text_power_manager">Διαχείριση της ενέργειας</string>
      <string name="menu_text_power_percent">Μπαταρία | %s</string>
-     <string name="month_report_activity_label">Μηνιαία αναφορά</string>
-     <string name="month_report_click_reconnect_network">Προσπαθήστε ξανά</string>
-     <string name="month_report_disconnect_tip">"Αδυναμία σύνδεσης στο δίκτυο"</string>
-     <string name="month_report_history_activity_label">Ιστορικό αναφορών</string>
+     <string name="menu_text_power_percent_title">Μπαταρία %s</string>
      <string name="month_report_month_report_switch">Εμφάνιση μηνιαίας αναφοράς</string>
-     <string name="month_report_network_dialog_description">Να επιτραπεί στην εφαρμογή η σύνδεση στο Internet για λήψη πληροφοριών αναφορών;</string>
-     <string name="month_report_network_dialog_positive">Επέτρεψε</string>
-     <string name="month_report_network_dialog_title">"Αδυναμία λήψης πληροφοριών αναφορών"</string>
-     <string name="month_report_result_share">Κοινή χρήση</string>
-     <string name="month_report_share_img_fail">"Αδυναμία κοινής χρήσης"</string>
-     <string name="month_report_share_loading">Μισό λεπτό…</string>
-     <string name="month_report_warning_dialog_description">"Για να δείτε τη μηνιαία αναφορά, ενεργοποιήστε αυτή την λειτουργία στις Ρυθμίσεις της εφαρμογής Ασφάλεια."</string>
-     <string name="month_report_warning_dialog_positive">Ενεργοποίηση</string>
-     <string name="month_report_warning_dialog_title">Μηνιαία αναφορά ασφαλείας</string>
      <string name="never">Μόνο μια φορά</string>
      <string name="notification_button_text_of_low_memory">Καθαρίστε</string>
      <string name="notification_summary_cmcc_app_check">Πατήστε για να δείτε λεπτομέρειες.</string>
@@ -521,6 +510,7 @@
      <string name="summary_flow_verify">Δεν έχετε συγχρονίσει τα στατιστικά στοιχεία με τον φορέα σας εδώ και %d ημέρες</string>
      <string name="summary_garbage_lib">Χρησιμοποιήστε τους πιο πρόσφατους ορισμούς για την αφαίρεση spyware, adware, και άλλα ανεπιθύμητα σκουπίδια</string>
      <string name="summary_install_virus">Ελέγξτε τις εφαρμογές πριν από την εγκατάσταση</string>
+     <string name="summary_live_talk_purchase">Μόνο ¥ 0.05 το λεπτό για εγχώριες κλήσεις.</string>
      <string name="summary_miui_update">Διαθέσιμη ενημέρωση για %s.</string>
      <string name="summary_mms">Αποκλεισμός ανεπιθύμητων μηνυμάτων (πωλήσεις, αγγελίες, κ.λπ.)</string>
      <string name="summary_network_switch">Επιτρέψτε στο Κέντρο Ασφάλειας την πρόσβαση στο Internet</string>
@@ -556,6 +546,7 @@
      <string name="title_garbage_lib">Αυτόματες ενημερώσεις</string>
      <string name="title_install_virus_no">Ανενεργή η παρακολούθηση εγκαταστάσεων</string>
      <string name="title_install_virus_yes">Ενεργή η παρακολούθηση εγκαταστάσεων</string>
+     <string name="title_live_talk_purchase">Αγορά τώρα</string>
      <string name="title_miui_update">Διαθέσιμη ενημέρωση</string>
      <string name="title_mms_no">Ανενεργό φιλτράρισμα μηνυμάτων</string>
      <string name="title_mms_yes">Ενεργό φιλτράρισμα μηνυμάτων</string>

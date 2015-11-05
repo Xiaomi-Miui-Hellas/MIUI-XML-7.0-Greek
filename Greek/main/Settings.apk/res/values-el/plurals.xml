@@ -24,6 +24,10 @@
         <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d κεφαλαία γράμματα.</item>
         <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 κεφαλαίο γράμμα.</item>
      </plurals>
+     <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d εφαρμογές παρέχουν συνθήκες</item>
+        <item quantity="one">%d εφαρμογή παρέχει συνθήκες</item>
+     </plurals>
      <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d εφαρμογές μπορούν να διαβάσουν ειδοποιήσεις</item>
         <item quantity="one">%d εφαρμογή μπορεί να διαβάσει ειδοποιήσεις</item>
