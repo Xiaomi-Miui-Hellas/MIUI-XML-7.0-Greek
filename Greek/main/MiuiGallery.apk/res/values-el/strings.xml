@@ -193,6 +193,7 @@
      <string name="confirm_recommandation_multiple_faces_are">" "<Data> Είστε σίγουροι ότι είναι αυτοί &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>; Αυτά τα πρόσωπα θα μεταφερθούν στο \"%2$s\" άλμπουμ μετά την επιβεβαίωση. </Data>" "</string>
      <string name="confirm_recommandation_multiple_faces_not">" "<Data> Είστε σίγουροι ότι δεν είναι αυτοί &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>; Αυτά τα πρόσωπα θα μεταφερθούν στο \"%2$s\" άλμπουμ μετά την επιβεβαίωση. </Data>" "</string>
      <string name="contact_photo">Εικόνα επαφής</string>
+     <string name="contact_tip">Επαφές</string>
      <string name="context_menu_add_contact">Προσθήκη στις επαφές</string>
      <string name="context_menu_copy">Αντιγραφή</string>
      <string name="context_menu_copy_notice">Αντιγράφτηκε στο πρόχειρο</string>
@@ -380,10 +381,12 @@
      <string name="initial_cloud_button_text">Έναρξη χρήσης του MiCloud</string>
      <string name="initial_cloud_text">Οποτεδήποτε κι από οπουδήποτε, οργανώστε τις εικόνες σας</string>
      <string name="initializing_cloud">Αρχικοποίηση του Cloud Άλμπουμ…</string>
+     <string name="input_a_name">Πληκτρολογήστε το όνομα</string>
      <string name="input_baby_name">Πληκτρολογήστε το όνομα</string>
      <string name="input_baby_nick_name">Πληκτρολογήστε το ψευδώνυμο</string>
      <string name="input_cloudfolder_name">Όνομα φακέλου Cloud</string>
      <string name="input_nickname_toast">"Πληκτρολογήστε το όνομα του μωρού"</string>
+     <string name="input_or_select_a_name">Πληκτρολογήστε ή επιλέξτε ένα όνομα</string>
      <string name="internal_camera_folder_display_name">Φωτογραφίες εσωτερικής μνήμης</string>
      <string name="internal_miui_capture_screen_folder_display_name">Στιγμιότυπα εσωτερικής μνήμης</string>
      <string name="internal_sd_card">Εσωτερική κάρτα SD</string>

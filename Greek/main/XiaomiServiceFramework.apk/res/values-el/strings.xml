@@ -30,6 +30,7 @@
      <string name="activate_popup_desc_failed_receive_sms">Παρακαλούμε ελέγξτε τον αριθμό που έχετε εισάγει, και εξασφαλίστε ότι η κάρτα SIM είναι ενεργή.</string>
      <string name="activate_popup_desc_failed_send_sms">Δεν ήταν δυνατή η αποστολή SMS ενεργοποίησης. Παρακαλούμε βεβαιωθείτε ότι η κάρτα SIM είναι ενεργή.</string>
      <string name="activate_popup_desc_failed_server">Σφάλμα διακομιστή. Ελέγξτε τη σύνδεση δικτύου σας.</string>
+     <string name="activate_popup_desc_find_device_postfix">Ένα SMS ενεργοποίησης μπορεί να σταλεί μετά την εναλλαγή καρτών SIM.</string>
      <string name="activate_popup_desc_intl_sim_card">Ένα διεθνές SMS θα σταλεί για να ενεργοποιήσετε την κάρτα SIM σας, ώστε να καταστεί δυνατή η χρήση χαρακτηριστικών όπως %s (ισχύουν χρεώσεις της εταιρείας)</string>
      <string name="activate_popup_desc_mixed_sim_cards">Ένα SMS και ένα διεθνές SMS θα σταλεί για να ενεργοποιήσετε 2 κάρτες SIM σας, ώστε να καταστεί δυνατή χαρακτηριστικά όπως %s (ισχύουν χρεώσεις της εταιρείας)</string>
      <string name="activate_popup_desc_new_2_intl_sim_cards">Οι 2 κάρτες SIM άλλαξαν. 2 διεθνή SMS θα σταλούν για να ενεργοποιήσετε τις 2 κάρτες, ώστε να ενεργοποιήσετε τις δυνατότητες, όπως %s (ισχύουν χρεώσεις της εταιρείας)</string>

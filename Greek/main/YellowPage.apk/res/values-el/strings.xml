@@ -50,6 +50,7 @@
      <string name="currency_character">RMB</string>
      <string name="custom_mark_category">Προσαρμοσμένο</string>
      <string name="data_error">Δυστυχώς, αυτή η υπηρεσία δεν είναι διαθέσιμη, δοκιμάστε ξανά αργότερα</string>
+     <string name="data_error_show">Παρουσιάστηκε σφάλμα</string>
      <string name="delete">Διαγραφή</string>
      <string name="do_not_remind_me">Να μην εμφανιστεί ξανά</string>
      <string name="dont_enable">Απενεργοποίηση</string>

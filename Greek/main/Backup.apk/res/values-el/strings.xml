@@ -52,6 +52,7 @@
      <string name="cancel">Άκυρο</string>
      <string name="cancel_backup">Ακύρωση αντιγραφής</string>
      <string name="cancel_restore">Ακύρωση επαναφοράς</string>
+     <string name="click_to_view">Πατήστε για να δείτε</string>
      <string name="cloud_app_name">Αντίγραφα Cloud</string>
      <string name="cloud_backup_hint">Είσοδος για ασφαλή αποθήκευση των αντιγράφων σας</string>
      <string name="cloud_backup_login">Είσοδος χρησιμοποιώντας τον λογαριασμό Mi</string>
@@ -106,6 +107,7 @@
      <string name="feature_title_call_log">Ιστορικό κλήσεων</string>
      <string name="feature_title_mms">MMS</string>
      <string name="file_uploading">Αποστολή…</string>
+     <string name="files_backup_info">Όλα τα αρχεία στην κάρτα SD (συμπεριλαμβανομένων των φωτογραφιών, τραγουδιών, βίντεο, δεδομένα εφαρμογών, κλπ)</string>
      <string name="findlost_contact">Εύρεση διαγραμμένων επαφών</string>
      <string name="findlost_contact_online">Επαναφορά διαγραμμένων επαφών απ το Cloud</string>
      <string name="guarded_mode_dialog_message">Αδύνατη η χρήση της εφαρμογής στην λειτουργία προστασίας</string>
@@ -119,6 +121,7 @@
      <string name="local_no_backup">Δεν υπάρχουν αντίγραφα</string>
      <string name="local_restore_window_title">Επαναφορά από τοπικό αρχείο</string>
      <string name="local_select_account_contact">Λογαριασμοί / Επαφές</string>
+     <string name="local_select_files">Κάρτα SD</string>
      <string name="local_select_sysdata">Σύστημα</string>
      <string name="local_select_userapp">Εφαρμογές</string>
      <string name="miliao_account_guide">"Ο  λογαριασμός MiTalk αναβαθμίστηκε σε λογαριασμό Mi. Απολαύστε όλες τις online υπηρεσίες Mi"</string>
@@ -145,6 +148,7 @@
      <string name="prompt_writing">Εγγραφή </string>
      <string name="read_encrypt_fail">Η ανάγνωση της κρυπτογράφηση απέτυχε</string>
      <string name="refresh">Ανανέωση</string>
+     <string name="remote_receive">Λήψη</string>
      <string name="restore">Επαναφορά</string>
      <string name="restore_backup">Επαναφορά</string>
      <string name="restore_contact">Επαναφορά επαφών</string>
@@ -227,6 +231,44 @@
      <string name="task_service_not_launched">Η υπηρεσία δε ξεκίνησε παρακαλώ περιμένετε!</string>
      <string name="task_stopped_exception">Η διεργασία ματαιώθηκε</string>
      <string name="total_num">%d εγγραφές στο σύνολο</string>
+     <string name="trans_backingup">Λήψη αντιγράφου…</string>
+     <string name="trans_backingup_no_items">Συγχρονισμός…</string>
+     <string name="trans_cancel_confirm">Μεταφορά σε εξέλιξη. Ακύρωση τώρα;</string>
+     <string name="trans_cancelling">Ακύρωση…</string>
+     <string name="trans_connect_failed_toast">"Αδυναμία σύνδεσης"</string>
+     <string name="trans_connecting_toast">Σύνδεση…</string>
+     <string name="trans_detail_category_account">Λογαριασμοί και επαφές</string>
+     <string name="trans_detail_category_files">Αρχεία</string>
+     <string name="trans_detail_category_sysdata">Δεδομένα συστήματος</string>
+     <string name="trans_detail_category_userdata">Εφαρμογές</string>
+     <string name="trans_device_disconnected">Η συσκευή αποσυνδέθηκε</string>
+     <string name="trans_main_tutor">Μεταφορά επαφών, ιστορικού κλήσεων, μηνυμάτων, διάταξη αρχικής οθόνης, εφαρμογών, ρυθμίσεων, κλπ σε μια νέα συσκευή</string>
+     <string name="trans_my_device">Η συσκευή μου</string>
+     <string name="trans_one_key_migrate">Μεταφορά</string>
+     <string name="trans_progress_subdescript_br_receiver">Λήψη %s</string>
+     <string name="trans_progress_subdescript_br_sender">Λήψη αντιγράφου %s</string>
+     <string name="trans_progress_subdescript_transing_receiver">Λήψη %s</string>
+     <string name="trans_progress_subdescript_transing_sender">αποστολή %s</string>
+     <string name="trans_progress_subdescript_transingsd_receiver">Λήψη αρχείων…</string>
+     <string name="trans_progress_subdescript_transingsd_sender">Αποστολή αρχείων…</string>
+     <string name="trans_progress_subdescript_waiting">Αναμονή λήψης %s</string>
+     <string name="trans_receiver">"Είμαι ο παραλήπτης"</string>
+     <string name="trans_receiving_completed">Τα δεδομένα ελήφθησαν</string>
+     <string name="trans_restoring">Επαναφορά…</string>
+     <string name="trans_restoring_no_items">Συγχρονισμός στοιχείων</string>
+     <string name="trans_select_device_receive">Επιλέξτε μια συσκευή για λήψη δεδομένων.</string>
+     <string name="trans_select_device_send">Επιλέξτε μια συσκευή για μεταφορά δεδομένων.</string>
+     <string name="trans_sender">"Είμαι ο αποστολέας"</string>
+     <string name="trans_sender_connectting">Επιβεβαιώστε στη νέα συσκευή</string>
+     <string name="trans_sender_searching">Αναζήτηση για νέες συσκευές</string>
+     <string name="trans_sender_searching_ensurance">"Βεβαιωθείτε ότι η παλιά συσκευή είναι ανοικτή
+Αναμονή για την παλιά συσκευή να συνδεθεί…"</string>
+     <string name="trans_sending_completed">Τα δεδομένα εστάλησαν</string>
+     <string name="trans_time_format_second">Λιγότερο από ένα λεπτό</string>
+     <string name="trans_time_remained">, έτοιμο σε</string>
+     <string name="trans_waiting_ensurance">"Βεβαιωθείτε ότι η παλιά συσκευή είναι ανοικτή
+και η Μεταφορά είναι ενεργοποιημένη"</string>
+     <string name="trans_waiting_for_sender">Αναμονή για την παλιά συσκευή να συνδεθεί…</string>
      <string name="unit_byte">"  bytes"</string>
      <string name="unit_piece">"  Μονάδες"</string>
      <string name="unknown_hint">Άγνωστο</string>
