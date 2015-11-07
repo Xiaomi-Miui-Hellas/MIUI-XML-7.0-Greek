@@ -202,7 +202,7 @@
      <string name="summary_err_restore_encrypting">"Αδυναμία επαναφοράς. Βεβαιωθείτε ότι αυτό το αντίγραφο έγινε μέσω του Mi λογαριασμού σας."</string>
      <string name="summary_err_restore_no_network">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="system_backup">Αντίγραφα</string>
-     <string name="system_backup_info">Ρυθμίσεις συστήματος, διάταξη επιφ. εργασίας κτλ.</string>
+     <string name="system_backup_info">Ρυθμίσεις συστήματος, διάταξη επιφάνειας εργασίας κτλ.</string>
      <string name="task_backup_cancel_progress">Ακύρωση αντιγράφου…</string>
      <string name="task_backup_finished_local">Το αντίγραφο δημιουργήθηκε</string>
      <string name="task_canceled">Ακυρώθηκε</string>
