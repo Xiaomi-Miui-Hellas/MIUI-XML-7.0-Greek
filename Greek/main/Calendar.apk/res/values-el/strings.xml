@@ -28,6 +28,8 @@
      <string name="add_account">Προσθήκη λογαριασμού</string>
      <string name="add_calendar">Προσθήκη ημερολογίου</string>
      <string name="add_topic_success">Επιτυχής εγγραφή στο \"%s\"</string>
+     <string name="add_topic_unsuccess">Σφάλμα εγγραφής στο \"%s\"</string>
+     <string name="adding_calendar">Εγγραφή</string>
      <string name="agenda_today">ΣΗΜΕΡΑ, %1$s</string>
      <string name="agenda_tomorrow">ΑΥΡΙΟ, %1$s</string>
      <string name="agenda_view">Ατζέντα</string>
@@ -56,6 +58,7 @@
      <string name="button_month">M</string>
      <string name="button_online">παραγγελία</string>
      <string name="button_week">Ε</string>
+     <string name="calendar_network_error">Σφάλμα δικτύου</string>
      <string name="calendar_refresh">Ανανέωση</string>
      <string name="calendar_server_error">Σφάλμα δικτύου</string>
      <string name="can_not_create_long_event">Το περιεχόμενο είναι πολύ μεγάλο</string>
@@ -90,6 +93,7 @@
      <string name="delete_this_event_title">Διαγραφή γεγονότος;</string>
      <string name="delete_topic_dialog_title">Είστε σίγουροι ότι θέλετε να διαγράψετε το \"%s\" ;</string>
      <string name="delete_topic_success">Επιτυχής διαγραφή του \"%s\"</string>
+     <string name="departure">Αναχώρηση</string>
      <string name="description_label">Περιγραφή</string>
      <string name="directory_searching_fmt">Ψάχνει %s…</string>
      <string name="discard_label">Άκυρο</string>
@@ -148,6 +152,7 @@
      <string name="hint_where">Τοποθεσία</string>
      <string name="huangli_bad_type">Αποφύγετε</string>
      <string name="huangli_good_type">Σε περίπτωση</string>
+     <string name="huangli_label" />
      <string name="jump_date">Άλμα</string>
      <string name="jump_date_full">Άλμα σε ημερομηνία</string>
      <string name="label_recent_events">Πρόσφατα γεγονότα</string>
@@ -260,6 +265,7 @@
      <string name="repeat_label_frequency">Συχνότητα</string>
      <string name="repeat_label_interval">Κάθε</string>
      <string name="repeat_label_week">Εβδομάδα</string>
+     <string name="repeat_lunar_yearly" />
      <string name="repeat_month_day_splitter">" "</string>
      <string name="repeat_week_info">" %1$s %2$s"</string>
      <string name="repeats_label">Επανάληψη</string>
@@ -301,7 +307,9 @@
      <string name="timezone_label">Ζώνη ώρας</string>
      <string name="today">Σήμερα</string>
      <string name="today_at_time_fmt">Σήμερα στις %s</string>
+     <string name="today_flight_event">Πτήση</string>
      <string name="today_no_events">Χωρίς ατζέντα σήμερα</string>
+     <string name="today_train_event">Τρένο</string>
      <string name="tomorrow">Αύριο</string>
      <string name="tomorrow_at_time_fmt">Αύριο στις %s</string>
      <string name="topic_event_list_header_label">Επερχόμενα γεγονότα</string>
@@ -328,7 +336,6 @@
      <string name="travel_loaded">Powered by Veryzhun</string>
      <string name="travel_loading">Μισό λεπτό…</string>
      <string name="travel_local">Προορισμός</string>
-     <string name="travel_notice_message">Το Ημερολόγιο χρειάζεται να συνδεθεί στο Internet και να αποκτήσει πρόσβαση στην τοποθεσία σας για να εμφανίσει ταξιδιωτικές πληροφορίες.</string>
      <string name="travel_seat_number_text">Κάθισμα</string>
      <string name="travel_train_number_text">Τρένο</string>
      <string name="travel_train_station">Σταθμός τραίνου</string>

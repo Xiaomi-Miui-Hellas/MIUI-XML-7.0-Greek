@@ -104,13 +104,18 @@
      <string name="header_data_and_synchronization">Δεδομένα &amp; συγχρονισμός</string>
      <string name="header_other_settings">Πρόσθετες ρυθμίσεις</string>
      <string name="i_know">ΟΚ</string>
-     <string name="internet_access_dspt">Αυτή η εφαρμογή χρειάζεται να συνδεθεί στο internet για να λειτουργήσει κανονικά.</string>
+     <string name="internet_access_dspt">Αυτή η εφαρμογή χρειάζεται να συνδεθεί στο Internet για να λειτουργήσει κανονικά.</string>
      <string name="license_host_unreachable">Αδυναμία σύνδεσης στο δίκτυο. Για να δείτε αυτή την πληροφορία, πηγαίνετε τώρα στο %s.</string>
      <string name="loading">Φόρτωση…</string>
      <string name="loading_hint">Φόρτωση</string>
      <string name="master_alert_notif_dspt_add">%s δεν έχουν συγχρονιστεί</string>
      <string name="master_alert_notif_dspt_no">Συγχρονισμένα</string>
      <string name="master_alert_notif_title">Τελευταίος συγχρονισμός πριν %s ημέρες</string>
+     <string name="micloud_all_sub_1_intl_sms">"Ένα διεθνές SMS θα σταλεί για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας. Όταν ενεργοποιείτε την 'Εύρεση συσκευής', ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM."</string>
+     <string name="micloud_all_sub_1_sms">"Ένα κανονικό SMS θα σταλεί για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας. Όταν ενεργοποιείτε την 'Εύρεση συσκευής', ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM."</string>
+     <string name="micloud_all_sub_1_sms_1_intl_sms">"2 μηνύματα κειμένου (κανονικό και διεθνές) θα σταλούν για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας. Όταν ενεργοποιείτε την 'Εύρεση συσκευής', ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM."</string>
+     <string name="micloud_all_sub_2_intl_sms">"2 διεθνή μηνύματα κειμένου θα σταλούν για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας. Όταν ενεργοποιείτε την 'Εύρεση συσκευής', ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM."</string>
+     <string name="micloud_all_sub_2_sms">"2 κανονικά μηνύματα κειμένου θα σταλούν για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας. Όταν ενεργοποιείτε την 'Εύρεση συσκευής', ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM."</string>
      <string name="micloud_buy_member">Αναβάθμιση συνδρομής</string>
      <string name="micloud_check_sim_notify_text">"Φαίνεται ότι έχετε αλλάξει τις κάρτες SIM. Συνδεθείτε
 στον λογαριασμό Mi για επανενεργοποίηση του Mi Cloud."</string>
@@ -173,7 +178,7 @@
 
 %s Mi Credits ετησίως"</string>
      <string name="micloud_member_buy_title">Επιβεβαίωση παραγγελίας</string>
-     <string name="micloud_member_net_error_alert_message">"Δεν έχετε σύνδεση στο internet."</string>
+     <string name="micloud_member_net_error_alert_message">"Δεν έχετε σύνδεση στο Internet."</string>
      <string name="micloud_member_net_error_alert_title">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="micloud_member_pay_fail_toast">"Αδυναμία ολοκλήρωσης πληρωμής"</string>
      <string name="micloud_member_pay_miid_error_toast">Σφάλμα λογαριασμού</string>
@@ -312,7 +317,7 @@
      <string name="sync_resend_sms_dspt_provision">. Αν αλλάξετε κάρτα SIM, ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την επανενεργοποίηση της υπηρεσίας.</string>
      <string name="sync_sub_1_intl_sms">Ο φορέας σας μπορεί να χρεώσει για ένα διεθνές μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
      <string name="sync_sub_1_sms">Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
-     <string name="sync_sub_1_sms_1_intl_sms">Ο φορέας σας μπορεί να χρεώσει για 1 εγχώριο και 1 διεθνές 1 μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
+     <string name="sync_sub_1_sms_1_intl_sms">Ο φορέας σας μπορεί να χρεώσει για 1 εγχώριο και 1 διεθνές μήνυμα SMS που χρησιμοποιούνται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
      <string name="sync_sub_2_intl_sms">Ο φορέας σας μπορεί να χρεώσει για 2 διεθνή μηνύματα SMS που χρησιμοποιούνται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
      <string name="sync_sub_2_sms">Ο φορέας σας μπορεί να χρεώσει για 2 μηνύματα SMS που χρησιμοποιούνται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
      <string name="sync_sub_dspt">Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση αυτής της υπηρεσίας.</string>

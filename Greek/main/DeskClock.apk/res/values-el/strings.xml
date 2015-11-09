@@ -85,6 +85,8 @@
      <string name="shutdown_alarm_enable_summary">Τερματισμός αφύπνισης ενεργός</string>
      <string name="shutdown_alarm_title">Τερματισμός αφύπνισης</string>
      <string name="silent_alarm_summary">Αθόρυβο</string>
+     <string name="skip_alarm_date_format">%1$s(%2$s)</string>
+     <string name="skip_alarm_once_hint">Απενεργ. για μία φορά στις %s</string>
      <string name="slider_text">Σύρετε για να σταματήσει</string>
      <string name="snooze_confirm_cancel">Ακύρωση αναβολής</string>
      <string name="snooze_duration_title">Διάρκεια αναβολής</string>
@@ -109,6 +111,10 @@
      <string name="timer_start_alarm">Τέλος χρόνου!</string>
      <string name="timer_title">Αντ.μέτρηση</string>
      <string name="timezone_exist_error_message">Η ζώνη ώρας υπάρχει ήδη.</string>
+     <string name="today">Σήμερα</string>
+     <string name="tomorrow">Αύριο</string>
+     <string name="turn_off_a_repeat_alarm">Απενεργ. επανάληψης αφύπνισης</string>
+     <string name="turn_off_this_repeat_alarm">Απενεργ. επαναλαμβανόμενης αφύπνισης</string>
      <string name="vibrate_pref_summary">Δόνηση όταν ηχεί το ξυπνητήρι</string>
      <string name="vibrate_when_ringing">Ενεργή δόνηση</string>
      <string name="volume_button_setting_summary">Ορίστε τις ενέργειες των κουμπιών, κατά την διάρκεια της αφύπνισης</string>

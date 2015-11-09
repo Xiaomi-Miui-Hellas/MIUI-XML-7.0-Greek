@@ -181,6 +181,12 @@
         <item>μήνα</item>
         <item>έτος</item>
      </string-array>
+     <string-array name="repeat_frequency_spinner_plural">
+        <item>ημέρες</item>
+        <item>εβδομάδες</item>
+        <item>μήνες</item>
+        <item>χρόνια</item>
+     </string-array>
      <string-array name="response_labels1">
         <item>Χωρίς απάντηση</item>
         <item>Ναι</item>

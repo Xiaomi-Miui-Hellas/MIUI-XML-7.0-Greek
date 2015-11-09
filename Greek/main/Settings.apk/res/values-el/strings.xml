@@ -380,7 +380,7 @@
      <string name="battery_sugg_bluetooth_basic">Απενεργοποιήστε το Bluetooth όταν δε χρησιμοποιείται</string>
      <string name="battery_sugg_bluetooth_headset">Δοκιμάστε να συνδεθείτε σε μια άλλη συσκευή με Bluetooth</string>
      <string name="battery_sugg_display">Μειώστε τη φωτεινότητα της οθόνης ή / και χρονικό όριο οθόνης</string>
-     <string name="battery_sugg_radio">Εναλλαγή στη λειτουργία του αεροπλάνου για να εξοικονομήσει ενέργεια σε περιοχές όπου δεν υπάρχει κάλυψη δικτύου κινητής τηλεφωνίας</string>
+     <string name="battery_sugg_radio">Εναλλαγή σε λειτουργία πτήσης για εξοικονόμηση ενέργειας σε περιοχές όπου δεν υπάρχει κάλυψη δικτύου κινητής τηλεφωνίας</string>
      <string name="battery_sugg_wifi">Απενεργοποιήστε το Wi-Fi όταν δε χρησιμοποιείται ή όταν δεν είναι διαθέσιμο</string>
      <string name="bearer">Κομιστής</string>
      <string name="biometric_weak_improve_matching_title">Βελτίωση αναγνώρισης προσώπου</string>
@@ -2013,7 +2013,7 @@
      <string name="private_gallery_need_to_unlock">Απαιτείται κωδικός:</string>
      <string name="private_gallery_recording_intro_header">Σχεδιάστε μοτίβο ξεκλειδώματος:</string>
      <string name="private_gallery_reset_by_account">Για να επαναφέρετε τον κωδικό σας, συνδεθείτε στο λογαριασμό σας</string>
-     <string name="private_sms_need_to_unlock">Κωδικό πρόσβασης που απαιτείται:</string>
+     <string name="private_sms_need_to_unlock">Εισάγετε τον κωδικό πρόσβασης:</string>
      <string name="private_sms_recording_intro_header">Σχεδιάστε ένα μοτίβο ξεκλειδώματος:</string>
      <string name="private_sms_reset_by_account">Για να επαναφέρετε τον κωδικό πρόσβασης σας, συνδεθείτε στο λογαριασμό Mi</string>
      <string name="process_kernel_label">Λειτουργικό Android</string>
