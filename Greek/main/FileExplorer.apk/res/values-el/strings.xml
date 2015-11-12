@@ -40,7 +40,7 @@
      <string name="cancel">Άκυρο</string>
      <string name="cancel_error">"Δεν ήταν δυνατή η αφαίρεση. Δοκιμάστε ξανά"</string>
      <string name="cancel_operation">Ακύρωση λειτουργίας</string>
-     <string name="cancel_success">Αφαιρέθηκε με επιτυχία. Όλα τα αρχεία μεταφέρθηκαν στο sdcard/fileexplorer/decryption</string>
+     <string name="cancel_success">Αφαιρέθηκε με επιτυχία. Όλα τα αρχεία μεταφέρθηκαν στο %s</string>
      <string name="cancelled_by_user">Η λειτουργία ακυρώθηκε</string>
      <string name="category">Κατηγορίες</string>
      <string name="category_all">Όλα</string>
@@ -365,7 +365,7 @@
      <string name="operation_show_sys">Εμφάνιση κρυφών αρχείων</string>
      <string name="operation_unfavorite">Αφαίρεση από τα Αγαπημένα</string>
      <string name="pan_settting">Ρυθμίσεις KuaiPan</string>
-     <string name="partial_cancel_successful">"Αδυναμία αφαίρεσης ορισμένων αρχείων. Τα υπόλοιπα αρχεία μεταφέρθηκαν στο sdcard/fileexplorer/decryption"</string>
+     <string name="partial_cancel_successful">"Αδυναμία αφαίρεσης ορισμένων αρχείων. Τα υπόλοιπα αρχεία μεταφέρθηκαν στο %s"</string>
      <string name="partial_delete_failure">"Αδυναμία αφαίρεσης ορισμένων αρχείων. Δοκιμάστε ξανά"</string>
      <string name="partial_encrypt_success">"Αδυναμία μετατροπής ορισμένων αρχείων σε ιδιωτικά. Δοκιμάστε ξανά"</string>
      <string name="partial_repair_done">Επιτυχής επαναφορά ορισμένων αρχείων</string>
