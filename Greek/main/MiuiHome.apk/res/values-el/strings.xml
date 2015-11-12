@@ -26,6 +26,7 @@
      <string name="apply_as_lock_wallpaper_message">Εφαρμογή αυτής της ταπετσαρίας και στην οθόνη κλειδώματος;</string>
      <string name="apply_as_wallpaper">Αρχική οθόνη</string>
      <string name="apply_both">Και τα δύο</string>
+     <string name="apply_negative_action">"Να μην εφαρμοστεί"</string>
      <string name="aqi_quality_index_dangerous">Επικίνδυνο</string>
      <string name="aqi_quality_index_good">Καλό</string>
      <string name="aqi_quality_index_hazardous">Πολύ επικίνδυνο</string>

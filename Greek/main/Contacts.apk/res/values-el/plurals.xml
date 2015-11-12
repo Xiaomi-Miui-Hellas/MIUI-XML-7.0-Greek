@@ -125,4 +125,8 @@
         <item quantity="other">%d άτομα</item>
         <item quantity="one">1 άτομο</item>
      </plurals>
+     <plurals name="voip_contacts_count">
+        <item quantity="other">%1$d άτομα</item>
+        <item quantity="one">%1$d άτομο</item>
+     </plurals>
 </resources>

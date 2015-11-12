@@ -122,6 +122,7 @@
      <string name="callrecordview_menu_show_sim">%s κλήσεις</string>
      <string name="callrecordview_menu_show_stranger">Κλήσεις από άγνωστους αριθμούς</string>
      <string name="callrecordview_menu_show_title">Προβολή μητρώου κλήσεων</string>
+     <string name="calls_voip_prompt">VoIP</string>
      <string name="cancel_confirmation_dialog_message">Απορρίψετε τις αλλαγές σας;</string>
      <string name="cancel_confirmation_dialog_title">Ακύρωση</string>
      <string name="cancel_export_confirmation_message">Ακύρωση εξαγωγής %s;</string>
@@ -212,6 +213,7 @@
      <string name="contact_detail_profile_switch_on_subtitle">Πατήστε για ενεργοποίηση καρτών επαφών</string>
      <string name="contact_detail_profile_switch_on_success_toast">Κάρτες επαφών ενεργές</string>
      <string name="contact_directory_description">Φάκελος %1$s</string>
+     <string name="contact_edit_save_error_empty">Η επαφή είναι κενή</string>
      <string name="contact_edit_title_edit">Επεξεργασία επαφής</string>
      <string name="contact_edit_title_insert">Προσθήκη %s επαφών</string>
      <string name="contact_edit_title_readonly">Επαφή μόνο για ανάγνωση</string>
@@ -239,6 +241,7 @@
      <string name="create_group_dialog_title">Δημιουργία νέας ομάδας</string>
      <string name="create_group_item_label">Δημιουργία νέας ομάδας</string>
      <string name="create_qrcode_fail_message">"Αδύνατη η δημιουργία QR κωδικού"</string>
+     <string name="create_voip_shortcut_success">Η συντόμευση δημιουργήθηκε</string>
      <string name="customLabelPickerTitle">Προσαρμοσμένο όνομα ετικέτας</string>
      <string name="custom_list_filter">Ορίστε την προσαρμοσμένη προβολή</string>
      <string name="custom_nickname_hint">Πληκτρολογήστε ψευδώνυμο</string>
@@ -452,6 +455,7 @@
      <string name="import_all_vcard_string">Εισαγωγή όλων των αρχείων vCard</string>
      <string name="import_contact_card_button">Εισαγωγή επαφής</string>
      <string name="import_failure_no_vcard_file">Δεν βρέθηκαν αρχεία vCard στον αποθηκευτικό χώρο.</string>
+     <string name="import_from_onekey_migrate">Εισαγωγή με την Μεταφορά</string>
      <string name="import_from_other_phone">Εισαγωγή από άλλο τηλέφωνο</string>
      <string name="import_from_sdcard">Εισαγωγή από αποθηκευτικό χώρο</string>
      <string name="import_from_sim">Εισαγωγή από κάρτα SIM</string>
@@ -490,6 +494,15 @@
      <string name="in_call_show_delete_message">Διαγραφή του βίντεό σας;</string>
      <string name="in_call_show_delete_title">Διαγραφή βίντεο;</string>
      <string name="in_call_show_demo_present">Προεπισκόπηση</string>
+     <string name="in_call_show_filter_brannan">Αυγή</string>
+     <string name="in_call_show_filter_earlybird">Φθινόπωρο</string>
+     <string name="in_call_show_filter_jstyle">Ιαπωνικό</string>
+     <string name="in_call_show_filter_mono">Μονόχρωμο</string>
+     <string name="in_call_show_filter_nashvile">Λουλακί</string>
+     <string name="in_call_show_filter_none">Κανονικό</string>
+     <string name="in_call_show_filter_process_error">Παρουσιάστηκε σφάλμα. Δοκιμάστε ξανά.</string>
+     <string name="in_call_show_filter_processing">Επεξεργασία…</string>
+     <string name="in_call_show_filter_vivid">Έντονο</string>
      <string name="in_call_show_guide_intro">"Εγγράψτε ένα βίντεο προφίλ,
  το οποίο θα παίζει στις συσκευές άλλων χρηστών MIUI όταν τους καλείτε"</string>
      <string name="in_call_show_guide_start_recording">Εγγραφή τώρα</string>
@@ -749,6 +762,7 @@
      <string name="no_contacts_dialog_title">Απέτυχε η ανεύρεση επαφών</string>
      <string name="no_contacts_selected">Δεν επιλέχθηκε καμία επαφή.</string>
      <string name="no_sdcard_message">Δεν βρέθηκε χώρος αποθήκευσης.</string>
+     <string name="no_voip_contacts">Δεν υπάρχουν επαφές Mi Voice</string>
      <string name="non_phone_add_to_contacts">Προσθήκη στις επαφές</string>
      <string name="non_phone_caption">Αριθμός τηλεφώνου</string>
      <string name="non_phone_close">Κλείσιμο</string>
@@ -1087,7 +1101,12 @@
      <string name="voicemail_status_configure_voicemail">Ρυθμίστε τον αυτόματο τηλεφωνητή σας.</string>
      <string name="voicemail_status_messages_waiting">"Δεν είναι δυνατή η σύνδεση στο διακομιστή του τηλεφωνητή. Τα νέα φωνητικά μηνύματα είναι σε αναμονή."</string>
      <string name="voicemail_status_voicemail_not_available">"Δεν είναι δυνατή η σύνδεση με το διακομιστή του τηλεφωνητή."</string>
+     <string name="voip_contact_label">Mi Voice</string>
+     <string name="voip_contacts_entry">Mi Voice</string>
+     <string name="voip_loading_contact">Μισό λεπτό…</string>
      <string name="voip_name">Mi Voice</string>
+     <string name="voip_recommend_msg">Πατήστε για να χρησιμοποιήσετε το Mi Voice</string>
+     <string name="voip_shortcut_name">Mi Voice</string>
      <string name="websiteLabelsGroup">Ιστοσελίδα</string>
      <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
      <string name="wipe_data">Εκκαθάριση δεδομένων</string>

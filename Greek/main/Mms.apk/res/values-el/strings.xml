@@ -256,6 +256,8 @@
      <string name="msg_type_hint_mms">Μήνυμα πολυμέσων (MMS)</string>
      <string name="msg_type_hint_mms_omit">MMS</string>
      <string name="msg_type_hint_mx">Mi message</string>
+     <string name="msg_type_hint_mx_b2c">Ειδοποίηση δικτύου</string>
+     <string name="msg_type_hint_mx_b2c_omit">Ειδοποίηση δικτύου</string>
      <string name="msg_type_hint_mx_omit">Mi Msg</string>
      <string name="msg_type_hint_sms">Μήνυμα κειμένου</string>
      <string name="msg_type_hint_sms_omit">SMS</string>
@@ -287,6 +289,8 @@
      <string name="mx_auto_resend_sms">Αποστολή ως SMS</string>
      <string name="mx_auto_resend_sms_summary">Αποστολή ως SMS μέσω σύνδεσης δεδομένων κινητής τηλεφωνίας όταν δεν είστε συνδεδεμένοι σε δίκτυο Wi-Fi. Θα επιβαρυνθείτε με τις τακτικές χρεώσεις του φορέα σας.</string>
      <string name="mx_b2c_message_desc">Ειδοποιήσεις δικτύου</string>
+     <string name="mx_b2c_message_resend_not_online">"Αδυναμία επαναποστολής μηνύματος. Το Mi Message είναι εκτός σύνδεσης."</string>
+     <string name="mx_b2c_message_server">Διακομιστής</string>
      <string name="mx_btn_enable">Ενεργοποίηση</string>
      <string name="mx_btn_enable_now">Ενεργοποίηση</string>
      <string name="mx_count_dspt">Έχετε στείλει %1$d SMS και %2$d MMS</string>

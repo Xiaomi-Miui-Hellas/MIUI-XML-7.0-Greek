@@ -17,6 +17,7 @@
      <string name="alter_message_switch_mode_message">Όταν εναλλάσσετε λειτουργίες, οι προηγούμενες ρυθμίσεις σας δεν θα ισχύουν για αυτή την εφαρμογή.</string>
      <string name="app_frozen_app_list_summary">Εφαρμογές παρασκηνίου</string>
      <string name="app_list_title">Επιλέξτε εφαρμογές</string>
+     <string name="app_list_total">%d εφαρμογές</string>
      <string name="app_name">Εξοικονόμηση μπαταρίας</string>
      <string name="background">Η εφαρμογή τρέχει στο παρασκήνιο</string>
      <string name="config_custom_description">Όταν χρειάζεστε λιγότερο από ότι αναμενόταν, χρησιμοποιήστε την προσαρμοσμένη ρύθμιση</string>

@@ -52,6 +52,7 @@
      <string name="phone_locked_string">Συσκευή κλειδωμένη</string>
      <string name="phone_locked_timeout_minutes_string">Παρακαλώ δοκιμάστε ξανά σε %s λεπτά</string>
      <string name="phone_locked_timeout_seconds_string">Παρακαλώ δοκιμάστε ξανά σε %s δευτερόλεπτα</string>
+     <string name="set_lock_wallpaper_failed">Καμία νέα ταπετσαρία</string>
      <string name="unlock_sim_string">Ξεκλειδώστε</string>
      <string name="unlock_string">Ξεκλειδώστε</string>
      <string name="unlocking_sim_card">Ξεκλείδωμα κάρτας SIM</string>

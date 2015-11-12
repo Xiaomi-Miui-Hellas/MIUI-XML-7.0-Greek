@@ -13,6 +13,12 @@
      <string name="app_store_missing_message">"Φαίνεται ότι δεν έχετε εγκαταστήσει το επίσημο App Store. Εγκατάσταση τώρα;"</string>
      <string name="app_store_missing_title">"Το App Store δεν έχει εγκατασταθεί"</string>
      <string name="auto_startup_dialog_msg">"Η MIUI θα επιτρέψει στην εφαρμογή να ξεκινάει αυτόματα, χωρίς ειδοποίηση. Αυτό μπορεί να οδηγήσει στην κατανάλωση ενέργειας ή κίνησης δεδομένων. Επιτρέψτε την αυτόματη έναρξη;"</string>
+     <string name="btn_text_install_new_version">Τελευταία έκδοση</string>
+     <string name="btn_text_install_origin">Πρωτότυπη έκδοση</string>
+     <string name="btn_text_install_security_version_in_appstore">Αντικατάσταση με την ασφαλή έκδοση</string>
+     <string name="btn_text_scaning">Σάρωση…</string>
+     <string name="btn_text_security_install">Αντικατάσταση με την ασφαλή έκδοση</string>
+     <string name="btn_text_security_scan">Σάρωση ασφαλείας</string>
      <string name="button_text_cancel">Ακύρωση</string>
      <string name="button_text_delete">Διαγραφή</string>
      <string name="button_text_delete_timer">Διαγραφή (%d)</string>
@@ -41,6 +47,7 @@
      <string name="install_failed_system_incompatible">Αυτή η εφαρμογή δεν είναι συμβατή με την MIUI ROM!</string>
      <string name="install_failed_verify_failed">Το πακέτο δεν πέρασε τον έλεγχο και δεν μπορεί να εγκατασταθεί.</string>
      <string name="install_failed_verify_timeout">Προέκυψε λήξη χρόνου, ενώ προσπαθούσε να ελέγξει αυτό το πακέτο. Παρακαλώ δοκιμάστε να εγκαταστήσετε ξανά αργότερα.</string>
+     <string name="install_from_appstore_hint">Σας προτείνουμε να εγκαταστήσετε την εφαρμογή από το &lt;u>&lt;font color=#91c727>AppStore&lt;/font>&lt;/u></string>
      <string name="installing">Εγκατάσταση…</string>
      <string name="launch">Άνοιγμα</string>
      <string name="lift_ban">Άρση αποκλεισμού</string>
@@ -48,6 +55,12 @@
      <string name="low_risk_perms">Άδειες χαμηλού κινδύνου</string>
      <string name="manage_applications">Διαχείριση εφαρμογές</string>
      <string name="manage_device_administrators">Έλεγχος των διαχειριστών της συσκευής</string>
+     <string name="message_apk_checking">Έλεγχος apk…</string>
+     <string name="message_appstore_verify_has_new_version">Μια νεώτερη έκδοση αυτής της εφαρμογής είναι διαθέσιμη στο App Store μας. Θέλετε να την εγκαταστήσετε;</string>
+     <string name="message_appstore_verify_inconsistent">"Η υπογραφή αυτής της εφαρμογής είναι διαφορετική από ότι στο App Store. Θα είναι ασφαλέστερο να εγκαταστήσετε την εφαρμογή από εκεί."</string>
+     <string name="message_appstore_verify_ok">Η έκδοση αυτής της εφαρμογής στο App Store έχει περάσει τις δοκιμές ασφαλείας μας. Σας συνιστούμε να εγκαταστήσετε την εφαρμογή από εκεί.</string>
+     <string name="message_install_in_market">Σας προτείνουμε να εγκαταστήσετε την εφαρμογή από το AppStore</string>
+     <string name="message_security_scaning">Σάρωση…</string>
      <string name="ok">ΟΚ</string>
      <string name="other_relative">Άλλα δικαιώματα</string>
      <string name="out_of_space_dlg_text">%1$s δεν μπόρεσε να εγκατασταθεί. Ελευθερώσετε λίγο χώρο και προσπαθήστε ξανά.</string>
@@ -103,4 +116,5 @@
      <string name="virus_scan_install">" "&lt;u&gt;&amp;#32487;&amp;#32493;&amp;#23433;&amp;#35013;&lt;/u&gt;" "</string>
      <string name="virus_scan_is_risk">Η εφαρμογή αυτή παρουσιάζει κίνδυνο!</string>
      <string name="virus_scan_is_virus">Η εφαρμογή αυτή περιέχει έναν ιό, παρακαλώ αφαιρέστε την αμέσως!</string>
+     <string name="waiting_tip">Αυτό μπορεί να πάρει λίγο χρόνο, αλλά αξίζει τον κόπο</string>
 </resources>
