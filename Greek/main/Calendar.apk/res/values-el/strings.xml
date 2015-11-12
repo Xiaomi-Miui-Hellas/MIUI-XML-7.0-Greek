@@ -153,6 +153,8 @@
      <string name="huangli_bad_type">Αποφύγετε</string>
      <string name="huangli_good_type">Σε περίπτωση</string>
      <string name="huangli_label" />
+     <string name="internet_connection_notification">Ειδοποίηση σύνδεσης στο Internet</string>
+     <string name="internet_connection_notification_descrip">Εμφάνιση της ειδοποίησης σύνδεσης στο Internet κάθε φορά που ανοίγετε το Ημερολόγιο</string>
      <string name="jump_date">Άλμα</string>
      <string name="jump_date_full">Άλμα σε ημερομηνία</string>
      <string name="label_recent_events">Πρόσφατα γεγονότα</string>
@@ -196,7 +198,9 @@
      <string name="no_syncable_calendars">Χωρίς ημερολόγια</string>
      <string name="no_title_label">(Χωρίς τίτλο)</string>
      <string name="not_synced">ασυγχρόνιστο</string>
+     <string name="notice_button_exit">Έξοδος</string>
      <string name="notice_button_ok">Συμφωνώ</string>
+     <string name="notice_declaration_ignore">"Να μην εμφανιστεί ξανά"</string>
      <string name="notice_title_request">Αίτημα</string>
      <string name="online_calendar_activity_label">Εγγραφείτε στο ημερολόγιο</string>
      <string name="online_reminder_change_text">Τροποποίηση υπενθύμισης</string>

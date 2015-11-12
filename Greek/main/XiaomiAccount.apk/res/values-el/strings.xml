@@ -183,7 +183,10 @@
      <string name="passport_license_host_unreachable">Αδυναμία σύνδεσης με το δίκτυο. Για να δείτε αυτές τις πληροφορίες, μεταβείτε στο %s.</string>
      <string name="passport_loading">Φόρτωση…</string>
      <string name="passport_login">Σύνδεση</string>
+     <string name="passport_login_check_find_device">Έλεγχος κατάστασης του Εύρεση συσκευής…</string>
+     <string name="passport_login_check_find_device_failed">"Αδυναμία ελέγχου κατάστασης του Εύρεση συσκευής. Ελέγξτε τη σύνδεση δικτύου σας."</string>
      <string name="passport_login_failed">Αδυναμία σύνδεσης</string>
+     <string name="passport_login_find_device_bind">Αυτή η συσκευή έχει συσχετισθεί με υφιστάμενο ID λογαριασμού Mi (%s). Συνδεθείτε για να ενεργοποιήσετε τη συσκευή.</string>
      <string name="passport_login_instead_reg">Χρήση αυτού του αριθμού</string>
      <string name="passport_login_instead_reg_with_email">Χρήση αυτού του email</string>
      <string name="passport_login_notice">Σύνδεση…</string>

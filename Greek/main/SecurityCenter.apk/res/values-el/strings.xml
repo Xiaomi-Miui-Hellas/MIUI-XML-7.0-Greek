@@ -24,7 +24,9 @@
      <string name="activity_title_power_manager">Ενέργεια</string>
      <string name="activity_title_risk">Πιθανές απειλές</string>
      <string name="activity_title_risk_detail">Πληροφορίες απειλής</string>
+     <string name="activity_title_root_acquired">Επέτρεψε την πρόσβαση root</string>
      <string name="activity_title_root_manager">Προνόμια Root</string>
+     <string name="activity_title_root_note">Σχετικά με την πρόσβαση root</string>
      <string name="activity_title_settings">Ρυθμίσεις</string>
      <string name="activity_title_system">Σύστημα</string>
      <string name="activity_title_trash">Cache</string>
@@ -288,6 +290,7 @@
      <string name="permission_send_sms_descx">Αποστολή SMS και MMS</string>
      <string name="permission_with_SMS_and_MMS">Δικαιώματα σχετικά με SMS και MMS</string>
      <string name="permission_with_call_and_contact">Δικαιώματα που σχετίζονται με τηλεφωνικές κλήσεις, πληροφορίες επαφών, και αρχεία καταγραφής κλήσεων.</string>
+     <string name="pm_root_success_notification_title">Πρόσβαση root ενεργή</string>
      <string name="power_20s_enter_mode">Λειτουργία. %2$s στο %1$d</string>
      <string name="power_20s_shutdown">Η συσκευή θα απενεργοποιηθεί σε 20 δευτερόλεπτα</string>
      <string name="power_apply_toast">Με την αλλαγή %s να αποθηκεύσετε τις τρέχουσες ρυθμίσεις σας</string>
@@ -468,6 +471,7 @@
      <string name="preferred_app_entries_music">Μουσική</string>
      <string name="process_kernel_label">Λειτουργικό Android</string>
      <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
+     <string name="prompt_input_time_illegal">"Δεν μπορεί να ρυθμιστεί τώρα. Αλλάξτε το και προσπαθήστε ξανά"</string>
      <string name="protection_category_dangerous_title">Δυνητικά επικίνδυνα: %d</string>
      <string name="protection_category_recommend_title">Προτεινόμενες βελτιστοποιήσεις: %d</string>
      <string name="protection_category_security_title">Ασφάλεια: %d</string>

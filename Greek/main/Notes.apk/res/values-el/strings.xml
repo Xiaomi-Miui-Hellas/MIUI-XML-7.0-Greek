@@ -19,6 +19,7 @@
      <string name="button_new_note">Νέα σημείωση</string>
      <string name="call_record_folder_name">Κλήση σημείωσης</string>
      <string name="default_folder_name">Σημειώσεις</string>
+     <string name="dlg_delete_message">Διαγραφή…</string>
      <string name="dlg_desc_confirm_alarm_silent">Οι ενεργοί συναγερμοί δεν θα ηχούν σε σιωπηλή λειτουργία.</string>
      <string name="dlg_info_creating_message">Δημιουργία μηνύματος…</string>
      <string name="dlg_title_confirm_alarm_silent">Σίγαση συναγερμών</string>
@@ -68,6 +69,7 @@
      <string name="pref_title_common">Πρόσθετες ρυθμίσεις</string>
      <string name="pref_title_font_size">Μέγεθος Γραμματοσειράς</string>
      <string name="pref_title_note_style">Στυλ Σημείωσης</string>
+     <string name="pref_title_recover_help">Ανάκτηση σημειώσεων</string>
      <string name="redo">Ακύρωση αναίρεσης</string>
      <string name="search">Σημειώσεις</string>
      <string name="search_hint">Αναζήτηση Σημειώσεων</string>
