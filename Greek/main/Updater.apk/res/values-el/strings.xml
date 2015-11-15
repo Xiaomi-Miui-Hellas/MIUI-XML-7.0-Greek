@@ -121,7 +121,7 @@
      <string name="pause">Παύση</string>
      <string name="pm_root_acquired_button">Πρόσβαση root</string>
      <string name="pm_root_acquired_notification_title">Απόκτηση προνομίων root</string>
-     <string name="pm_root_acquired_rooting">Απόκτηση προνομίων root  %s</string>
+     <string name="pm_root_acquired_rooting">Απόκτηση προνομίων root %s</string>
      <string name="pm_root_checking">Έλεγχος πληροφοριών συστήματος…</string>
      <string name="pm_root_fail_button_retry">Επανάληψη</string>
      <string name="pm_root_fail_msg">"Αυτή η εφαρμογή δεν μπορεί να πάρει πρόσβαση root. Προσπαθήστε ξανά."</string>

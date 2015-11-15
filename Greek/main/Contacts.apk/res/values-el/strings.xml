@@ -831,8 +831,8 @@
      <string name="pref_key_sim_manage1">Διαμορφώστε την κάρτα SIM 1</string>
      <string name="pref_key_sim_manage2">Διαμορφώστε την κάρτα SIM 2</string>
      <string name="pref_summary_import_from_account">Μεταφορά επαφών από λογαριασμούς Google και Exchange στο Mi λογαριασμό μου</string>
-     <string name="pref_title_account_import">Εισαγωγή από το λογαριασμό</string>
-     <string name="pref_title_import_from_account">Εισαγωγή από το Λογαριασμό Mi</string>
+     <string name="pref_title_account_import">Εισαγωγή επαφών</string>
+     <string name="pref_title_import_from_account">Εισαγωγή στο Λογαριασμό Mi</string>
      <string name="preference_auto_ip_summary_disable">Απενεργοποιημένο</string>
      <string name="preference_auto_ip_summary_on">Πρόθεμα φορέα IP: %s</string>
      <string name="preference_auto_ip_title">Αυτόματο πρόθεμα IP</string>
