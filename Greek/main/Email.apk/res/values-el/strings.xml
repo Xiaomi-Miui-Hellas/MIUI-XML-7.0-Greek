@@ -150,7 +150,7 @@
      <string name="add_pre_message_attachments_no">Όχι</string>
      <string name="add_pre_message_attachments_yes">Ναι</string>
      <string name="add_star">Με αστέρι</string>
-     <string name="allread">All Readed</string>
+     <string name="allread">Όλα αναγνωσμένα</string>
      <string name="always_bcc_myself">Το Mail Πάντα να κάνει Bcc εμένα</string>
      <string name="always_show_images">Πάντα να δείχνουν εικόνες από αυτόν τον αποστολέα</string>
      <string name="app_name">Mail</string>
@@ -158,6 +158,7 @@
      <string name="archive">Αρχείο</string>
      <string name="archived">Στο Αρχείο</string>
      <string name="att_download_failed_content">Η λήψη απέτυχε</string>
+     <string name="att_download_failed_network_slow">Η ταχύτητα σύνδεσης είναι πολύ αργή. Δοκιμάστε ξανά αργότερα</string>
      <string name="att_download_failed_title">Η λήψη συνημμένου απέτυχε</string>
      <string name="att_file_not_exists">Το αρχείο %s δεν βρέθηκε!</string>
      <string name="att_mgr_no_attachment">Δεν υπάρχουν συνημμένα!</string>
@@ -203,6 +204,13 @@
      <string name="bottom_bar_more_share">Κοινή χρήση</string>
      <string name="bottom_bar_no_quickreply_toast">Χωρίς γρήγορη απάντηση</string>
      <string name="bytes">%s b</string>
+     <string name="calendar_remind_dialog_title">Υπενθύμιση</string>
+     <string name="calendar_remind_gridview_month_later">Επόμενο μήνα</string>
+     <string name="calendar_remind_gridview_nextweek">Επόμενη εβδομάδα</string>
+     <string name="calendar_remind_gridview_pick_date">Επιλέξτε ημέρα</string>
+     <string name="calendar_remind_gridview_tomorrow">Αύριο</string>
+     <string name="calendar_remind_gridview_tonight">Απόψε</string>
+     <string name="calendar_remind_gridview_weekend">Σαββατοκύριακο</string>
      <string name="cancel">Άκυρο</string>
      <string name="cancel_action">Άκυρο</string>
      <string name="cant_move_or_change_labels">"Αδύνατη η μετακίνηση διότι επιλέχθηκαν αντικείμενα από πολλούς λογαριασμούς."</string>
@@ -218,7 +226,7 @@
      <string name="chat_view_description">Συγχώνευση τις λίστας συνομιλιών για την προβολή συνομιλίας</string>
      <string name="chat_view_title">Προβολή συνομιλίας</string>
      <string name="check_setup_data">Επαλήθευση ρυθμίσεων διακομιστή…</string>
-     <string name="choosertitle_sharevia">Διαμοιρασμός μέσω</string>
+     <string name="choosertitle_sharevia">Κοινή χρήση μέσω</string>
      <string name="clear">Εκκαθάριση</string>
      <string name="clear_display_images_whitelist_dialog_message">Σταματήστε την εμφάνιση ενσωματωμένες εικόνες από αποστολείς που προηγουμένως επιτρέπεται.</string>
      <string name="clear_display_images_whitelist_dialog_title">Εγκρίσεις καθαρής εικόνας;</string>
@@ -308,6 +316,7 @@
      <string name="discard">Απόρριψη</string>
      <string name="discard_drafts">Απόρριψη πρόχειρων</string>
      <string name="dismiss_tip_hover_text">Παράβλεψη συμβουλών</string>
+     <string name="disturb_switch">Μην ενοχλείτε</string>
      <string name="done">Επιστροφή</string>
      <string name="done_action">Έγινε</string>
      <string name="donot_disturb_endtime_title">Προς</string>
@@ -336,6 +345,7 @@
      <string name="elided_padding_token"> </string>
      <string name="email_feedback_uri" />
      <string name="email_package_name">com.android.email</string>
+     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
      <string name="empty_account_tip">Αδυναμία εύρεσης λογαριασμού</string>
      <string name="empty_email_tip">Δεν θα μπορούσε να στείλει άδειο Email</string>
      <string name="empty_spam">Άδειασμα Spam</string>
@@ -368,16 +378,16 @@
      <string name="folder_list_display_only_import">Προβολή μόνο σημαντικών φακέλων</string>
      <string name="folder_picker_title">Επιλέξτε φακέλους</string>
      <string name="folder_removed">Καταργήθηκε από %1$s</string>
-     <string name="folder_sent_name_en0">Sent</string>
-     <string name="folder_sent_name_en1">Sent Messages</string>
-     <string name="folder_sent_name_en2">Sent Message</string>
-     <string name="folder_sent_name_en3">Sent Items</string>
-     <string name="folder_sent_name_en4">[Gmail]/Sent Mail</string>
+     <string name="folder_sent_name_en0">Αποστολή</string>
+     <string name="folder_sent_name_en1">Αποστολή μηνυμάτων</string>
+     <string name="folder_sent_name_en2">Αποστολή μηνύματος</string>
+     <string name="folder_sent_name_en3">Αποστολή στοιχείων</string>
+     <string name="folder_sent_name_en4">[Gmail]/Αποστολή Mail</string>
      <string name="folder_shortcut_widget_label">Φάκελος email</string>
      <string name="folder_synchronization_mail_settings">Ρυθμίσεις συγχρονισμού φακέλων αλληλογραφίας</string>
-     <string name="folder_trash_name_en0">Trash</string>
-     <string name="folder_trash_name_en1">Deleted Messages</string>
-     <string name="folder_trash_name_en2">Deleted Message</string>
+     <string name="folder_trash_name_en0">Σκουπίδια</string>
+     <string name="folder_trash_name_en1">Διεγραμένα μηνύματα</string>
+     <string name="folder_trash_name_en2">Δεγραμένο μήνυμα</string>
      <string name="folder_trash_name_en3">[Gmail]/Bin</string>
      <string name="formatted_email_address">&lt;%1$s></string>
      <string name="formatted_subject">%1$s%2$s</string>
@@ -401,6 +411,8 @@
      <string name="get_database_exception">"Κάντε καθαρισμό δεδομένων της εφαρμογής από το Ρυθμίσεις>Εφαρμογές συστήματος και δοκιμάστε ξανά."</string>
      <string name="gmail_acceleration">Χρήση διακομιστή μεσολάβησης για τον λογαριασμό Gmail</string>
      <string name="gmail_login_confirm_to_use_proxy">Χρήση διακομιστή μεσολάβησης για πρόσβαση του λογαριασμού σας στο Gmail;</string>
+     <string name="gmail_login_failed_non_proxy_title">"Δεν ήταν δυνατή η πρόσβαση στο διακομιστή του Gmail"</string>
+     <string name="gmail_server_authorization_deleted">"Δεν ήταν δυνατή η επικύρωση του λογαριασμού. Δοκιμάστε ξανά να προσθέσετε αυτό το λογαριασμό."</string>
      <string name="gmail_web_login_go">OK</string>
      <string name="gmail_web_login_required_message">Σύνδεση στο Gmail</string>
      <string name="header_category_account">Λογαριασμοί</string>
@@ -463,7 +475,7 @@
      <string name="manual_sync">Συγχρονίστε τώρα</string>
      <string name="mark_important">Ως σημαντικό</string>
      <string name="mark_not_important">Ως μη σημαντικό</string>
-     <string name="mark_not_spam">Αναφορά όχι spam</string>
+     <string name="mark_not_spam">Αναφορά ως μη spam</string>
      <string name="mark_read">Ανάγνωση</string>
      <string name="mark_unread">Αδιάβαστα</string>
      <string name="me_object_pronun">εγώ</string>
@@ -557,14 +569,14 @@
      <string name="outbox_alert_description_cannot_authenticate">Σφάλμα διακομιστή %s</string>
      <string name="outbox_alert_description_email_size_error">Το μέγιστο μέγεθος του email έχει επιτευχθεί.</string>
      <string name="outbox_alert_description_fail_authentication">Λανθασμένο όνομα χρήστη ή κωδικός πρόσβασης.</string>
+     <string name="outbox_alert_description_fail_network">"Αδυναμία σύνδεσης στο δίκτυο."</string>
      <string name="outbox_alert_description_http_error">Αιτία: Σφάλμα HTTP από τον διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
      <string name="outbox_alert_description_insufficient_storage_error">Ανεπαρκής χώρος αποθήκευσης στο διακομιστή</string>
      <string name="outbox_alert_description_provision_error">Αιτία: Σφάλμα ρύθμισης παραμέτρων από τον διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
      <string name="outbox_alert_description_reject_by_server">Απορρίφθηκε από %s</string>
      <string name="outbox_alert_description_sent_failed">"Αιτία: Το συνημμένο
 ξεπέρασε το όριο λήψης μεγέθους"</string>
-     <string name="outbox_alert_description_time_out">Αποτυχία σύνδεσης δικτύου</string>
-     <string name="outbox_alert_duplicate_click">Ακόμη συγχρονίζει…</string>
+     <string name="outbox_alert_duplicate_click">Αποστέλλεται τώρα…</string>
      <string name="outbox_alert_edit_resend">Επεξ.και αποστολή ξανά</string>
      <string name="outbox_alert_failed_edit_resend">"Αδυναμία αποστολής. Επεξεργαστείτε και δοκιμάστε πάλι."</string>
      <string name="outbox_alert_mailbox_not_found">Δεν βρέθηκε η διεύθυνση email</string>
@@ -680,6 +692,7 @@
      <string name="remove_folder">Αφαίρεση από %1$s</string>
      <string name="remove_star">Χωρίς αστέρι</string>
      <string name="reply">Απάντηση</string>
+     <string name="reply_add_bodycontent">Προσθήκη  κειμένου γρήγορης απάντησης στο περιεχόμενο του μηνύματος;</string>
      <string name="reply_all">Απάντηση όλων</string>
      <string name="reply_attribution" formatted="false">Την %s, %s έγραψε:</string>
      <string name="report_phishing">Αναφορά ψευδούς</string>
@@ -729,7 +742,7 @@
      <string name="setting_default_lable" />
      <string name="settings_activity_title">Ρυθμίσεις</string>
      <string name="share_choose">Παρακαλώ επιλέξτε</string>
-     <string name="sharing">Διαμοιρασμός</string>
+     <string name="sharing">Κοινή χρήση</string>
      <string name="shortcut_name_title">Συντόμευση του φακέλου Όνομα</string>
      <string name="show_elided">▶ Εμφάνιση κειμένου σε παράθεση</string>
      <string name="show_images">Δείτε φωτογραφίες</string>
@@ -742,11 +755,11 @@
      <string name="single_new_message_notification_title">%1$s: %2$s</string>
      <string name="smtp_password_error">Ο κωδικός πρόσβασης του διακομιστή εξερχόμενης αλληλογραφίας είναι λάθος</string>
      <string name="sort_attachment">Ταξινόμηση κατά</string>
-     <string name="special_text_5">wrote:</string>
+     <string name="special_text_5">έγραψε:</string>
      <string name="special_text_colon_en">:</string>
      <string name="special_text_colon_zh">：</string>
      <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
-     <string name="special_text_sender_en">sender</string>
+     <string name="special_text_sender_en">αποστολέας</string>
      <string name="storage">Μνήμη</string>
      <string name="str_select_all">Επιλογή όλων</string>
      <string name="str_select_none">Αποεπιλογή όλων</string>
@@ -810,6 +823,7 @@
      <string name="widget_all_mail">όλα τα μηνύματα</string>
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Άλλο</string>
+     <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
      <string name="wrong_password">Λάθος κωδικός!</string>
      <string name="yes">Ναι</string>
      <string name="you_are_in_mobile_network">Αυτή την στιγμή χρησιμοποιείτε δίκτυο κινητής. Παρακαλώ δώστε προσοχή στην κίνηση δεδομένων!</string>

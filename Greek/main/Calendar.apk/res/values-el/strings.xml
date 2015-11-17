@@ -23,6 +23,7 @@
      <string name="acessibility_cal_notification">Ειδοποίηση ημερολογίου</string>
      <string name="acessibility_selected_marker_description">Επιλεγμένο γεγονός</string>
      <string name="acessibility_snooze_notification">Ειδοποίηση αναβολής</string>
+     <string name="action_label">Επιστροφή</string>
      <string name="action_text_new_event">Νέο γεγονός</string>
      <string name="action_text_today">Σήμερα</string>
      <string name="add_account">Προσθήκη λογαριασμού</string>

@@ -1054,6 +1054,7 @@
      <string name="toast_making_personal_copy">Δημιουργώντας ένα προσωπικό αντίγραφο…</string>
      <string name="toast_text_copied">Το κείμενο έχει αντιγραφεί</string>
      <string name="today">Σήμερα</string>
+     <string name="transfer_accounts">Μεταφορά λογαριασμών</string>
      <string name="type_incoming">Εισερχόμενη κλήση</string>
      <string name="type_missed">Αναπάντητη κλήση</string>
      <string name="type_mx_msg">Ανταλλαγή μηνυμάτων μέσω Cloud</string>
