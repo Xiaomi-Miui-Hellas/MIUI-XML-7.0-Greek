@@ -345,7 +345,6 @@
      <string name="elided_padding_token"> </string>
      <string name="email_feedback_uri" />
      <string name="email_package_name">com.android.email</string>
-     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
      <string name="empty_account_tip">Αδυναμία εύρεσης λογαριασμού</string>
      <string name="empty_email_tip">Δεν θα μπορούσε να στείλει άδειο Email</string>
      <string name="empty_spam">Άδειασμα Spam</string>
@@ -823,7 +822,6 @@
      <string name="widget_all_mail">όλα τα μηνύματα</string>
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Άλλο</string>
-     <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
      <string name="wrong_password">Λάθος κωδικός!</string>
      <string name="yes">Ναι</string>
      <string name="you_are_in_mobile_network">Αυτή την στιγμή χρησιμοποιείτε δίκτυο κινητής. Παρακαλώ δώστε προσοχή στην κίνηση δεδομένων!</string>
