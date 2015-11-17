@@ -179,6 +179,8 @@
      <string name="change_password">Αλλαγή κωδικού φραγής</string>
      <string name="change_pin">Αλλαγή PIN κάρτας SIM</string>
      <string name="change_pin2">Αλλαγή PIN2</string>
+     <string name="chose_product_summary">Καλέστε φθηνότερα</string>
+     <string name="chose_product_title">Πακέτο Top-up</string>
      <string name="clir_choices_hide_number">Απόκρυψη αριθμού</string>
      <string name="clir_choices_network_default">Προεπιλογή δικτύου</string>
      <string name="clir_choices_show_number">Εμφάνιση αριθμού</string>
@@ -240,7 +242,6 @@
      <string name="dial_related_setting_catory">Κλήση</string>
      <string name="dialog_activate_livetalk">Ενεργοποίηση πακέτου top-up</string>
      <string name="dialog_call_ordinary_telephone">Χρήση της κανονικής SIM αντί αυτού</string>
-     <string name="dialog_hang_up">Τέλος κλήσης</string>
      <string name="dialog_network_priority_title">Προτεραιότητα</string>
      <string name="dialog_no">Όχι</string>
      <string name="dialog_purchase">Ανανέωση</string>
@@ -319,16 +320,11 @@
      <string name="error_type_account_201">Ανεπαρκές κεφάλαιο</string>
      <string name="error_type_account_203">"Ο τύπος του αριθμού που καλέσατε δεν υποστηρίζεται"</string>
      <string name="error_type_account_208">"Αδυναμία ολοκλήρωσης κλήσης προς αυτό τον αριθμό"</string>
-     <string name="error_type_account_301">Ο κωδικός που δώσατε είναι λάθος</string>
-     <string name="error_type_account_302">Ο κωδικός που δώσατε έχει ήδη χρησιμοποιηθεί</string>
      <string name="error_type_account_500">"Αδυναμία σύνδεσης στο δίκτυο κινητής"</string>
-     <string name="error_type_account_inner">Εσωτερικό σφάλμα</string>
      <string name="error_type_network">Σφάλμα δικτύου</string>
      <string name="error_type_unknown">Άγνωστο σφάλμα</string>
      <string name="error_updating_title">Σφάλμα ρυθμίσεων κλήσης</string>
      <string name="exception_error">Σφάλμα δικτύου ή κάρτας SIM.</string>
-     <string name="expected_avaiable_minute">Λεπτά που απομένουν</string>
-     <string name="expected_avaiable_minute_summary">Οι διεθνείς τιμές κλήσεις μπορεί να αυξομειώνονται</string>
      <string name="exportAllcontatsFailed">Απέτυχε η εξαγωγή επαφών στην κάρτα SIM.</string>
      <string name="exportAllcontatsNoContacts">Δεν βρέθηκαν επαφές για εξαγωγή στη SIM.</string>
      <string name="exportAllcontatsSuccess">Επαφές εξήχθησαν στην κάρτα SIM.</string>
@@ -456,8 +452,8 @@
      <string name="list_language_dtitle">Γλώσσες</string>
      <string name="list_language_summary">Επιλέξτε τη γλώσσα των ειδήσεων</string>
      <string name="list_language_title">Γλώσσα</string>
+     <string name="livetalk_about">Σχετικά</string>
      <string name="livetalk_about_info">Σχετικά</string>
-     <string name="livetalk_about_info_content">"V0.9 beta (Οι Αριθμοί υπηρεσίας σύντομων κωδικών δεν υποστηρίζονται αυτή τη στιγμή. Θα πρέπει να συνδεθείτε στο Internet για να χρησιμοποιήσετε αυτήν τη δυνατότητα. Κάθε κλήση χρησιμοποιεί 1Kb δεδομένων κινητής. Ενεργοποιήστε την Ακρόαση για να χρησιμοποιήσετε αυτή την υπηρεσία, αλλιώς ο φορέας σας μπορεί να σας χρεώσει κατά την περιαγωγή.)"</string>
      <string name="livetalk_activate">Ενεργοποίηση πακέτου top-up</string>
      <string name="livetalk_activate_number">Ενεργοποίηση κάρτας SIM</string>
      <string name="livetalk_activate_number_1">Ενεργοποίηση SIM 1</string>
@@ -465,7 +461,7 @@
      <string name="livetalk_activate_sim_card">Ενεργοποίηση</string>
      <string name="livetalk_activate_summary">Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση της υπηρεσίας.</string>
      <string name="livetalk_add_white_list_info">Προσθέστε αριθμό τηλεφώνου για να καλέσετε απευθείας.</string>
-     <string name="livetalk_avaiable_minute">%1$s λεπτά απομένουν</string>
+     <string name="livetalk_before_provision">"Έχω διαβάσει και αποδέχομαι"</string>
      <string name="livetalk_charge_now">Αγορά τώρα</string>
      <string name="livetalk_complete">Ολοκληρώθηκε</string>
      <string name="livetalk_complete_domestic_phone">Κάντε διεθνή κλήση χρησιμοποιώντας πακέτο top-up.</string>
@@ -474,36 +470,35 @@
      <string name="livetalk_complete_name">Εναλλαγή στο πακέτο top-up</string>
      <string name="livetalk_complete_title">Κλήση για ολοκλήρωση top-up</string>
      <string name="livetalk_continue_button">Συνέχεια</string>
+     <string name="livetalk_continue_button_creat_account">Δημιουργία λογαριασμού</string>
      <string name="livetalk_creat_account_fialed">Σφάλμα λογαριασμού</string>
      <string name="livetalk_dial_direct">Καλέστε άμεσα</string>
      <string name="livetalk_experience_button">Δοκιμάστε τώρα</string>
      <string name="livetalk_introduction_text">Διεθνείς κλήσεις χαμηλού κόστους</string>
      <string name="livetalk_last_step">Πίσω</string>
-     <string name="livetalk_login_experience_button">Σύνδεση</string>
      <string name="livetalk_name">Πακέτο top-up</string>
      <string name="livetalk_network_confirm">OK</string>
      <string name="livetalk_network_confirm_summary">Τα πακέτα top-up χρησιμοποιούν περίπου 1KB δεδομένων κινητής κάθε φορά που συνδέεται μια κλήση.</string>
      <string name="livetalk_next_step">Επόμενο</string>
-     <string name="livetalk_niece_price_arrow">Αυτό το χαρακτηριστικό είναι διαθέσιμο σε 13 χώρες και περιοχές</string>
-     <string name="livetalk_niece_price_summary">Δείτε τις διεθνείς τιμές για περισσότερες πληροφορίες</string>
-     <string name="livetalk_niece_price_title">"Αυτή η λειτουργία δεν είναι διαθέσιμη ακόμα"</string>
      <string name="livetalk_nsufficient_balance">Ανεπαρκές υπόλοιπο.</string>
      <string name="livetalk_package_introduction_text">Αποκλειστική έκπτωση για τους χρήστες MIUI. Λιγότερη χρήση δεδομένων και χαμηλότερες τιμές.</string>
      <string name="livetalk_package_name">Υπόλοιπο top-up</string>
+     <string name="livetalk_provider">Provided by %1$s</string>
      <string name="livetalk_provision">Όροι Παροχής Υπηρεσιών</string>
-     <string name="livetalk_provision_checkbox">Αποδοχή Όρων Παροχής Υπηρεσιών</string>
-     <string name="livetalk_provision_second">, και θα πρέπει να συνδεθεί στο Internet για να λειτουργήσει κανονικά.</string>
      <string name="livetalk_service_and_short_number_not_support">Οι αριθμοί υπηρεσίας καθώς και οι σύντομοι αριθμοί δεν υποστηρίζονται.</string>
      <string name="livetalk_setting">Ρυθμίσεις top-up</string>
      <string name="livetalk_sim_card_not_activated">"Η κάρτα SIM δεν έχει ενεργοποιηθεί."</string>
      <string name="livetalk_unavaiable_info">Αυτή η υπηρεσία είναι προσωρινά μη διαθέσιμη</string>
      <string name="livetalk_user_config_title">Ενεργοποίηση κάρτας SIM</string>
      <string name="livetalk_version">Πακέτο top-up έκδοση 0.9 | Beta</string>
+     <string name="livetalk_welcome_description_text">"• ¥ 0.05 ανά λεπτό για κλήσεις εσωτερικού και ¥ 0.3 για διεθνείς.
+• Καλέστε οποιοδήποτε τηλέφωνο στον κόσμο. Δεν υπάρχουν περιορισμοί φορέα.
+• Αγοράστε πακέτο και ξεκινήστε τις κλήσεις. Δεν υπάρχουν περίπλοκες ρυθμίσεις."</string>
+     <string name="livetalk_welcome_notes_text">"Σημείωση: Κάθε κλήση απαιτεί 1KB δεδομένων κινητής. Υπηρεσίες και σύντομοι αριθμοί δεν υποστηρίζονται. Εάν πληρώνετε για τις εισερχόμενες κλήσεις, θα χρεωθείτε από το φορέα σας όταν η περιαγωγή είναι ενεργοποιημένη."</string>
      <string name="livetalk_white_list_number_title">Καλέστε χωρίς τη χρήση πακέτου top-up</string>
      <string name="load_networks_progress">Αναζήτηση…</string>
-     <string name="load_rates_failed">"Αδυναμία φόρτωσης"</string>
      <string name="loading">Μισό λεπτό…</string>
-     <string name="loading_recent_failed">"Αδυναμία φόρτωσης"</string>
+     <string name="loading_product">Μισό λεπτό…</string>
      <string name="local_disable">Τοπικές ειδήσεις απενεργοποιημένες</string>
      <string name="local_enable">Τοπικές ειδήσεις ενεργοποιημένες</string>
      <string name="local_weather_disable">Τοπικός καιρός ανενεργός</string>
@@ -605,7 +600,7 @@
      <string name="no_internet_available">Για να πραγματοποιήσετε μια κλήση Internet, ελέγξτε πρώτα τη σύνδεσή σας στο διαδίκτυο.</string>
      <string name="no_internet_available_title">Δεν υπάρχει σύνδεση στο Internet</string>
      <string name="no_more">Όχι πια</string>
-     <string name="no_product_list">Κενό</string>
+     <string name="no_sim_card">Εισάγετε την κάρτα SIM</string>
      <string name="no_sip_account_found">Δεν υπάρχουν λογαριασμοί για κλήσεις μέσω Internet σε αυτό το τηλέφωνο. Θέλετε να προσθέσετε ένα τώρα;</string>
      <string name="no_sip_account_found_title">Κανένας λογαριασμός για κλήσεις μέσω Internet</string>
      <string name="no_vm_number">Λείπει ο αριθμός αυτόματου τηλεφωνητή</string>
@@ -645,14 +640,10 @@
      <string name="old_pin_label">Παλιό PIN</string>
      <string name="open_miui">Άνοιξε</string>
      <string name="optional_summary">&lt;Προαιρετικό></string>
-     <string name="order_by_name">Αλφαβητικά</string>
      <string name="order_by_recent">Χρησιμοποιούνται συχνά</string>
      <string name="order_id">ID παραγγελίας:%1$s</string>
      <string name="order_price">¥ %1$s</string>
-     <string name="order_status_fail">Κατάσταση παραγγελίας: απέτυχε</string>
-     <string name="order_status_successful">Κατάσταση παραγγελίας: ολοκληρώθηκε</string>
      <string name="order_time">%1$s λεπτά</string>
-     <string name="order_unit_price">¥ %1$s/λεπτό</string>
      <string name="ota_activate">Ενεργοποίηση</string>
      <string name="ota_call_end">Πίσω</string>
      <string name="ota_failure">Προγραμματισμός ανεπιτυχής</string>
@@ -681,7 +672,6 @@
 
 Δοκιμάστε ξανά ή καλέστε την υπηρεσία εξυπηρέτησης πελατών για περισσότερες επιλογές."</string>
      <string name="other">Άλλες</string>
-     <string name="other_countries_and_regions">Άλλες χώρες και περιοχές</string>
      <string name="other_settings">Άλλες ρυθμίσεις κλήσεων</string>
      <string name="other_settings_category">Άλλα</string>
      <string name="overseas_roaming_setting">Διεθνής περιαγωγή</string>
@@ -716,10 +706,6 @@
      <string name="place_a_call1">Συνδρομή 1</string>
      <string name="place_a_call2">Συνδρομή 2</string>
      <string name="place_a_call3">Συνδρομή 3</string>
-     <string name="please_choose_the_duration">Επιλέξτε διάρκεια.</string>
-     <string name="please_choose_the_refueling_package">Επιλέξτε πακέτο top-up</string>
-     <string name="pocket_mode_summary">Το τηλέφωνο θα κλειδώνει αυτόματα όταν τοποθετηθεί σε μια τσέπη ή μαλακή θήκη</string>
-     <string name="pocket_mode_title">Πρόληψη ατυχών κλήσεων</string>
      <string name="port_title">Αριθμός θύρας</string>
      <string name="preference_auto_ip_summary_disable">Απενεργοποιημένο</string>
      <string name="preference_category_ringtone">Ήχος κλήσης &amp; Δόνηση</string>
@@ -751,7 +737,6 @@
      <string name="private_num">Απόρρητος αριθμός</string>
      <string name="proceed">Συνεχίστε</string>
      <string name="progress_dialog_exiting_ecm">Έξοδος από τη λειτουργία επιστροφής κλήσης έκτακτης ανάγκης</string>
-     <string name="provision_content">Αυτή η λειτουργία απαιτεί σύνδεση στο internet για να λειτουργήσει κανονικά.</string>
      <string name="provision_title">Σύνδεση Internet</string>
      <string name="proxy_address">Διεύθυνση Proxy</string>
      <string name="proxy_address_title">Εξερχόμενη διεύθυνση proxy</string>
@@ -765,21 +750,20 @@
      <string name="puk_unlock_success">Αίτηση ξεκλειδώματος PUK επιτυχής.</string>
      <string name="puk_unlocked">Η κάρτα SIM έχει ξεκλειδώσει. Το τηλέφωνό σας ξεκλειδώνει …</string>
      <string name="purchase">Αγορά</string>
-     <string name="purchase_confirm">Αγορά</string>
+     <string name="purchase_description_summary">"- Καλέστε οποιοδήποτε τηλέφωνο στον κόσμο, δεν υπάρχουν περιορισμοί φορέα.
+- Δεν έρχεται σε αντίθεση με το τρέχον πρόγραμμά σας.
+- Αγοράστε πακέτο και ξεκινήστε τις κλήσεις.
+- Δεν υπάρχουν περίπλοκες ρυθμίσεις."</string>
+     <string name="purchase_description_title">Σχετικά</string>
      <string name="purchase_limit">Φτάσατε το όριο top-up</string>
      <string name="purchase_list">Ιστορικό αγορών</string>
-     <string name="purchase_notification">"Οι παραπάνω τιμές είναι για τις εγχώριες κλήσεις. Για διεθνείς κλήσεις δείτε το "</string>
-     <string name="purchase_notification_title">Ελέγξτε τις υποστηριζόμενες χώρες/περιοχές</string>
-     <string name="purchase_rates_title">Τιμές</string>
+     <string name="purchase_notes">"Σημείωση: Μπορεί να χρησιμοποιηθεί για διεθνείς κλήσεις. Το πακέτο Top-up, σας επιτρέπει να πληρώνετε το ίδιο ποσό χρημάτων για 50 λεπτά κλήσεων όπως θα είχατε πληρώσει για 8 λεπτά χωρίς να χρησιμοποιήσετε αυτή την υπηρεσία."</string>
      <string name="query">Ερώτημα</string>
+     <string name="quickly_verify">Επαλήθευση</string>
      <string name="radio_off_error">Ενεργοποιήστε τον πομποδέκτη πριν από την προβολή αυτών των ρυθμίσεων.</string>
-     <string name="rates_correspond">Αντίστοιχες τιμές.</string>
      <string name="rc_unlock_failed">Αίτημα ξεκλειδώματος εταιρικού RUIM απέτυχε</string>
      <string name="rc_unlock_success">Το εταιρικό RUIM ξεκλείδωσε με επιτυχία.</string>
      <string name="reading_settings">Ανάγνωση ρυθμίσεων…</string>
-     <string name="refueling_package_a">Πακέτο A</string>
-     <string name="refueling_package_b">Πακέτο B</string>
-     <string name="refueling_package_c">Πακέτο C</string>
      <string name="regional_disable">Περιφερειακές ειδήσεις απενεργοποιημένες</string>
      <string name="regional_enable">Περιφερειακές ειδήσεις ενεργοποιημένες</string>
      <string name="register_automatically">Αυτόματη καταχώριση…</string>
@@ -799,6 +783,10 @@
      <string name="reject_via_sms">Γρήγορες απαντήσεις</string>
      <string name="reject_via_sms_summary">Επεξεργασία προτύπων κειμένου απαντήσεων</string>
      <string name="reject_via_sms_title">Γρήγορες απαντήσεις</string>
+     <string name="remain_mins_divider">ή</string>
+     <string name="remain_mins_domestic">Απομένουν (εγχώρια)</string>
+     <string name="remain_mins_international">Απομένουν (διεθνείς)</string>
+     <string name="remain_mins_unit">λεπτά</string>
      <string name="remember_my_choice">Να χρησιμοποιείτε πάντα για την πραγματοποίηση κλήσεων Διαδικτύου</string>
      <string name="remove">Διαγραφή</string>
      <string name="remove_ims_account">Κατάργηση λογαριασμού</string>
@@ -867,8 +855,6 @@
      <string name="set_subscription">Επιλέξτε συνδρομές</string>
      <string name="setting_activate_domestic_title">Ανανέωση (τοπικές κλήσεις)</string>
      <string name="setting_activate_international_title">Ανανέωση (διεθνείς κλήσεις)</string>
-     <string name="setting_duration_other_prompt">"Για τις διεθνείς τιμές κλήσης ελέγξτε "</string>
-     <string name="setting_duration_title">Χρόνος που απομένει</string>
      <string name="settings_label">Ρυθμίσεις δικτύου</string>
      <string name="sim1_activated">Κάρτα SIM 1</string>
      <string name="sim1_no_activated">Η κάρτα SIM 1 δεν είναι ενεργοποιημένη</string>
@@ -968,7 +954,7 @@
      <string name="telocation_enable_title">Εμφάνισε τοποθεσία</string>
      <string name="telocation_error_message_number">%s υποστηρίζει μόνο αριθμούς</string>
      <string name="telocation_jituan_error_message_number">%s υποστηρίζει μόνο αριθμούς και χαρακτήρες μπαλαντέρ</string>
-     <string name="telocation_number_type">Τυπος του αριθμού</string>
+     <string name="telocation_number_type">Τύπος του αριθμού</string>
      <string name="telocation_number_type_jituan">Αριθμός ομάδας</string>
      <string name="telocation_number_type_mob">Κινητό</string>
      <string name="telocation_number_type_tel">Σταθερό</string>
@@ -979,12 +965,12 @@
      <string name="throttle_help">Μάθετε περισσότερα</string>
      <string name="throttle_rate">Πολιτική τιμολόγησης δεδομένων</string>
      <string name="throttle_time_frame">Περίοδος χρήσης δεδομένων</string>
-     <string name="time_statistic">Εξοικονομήθηκαν %1$d λεπτά χρόνος δικτύου</string>
      <string name="title_country">Χώρες και περιοχές</string>
      <string name="title_duration">Διάρκεια</string>
      <string name="title_purchase">Ανανέωση</string>
      <string name="title_rates">Τιμές</string>
      <string name="title_user_config">ενεργοποίηση κάρτας SIM</string>
+     <string name="top_up_first">Αγοράστε πακέτο πρώτα</string>
      <string name="transport_title">Τύπος μεταφοράς</string>
      <string name="tty_mode_entries_full">TTY Full</string>
      <string name="tty_mode_entries_hco">TTY HCO</string>
@@ -1005,10 +991,14 @@
      <string name="uplmn_list_setting_title">Προτιμώμενα δίκτυα</string>
      <string name="uplmn_numeric_is_empty">Εισάγετε ένα αναγνωριστικό δικτύου</string>
      <string name="use_history">Δραστηριότητα</string>
-     <string name="use_history_duration_min">%1$sλεπτά</string>
+     <string name="use_history_duration_min">%1$s λεπτά</string>
+     <string name="use_range">Χαρακτηριστικά</string>
      <string name="username_title">Όνομα Χρήστη</string>
      <string name="ussdRunning">Κωδικός USSD εκτελείται …</string>
      <string name="ussd_dialog_sep">----------</string>
+     <string name="verified">Επαληθεύτηκε</string>
+     <string name="verify_fialed">"Αδυναμία επαλήθευσης"</string>
+     <string name="verifying">Επαλήθευση…</string>
      <string name="vibrate_on_ring_title">Δόνηση όταν κουδουνίζει</string>
      <string name="vm_change_failed">"Δεν ήταν δυνατή η αλλαγή του αριθμού του τηλεφωνητή.
 Επικοινωνήστε με το φορέα σας, εάν το πρόβλημα παραμένει."</string>

@@ -432,6 +432,7 @@
      <string name="search_result_more">Περισσότερα</string>
      <string name="search_title">Αναζήτηση</string>
      <string name="search_title_hint">Αναζήτηση</string>
+     <string name="select_dest_folder">Επιλέξτε φάκελο</string>
      <string name="select_image">Επιλέξτε φωτογραφίες</string>
      <string name="select_music">Επιλέξτε τραγούδια</string>
      <string name="select_video">Επιλέξτε βίντεο</string>

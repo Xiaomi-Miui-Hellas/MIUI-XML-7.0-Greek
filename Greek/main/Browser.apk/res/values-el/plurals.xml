@@ -19,4 +19,20 @@
         <item quantity="other">%1$d επιλέχθηκαν</item>
         <item quantity="one">%1$d επιλέχθηκε</item>
      </plurals>
+     <plurals name="video_download_clear_info">
+        <item quantity="other">%1$d βίντεο διαγράφηκαν επιτυχώς.</item>
+        <item quantity="one">%1$d βίντεο διαγράφηκε επιτυχώς.</item>
+     </plurals>
+     <plurals name="video_download_clear_prompt">
+        <item quantity="other">Διαγραφή %1$d βίντεο;</item>
+        <item quantity="one">Διαγραφή %1$d βίντεο;</item>
+     </plurals>
+     <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d στοιχεία διαγράφηκαν από το ιστορικό.</item>
+        <item quantity="one">%1$d στοιχείο διαγράφηκε από το ιστορικό.</item>
+     </plurals>
+     <plurals name="video_history_clear_prompt">
+        <item quantity="other">Διαγραφή %1$d στοιχείων από το ιστορικό;</item>
+        <item quantity="one">Διαγραφή %1$d στοιχείου από το ιστορικό;</item>
+     </plurals>
 </resources>

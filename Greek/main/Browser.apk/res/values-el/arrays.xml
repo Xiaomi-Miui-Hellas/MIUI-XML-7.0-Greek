@@ -23,8 +23,6 @@
         <item>http://www.cnn.com/</item>
         <item>NY Times</item>
         <item>http://www.nytimes.com/</item>
-        <item>ESPN</item>
-        <item>http://espn.com/</item>
         <item>Amazon</item>
         <item>http://www.amazon.com/</item>
         <item>Weather Channel</item>
@@ -43,6 +41,10 @@
      <string-array name="pref_homepage_choices">
         <item>Προκαθορισμένη σελίδα έναρξης</item>
         <item>Προσαρμοσμένη</item>
+     </string-array>
+     <string-array name="pref_nav_mode_summary">
+        <item>Τηλέφωνο</item>
+        <item>Tablet</item>
      </string-array>
      <string-array name="pref_text_zoom_choices">
         <item>Πολύ μικρό</item>
