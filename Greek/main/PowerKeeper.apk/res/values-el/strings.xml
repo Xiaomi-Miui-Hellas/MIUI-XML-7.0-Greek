@@ -75,6 +75,10 @@
      <string name="power_config_cpu_mode_title">Λειτουργία CPU</string>
      <string name="power_config_data_connect_summary">Επιτρέψτε στις εφαρμογές να συνδέονται στο δίκτυο στο παρασκήνιο</string>
      <string name="power_config_data_connect_title">Σύνδεση δεδομένων</string>
+     <string name="power_config_disable_description">Χωρίς περιορισμό διεργασιών παρασκηνίου</string>
+     <string name="power_config_disable_title">Ανενεργή</string>
+     <string name="power_config_enhance_description">Περιορισμός διεργασιών παρασκηνίου</string>
+     <string name="power_config_enhance_title">Εξοικονόμηση μπαταρίας</string>
      <string name="power_config_event_delete">Διαγραφή</string>
      <string name="power_config_idle_notification_summary">Δείξε μόνο την πρώτη ειδοποίηση από την εφαρμογή</string>
      <string name="power_config_idle_notification_title">Δείξε μόνο την πρώτη ειδοποίηση</string>
@@ -84,11 +88,16 @@
      <string name="power_config_lcd_mode_title">Λειτουργία LCD</string>
      <string name="power_config_location_summary">"Επιτρέψτε στην εφαρμογή να δει την τοποθεσία της συσκευής σας"</string>
      <string name="power_config_location_title">Τοποθεσία</string>
+     <string name="power_config_mode_title">Λειτουργία εξοικονόμησης</string>
+     <string name="power_config_normal_description">Περιορισμός διεργασιών παρασκηνίου ανάλογα με τις ρυθμίσεις των εφαρμογών</string>
+     <string name="power_config_normal_title">Κανονική</string>
      <string name="power_config_phone_charging_title">Φορτίζει</string>
      <string name="power_config_phone_idle_title">Σε αδράνεια</string>
      <string name="power_config_select_apps_empty">Πατήστε για να επιλέξετε εφαρμογές</string>
      <string name="power_config_select_apps_title">Εφαρμογές</string>
      <string name="power_config_title">Ρυθμίσεις</string>
+     <string name="power_config_ultimate_description">Περιορισμός διεργασιών παρασκηνίου για όλες τις εφαρμογές</string>
+     <string name="power_config_ultimate_title">Μέγιστη</string>
      <string name="power_configure_screen_brightness_enable">Ρύθμιση φωτεινότητας οθόνης</string>
      <string name="power_customize_giveup_change">Απόρριψη αλλαγών;</string>
      <string name="power_dialog_cancel">Ακύρωση</string>
