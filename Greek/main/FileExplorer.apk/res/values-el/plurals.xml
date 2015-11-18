@@ -56,6 +56,14 @@
         <item quantity="few">Ελήφθησαν %1$d αρχεία της εφαρμογής %2$s</item>
         <item quantity="many">Ελήφθησαν %1$d αρχεία της εφαρμογής %2$s</item>
      </plurals>
+     <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d νέα αυτοκόλλητα WeChat σήμερα</item>
+        <item quantity="zero">%1$d νέο αυτοκόλλητο WeChat σήμερα</item>
+        <item quantity="one">%1$d νέο αυτοκόλλητο WeChat σήμερα</item>
+        <item quantity="two">%1$d νέα αυτοκόλλητα WeChat σήμερα</item>
+        <item quantity="few">%1$d νέα αυτοκόλλητα WeChat σήμερα</item>
+        <item quantity="many">%1$d νέα αυτοκόλλητα WeChat σήμερα</item>
+     </plurals>
      <plurals name="file_notify_title_wechat_video">
         <item quantity="other">Ελήφθησαν %1$d αρχεία του WeChat</item>
         <item quantity="zero">Ελήφθη %1$d αρχείο του WeChat</item>

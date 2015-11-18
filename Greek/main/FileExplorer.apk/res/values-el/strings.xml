@@ -63,6 +63,7 @@
      <string name="category_zip">Συμπιεσμένα</string>
      <string name="choose_send_type">Επιλογή τρόπου αποστολής</string>
      <string name="choose_upload_location">Αποστολή σε φάκελο του KuaiPan</string>
+     <string name="clean_hint">Πατήστε για να ελευθερώσετε χώρο</string>
      <string name="clean_message">%1$s χώρου ελευθερώθηκαν.</string>
      <string name="clean_title">Διαγραφή αρχείων παλαιότερων από 30 μέρες απο τον κάδο ανακύκλωσης</string>
      <string name="clean_trash_box">Άδειασμα κάδου ανακύκλωσης</string>
@@ -82,6 +83,12 @@
      <string name="create_new_folder_desctiption">Δημιουργία φακέλου…</string>
      <string name="create_new_folder_failed">Αποτυχία δημιουργίας φακέλου</string>
      <string name="create_share_link_description">Δημιουργία συνδέσμου…</string>
+     <string name="create_shortcut_cancel">Όχι ευχαριστώ</string>
+     <string name="create_shortcut_checkbox_hint">"Να μην εμφανιστεί ξανά"</string>
+     <string name="create_shortcut_confirm">Δημιουργία</string>
+     <string name="create_shortcut_message">Χρησιμοποιείτε τον File Explorer πολύ συχνά. Δημιουργία συντόμευσης στην Αρχική οθόνη για να διαχειρίζεστε γρηγορότερα τα αρχεία;</string>
+     <string name="create_shortcut_success">Η συντόμευση δημιουργήθηκε</string>
+     <string name="create_shortcut_title">Δημιουργία συντόμευσης</string>
      <string name="cution">Συμβουλές</string>
      <string name="data_capacity">Διαθ χώρος %1$s</string>
      <string name="data_consumption_cancel">Έξοδος</string>
@@ -227,6 +234,7 @@
      <string name="menu_item_search">Αναζήτηση</string>
      <string name="menu_item_sort">Ταξινόμηση κατά</string>
      <string name="menu_item_sort_add_time">"Δημιουργήθηκε "</string>
+     <string name="menu_item_sort_by_added_time">Προστέθηκε</string>
      <string name="menu_item_sort_date">Ημερομηνία</string>
      <string name="menu_item_sort_name">Όνομα</string>
      <string name="menu_item_sort_size">Μέγεθος</string>
@@ -282,7 +290,7 @@
 Μπορείτε να κρυπτογραφήσετε τα αρχεία σας και να τα αποθηκεύσετε
 σε ασφαλές μέρος.
 
-Τραβήξτε προς τα κάτω στην αρχική σελίδα για να το δείτε."</string>
+Σύρετε προς τα κάτω στην αρχική σελίδα για να το δείτε."</string>
      <string name="new_function_str">"Τα αυτοκόλλητα WeChat μπορούν πλέον να συλλέγονται αυτόματα.
 Κατεβάστε τα όταν θέλετε
 και μην χάσετε ποτέ τα νέα!"</string>
@@ -312,6 +320,8 @@
      <string name="notification_summary">"%1$s δεν υποστηρίζει ακόμα αυτή τη λειτουργία"</string>
      <string name="notification_title">Ειδοποίηση όταν προστίθενται νέα αρχεία στο %1$s</string>
      <string name="notification_wechat_expired_empty">Το WeChat έχει ήδη διαγράψει αυτά τα βίντεο.</string>
+     <string name="notification_wechat_sticker_hint">Εμφάνιση ειδοποίησης όταν υπάρχουν νέα αυτοκόλλητα WeChat</string>
+     <string name="notification_wechat_sticker_switch_title">Ειδοποίηση για νέα αυτοκόλλητα</string>
      <string name="notification_wechat_title">Ειδοποίηση όταν ένα βίντεο WeChat πρόκειται να λήξει</string>
      <string name="notify_private_folder_msg">Πατήστε για να μάθετε σχετικά με τους ιδιωτικούς φακέλους.</string>
      <string name="notify_private_folder_title">Προστατέψτε τα προσωπικά σας αρχεία</string>
@@ -376,6 +386,9 @@
      <string name="port_range">Η θύρα πρέπει να είναι μεταξύ 1024–65535</string>
      <string name="private_files">Ιδιωτικό</string>
      <string name="private_folder">Ιδιωτικός φάκελος</string>
+     <string name="private_toast_hint1">Πατήστε για προσθήκη αρχείων στους κρυφούς φακέλους</string>
+     <string name="private_toast_hint2">Για να κρύψετε ένα αρχείο, πατήστε και κρατήστε το πατημένο και στη συνέχεια προσθέστε το σε ένα κρυφό φάκελο.</string>
+     <string name="private_toast_hint3">Σύρετε προς τα κάτω για να ανοίξετε τους κρυφούς φακέλους</string>
      <string name="promot_enctypt_password">Εισάγετε τον κωδικό πρόσβασης που χρησιμοποιείται για το ξεκλείδωμα της συσκευής σας ή για απενεργοποίηση της λειτουργίας Παιδιού</string>
      <string name="pull_to_signin">Σύρετε προς τα κάτω για να συνδεθείτε.</string>
      <string name="qq_not_installed">"Το QQ δεν έχει εγκατασταθεί"</string>
@@ -390,7 +403,7 @@
      <string name="restoring">Επαναφορά…</string>
      <string name="rlv_last_refreshing_time">Ενημερώθηκε %1$s</string>
      <string name="rlv_loading_more">Μισό λεπτό…</string>
-     <string name="rlv_pull_to_refresh">Τραβήξτε για ανανέωση</string>
+     <string name="rlv_pull_to_refresh">Σύρετε για ανανέωση</string>
      <string name="rlv_refreshing">Σάρωση αρχείων…</string>
      <string name="rlv_release_to_refresh">Αφήστε για ανανέωση</string>
      <string name="save_to_local">Λήψη</string>
