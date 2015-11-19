@@ -4,6 +4,8 @@
      <string name="about_title">Περί</string>
      <string name="about_version">1.0.1</string>
      <string name="about_version_label">Έκδοση:</string>
+     <string name="actor">Ηθοποιός</string>
+     <string name="actor_intro">Σχετικά</string>
      <string name="ad_countdown">%ss υπόλοιπο</string>
      <string name="ad_moredetail">Λεπτομέρειες</string>
      <string name="add_favorite_success">Με αστέρι</string>
@@ -28,8 +30,12 @@
      <string name="alert_dialog_download_btn_hide">Απόκρυψη</string>
      <string name="alert_dialog_download_dup_task">Λήψη σε εξέλιξη, παρακαλώ περιμένετε…</string>
      <string name="alert_dialog_download_error">Σφάλμα λήψης</string>
+     <string name="alertdialog_downapp_btn_back">Πίσω</string>
+     <string name="all">all</string>
      <string name="all_ep">Όλα τα επεισ.</string>
      <string name="all_episode">Όλα τα Επεισόδια</string>
+     <string name="app_charging_wifi_mode">Αυτόματη ενημέρωση όταν φορτίζει</string>
+     <string name="app_charging_wifi_mode_summary">Αυτόματη ενημέρωση εφαρμογής όταν είναι συνδεδεμένο σε Wi-Fi και φορτιστή</string>
      <string name="app_latest_version">Η εφαρμογή είναι ήδη η πιο πρόσφατη έκδοση</string>
      <string name="app_name">Βίντεο</string>
      <string name="app_plugin_ready">το στοιχείο %1$s είναι έτοιμο</string>
@@ -44,10 +50,12 @@
      <string name="average_score">Μέσος όρος</string>
      <string name="avg_score">%.1f</string>
      <string name="bestv">BesTV</string>
+     <string name="birthday">Γενέθλια</string>
      <string name="bmp_quality_mode">Λειτουργία Ποιότητας Εικόνας</string>
      <string name="bmp_quality_mode_desc">Λειτουργία υψηλής ποιότητας βίντεο.</string>
      <string name="buffering">Φόρτωση …</string>
      <string name="buffering_video_netplay_label_v5">Φόρτωση …</string>
+     <string name="buy_vip">Αγορά συνδρομής</string>
      <string name="cancel">Ακύρωση</string>
      <string name="cancel_favorite_success">Χωρίς αστέρι</string>
      <string name="check_app_version">Έλεγχος τελευταίας έκδοσης…</string>
@@ -62,6 +70,9 @@
      <string name="clear_search_history">Απαλοιφή ιστορικού αναζήτησης</string>
      <string name="click_star_rate">Κάντε κλικ στην κατηγορία</string>
      <string name="click_to_login">Αγγίξτε την εικόνα για να συνδεθείτε</string>
+     <string name="clubber">Μέλος</string>
+     <string name="clubber_center">Κέντρο μελών</string>
+     <string name="clubber_info">Πληροφορίες μέλους</string>
      <string name="cnlive">cnlive</string>
      <string name="comment">Σχόλια</string>
      <string name="comment_count_less_tip">Το σχόλιο πρέπει να είναι τουλάχιστον %1$s χαρακτήρες</string>
@@ -107,6 +118,7 @@
      <string name="dlna_list_name">DLNA συσκευή</string>
      <string name="dlna_name">Κοινόχρηστη συσκευή</string>
      <string name="douban_score">Κρητικές</string>
+     <string name="download">Λήψη</string>
      <string name="download_add_success">Προσθέσατε με επιτυχία την εργασία λήψης</string>
      <string name="download_error">Λάθος</string>
      <string name="download_fail">Απέτυχε</string>
@@ -133,6 +145,7 @@
      <string name="episode_suffix">Eπ. %d</string>
      <string name="error_empty_filter_title">Κανένα αποτέλεσμα</string>
      <string name="error_empty_title">Κάτι πήγε στραβά</string>
+     <string name="expire_time">Ώρα λήξης</string>
      <string name="favorite">Αστέρι</string>
      <string name="fenghuang">iFeng</string>
      <string name="file_error">Σφάλμα αρχείου</string>
@@ -149,9 +162,11 @@
      <string name="gong_count_xiang">%d Βίντεο</string>
      <string name="good">ΟΚ</string>
      <string name="hint_apk_download">Εγκατάσταση της εφαρμογής</string>
+     <string name="hint_apk_download_format">Εγκατάσταση \"%1$s\" εφαρμογής</string>
      <string name="hint_apk_install">Λήψη εφαρμογής</string>
      <string name="hint_apk_text_update">%1$s νέα έκδοση της εφαρμογής διαθέσιμη. Θέλετε να γίνει ενημέρωση;</string>
      <string name="hint_apk_title_update">%1$s Νέα Έκδοση</string>
+     <string name="hometown">Γενέτειρα</string>
      <string name="i_will_write_comments">Γράψτε εδώ στα σχόλιά σας</string>
      <string name="icntv">iCNTV</string>
      <string name="info_video_loading">Φόρτωση…</string>
@@ -179,6 +194,7 @@
      <string name="memory_mode_desc">Εξοικονόμηση μνήμης</string>
      <string name="menu_item_enable_audio_enhance">Ενεργοποίηση βελτιώσεων ήχου</string>
      <string name="menu_name">Μενού</string>
+     <string name="mibi">mibi</string>
      <string name="mine_info_account_summary_none">Δεν έχετε συνδεθεί</string>
      <string name="mine_info_account_title">Πληροφορίες λογαριασμού</string>
      <string name="minute"> Λεπτό</string>
@@ -202,7 +218,10 @@
      <string name="netease">NetEase</string>
      <string name="no_login_xiaomi_account">Σύνδεση με το λογαριασμό σας Mi για να υποβάλετε τις παρατηρήσεις σας.</string>
      <string name="no_longer_tips">Να μην εμφανιστεί ξανά</string>
+     <string name="no_pay_record">Καμία καταγραφή πληρωμών</string>
      <string name="no_sdcard_no_download">Δεν υπάρχει αρκετός χώρος αποθήκευσης. Η λήψη απέτυχε.</string>
+     <string name="not_buy_vip">Χωρίς συνδρομή</string>
+     <string name="not_exist_openid">Λήψη πληροφοριών λογαριασμού. Παρακαλώ περιμένετε…</string>
      <string name="not_login">Δεν συνδεθήκατε</string>
      <string name="nowifi_alert_dialog_continue">Συνέχεια</string>
      <string name="nowifi_alert_dialog_exit">Έξοδος</string>
@@ -234,8 +253,11 @@
      <string name="online_video_oneweek_ago">Πριν μια εβδομάδα</string>
      <string name="operator_test">Λειτουργία διαχειριστή</string>
      <string name="operator_test_summary">Είσοδος σε λειτουργία διαχειριστή</string>
+     <string name="original_price">Αρχική τιμή</string>
+     <string name="other_info">Άλλο</string>
      <string name="other_setting">Άλλο</string>
      <string name="pause">Παύση</string>
+     <string name="pay_record">Αρχείο πληρωμών</string>
      <string name="percent_status">%.1f%%</string>
      <string name="performance_mode">Λειτουργία Εκτέλεσης</string>
      <string name="performance_mode_desc">Προτεραιότητα Επιδόσεων</string>
@@ -273,6 +295,7 @@
      <string name="router_update">Η εφαρμογή Xiaomi router χρειάζεται αναβάθμιση.</string>
      <string name="score">Αξιολόγηση </string>
      <string name="score_by">Σκορ: %s</string>
+     <string name="score_douban">Σκορ Douban %1$s</string>
      <string name="sdcard_storage">Εσωτερική μνήμη</string>
      <string name="search">Αναζήτηση</string>
      <string name="search_hint">Αναζήτηση</string>
@@ -320,6 +343,7 @@
      <string name="total_episode">%1$s Επεισόδια</string>
      <string name="tudou">Tudou</string>
      <string name="tv_channel_empty_hint">Χωρίς κανάλια</string>
+     <string name="tv_cp_info_format">Υποστηρίζεται από %1$s</string>
      <string name="ui_style">Στυλ UI</string>
      <string name="ui_style_summary">Προβολή λίστας (προεπιλογή)</string>
      <string name="unfavorite">Κατάργηση αστεριού</string>
@@ -354,6 +378,7 @@
      <string name="video_plugin">Βίντεο plug-in</string>
      <string name="video_plugin_downloading">Λήψη (%1$s). Παρακαλώ περιμένετε λίγο.</string>
      <string name="video_plugin_prepare">Προετοιμασία βίντεο plug-in. Παρακαλώ περιμένετε λίγο.</string>
+     <string name="vip_package">Πακέτο συνδρομής</string>
      <string name="vp_VideoView_error_button">ΟΚ</string>
      <string name="vp_VideoView_error_network_not_available">Μη διαθέσιμο δίκτυο</string>
      <string name="vp_VideoView_error_text_invalid_progressive_playback">Δυστυχώς, η επιλεγμένη μορφή βίντεο δεν είναι έγκυρη για ροή σε αυτή τη συσκευή</string>
@@ -361,6 +386,7 @@
      <string name="vp_VideoView_error_title">Σφάλμα αναπαραγωγής βίντεο!</string>
      <string name="vp_adapt_height">Ταίριασμα ύψους</string>
      <string name="vp_adapt_width">Ταίριασμα πλάτους</string>
+     <string name="vp_app_download">Λήψη εφαρμογής</string>
      <string name="vp_app_name">Βίντεο</string>
      <string name="vp_audio">Ένταση</string>
      <string name="vp_auto_select">Αυτόματη επιλογή</string>
@@ -377,6 +403,7 @@
      <string name="vp_datastream_alert_positive_button">Συνέχεια</string>
      <string name="vp_datastream_alert_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="vp_device_list">Συσκευές</string>
+     <string name="vp_download_apk_from_video_ad">Εγκατάσταση εφαρμογής</string>
      <string name="vp_download_connect_fail">Δεν μπορώ να βρω τη διεύθυνση URL. Ελέγξτε τη σύνδεσή σας και δοκιμάστε ξανά. \"</string>
      <string name="vp_download_file_fail">Η λήψη απέτυχε. Βεβαιωθείτε ότι έχετε αρκετό χώρο</string>
      <string name="vp_exit">Έξοδος</string>
@@ -395,12 +422,18 @@
      <string name="vp_low_definition">LOW</string>
      <string name="vp_maintitlearea">Απολαύστε την υψηλής ευκρίνειας βίντεο και μεγάλες ταχύτητες λήψης, σε ότι υπάρχει διαθέσιμο! Πατήστε το πλήκτρο OK για την αρχική οθόνη</string>
      <string name="vp_media_info">Προβολή πληροφοριών βίντεο</string>
-     <string name="vp_media_type_banned">Αδύνατη η αναπαραγωγή αυτού του είδους βίντεο</string>
+     <string name="vp_media_type_unsported">Αυτός ο τύπος βίντεο δεν υποστηρίζεται</string>
      <string name="vp_milink">MiLink</string>
      <string name="vp_milink_function">Cast to display</string>
      <string name="vp_mobile_network_using_negative">Ακύρωση</string>
      <string name="vp_mobile_network_using_positive">Συνέχεια</string>
      <string name="vp_mobile_network_using_warning">Χρησιμοποιώντας τα δεδομένα κινητής για να δείτε βίντεο, θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
+     <string name="vp_mobile_network_using_warning_line_1">Χρησιμοποιώντας τα δεδομένα κινητής για να δείτε βίντεο, θα αυξηθεί η χρήση των δεδομένων σας.</string>
+     <string name="vp_mobile_network_using_warning_line_2">Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
+     <string name="vp_mplayer_error_io">Σφάλμα λειτουργίας I/O</string>
+     <string name="vp_mplayer_error_malformed">Ακατάλληλο περιεχόμενο βίντεο</string>
+     <string name="vp_mplayer_error_server_died">Αποτυχία διακομιστή πολυμέσων</string>
+     <string name="vp_mplayer_error_timed_out">Λήξη χρονικού ορίου λειτουργίας</string>
      <string name="vp_newest_ep">Πιο πρόσφατα</string>
      <string name="vp_next_ci">Το Επόμενο επεισόδιο</string>
      <string name="vp_offline">Αποσυνδεδεμένος</string>
@@ -412,6 +445,8 @@
      <string name="vp_offline_status_wait">Αναμονή</string>
      <string name="vp_offline_title">Offline</string>
      <string name="vp_offline_title_name">Επεισόδιο %d</string>
+     <string name="vp_play_youku_failed_get_video_info">"Αδυναμία λήψης πληροφοριών βίντεο"</string>
+     <string name="vp_play_youku_time_out">Λήξη χρονικού ορίου σύνδεσης</string>
      <string name="vp_player_plugin_dlg_neg_btn">Κλείσιμο</string>
      <string name="vp_player_plugin_dlg_no_content">Δεν υπάρχουν Βίντεο Plugin</string>
      <string name="vp_player_plugin_dlg_title">Βίντεο Plugin</string>
@@ -428,6 +463,7 @@
      <string name="vp_skip">Παράκαμψη εισαγωγής</string>
      <string name="vp_standard_definition">SD</string>
      <string name="vp_super_definition">Ultra-clear</string>
+     <string name="vp_time_separator">/</string>
      <string name="vp_toast_downloadapk">Λήψη apk στο παρασκήνιο για εσάς…</string>
      <string name="vp_unknown_source">Άγνωστη πηγή</string>
      <string name="vp_using_16_9">Εξαναγκασμός 16:9</string>

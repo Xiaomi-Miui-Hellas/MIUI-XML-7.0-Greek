@@ -45,6 +45,7 @@
      <string name="friday">Παρασκευή</string>
      <string name="friday_short">Παρ</string>
      <string name="friday_shortest">Π</string>
+     <string name="hybrid_provider">Η ιστοσελίδα παρέχεται από %1$s .</string>
      <string name="label">MIUI SDK</string>
      <string name="midnight">ΠΜ</string>
      <string name="monday">Δευτέρα</string>
@@ -91,6 +92,7 @@
      <string name="name">Όνομα</string>
      <string name="nickname">Ψευδώνυμο</string>
      <string name="night">ΜΜ</string>
+     <string name="no_network">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="no_sim">Δεν βρέθηκε κάρτα SIM.</string>
      <string name="noon">ΜΜ</string>
      <string name="note">Σημείωση</string>
@@ -187,6 +189,7 @@
      <string name="web_sso_login_fail">Θα πρέπει να συνδεθείτε ξανά</string>
      <string name="web_sso_login_message">Σύνδεση στο…</string>
      <string name="website">Ιστοσελίδα</string>
+     <string name="webview_reload">Δοκιμάστε ξανά</string>
      <string name="wednesday">Τετάρτη</string>
      <string name="wednesday_short">Τετ</string>
      <string name="wednesday_shortest">Τ</string>

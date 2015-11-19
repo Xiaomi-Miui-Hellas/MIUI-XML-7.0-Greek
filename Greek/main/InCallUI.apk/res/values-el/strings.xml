@@ -109,6 +109,8 @@
      <string name="jeejen_toggle_dialpad_text">Πληκτρολόγιο</string>
      <string name="livetalk_dial">Με χρήση πακέτου top-up</string>
      <string name="livetalk_left_minute">απομένουν %s λεπτά</string>
+     <string name="livetalk_provider_info">Παρέχεται από %s</string>
+     <string name="livetalk_waiting">Αναμονή…</string>
      <string name="manageConferenceLabel">Διαχείριση κλήσης συνδιάσκεψης</string>
      <string name="miprofile_stranger_card">Ξένη κάρτα</string>
      <string name="modify_call_failure_str">"Το αίτημα τροποποίησης κλήσης απέτυχε
@@ -173,6 +175,7 @@
      <string name="upgrade_vt_prompt">Θα θέλατε να αναβαθμίσετε την κλήση σε κλήση βίντεο;</string>
      <string name="upgrade_vt_rx_prompt">Θα θέλατε να αναβαθμίσετε την κλήση σε λήψη βίντεο μόνο;</string>
      <string name="upgrade_vt_tx_prompt">Θα θέλατε να αναβαθμίσετε την κλήση σε εκπομπή βίντεο μόνο;</string>
+     <string name="voicemail">Τηλεφωνητής</string>
      <string name="wait_prompt_str">"Αποστολή των παρακάτω τόνων;
 "</string>
      <string name="waiting_close_airplane_mode">Μισό λεπτό…</string>

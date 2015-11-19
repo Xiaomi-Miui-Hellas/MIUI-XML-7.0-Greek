@@ -67,6 +67,7 @@
      <string name="power_config_app_background_title">Παρασκήνιο</string>
      <string name="power_config_app_full_screen_title">Πλήρης οθόνη</string>
      <string name="power_config_app_launch_title">Προσκήνιο</string>
+     <string name="power_config_apps">Εξοικονόμησης ενέργειας στο παρασκήνιο</string>
      <string name="power_config_choose_apps">Επιλέξτε εφαρμογές</string>
      <string name="power_config_confirm_event_delete">Διαγραφή αυτής της ρύθμισης;</string>
      <string name="power_config_cpu_freq_dialog_title">Συχνότητα CPU</string>

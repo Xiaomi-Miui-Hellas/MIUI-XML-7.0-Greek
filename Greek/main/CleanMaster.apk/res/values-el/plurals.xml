@@ -37,4 +37,12 @@
      <plurals name="people_million">
         <item quantity="other">Ελήφθη από %1$d άτομα</item>
      </plurals>
+     <plurals name="view_num">
+        <item quantity="other">%1$d προβολές</item>
+        <item quantity="zero">%1$d προβολές</item>
+        <item quantity="one">%1$d προβολές</item>
+        <item quantity="two">%1$d προβολές</item>
+        <item quantity="few">%1$d προβολές</item>
+        <item quantity="many">%1$d προβολές</item>
+     </plurals>
 </resources>

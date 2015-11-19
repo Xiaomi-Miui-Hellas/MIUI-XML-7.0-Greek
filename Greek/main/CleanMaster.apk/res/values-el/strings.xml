@@ -63,6 +63,7 @@
      <string name="cache_title_empty_folder">Άδειασμα φακέλου (%d)</string>
      <string name="cache_title_empty_folder2">Άδειασμα φακέλου</string>
      <string name="cache_title_system_cache">Cache συστήματος</string>
+     <string name="cached_garbage">Cache</string>
      <string name="cancel">Ακύρωση</string>
      <string name="clean_content_all">Τα πάντα</string>
      <string name="clean_content_one">1 στοιχείο</string>
@@ -108,11 +109,13 @@
      <string name="empty_title_installed_apps">Κενό</string>
      <string name="empty_title_large_files">Κενό</string>
      <string name="empty_title_residual">Δεν βρέθηκαν υπολείμματα</string>
+     <string name="flow_rank_title">Χρήση δεδομένων</string>
      <string name="garbage_clean_detail">Λεπτομέρειες</string>
      <string name="garbage_cleanup_detail">%1$d φορές, καθαρίστηκαν %2$s</string>
      <string name="garbage_month">Καθαρίστηκαν %s αυτό το μήνα</string>
      <string name="go_to">Συνέχεια</string>
      <string name="goto_set">Ορισμός</string>
+     <string name="grabage_rank_title">Καθαρίστηκαν σήμερα</string>
      <string name="harass_detail">Μπλοκαρίστηκαν %1$d SMS και %2$d κλήσεις</string>
      <string name="header_optimizer">Με τη χρήση αυτής της εφαρμογής, συμφωνείτε με %s.</string>
      <string name="hint_bar_select_image">%d επιλεγμένα</string>
@@ -314,7 +317,9 @@
      <string name="toast_selecte_group_restore_succeed">Οι φωτογραφίες επαναφέρθηκαν</string>
      <string name="toast_uninstall_success">Ολοκλήρωση απεγκατάστασης</string>
      <string name="total_clean">Σύνολο καθαρισμένων: %s</string>
+     <string name="total_clean_text">Σύνολο καθαρισμένων</string>
      <string name="traffic_top">TOP 5 εφαρμογές κατανάλωσης δεδομένων</string>
+     <string name="unlike">Όχι ευχαριστώ</string>
      <string name="virus_scan">Σάρωση για ιούς</string>
      <string name="white_list_ad_header">Διαφημίσεις : %d</string>
      <string name="white_list_apk_header">Εφαρμογές: %d</string>

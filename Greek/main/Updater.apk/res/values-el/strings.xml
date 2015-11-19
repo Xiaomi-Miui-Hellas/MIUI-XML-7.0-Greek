@@ -28,6 +28,8 @@
      <string name="button_text_update">Ενημέρωση</string>
      <string name="cancel_download">Διακοπή της λήψης αυτής της ενημέρωσης;</string>
      <string name="cancel_download_buton_text">Ακύρωση</string>
+     <string name="check_local_package_validate_error_button">OK</string>
+     <string name="check_local_package_validate_error_msg">"Αδυναμία επαλήθευσης του πακέτου ενημέρωσης."</string>
      <string name="check_new_version">Έλεγχος</string>
      <string name="check_update_policy">Ρυθμίσεις</string>
      <string name="check_update_when_wifi_available">Ελέγχει για ενημερώσεις μόνο όταν συνδέεστε σε WLAN</string>
