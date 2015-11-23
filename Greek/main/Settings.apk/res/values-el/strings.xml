@@ -2582,7 +2582,7 @@
      <string name="status_bar_app_disable_notification">Κενό</string>
      <string name="status_bar_app_enable_floating">Αναδυόμενες ειδοποιήσεις</string>
      <string name="status_bar_app_enable_keyguard">Κλείδωμα οθόνης</string>
-     <string name="status_bar_app_enable_message">Διακριτικά</string>
+     <string name="status_bar_app_enable_message">Εικονίδια</string>
      <string name="status_bar_key_position_custom">Προσαρμ.θέσης πλήκτρων</string>
      <string name="status_bar_screen_button_key">Εικονικά πλήκτρα Οθόνης</string>
      <string name="status_bar_screen_key_back">Πλήκτρο Πίσω</string>

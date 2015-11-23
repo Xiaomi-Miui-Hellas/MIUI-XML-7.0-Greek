@@ -141,7 +141,7 @@
      <string name="invalid_contact_shortcut">Λανθασμένη συντόμευση επαφής</string>
      <string name="is_setting_wallpaper_message">Εφαρμογή ταπετσαρίας…</string>
      <string name="is_system_wallpaper_message">Δεν είναι δυνατή η διαγραφή πόρων του συστήματος</string>
-     <string name="loading_desktop">Φόρτωση του launcher…</string>
+     <string name="loading_desktop">Μισό λεπτό…</string>
      <string name="loading_wallpaper">Μισό λεπτό…</string>
      <string name="local_wallpaper">Τοπικά</string>
      <string name="lock_screen_failed_message">Δεν μπορεί να εφαρμοστεί</string>
