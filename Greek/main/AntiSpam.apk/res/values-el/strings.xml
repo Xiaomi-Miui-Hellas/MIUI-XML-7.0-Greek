@@ -49,9 +49,9 @@
      <string name="address_choose_hint">%1$s, %2$s και %3$d τοποθεσίες</string>
      <string name="addwhitelist">Προσθήκη στις εξαιρέσεις</string>
      <string name="all_address_choose_hint">Όλες οι τοποθεσίες</string>
-     <string name="antispam_notificaiton_type_show_all">Προβολή όλων των φραγμένων κλήσεων</string>
-     <string name="antispam_notificaiton_type_show_except_blacklist">Προβολή κλήσεων εκτός λίστας</string>
-     <string name="antispam_notificaiton_type_show_none">"Χωρίς ειδοποιήσεις"</string>
+     <string name="antispam_notificaiton_type_show_all">Όλοι οι αριθμοί</string>
+     <string name="antispam_notificaiton_type_show_except_blacklist">Αριθμοί εκτός λίστας</string>
+     <string name="antispam_notificaiton_type_show_none">Ποτέ</string>
      <string name="antispam_notification_setting_title">Ειδοποιήσεις φραγών</string>
      <string name="app_name">Φρουρός</string>
      <string name="backsound_set_hint">Ρύθμιση τόνου επιστροφής σε %s;</string>
@@ -325,7 +325,7 @@
      <string name="st_title_open_antispam">Ενεργοποίηση φίλτρου</string>
      <string name="st_title_other_group">Άλλα</string>
      <string name="st_title_settings_other_group">Επιπλέον ρυθμίσεις</string>
-     <string name="st_title_show_antispamnotification">Ειδοποίηση φραγής κλήσεως</string>
+     <string name="st_title_show_antispamnotification">Ειδοποίηση φραγής κλήσης</string>
      <string name="st_title_sim_card">%1$s-SIM %2$s</string>
      <string name="st_title_sim_unknown">Άγνωστο</string>
      <string name="st_title_whitelist_numbers">Εξαιρέσεις</string>
@@ -343,6 +343,6 @@
      <string name="user_define_title">Προσαρμογή</string>
      <string name="website">Ιστοσελίδα</string>
      <string name="whitelist_prefix_add_hint">Προσθήκη όλων των αριθμών με πρόθεμα στις εξαιρέσεις</string>
-     <string name="wl_no_whitelist">Λευκή Λίστα άδεια</string>
+     <string name="wl_no_whitelist">Δεν υπάρχουν εξαιρέσεις</string>
      <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
