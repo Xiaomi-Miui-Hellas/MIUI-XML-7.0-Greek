@@ -331,7 +331,7 @@
      <string name="dial">Κλήση</string>
      <string name="dialerDialpadHintText">Πληκτρολογήστε για να προσθέσετε μια κλήση</string>
      <string name="dialerIconLabel">Πρόσφατες</string>
-     <string name="dialerKeyboardHintText">Χρησιμοποιήστε το πληκτρολόγιο για να καλέσετε</string>
+     <string name="dialerKeyboardHintText">Χρήση πληκτρολογίου για κλήση</string>
      <string name="dialer_addAnotherCall">Προσθήκη κλήσης</string>
      <string name="dialer_empty_text_loading">Φορτώνει…</string>
      <string name="dialer_empty_text_no_call_log">Δεν υπάρχουν πρόσφατες επαφές</string>

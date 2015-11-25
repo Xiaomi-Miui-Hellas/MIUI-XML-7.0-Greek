@@ -2661,7 +2661,7 @@
      <string name="storageuse_settings_title">Χρήση αποθηκευτικού χώρου</string>
      <string name="strict_mode">Ενεργοποίηση Strict Mode</string>
      <string name="strict_mode_summary">Flash της οθόνης, όταν η εφαρμογή κάνει μεγάλη χρήση πόρων</string>
-     <string name="sum_carrier_select">Επιλογή φορέα δικτύου</string>
+     <string name="sum_carrier_select">Επιλέξτε ένα φορέα δικτύου</string>
      <string name="summary_divider_text">", "</string>
      <string name="summary_font_size">%1$s</string>
      <string name="supl_not_set">&lt;Δεν έχει οριστεί></string>
