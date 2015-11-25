@@ -353,11 +353,9 @@
      <string name="disable_fdn_ok">Ενεργοποίηση FDN</string>
      <string name="disable_pin_ok">Απενεργοποιημένο PIN κάρτας SIM.</string>
      <string name="disable_sim_pin">Απενεργοποίηση PIN κάρτας SIM</string>
-     <string name="display_name">DisplayName</string>
      <string name="display_name_summary">&lt;Ίδιο με το όνομα χρήστη></string>
      <string name="display_name_title">Εμφανιζόμενο όνομα</string>
      <string name="do_not_ask">"Να μην ερωτηθώ ξανά"</string>
-     <string name="domain_address">SipDomain</string>
      <string name="domain_address_title">Διακομιστής</string>
      <string name="doneButton">Ολοκληρώθηκε</string>
      <string name="dtmf_tone_enable_title">Ήχοι αφής πληκτρολογίου</string>
