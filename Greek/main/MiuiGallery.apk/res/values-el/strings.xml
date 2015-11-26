@@ -512,13 +512,16 @@
      <string name="open_sync_title">Απαιτείται συγχρονισμός</string>
      <string name="operation_add_picture">Προσθήκη φωτογραφιών</string>
      <string name="operation_add_secret">Προσθήκη στο κρυφό άλμπουμ</string>
+     <string name="operation_add_secret_button">Απόκρυψη</string>
      <string name="operation_delete_confirm_message_folder">Οι φάκελοι και τα αρχεία θα διαγραφούν ταυτόχρονα.</string>
      <string name="operation_failed">Αποτυχία ενέργειας!</string>
      <string name="operation_give_name">Όνομα</string>
      <string name="operation_in_process">Επεξεργασία…</string>
      <string name="operation_refresh">Ανανέωση</string>
      <string name="operation_remove_from_face_album">Αφαίρεση από το άλμπουμ</string>
+     <string name="operation_remove_from_face_album_button">Αφαίρεση</string>
      <string name="operation_remove_secret">Αφαίρεση από κρυφό άλμπουμ</string>
+     <string name="operation_remove_secret_button">Επανεμφάνιση</string>
      <string name="operation_rename">Μετονομασία</string>
      <string name="operation_rename_baby">Πληκτρολογήστε το όνομα</string>
      <string name="operation_set_as_screensaver">Ορισμός ως Screensaver</string>

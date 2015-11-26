@@ -3,6 +3,7 @@
      <string name="account_bind_prompt">Μεταφορά δεδομένων χρήστη… Αυτό μπορεί να διαρκέσει μερικά λεπτά.</string>
      <string name="action_mode_deselect_all">Αποεπιλογή όλων</string>
      <string name="action_mode_select_all">Επιλογή όλων</string>
+     <string name="add_private">Προσθήκη αρχείων σε κρυφούς φακέλους</string>
      <string name="add_private_files">Προσθήκη αρχείων</string>
      <string name="add_task">Προσθήκη εργασιών</string>
      <string name="adding_upload_tasks">Πρόσθεση εργασίας…</string>
@@ -140,6 +141,7 @@
      <string name="encrypt_error">"Αδυναμία μετατροπής αρχείων σε ιδιωτικά. Δοκιμάστε ξανά"</string>
      <string name="encrypt_prefix">ΙΔΙΩΤΙΚΑ</string>
      <string name="encrypt_success">Όλα τα αρχεία έγιναν ιδιωτικά</string>
+     <string name="encrypt_success_first_five">"Επιτυχής κρυπτογράφηση. Σύρετε προς τα κάτω στη σελίδα έναρξης του File Explorer για να δείτε τα αρχεία."</string>
      <string name="encrypting">Κρυπτογράφηση…</string>
      <string name="error_filename_too_long">Πολύ μεγάλο όνομα αρχείου.</string>
      <string name="error_info_cant_send_folder">Αυτός ο τύπος αρχείου δεν υποστηρίζεται.</string>
@@ -386,6 +388,8 @@
      <string name="port_range">Η θύρα πρέπει να είναι μεταξύ 1024–65535</string>
      <string name="private_files">Ιδιωτικό</string>
      <string name="private_folder">Ιδιωτικός φάκελος</string>
+     <string name="private_folder_no_file_hints">Κρατήστε ένα αρχείο ή φάκελο για να το κρύψετε.</string>
+     <string name="private_folder_update">Ενημέρωση κρυφών φακέλων</string>
      <string name="private_toast_hint1">Πατήστε για προσθήκη αρχείων στους κρυφούς φακέλους</string>
      <string name="private_toast_hint2">Για να κρύψετε ένα αρχείο, πατήστε και κρατήστε το πατημένο και στη συνέχεια προσθέστε το σε ένα κρυφό φάκελο.</string>
      <string name="private_toast_hint3">Σύρετε προς τα κάτω για να ανοίξετε τους κρυφούς φακέλους</string>

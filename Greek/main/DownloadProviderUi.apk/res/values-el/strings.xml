@@ -17,7 +17,7 @@
      <string name="apk_filter">APK</string>
      <string name="app_downloads">%s λήψεις</string>
      <string name="app_label">Λήψεις</string>
-     <string name="app_name">File Exporer</string>
+     <string name="app_name">File Explorer</string>
      <string name="auth_activity_title">Λογαριασμός Xunlei</string>
      <string name="auth_fail">"Αδυναμία λήψης έγκρισης"</string>
      <string name="bind_xunlei_account">Προσθήκη λογαριασμού Xunlei</string>
@@ -164,6 +164,7 @@
      <string name="pref_download_revert_default">Προεπιλογή</string>
      <string name="pref_download_settings_title">Όριο μεγέθους λήψης</string>
      <string name="pref_download_storage_path">Δημιουργήστε ένα νέο φάκελο για τις λήψεις</string>
+     <string name="pref_sniff_shortcut">Δημιουργία συντόμευσης</string>
      <string name="pref_summary_any_bytes_popup">Πάντα αναμονή για λήψη μέσω Wi-Fi</string>
      <string name="pref_summary_enable_max_bytes_popup">Εμφάνιση αναδυόμενης ειδοποίησης όταν χρησιμοποιείτε σύνδεση δεδομένων κινητής  για να κατεβάσετε περιεχόμενο</string>
      <string name="pref_summary_max_bytes_limit_format">Αναμονή για δίκτυο Wi-Fi εάν το μέγεθος αρχείου ξεπερνάει τα %s</string>
@@ -229,6 +230,13 @@
      <string name="sniff_result_website_intro">Συνολικά &lt;font color=\"#6699ff\">%1$d&lt;/font> στοιχεία | Πηγή: %2$s</string>
      <string name="sniff_search_assoicate_sizeinfo">Μέγεθος: %1$s</string>
      <string name="sniff_search_install">Εγκατάσταση</string>
+     <string name="sniff_shortcut_cloudconfig_btn">Το κατάλαβα</string>
+     <string name="sniff_shortcut_cloudconfig_context">Ενημέρωση πηγής…</string>
+     <string name="sniff_shortcut_cloudconfig_title">Μισό λεπτό…</string>
+     <string name="sniff_shortcut_create">Η συντόμευση δημιουργήθηκε</string>
+     <string name="sniff_shortcut_name">Εύρεση πηγής</string>
+     <string name="sniff_shortcut_tip">Προσθέστε συντομεύσεις για να βρίσκετε γρηγορότερα πηγές.</string>
+     <string name="sniff_shortcut_tip2">Βρείτε πηγές για τις λήψεις από την Αρχική Οθόνη σας.</string>
      <string name="sniff_sniffing_btn_text">Αναζήτηση για πηγή…</string>
      <string name="sniff_terms_agree">Αποδοχή</string>
      <string name="sniff_terms_msg">Θα πρέπει να αποδεχτείτε τους\"Όρους Χρήσης\" για να αρχίσετε να χρησιμοποιείτε μια μηχανή αναζήτησης από τρίτους.</string>
@@ -269,15 +277,31 @@
      <string name="valid_in_this_month">Ισχύει μόνο αυτό το μήνα</string>
      <string name="version">Έκδοση %s</string>
      <string name="vip_auto_speedup">Η επιτάχυνση λήψεων της Xunlei είναι ενεργή</string>
-     <string name="vip_expire_show_info">"Η συνδρομή Xunlei membership έληξε.
+     <string name="vip_expire_show_info">"Η συνδρομή Xunlei έληξε.
 Ανανεώστε τώρα και κερδίστε 5% έκπτωση."</string>
-     <string name="vip_expire_today_show_info">"Η συνδρομή Xunlei membership έληξε.
+     <string name="vip_expire_today_show_info">"Η συνδρομή Xunlei έληξε.
 Ανανεώστε τώρα και κερδίστε 5% έκπτωση."</string>
      <string name="vip_show_info">"5 εκατομμύρια μέλη.
 Επιταχύνετε τις λήψεις σας σε όλες τις συσκευές σας."</string>
      <string name="web_dialog_cancel">Ακύρωση</string>
      <string name="web_dialog_confirm">OK</string>
      <string name="xiaomi_account_not_exist_message">"Αυτός ο λογαριασμός Mi δεν υπάρχει"</string>
+     <string name="xl_annual_vip_open">Ετήσια συνδρομή (%1$s Mi Credit ή %2$s μηνιαία)</string>
+     <string name="xl_annual_vip_renew">Ανανέωση για 1 χρόνο (%1$s Mi Credit ή %2$s μηνιαία)</string>
+     <string name="xl_bind_account">Προσθήκη υπάρχοντος λογαριασμού  Xunlei</string>
+     <string name="xl_highway_autoopen">Κανάλι υψηλής ταχύτητας</string>
+     <string name="xl_highway_autoopen_info">Αυτόματη ενεργοποίηση καναλιού υψηλής ταχύτητας</string>
+     <string name="xl_highway_title">Κανάλι υψηλής ταχύτητας:   </string>
+     <string name="xl_month_vip_open">Μηνιαία συνδρομή (%1$s Mi Credit)</string>
+     <string name="xl_month_vip_renew">Ανανέωση για 1 μήνα (%1$s Mi Credit)</string>
+     <string name="xl_privilege_play">Αναπαραγωγή λήψης</string>
+     <string name="xl_privilege_play_info">Ροή ημιτελών λήψεων σε πολλαπλές συσκευές</string>
+     <string name="xl_privilege_speedup">Επιτάχυνση λήψεων</string>
+     <string name="xl_privilege_speedup_info">Κανάλι υψηλής ταχύτητας και υποστήριξη για λήψεις offline</string>
+     <string name="xl_privilege_storage">Online αποθήκευση</string>
+     <string name="xl_privilege_storage_info">"Υπάρχει αρκετός χώρος για όλες τις λήψεις σας"</string>
+     <string name="xl_privilege_title">Συνδρομή Xunlei</string>
+     <string name="xl_validate_title">Ισχύει έως:  </string>
      <string name="xunlei_account_has_unbind_message">Ο λογαριασμός Xunlei αφαιρέθηκε</string>
      <string name="xunlei_brand">Powered by Xunlei</string>
      <string name="xunlei_brand_url">http://mobile.xunlei.com</string>

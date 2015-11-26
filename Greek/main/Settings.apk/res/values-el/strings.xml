@@ -101,7 +101,6 @@
 Βεβαιωθείτε ότι το δάχτυλό σας καλύπτει την εσωτερική άκρη του αισθητήρα"</string>
      <string name="add_fingerprint_instruction_msg">Ξεκλειδώστε τη συσκευή σας ή επιβεβαιώστε τις πληρωμές σας με το δακτυλικό σας αποτύπωμα</string>
      <string name="add_fingerprint_instruction_title">Τοποθετήστε το δάκτυλό σας στο σαρωτή δακτυλικών αποτυπωμάτων</string>
-     <string name="add_fingerprint_move_finger_title">Αφαιρέστε το δάχτυλο</string>
      <string name="add_fingerprint_put_finger_edge_msg">Μετά το πάτημα του αισθητήρα, αφαιρέστε το δάχτυλο και επαναλάβετε ξανά.</string>
      <string name="add_fingerprint_put_finger_msg">Μετά το πάτημα του αισθητήρα, αφαιρέστε το δάχτυλο και επαναλάβετε ξανά.</string>
      <string name="add_fingerprint_put_finger_title">Τοποθετήστε το δάχτυλό</string>
@@ -716,7 +715,8 @@
      <string name="confirm_action">OK</string>
      <string name="confirm_download_cancelation_dialog_message">Ακύρωση λήψης ;</string>
      <string name="confirm_erase">Επιβεβαίωση</string>
-     <string name="confirm_new_backup_pw_prompt">Πληκτρολογήστε πάλι τον νέο πλήρες κωδικό backup σας εδώ</string>
+     <string name="confirm_fingerprint_msg">Τοποθετήστε το δάκτυλό σας στο σαρωτή δακτυλικών αποτυπωμάτων</string>
+     <string name="confirm_new_backup_pw_prompt">Πληκτρολογήστε ξανά τον κωδικό του νέου πλήρες αντιγράφου ασφαλείας σας</string>
      <string name="connect_to_internet">Σύνδεση στο δίκτυο</string>
      <string name="connected_wifi">Συνδεδεμένο</string>
      <string name="continue_all_caps">ΣΥΝΕΧΕΙΑ</string>
