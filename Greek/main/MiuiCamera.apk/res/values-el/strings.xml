@@ -66,8 +66,6 @@
      <string name="pref_audio_focus_entry_general">Κανονικό</string>
      <string name="pref_audio_focus_entry_rear">Πίσω</string>
      <string name="pref_audio_focus_title">Προτεραιότητα ήχου</string>
-     <string name="pref_audio_indicator_entry_off">Φωνητικό κλείστρο ανενεργό</string>
-     <string name="pref_audio_indicator_entry_on">Φωνητικό κλείστρο ενεργό</string>
      <string name="pref_burst_shoot_title">Λειτουργία ριπής</string>
      <string name="pref_camcorder_settings">Ρυθμίσεις κάμερας</string>
      <string name="pref_camcorder_settings_category">Ρυθμίσεις φωτογραφιών και βίντεο</string>
@@ -188,8 +186,13 @@
      <string name="pref_camera_skinToneEnhancement_entry_auto">Αυτόματη βελτίωση</string>
      <string name="pref_camera_skinToneEnhancement_entry_disable">Απενεργοποίηση</string>
      <string name="pref_camera_skinToneEnhancement_entry_enable">Ενεργοποίηση</string>
-     <string name="pref_camera_snap_enable_summary">Όταν η οθόνη είναι ανενεργή, πατήστε &amp; κρατήστε το κουμπί μείωσης έντασης (Volume -) για να μπείτε στην λειτουργία γρήγορης λήψης. Πατήστε το ξανά για να βγάλετε μια φωτογραφία.</string>
      <string name="pref_camera_snap_enable_title">Λειτουργία γρήγορης λήψης</string>
+     <string name="pref_camera_snap_entry_off">Ανενεργό</string>
+     <string name="pref_camera_snap_entry_take_movie">Όταν η οθόνη είναι ανενεργή, πατήστε &amp; κρατήστε πατημένο μείωσης έντασης (Volume -) για να ξεκινήσει η εγγραφή βίντεο. Αφήστε το να σταματήσει.</string>
+     <string name="pref_camera_snap_entry_take_picture">Όταν η οθόνη είναι ανενεργή, πατήστε &amp; κρατήστε πατημένο μείωσης έντασης (Volume -) για να ξεκινήσει η λήψη ριπής φωτογραφιών. Αφήστε το να σταματήσει.</string>
+     <string name="pref_camera_snap_value_off">Ανενεργό</string>
+     <string name="pref_camera_snap_value_take_movie">Ταινία</string>
+     <string name="pref_camera_snap_value_take_picture">Εικόνα</string>
      <string name="pref_camera_sound_title">Ήχοι κάμερας</string>
      <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
      <string name="pref_camera_touchafaec_entry_off">Ανενεργό</string>

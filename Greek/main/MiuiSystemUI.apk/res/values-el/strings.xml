@@ -114,7 +114,6 @@
      <string name="headset_custom">Προσαρμογή</string>
      <string name="headset_info">Προσαρμογή λειτουργίας των πλήκτρων</string>
      <string name="headset_settings">Συνδεδεμένα ακουστικά</string>
-     <string name="hint_for_long_press_app_switch_key">Πιέστε παρατεταμένα για να δείτε το μενού</string>
      <string name="invalid_charger">"Η φόρτιση μέσω USB δεν υποστηρίζεται.
 Κάντε χρήση του φορτιστή σας."</string>
      <string name="kilobyte_per_second">K/s</string>

@@ -199,7 +199,6 @@
      <string name="megabyte_per_second">M/s</string>
      <string name="mi_service_app_detail">Λεπτομέρειες χρήσης δεδομένων</string>
      <string name="mi_service_framework">Πλαίσιο υπηρεσιών Mi</string>
-     <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
      <string name="mi_service_traffic_detail">Λεπτομέρειες υπηρεσιών Mi</string>
      <string name="mian_page_primary_txt">Διεθνής περιαγωγή</string>
      <string name="network_assistant_upgraded_body">Πατήστε για να περιορίσετε τη χρήση των δεδομένων.</string>
