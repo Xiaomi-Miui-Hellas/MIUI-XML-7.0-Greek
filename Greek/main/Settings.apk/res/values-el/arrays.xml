@@ -429,7 +429,7 @@
         <item>Τελευταία δραστηριότητα</item>
         <item>Αποθηκευμένο (δραστηριότητα)</item>
         <item>Αποθηκευμένο (δραστηριότητα client)</item>
-        <item>αποθηκευμένο (κενό)</item>
+        <item>Αποθηκευμένο (κενό)</item>
      </string-array>
      <string-array name="screen_color_title">
         <item>Θερμό</item>
@@ -466,7 +466,7 @@
      </string-array>
      <string-array name="screen_resolution_entries">
         <item>Εξαιρετικά υψηλή (2K)</item>
-        <item>ΚΑνονική (720p)</item>
+        <item>Κανονική (720p)</item>
      </string-array>
      <string-array name="screen_saturation_title">
         <item>Λαμπρό</item>

@@ -1533,7 +1533,6 @@
      <string name="location_title">Η τοποθεσία μου</string>
      <string name="lock_after_timeout">Αυτόματο κλείδωμα</string>
      <string name="lock_after_timeout_summary">%1$s μετά τον ύπνο</string>
-     <string name="lock_intro_message">Lock_intro_message</string>
      <string name="lock_screen_secure_after_timeout_immediately_summary">Απαιτείται άμεσα κωδικός πρόσβασης</string>
      <string name="lock_screen_secure_after_timeout_summary">Απαιτείται κωδικός πρόσβασης στο %1$s</string>
      <string name="lock_screen_secure_after_timeout_title">Απαιτείται κωδικός πρόσβασης</string>

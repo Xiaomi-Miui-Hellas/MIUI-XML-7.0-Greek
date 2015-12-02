@@ -283,5 +283,4 @@
      <string name="screen_overlay_button">Άνοιγμα ρυθμίσεων</string>
      <string name="screen_overlay_message">Για να αλλάξετε αυτή τη ρύθμιση της άδειας, πρέπει πρώτα να απενεργοποιήσετε την επικάλυψη της οθόνης από το Ρυθμίσεις>Εφαρμογές</string>
      <string name="screen_overlay_title">Ανιχνεύτηκε επικάλυψη οθόνης</string>
-     <string name="static_cache_db_md5">d3bcc85e9ff1f1f8f1e641ea19e7b30f</string>
 </resources>

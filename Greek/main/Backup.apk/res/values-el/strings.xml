@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="abort_backup_confirm">"ο αντίγραφο δεν ολοκληρώθηκε. Διακοπή ούτως ή άλλως;"</string>
+     <string name="abort_backup_confirm">"Το αντίγραφο δεν ολοκληρώθηκε. Διακοπή ούτως ή άλλως;"</string>
      <string name="account_contact_backup_info">Δεδομένα (Αντίγραφο πληροφοριών Mi και Gmail)</string>
      <string name="account_login">Είσοδος</string>
      <string name="account_summary">Δημιουργία αντιγράφων για τους λογαριασμούς Gmail E-mail και Mi</string>
@@ -173,7 +173,7 @@
      <string name="sc_internal_server_error">Εσωτερικό σφάλμα εξυπηρετητή</string>
      <string name="sc_network_unavailable">Σφάλμα σύνδεσης δικτύου</string>
      <string name="sc_others">Εξαίρεση προγράμματος</string>
-     <string name="sc_precondition_failed">Ο λογαριασμός Mi σας δεν έχει δεσμευθεί με οποιαδήποτε διεύθυνση ηλεκτρονικού ταχυδρομείου</string>
+     <string name="sc_precondition_failed">Θα πρέπει πρώτα να προσθέσετε μια διεύθυνση email στον Mi λογαριασμό σας.</string>
      <string name="sc_request_timeout">Τέλος χρόνου αιτήματος</string>
      <string name="sc_service_unavailable">Η υπηρεσία cloud δεν είναι διαθέσιμη</string>
      <string name="sc_unaccess_password_file">Χωρίς αποθήκευση λεπτομερειών κωδικών Wi-Fi</string>
@@ -190,17 +190,12 @@
      <string name="settings_summary">Αντίγραφο ρυθμίσεων μηνυμάτων και τηλεφώνου</string>
      <string name="sms_title">Μηνύματα</string>
      <string name="software_backup_info">Αντίγραφο εφαρμογών και των δεδομένων τους</string>
-     <string name="st_antispam_mode_blacklist_state">11112121</string>
-     <string name="st_antispam_mode_only_all_deny_state">10000000</string>
-     <string name="st_antispam_mode_only_contacts_state">11110000</string>
-     <string name="st_antispam_mode_only_whitelist_state">11000000</string>
-     <string name="st_antispam_mode_smart_state">11111111</string>
      <string name="start_backup">Εκκίνηση δημιουργίας αντιγράφου ασφαλείας</string>
      <string name="start_restore">Επαναφορά</string>
      <string name="state_mounting">Πρόσβαση στο χώρου αποθήκευσης του router…</string>
      <string name="state_waiting">Μισό λεπτό…</string>
      <string name="succeed">Επιτυχής δημιουργία αντιγράφων</string>
-     <string name="summary_err_backup_encrypting">Συνδεθείτε στο Mi λογαριασμό σας.</string>
+     <string name="summary_err_backup_encrypting">Συνδεθείτε στον Mi λογαριασμό σας.</string>
      <string name="summary_err_backup_no_network">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="summary_err_restore_encrypting">"Αδυναμία επαναφοράς. Βεβαιωθείτε ότι αυτό το αντίγραφο έγινε μέσω του Mi λογαριασμού σας."</string>
      <string name="summary_err_restore_no_network">"Αδυναμία σύνδεσης στο δίκτυο"</string>
@@ -245,9 +240,20 @@
      <string name="trans_detail_category_sysdata">Δεδομένα συστήματος</string>
      <string name="trans_detail_category_userdata">Εφαρμογές</string>
      <string name="trans_device_disconnected">Η συσκευή αποσυνδέθηκε</string>
+     <string name="trans_generate_qr_code_failed">"Αδυναμία δημιουργίας κωδικού QR"</string>
      <string name="trans_main_tutor">Μεταφορά επαφών, ιστορικού κλήσεων, μηνυμάτων, διάταξη αρχικής οθόνης, εφαρμογών, ρυθμίσεων, κλπ σε μια νέα συσκευή</string>
      <string name="trans_my_device">Η συσκευή μου</string>
      <string name="trans_one_key_migrate">Μεταφορά</string>
+     <string name="trans_operate_new_phone_tips">"Σαρώστε τον κωδικό QR χρησιμοποιώντας τη νέα συσκευή
+Πηγαίνετε στις Ρυθμίσεις > Πρόσθετες ρυθμίσεις > Μεταφορά
+ Πατήστε [Είμαι ο παραλήπτης] για να δημιουργήσετε ένα κωδικό QR"</string>
+     <string name="trans_operate_old_phone_tips1">"Μέθοδος Α
+1. Εγκαταστήστε την εφαρμογή Μεταφορά στην παλιά σας συσκευή
+2. Ανοίξτε την εφαρμογή και επιλέξτε [Είμαι ο αποστολέας]
+3. Σαρώστε τον κωδικό QR με την παλιά σας συσκευή"</string>
+     <string name="trans_operate_old_phone_tips2">"Μέθοδος Β
+Πηγαίνετε στις Ρυθμίσεις > Πρόσθετες ρυθμίσεις > Μεταφορά
+ Πατήστε [Είμαι ο αποστολέας]"</string>
      <string name="trans_progress_subdescript_br_receiver">Λήψη %s</string>
      <string name="trans_progress_subdescript_br_sender">Λήψη αντιγράφου %s</string>
      <string name="trans_progress_subdescript_transing_receiver">Λήψη %s</string>
@@ -259,6 +265,8 @@
      <string name="trans_receiving_completed">Τα δεδομένα ελήφθησαν</string>
      <string name="trans_restoring">Επαναφορά…</string>
      <string name="trans_restoring_no_items">Συγχρονισμός στοιχείων</string>
+     <string name="trans_scan_invalid_qrcode">Μη έγκυρος κωδικός QR</string>
+     <string name="trans_scan_qr_code_tips">Σαρώστε τον κωδικό QR χρησιμοποιώντας τη νέα συσκευή</string>
      <string name="trans_select_device_receive">Επιλέξτε μια συσκευή για λήψη δεδομένων.</string>
      <string name="trans_select_device_send">Επιλέξτε μια συσκευή για μεταφορά δεδομένων.</string>
      <string name="trans_sender">"Είμαι ο αποστολέας"</string>
@@ -267,6 +275,7 @@
      <string name="trans_sender_searching_ensurance">"Βεβαιωθείτε ότι η παλιά συσκευή είναι ανοικτή
 Αναμονή για την παλιά συσκευή να συνδεθεί…"</string>
      <string name="trans_sending_completed">Τα δεδομένα εστάλησαν</string>
+     <string name="trans_show_qr_code_tips">Σαρώστε τον κωδικό QR χρησιμοποιώντας την παλιά συσκευή</string>
      <string name="trans_time_format_second">Λιγότερο από ένα λεπτό</string>
      <string name="trans_time_remained">, έτοιμο σε</string>
      <string name="trans_waiting_ensurance">"Βεβαιωθείτε ότι η παλιά συσκευή είναι ανοικτή
