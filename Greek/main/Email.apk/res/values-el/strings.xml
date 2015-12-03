@@ -25,7 +25,7 @@
      <string name="account_set_up_change_type_note">Εάν θέλετε να ρυθμίσετε το λογαριασμό μεταγωγής πριν POP3 και IMAP, θα πρέπει πρώτα να διαγράψετε το λογαριασμό, την εκ νέου είσοδο ρυθμίσετε.</string>
      <string name="account_settings_action">Ρυθμίσεις λογαριασμού</string>
      <string name="account_settings_background_attachments_label">Λήψη συνημμένων</string>
-     <string name="account_settings_background_attachments_summary">Αυτόματη λήψη συνημμένων στα πρόσφατα μηνύματα μέσω Wi-Fi</string>
+     <string name="account_settings_background_attachments_summary">Αυτόματη λήψη συνημμένων στα πρόσφατα μηνύματα μέσω Wi‑Fi</string>
      <string name="account_settings_data_usage">Χρήση δεδομένων</string>
      <string name="account_settings_description_label">Όνομα λογαριασμού</string>
      <string name="account_settings_edit_quick_responses_label">Γρήγορες απαντήσεις</string>
@@ -249,10 +249,11 @@
      <string name="confirm_send_message_with_no_body">"Δεν υπάρχει κείμενο στο σώμα μηνύματος."</string>
      <string name="confirm_send_message_with_no_subject">"Δεν υπάρχει κείμενο στο πλαίσιο θέματος."</string>
      <string name="confirm_send_title">Αποστολή μηνύματος;</string>
-     <string name="contact_edit_set_black_list">Ορίστε την λίστα φραγών</string>
+     <string name="contact_edit_set_black_list_filtering">Φιλτράρισμα…</string>
      <string name="contact_edit_set_black_list_from">Διαγραφή όλων  των μηνυμάτων από αυτόν το αποστολέα</string>
      <string name="contact_edit_set_black_list_receive">Διαγραφή μηνυμάτων με αυτόν τον παραλήπτη</string>
      <string name="contact_edit_set_black_list_receive_summary">Διαγραφή μηνυμάτων που περιλαμβάνουν αυτόν τον παραλήπτη στο πεδίο To ή Cc</string>
+     <string name="contact_edit_set_black_list_title">Ορίστε την λίστα φραγών</string>
      <string name="contact_edit_set_phone_contact">Επεξεργασία επαφών</string>
      <string name="contact_edit_title_phone_contact">Λίστα επαφών τηλεφώνου</string>
      <string name="contact_in_filter_call_phone_str">κλήση: %s</string>
@@ -358,6 +359,7 @@
      <string name="exchange_name">Εταιρικό</string>
      <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
      <string name="expand_recipient_details">Αναπτύξτε τα στοιχεία του δικαιούχου</string>
+     <string name="fail_get_email_message">Αποτυχία λήψης μηνύματος.</string>
      <string name="failed">"Δεν ήταν δυνατή η φόρτωση της εικόνας"</string>
      <string name="feedback">Αποστολή σχολιασμού</string>
      <string name="feedback_body">Πληροφορίες σχολιασμού</string>
@@ -621,7 +623,7 @@
      <string name="policy_dont_allow_text_messaging">"Να μην επιτρέπονται μηνύματα κειμένου"</string>
      <string name="policy_dont_allow_unsigned_apps">"Να μην επιτρέπονται ανυπόγραφες εφαρμογές"</string>
      <string name="policy_dont_allow_unsigned_installers">"Να μην επιτρέπονται εγκαταστάσεις ανυπόγραφων εφαρμογών"</string>
-     <string name="policy_dont_allow_wifi">"Να μην επιτρέπεται Wi-Fi"</string>
+     <string name="policy_dont_allow_wifi">"Να μην επιτρέπεται Wi‑Fi"</string>
      <string name="policy_email_age">Περιορισμός του αριθμού των email για συγχρονισμό</string>
      <string name="policy_html_truncation">Περιορισμός μεγέθους HTML email</string>
      <string name="policy_password_expiration">Απαιτείται ημερομηνία λήξης των κωδικών</string>

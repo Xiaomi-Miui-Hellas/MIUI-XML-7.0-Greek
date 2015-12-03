@@ -80,6 +80,11 @@
      <string name="deepclean_cache_content">Εκκαθάριση δεδομένων που δημιουργούνται από εφαρμογές</string>
      <string name="deepclean_cache_header_left">Αρχεία Cache: %d</string>
      <string name="deepclean_large_content">Διαγραφή αρχείων μεγαλύτερων από 10MB</string>
+     <string name="deepclean_list_item_from_app">App store</string>
+     <string name="deepclean_list_item_from_dcim_thumbnails">Μικρογραφίες</string>
+     <string name="deepclean_list_item_from_download">Λήψεις</string>
+     <string name="deepclean_list_item_from_gallery">Άλμπουμ</string>
+     <string name="deepclean_list_item_from_sdcard">Κάρτα Sd</string>
      <string name="deepclean_similar_ignore">Αγνοήστε</string>
      <string name="deepclean_title_large_file">Διαγραφή μεγάλων αρχείων</string>
      <string name="deepclean_title_uninstall_apps">Εφαρμογές με σπάνια χρήση</string>
@@ -126,6 +131,7 @@
      <string name="hints_app_uninstall_residual">Καθαρισμός υπολειμμάτων;</string>
      <string name="hints_cache_header_left">Αρχεία cache</string>
      <string name="hints_cleanfinish">Ολοκλήρωση καθαρισμού</string>
+     <string name="hints_deepclean_list_item_from">Από %s</string>
      <string name="hints_deepclean_scanning">Σάρωση %s</string>
      <string name="hints_finish_quick_cleanup">Δείτε λεπτομέρειες</string>
      <string name="hints_finish_quick_cleanup_title">Καθαρισμός %s σκουπιδιών</string>
@@ -327,6 +333,6 @@
      <string name="white_list_large_file_header">Μεγάλα αρχεία: %d</string>
      <string name="white_list_residual_header">Υπολείμματα: %d</string>
      <string name="white_list_title">Εξαιρέσεις</string>
-     <string name="year_month_day_format">MMM dd, yyyy</string>
+     <string name="year_month_day_format">dd MMM, yyyy</string>
      <string name="yesterday">Χθες</string>
 </resources>

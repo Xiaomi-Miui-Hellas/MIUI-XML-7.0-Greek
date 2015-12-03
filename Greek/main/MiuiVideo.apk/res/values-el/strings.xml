@@ -40,6 +40,8 @@
      <string name="app_name">Βίντεο</string>
      <string name="app_plugin_ready">το στοιχείο %1$s είναι έτοιμο</string>
      <string name="app_update_background">Αναβαθμίστε την εφαρμογή σας στο παρασκήνιο</string>
+     <string name="app_upgrade_hint">Κάντε κλικ για να δείτε online το πλήρες πολυμερισμού HD βίντεο.</string>
+     <string name="app_upgrade_title">Το Mi Video έχει ήδη αναβαθμιστεί στην πιο πρόσφατη έκδοση.</string>
      <string name="app_upgrade_version">Νέα έκδοση</string>
      <string name="app_version">Έκδοση Εφαρμογής</string>
      <string name="app_wifi_mode">Αυτόματη αναβάθμιση με Wi-Fi</string>
@@ -223,6 +225,10 @@
      <string name="not_buy_vip">Χωρίς συνδρομή</string>
      <string name="not_exist_openid">Λήψη πληροφοριών λογαριασμού. Παρακαλώ περιμένετε…</string>
      <string name="not_login">Δεν συνδεθήκατε</string>
+     <string name="notification_default_title">Offline βίντεο</string>
+     <string name="notification_sub_title">Ολοκληρώθηκε συνολικά η λήψη %d βίντεο</string>
+     <string name="notification_ticker_text">Ολοκλήρωση λήψης offline βίντεο</string>
+     <string name="notification_title">Ολοκλήρωση λήψης \"%s\"</string>
      <string name="nowifi_alert_dialog_continue">Συνέχεια</string>
      <string name="nowifi_alert_dialog_exit">Έξοδος</string>
      <string name="nowifi_alert_dialog_message">Χρησιμοποίηση δικτύου κινητής τηλεφωνίας για λήψη του βίντεο, θέλετε να συνεχίσετε;</string>

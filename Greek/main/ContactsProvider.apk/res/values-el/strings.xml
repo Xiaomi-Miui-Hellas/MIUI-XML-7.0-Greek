@@ -26,5 +26,6 @@
      <string name="upgrade_out_of_memory_notification_text">Αγγίξτε για ολοκλήρωση της αναβάθμισης.</string>
      <string name="upgrade_out_of_memory_notification_ticker">Η αναβάθμιση των επαφών χρειάζεται περισσότερη μνήμη.</string>
      <string name="upgrade_out_of_memory_notification_title">Αναβάθμιση του χώρου των Επαφών.</string>
+     <string name="video_call">Κλήση βίντεο</string>
      <string name="voicemail_from_column">"Φωνητικό μήνυμα από "</string>
 </resources>

@@ -58,10 +58,19 @@
      <string name="card_title_in_call">Σε κλήση</string>
      <string name="card_title_in_call_short">Σε κλήση</string>
      <string name="card_title_incoming_call">Εισερχόμενη κλήση</string>
+     <string name="card_title_incoming_conference_call">Εισερχόμενη κλήση συνδιάσκεψης</string>
      <string name="card_title_on_hold">Σε αναμονή</string>
      <string name="card_title_threeway_call">Τριμερής κλήση</string>
+     <string name="card_title_upgrade_video_call_error">"Αδυναμία ενημέρωσης βίντεο"</string>
+     <string name="card_title_upgrade_video_call_rejected_by_remote">"Αδυναμία ενημέρωσης βίντεο"</string>
+     <string name="card_title_upgrade_video_call_requesting">Αίτηση λήψης βίντεο…</string>
+     <string name="card_title_upgrade_video_call_timed_out">"Αδυναμία ενημέρωσης βίντεο"</string>
+     <string name="card_title_video_call">Κλήση βίντεο</string>
+     <string name="card_title_video_call_paused">Βίντεο σε παύση</string>
      <string name="conference_call_description" formatted="false">%s,%s κλπ συνολικά %s</string>
      <string name="conference_call_number">%s άτομα</string>
+     <string name="conference_caller_info_name">"%1$s κλήση συνδιάσκεψης"</string>
+     <string name="conference_caller_name_me">Εγώ</string>
      <string name="contactPhoto">φωτογραφία επαφής</string>
      <string name="contacts_icon_label">Επαφές</string>
      <string name="description_image_button_answer">Σύρετε πάνω για απάντηση</string>
@@ -98,6 +107,7 @@
      <string name="incall_error_supp_service_switch">Αδύνατη η εναλλαγή κλήσεων.</string>
      <string name="incall_error_supp_service_transfer">Δεν ήταν δυνατή η μεταφορά της κλήσης.</string>
      <string name="incall_error_supp_service_unknown">Μη υποστηριζόμενη υπηρεσία.</string>
+     <string name="incoming_answer_voice_text">Φωνητική απάντηση</string>
      <string name="incoming_call_forwarded_title">Προώθηση εισερχόμενων κλήσεων</string>
      <string name="ivr_menu_dialing_msg">Προώθηση…</string>
      <string name="ivr_menu_dialing_msg_no_mute">Πηγαίνετε στην επιλεγμένη υπηρεσία… [Η αυτόματη διόρθωση σφάλματος είναι ενεργοποιημένη]</string>
@@ -140,6 +150,7 @@
      <string name="notification_action_end_call">Τερματισμός</string>
      <string name="notification_dialing">Κλήση</string>
      <string name="notification_incoming_call">Εισερχόμενη κλήση</string>
+     <string name="notification_incoming_video_call">Εισερχόμενη κλήση βίντεο</string>
      <string name="notification_on_hold">Σε αναμονή</string>
      <string name="notification_ongoing_call">Κλήση σε εξέλιξη</string>
      <string name="notification_requesting_video_call">Εισερχόμενη αίτηση βίντεο</string>
@@ -157,14 +168,20 @@
      <string name="onscreen_audio_mode_speaker">Ηχείο</string>
      <string name="onscreen_audio_switch_mode">Εναλλαγή ήχου</string>
      <string name="onscreen_call_record">Εγγραφή</string>
+     <string name="onscreen_change_to_video">Κλήση βίντεο</string>
+     <string name="onscreen_change_to_voice">Κλήση φωνής</string>
+     <string name="onscreen_close_preview_camera">Κλείσιμο κάμερας</string>
      <string name="onscreen_hold_text">Αναμονή</string>
      <string name="onscreen_merge_calls_text">Συγχώνευση κλήσεων</string>
      <string name="onscreen_mute_text">Σίγαση</string>
+     <string name="onscreen_rcs_text">Μηνύματα</string>
      <string name="onscreen_swap_calls_text">Εναλλαγή</string>
+     <string name="onscreen_switch_camera">Εναλλαγή κάμερας</string>
      <string name="pause_prompt_no">Όχι</string>
      <string name="pause_prompt_yes">Ναι</string>
      <string name="payphone">Καρτοτηλέφωνο</string>
      <string name="phone_info_divider">|</string>
+     <string name="picking_participant">Λήψη πληροφοριών επαφής…</string>
      <string name="private_num">Απόρρητος αριθμός</string>
      <string name="purchase_now">Αγορά τώρα</string>
      <string name="respond_via_sms_custom_message">Γράψτε τη δική σας…</string>
@@ -175,6 +192,8 @@
      <string name="upgrade_vt_prompt">Θα θέλατε να αναβαθμίσετε την κλήση σε κλήση βίντεο;</string>
      <string name="upgrade_vt_rx_prompt">Θα θέλατε να αναβαθμίσετε την κλήση σε λήψη βίντεο μόνο;</string>
      <string name="upgrade_vt_tx_prompt">Θα θέλατε να αναβαθμίσετε την κλήση σε εκπομπή βίντεο μόνο;</string>
+     <string name="video_call_not_allowed_if_tty_enabled">Απενεργοποιήστε πρώτα τη λειτουργία TTY</string>
+     <string name="video_switch_to_voice_call_prompt">Εναλλαγή σε φωνητική κλήση</string>
      <string name="voicemail">Τηλεφωνητής</string>
      <string name="wait_prompt_str">"Αποστολή των παρακάτω τόνων;
 "</string>

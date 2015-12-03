@@ -7,9 +7,6 @@
         <item>Εγκατάσταση</item>
      </string-array>
      <string-array name="app_clean_menu">
-        <item>Λεπτομέρειες</item>
-        <item>Αρχείο</item>
-        <item>Λήψη αντιγράφου και απεγκατάσταση</item>
         <item>Απεγκατάσταση</item>
      </string-array>
      <string-array name="auto_alert_apps_time">
@@ -36,7 +33,8 @@
      <string-array name="cache_clean_menu">
         <item>Καθαρισμός</item>
         <item>Αρχείο</item>
-        <item>Εξαίρεση</item>
+        <item>Προσθήκη αρχείου στις εξαιρέσεις</item>
+        <item>Προσθήκη εφαρμογής στις εξαιρέσεις</item>
      </string-array>
      <string-array name="cache_sort_type">
         <item>Μέγεθος</item>
@@ -52,5 +50,10 @@
      <string-array name="large_file_sort_type">
         <item>Μέγεθος</item>
         <item>Όνομα</item>
+     </string-array>
+     <string-array name="trash_clean_menu">
+        <item>Καθαρισμός</item>
+        <item>Αρχείο</item>
+        <item>Προσθήκη αρχείου στις εξαιρέσεις</item>
      </string-array>
 </resources>

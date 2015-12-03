@@ -281,6 +281,13 @@
      <string name="mx_activate_int_hint_malformed_info">Ο φορέας σας μπορεί να χρεώσει για ένα διεθνές μήνυμα SMS που χρησιμοποιείται για να ενεργοποιήσετε ξανά το Mi Message</string>
      <string name="mx_activate_int_hint_server">Ο φορέας σας μπορεί να χρεώσει για ένα διεθνές μήνυμα SMS που χρησιμοποιείται για να ενεργοποιήσετε ξανά το Mi Message</string>
      <string name="mx_activate_int_hint_sim_change">Φαίνεται ότι έχετε αλλάξει κάρτα SIM. Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για να ενεργοποιήσετε ξανά το Mi Message.</string>
+     <string name="mx_activate_status_desc_activating_now">Ενεργοποίηση…</string>
+     <string name="mx_activate_status_desc_check_net_connection">"Αδυναμία σύνδεσης στο δίκτυο"</string>
+     <string name="mx_activate_status_desc_fail">"Αδυναμία ενεργοποίησης Mi Message"</string>
+     <string name="mx_activate_status_desc_prepare_sending_sms">Αποστολή μηνύματος ενεργοποίησης…</string>
+     <string name="mx_activate_status_desc_query_activte_info">Έλεγχος πληροφοριών κάρτας SIM…</string>
+     <string name="mx_activate_status_desc_request_activation_sms_phone_error">Ο αριθμός τηλεφώνου που εισαγάγατε δεν είναι έγκυρος</string>
+     <string name="mx_activate_status_desc_wait_for_sms_fail">"Αδυναμία ενεργοποίησης Mi Message"</string>
      <string name="mx_and_voip_enable">Mi Message &amp; Voice</string>
      <string name="mx_and_voip_enable_popup_msg">"Στείλτε μηνύματα και κάντε κλήσεις σε άλλους χρήστες MIUI χωρίς επιβάρυνση από το φορέα σας. Το VoIP υποστηρίζεται από το Weihui. Δείτε την πολιτική απορρήτου του Weihui."</string>
      <string name="mx_and_voip_enable_popup_msg2">Πολιτική Απορρήτου</string>
@@ -302,6 +309,10 @@
      <string name="mx_enable">Mi Message</string>
      <string name="mx_enable_ex">Mi Message &amp; Voice</string>
      <string name="mx_enable_popup_msg">Το Mi message σας επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες MIUI χωρίς επιβάρυνση SMS</string>
+     <string name="mx_filter_message_from_stranger">Φραγή Mi Message από άγνωστους αριθμούς</string>
+     <string name="mx_filter_message_from_stranger_dialog_desc">"Θα εξακολουθείτε να λαμβάνετε τα κανονικά SMS από άγνωστους αριθμούς. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στα Μηνύματα > Ρυθμίσεις."</string>
+     <string name="mx_filter_message_from_stranger_dialog_title">Φραγή Mi Message από άγνωστους αριθμούς</string>
+     <string name="mx_filter_message_from_stranger_summary">"Θα εξακολουθείτε να λαμβάνετε τα κανονικά SMS από άγνωστους αριθμούς"</string>
      <string name="mx_msg">Mi Message</string>
      <string name="mx_offline">Αποσυνδεδεμένος</string>
      <string name="mx_on_sim_1">Mi Message κάρτα SIM 1</string>
@@ -348,6 +359,7 @@
      <string name="pref_edit_smsc_address">Αριθμός του κέντρου SMS</string>
      <string name="pref_forward_title">Προώθηση</string>
      <string name="pref_key_mx_feedback">Υποβάλετε σχόλια</string>
+     <string name="pref_message_recovery_introduction_title">Ανάκτηση μηνύματος</string>
      <string name="pref_messages_to_save">Ορίστε τον αριθμό των μηνυμάτων που θα αποθηκευτούν</string>
      <string name="pref_mms_settings_title">Μηνύματα πολυμέσων (MMS)</string>
      <string name="pref_notification_settings_title">Ρυθμίσεις ειδοποιήσεων</string>

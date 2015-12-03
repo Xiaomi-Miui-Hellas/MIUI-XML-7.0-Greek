@@ -24,6 +24,7 @@
      <string name="archive_send_to">Αποστολή σε…</string>
      <string name="background">Απόκρυψη</string>
      <string name="backup_cancel">Όχι ευχαριστώ</string>
+     <string name="backup_checkbox_msg">Πάντα λήψη αντ.ασφαλείας και εμφάνιση ειδοποιήσεων</string>
      <string name="backup_confirm">Αντίγραφο ασφαλείας τώρα</string>
      <string name="backup_success_cancel">OK</string>
      <string name="backup_success_confirm">Προβολή</string>
@@ -95,7 +96,7 @@
      <string name="data_consumption_cancel">Έξοδος</string>
      <string name="data_consumption_checkbox_hint">"Να μην εμφανιστεί ξανά"</string>
      <string name="data_consumption_confirm">OK</string>
-     <string name="data_consumption_message">Αυτή ε εφαρμογή θα πρέπει να συνδεθεί με το Internet μέσω Wi-Fi για να λειτουργήσει κανονικά.</string>
+     <string name="data_consumption_message">Αυτή ε εφαρμογή θα πρέπει να συνδεθεί με το Internet μέσω Wi‑Fi για να λειτουργήσει κανονικά.</string>
      <string name="data_consumption_title">Σύνδεση στο Internet</string>
      <string name="decompress_cancel">Άκυρο</string>
      <string name="decompress_confirm">Αποσυμπίεση </string>
@@ -309,8 +310,8 @@
      <string name="no_network_str">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τη σύνδεση δικτύου σας και δοκιμάστε ξανά."</string>
      <string name="no_recent_files">Δεν υπάρχουν πρόσφατα αρχεία</string>
      <string name="no_tasks">Χωρίς εργασίες</string>
-     <string name="no_wifi">Δεν υπάρχει δίκτυο Wi-Fi</string>
-     <string name="no_wifi_hint">Δε βρέθηκε σύνδεση Wi-Fi</string>
+     <string name="no_wifi">Δεν υπάρχει δίκτυο Wi‑Fi</string>
+     <string name="no_wifi_hint">Δε βρέθηκε σύνδεση Wi‑Fi</string>
      <string name="notif_server_starting">Ξεκίνησε ο διακομιστής FTP</string>
      <string name="notif_title">Ο διακομιστής FTP τρέχει.</string>
      <string name="notification_content_hint">Πατήστε για να δείτε</string>
@@ -321,6 +322,8 @@
      <string name="notification_setting">Ειδοποιήσεις</string>
      <string name="notification_summary">"%1$s δεν υποστηρίζει ακόμα αυτή τη λειτουργία"</string>
      <string name="notification_title">Ειδοποίηση όταν προστίθενται νέα αρχεία στο %1$s</string>
+     <string name="notification_wechat_auto_backup_hint">Πατήστε για να μάθετε περισσότερα.</string>
+     <string name="notification_wechat_auto_backup_switch_title">Αντ.ασφαλείας WeChat βίντεο</string>
      <string name="notification_wechat_expired_empty">Το WeChat έχει ήδη διαγράψει αυτά τα βίντεο.</string>
      <string name="notification_wechat_sticker_hint">Εμφάνιση ειδοποίησης όταν υπάρχουν νέα αυτοκόλλητα WeChat</string>
      <string name="notification_wechat_sticker_switch_title">Ειδοποίηση για νέα αυτοκόλλητα</string>
@@ -547,13 +550,13 @@
      <string name="utf8_title">UTF-8</string>
      <string name="wait_net">Αναμονή για το δίκτυο…</string>
      <string name="wait_sdcard">Αναμονή για κάρτα SD…</string>
-     <string name="wait_wifi">Αναμονή για Wi-Fi…</string>
+     <string name="wait_wifi">Αναμονή για Wi‑Fi…</string>
      <string name="waiting">Αναμονή…</string>
      <string name="wangpan_root_path">Kuaipan</string>
      <string name="wechat_video">Βίντεο %s</string>
      <string name="weixin_not_installed">"Το WeChat δεν έχει εγκατασταθεί"</string>
      <string name="weixin_sticker_tag_str">Αυτοκόλλητα WeChat</string>
-     <string name="wifi_state">Κατάσταση Wi-Fi</string>
+     <string name="wifi_state">Κατάσταση Wi‑Fi</string>
      <string name="xiaomi_account">Λογαριασμός Mi</string>
      <string name="year_month_day_format">dd MMM, yyyy</string>
      <string name="yes">Ναι</string>

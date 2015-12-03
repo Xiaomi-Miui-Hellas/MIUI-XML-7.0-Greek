@@ -38,7 +38,7 @@
      <string name="antispam_mark_my_contribution">"Δείξτε σε άλλους χρήστες που έχω επισημάνει αυτό τον αριθμό."</string>
      <string name="antispam_provider_format">Έχει επισημανθεί ως spam από %s</string>
      <string name="attach_photo_dialog_title">Φωτογραφία επαφής</string>
-     <string name="audio_chat">Ηχοκλήση</string>
+     <string name="audio_chat">Φωνητικό chat</string>
      <string name="auto_nickname">Αυτόματο</string>
      <string name="auto_set_nickname">Αυτόματο</string>
      <string name="batch_delete">Ομαδική διαγραφή</string>
@@ -98,8 +98,10 @@
      <string name="callrecordview_item_op_time_rejected">Απορρίφθηκε</string>
      <string name="callrecordview_item_op_time_short_incoming">"Εισερχόμενη: "</string>
      <string name="callrecordview_item_op_time_short_outgoing">"Εξερχόμενη: "</string>
+     <string name="callrecordview_item_op_video">Βίντεο</string>
      <string name="callrecordview_menu_add_call_note">Προσθήκη σημείωσης κλήσης</string>
      <string name="callrecordview_menu_batch_delete">Ομαδική διαγραφή</string>
+     <string name="callrecordview_menu_conference">Κλήση συνδιάσκεψης</string>
      <string name="callrecordview_menu_delete">Εκκαθάριση ιστορικού κλήσεων</string>
      <string name="callrecordview_menu_delete_accepted">Εκκαθάριση απαντημένων κλήσεων</string>
      <string name="callrecordview_menu_delete_all">Εκκαθάριση ιστορικού κλήσεων</string>
@@ -661,6 +663,11 @@
      <string name="missing_name">(Ανώνυμο)</string>
      <string name="more_call_logs">Περισσότερες εγγραφές κλήσεων στο i.mi.com</string>
      <string name="move_and_resize">Μετακίνηση και αλλαγή μεγέθους</string>
+     <string name="multi_number_menu_call">Κλήση</string>
+     <string name="multi_number_menu_delete">Διαγραφή</string>
+     <string name="multi_number_menu_group">Νέα ομάδα</string>
+     <string name="multi_number_menu_message">Μήνυμα</string>
+     <string name="multi_number_title">Κλήση συνδιάσκεψης</string>
      <string name="multipleContactDeleteConfirmation">Η διαγραφή αυτής της επαφής θα διαγράψει πληροφορίες από πολλαπλούς λογαριασμούς.</string>
      <string name="multipleContactDeleteConfirmationDetail">Διαγραφή \"%s\" θα διαγράψει πληροφορίες από πολλαπλούς λογαριασμούς.</string>
      <string name="my_in_call_show">Το βίντεό μου</string>
@@ -938,6 +945,7 @@
      <string name="search_settings_description">Ονόματα των επαφών σας</string>
      <string name="searching_vcard_message">Ανίχνευση για δεδομένα vCard στον αποθηκευτικό χώρο…</string>
      <string name="select_all">Επιλογή όλων</string>
+     <string name="select_done">Δεν υπάρχουν άλλα να επιλέξετε</string>
      <string name="select_groups">Επιλέξτε ομάδες</string>
      <string name="select_none">Καμία επιλογή</string>
      <string name="select_show_contacts">Λίστα επαφών</string>
@@ -1082,7 +1090,8 @@
      <string name="vcard_import_will_start_message">%s θα εισαχθεί σύντομα.</string>
      <string name="vcard_import_will_start_message_with_default_name">Το αρχείο θα εισαχθεί σύντομα.</string>
      <string name="vcard_unknown_filename">επαφή</string>
-     <string name="video_chat">Βιντεοκλήση</string>
+     <string name="video_call">Κλήση βίντεο</string>
+     <string name="video_chat">Βίντεο chat</string>
      <string name="viewContactDesription">Προβολή επαφής</string>
      <string name="viewContactTitle">Στοιχεία επικοινωνίας</string>
      <string name="view_updates_from_group">Προβολή ενημερώσεων</string>
