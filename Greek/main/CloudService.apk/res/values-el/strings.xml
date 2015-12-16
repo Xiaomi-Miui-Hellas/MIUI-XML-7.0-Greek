@@ -31,18 +31,19 @@
      <string name="click_to_enabled">Πατήστε για συγχρονισμό.</string>
      <string name="cloud_back_up_button_ok">Αναγκαστική διακοπή</string>
      <string name="cloud_back_up_close_info">Πατήστε για αντίγραφο.</string>
-     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
      <string name="cloud_back_up_dialog_content">"Διακοπή αντιγράφου ασφαλείας σε εξέλιξη; Αν σταματήσετε τώρα, δεν θα είστε σε θέση να χρησιμοποιήσετε αυτό το αντίγραφο ασφαλείας για να επαναφέρετε εφαρμογές."</string>
-     <string name="cloud_back_up_interval_long">7 ημέρες</string>
-     <string name="cloud_back_up_interval_short">1 ώρα</string>
      <string name="cloud_back_up_network_unavailable">"Δεν ήταν δυνατή η αφαίρεση. Συνδεθείτε στο Wi-Fi και δοκιμάστε ξανά."</string>
      <string name="cloud_back_up_open_info">"Λήψη αντιγράφου ασφαλείας διάταξης Αρχικής Οθόνης και εφαρμογών κάθε %1$s όταν υπάρχει σύνδεση Wi-Fi
 Τελευταίο αντίγραφο: %2$s"</string>
      <string name="cloud_back_up_open_info_no_backuptime">Λήψη αντιγράφου ασφαλείας διάταξης Αρχικής Οθόνης και εφαρμογών κάθε %1$s όταν υπάρχει σύνδεση Wi-Fi</string>
      <string name="cloud_back_up_remove_success">Το αντίγραφο διαγράφηκε</string>
+     <string name="cloud_back_up_summary">Λήψη αντ.ασφαλείας όταν υπάρχει σύνδεση Wi‑Fi</string>
      <string name="cloud_back_up_title">Αντίγραφο Αρχικής Οθόνης</string>
      <string name="cloud_backup_dialog_title">Αντίγραφα Mi Cloud</string>
-     <string name="cloud_find_device">Βρείτε την συσκευή</string>
+     <string name="cloud_backup_have_data">Βρέθηκε αντίγραφο στο Mi Cloud</string>
+     <string name="cloud_backup_select_recover">Επιλέξτε αντίγραφο από το Mi Cloud</string>
+     <string name="cloud_find_device">Εύρεση συσκευής</string>
+     <string name="cloud_restore_title">Επαναφορά από αντίγραφο</string>
      <string name="cloud_space_upgrade_message">Πατήστε για να προσθέσετε %sGB στο cloud σας</string>
      <string name="cloud_space_upgrade_no_quota_info">Αποτυχία φόρτωσης. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά.</string>
      <string name="cloud_space_upgrade_title">Περισσότερος χώρος για το Mi Cloud</string>
@@ -106,8 +107,10 @@
      <string name="google_cloud">Google Drive</string>
      <string name="google_cloud_eng">Google Drive</string>
      <string name="google_cloud_price">Περίπου 143 RMB το χρόνο</string>
+     <string name="header_cloud_backup_settings">Αντίγραφα και επαναφορά</string>
+     <string name="header_cloud_restore_summary">Επανεγκατάσταση εφαρμογών και επαναφορά διάταξης Αρχικής Οθόνης και ρυθμίσεων συστήματος από ένα αντίγραφο του Mi Cloud</string>
      <string name="header_data_and_synchronization">Δεδομένα &amp; συγχρονισμός</string>
-     <string name="header_other_settings">Πρόσθετες ρυθμίσεις</string>
+     <string name="header_find_device_settings">Εύρεση συσκευής</string>
      <string name="i_know">ΟΚ</string>
      <string name="input_password_hint">Εισάγετε τον κωδικό πρόσβασης</string>
      <string name="internet_access_dspt">Αυτή η εφαρμογή χρειάζεται να συνδεθεί στο Internet για να λειτουργήσει κανονικά.</string>

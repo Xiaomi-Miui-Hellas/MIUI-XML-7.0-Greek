@@ -72,6 +72,7 @@
      <string name="cleaning">Διαγράφονται…</string>
      <string name="close">Κλείσιμο</string>
      <string name="compress_fail">Αποτυχία συμπίεσης: υπάρχει ήδη ένα αρχείο με ίδιο όνομα.</string>
+     <string name="compress_fail_unknown">"Αδυναμία συμπίεσης. Ο χώρος αποθήκευσης είναι πλήρης ή παρουσιάστηκε άγνωστο σφάλμα."</string>
      <string name="compress_message">Συμπίεση σε…</string>
      <string name="compress_title">Συμπίεση</string>
      <string name="confirm">Επιβεβαίωση</string>
@@ -231,6 +232,9 @@
 απαιτείται σύνδεση δικτύου."</string>
      <string name="login_reg_content0">Χρήση του Kuaipan από παντού.</string>
      <string name="make_private">Ιδιωτικό</string>
+     <string name="make_private_msg_1">Απόκρυψη αυτού του αρχείου;</string>
+     <string name="make_private_msg_2">Απόκρυψη αυτών των αρχείων;</string>
+     <string name="make_private_msg_3">Όλα τα αρχεία σε αυτόν το φάκελο θα είναι κρυφά.</string>
      <string name="megabyteShort">MB</string>
      <string name="menu_item_cleanup">Διαγραφή</string>
      <string name="menu_item_ftp">FTP</string>
@@ -250,7 +254,9 @@
      <string name="mobile_photo_desc" />
      <string name="month_day_format">dd MMM</string>
      <string name="move_failed">Αδυναμία αποκοπής</string>
+     <string name="move_icon_to_desktop_hint">Δημιουργήστε μια συντόμευση για τον Explorer στην Αρχική οθόνη, για να διαχειριστείτε τα αρχεία πιο αποτελεσματικά.</string>
      <string name="move_to">Μετακίνηση σε…</string>
+     <string name="move_to_confirm">Δημιουργία</string>
      <string name="msg_set_password">Ορίστε πρώτα τον κωδικό πρόσβασης</string>
      <string name="multi_select_title">%1$s επιλέχθηκαν</string>
      <string name="my_app">Δεδομένα εφαρμογών</string>

@@ -458,6 +458,10 @@
      <string name="tips_dialog_title">Δεν ξέρετε το όριο σας;</string>
      <string name="tips_message">Αν δεν είστε σίγουρος σχετικά με τις λεπτομέρειες του προγράμματος σας, μπορείτε να τα δείτε με την κλήση %2$s ( %1$s ).</string>
      <string name="title_limit_traffic_per_day">Ημερήσιο όριο χρήσης δεδομένων</string>
+     <string name="traffic_alert_auto_modify_notification_sumarry">Το μηνιαίο πρόγραμμα άλλαξε σε %s.</string>
+     <string name="traffic_alert_auto_modify_notification_titile">Ενημερώθηκε το πρόγραμμα δεδομένων</string>
+     <string name="traffic_alert_auto_modify_package_summary">"Αυτόματη προσαρμογή πακέτου δεδομένων, σύμφωνα με τις πληροφορίες του φορέα"</string>
+     <string name="traffic_config_alert_auto_modify">Αυτόματη προσαρμογή προγράμματος δεδομένων</string>
      <string name="traffic_config_alert_body">"Ο φορέας σας δείχνει ότι το μηνιαίο σας όριο δεδομένων είναι %s.
 Χρήση αυτού του αριθμού για ορισμό του μηνιαίου σας ορίου δεδομένων;"</string>
      <string name="traffic_config_alert_body_extra">"
@@ -468,9 +472,8 @@
      <string name="traffic_config_alert_body_leisure_notset">"
 Ο φορέας σας δείχνει ότι το μηνιαίο σας όριο δεδομένων εκτός αιχμής είναι %1$s. Δεν έχετε ορίσει όριο δεδομένων εκτός αιχμής."</string>
      <string name="traffic_config_alert_body_normal">Ο φορέας σας δείχνει πως έχετε χρησιμοποιήσει %1$s δεδομένα σε ώρα αιχμής αυτό το μήνα, αυτό είναι διαφορετικό από το όριο %2$s που έχετε ορίσει.</string>
-     <string name="traffic_config_alert_cancel">Ακύρωση</string>
-     <string name="traffic_config_alert_nomore">Να μην εμφανιστεί ξανά</string>
-     <string name="traffic_config_alert_ok">ΟΚ</string>
+     <string name="traffic_config_alert_package">"
+Μεταφορά επιπλέον δεδομένων"</string>
      <string name="traffic_config_alert_setted">Εφαρμογή ρυθμίσεων</string>
      <string name="traffic_config_alert_title">%s διόρθωση</string>
      <string name="traffic_correction_failed">Δεν μπορείτε να πάρετε πληροφορίες για τη χρήση των δεδομένων</string>
@@ -479,8 +482,9 @@
      <string name="traffic_correction_success">Η χρήση δεδομένων ενημερώθηκε</string>
      <string name="traffic_correction_success_notify_message">Πατήστε για λεπτομέρειες.</string>
      <string name="traffic_limit_error_alert_body">"Ο λογαριασμός του παρόχου σας δείχνει ότι έχετε %1$s υπόλοιπο για αυτό το μήνα. Αυτό είναι περισσότερο από το %2$s όριο που έχετε ορίσει χειροκίνητα."</string>
-     <string name="traffic_limit_error_alert_iknow">OK</string>
-     <string name="traffic_limit_error_alert_reset">Επαναφορά ορίου</string>
+     <string name="traffic_limit_error_alert_package">"
+
+Το υπόλοιπο δεδομένων περιλαμβάνει δεδομένα που έχουν μεταφερθεί από τον προηγούμενο μήνα."</string>
      <string name="traffic_limit_error_alert_title">Υπενθύμιση ορίου δεδομένων %s</string>
      <string name="traffic_none">Κανένα</string>
      <string name="traffic_over_purchase_body">Πατήστε για να δείτε λεπτομέρειες.</string>
