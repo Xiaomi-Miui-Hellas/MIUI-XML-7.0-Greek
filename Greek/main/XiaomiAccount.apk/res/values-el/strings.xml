@@ -263,6 +263,7 @@
      <string name="passport_xiaomi_account_dspt">Χρησιμοποιήστε τον λογαριασμό Mi για να συνδεθείτε στο Mi Cloud, MIUI Theme Store και στις άλλες υπηρεσίες Mi από παντού.</string>
      <string name="passport_xiaomi_account_sec_dspt" />
      <string name="passport_xiaomi_account_sec_dspt2" />
+     <string name="passport_xiaomi_account_sec_dspt2_vip">Απαιτείται σύνδεση στο Internet για να συνδεθείτε στο Mi λογαριασμό σας. Πρόσβαση τοποθεσίας, Mi Cloud και Mi VIP θα ενεργοποιηθούν αυτόματα.</string>
      <string name="phone_activated">%s ενεργοποιημένο</string>
      <string name="phone_send_verify_code_prompt">Απεστάλη ένας κωδικός επαλήθευσης στο %s</string>
      <string name="phone_unactivated">Μη ενεργοποιημένο</string>

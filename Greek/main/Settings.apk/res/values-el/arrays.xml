@@ -345,6 +345,11 @@
         <item>Βιολετί</item>
         <item>Μοβ</item>
      </string-array>
+     <string-array name="miracast_policies">
+        <item>Μικρότερη καθυστέρηση</item>
+        <item>Τυπική</item>
+        <item>Καλύτερη ποιότητα</item>
+     </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP και παλαιότερες εκδόσεις</item>
         <item>Windows Vista και νεώτερες εκδόσεις</item>

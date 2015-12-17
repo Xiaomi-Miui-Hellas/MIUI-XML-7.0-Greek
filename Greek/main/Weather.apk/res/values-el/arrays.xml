@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="weather_type">
+     <string-array name="indices_car_wash">
+        <item>Κατάλληλος</item>
+        <item>Ακατάλληλος</item>
+     </string-array>
+     <string-array name="indices_sport">
+        <item>Κατάλληλος</item>
+        <item>Ακατάλληλος</item>
+     </string-array>
+     <string-array name="indices_uv_level">
+        <item>Χωρίς αντηλιακό</item>
+        <item>Προσοχή στον ήλιο</item>
+        <item>Αποφύγετε να βγείτε έξω</item>
+     </string-array>
+     <string-array name="weather_type">
         <item>Λιακάδα</item>
         <item>Νεφελώδης</item>
         <item>Νεφελώδης</item>
@@ -28,15 +41,8 @@
         <item>Ομίχλη</item>
         <item>Παγωμένη Βροχή</item>
         <item>Δεν υπάρχουν δεδομένα</item>
-    </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Πολύ χαμηλό</item>
-        <item>Χαμηλό</item>
-        <item>Μέσος όρος</item>
-        <item>Μέγιστο</item>
-        <item>Υψηλό</item>
-    </string-array>
-    <string-array name="wind_direction">
+     </string-array>
+     <string-array name="wind_direction">
         <item>Άνεμος Β</item>
         <item>Άνεμος ΒΑ</item>
         <item>Άνεμος Α</item>
@@ -45,16 +51,20 @@
         <item>Άνεμος ΝΔ</item>
         <item>Άνεμος Δ</item>
         <item>Άνεμος ΒΔ</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Νέα σελήνη</item>
-        <item>Αύξων Μηνίσκος</item>
-        <item>Πρώτο Τέταρτο</item>
-        <item>Αύξων Αμφίκυρτος</item>
-        <item>Πανσέληνος</item>
-        <item>Φθίνων Αμφίκυρτος</item>
-        <item>Τελευταίο Τέταρτο</item>
-        <item>Φθίνων Μηνίσκος</item>
-        <item>Σκοτεινή σελήνη</item>
-    </string-array>
+     </string-array>
+     <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+     </string-array>
 </resources>

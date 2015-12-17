@@ -634,6 +634,10 @@
      <string name="miprofile_error_not_set">"Η κάρτα επαφής σας δεν έχει συγχρονιστεί με τον διακομιστή"</string>
      <string name="miprofile_error_unknown">Άγνωστο σφάλμα</string>
      <string name="miprofile_name">Το προφίλ μου</string>
+     <string name="miprofile_nick_name_divider">"  |  "</string>
+     <string name="miprofile_nick_name_edit_dialog_hint">Εισάγετε ψευδώνυμο</string>
+     <string name="miprofile_nick_name_edit_dialog_message">Το ψευδώνυμο θα εμφανίζεται στο αρχείο καταγραφής κλήσεων και στις λεπτομέρειες</string>
+     <string name="miprofile_nick_name_edit_dialog_title">Επεξεργασία ψευδώνυμου</string>
      <string name="miprofile_notice_text">"Πατήστε για προβολή φωτογραφίας προφίλ επαφής"</string>
      <string name="miprofile_request_agenda_date">%1$s θέλει να ανταλλάξει κάρτες επαφών</string>
      <string name="miprofile_request_agenda_today">%1$s θέλει να ανταλλάξει κάρτες επαφών</string>
@@ -801,6 +805,7 @@
      <string name="phoneLabelsGroup">Τηλέφωνο</string>
      <string name="phone_call_type_voip">VoIP</string>
      <string name="phone_info_divider">" ｜ "</string>
+     <string name="phone_number_too_long_toast">Ο αριθμός είναι πολύ μεγάλος</string>
      <string name="phone_primary">Κύριο</string>
      <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες εικόνες στο τηλέφωνο.</string>
      <string name="photo_fragment">Φωτογραφία</string>

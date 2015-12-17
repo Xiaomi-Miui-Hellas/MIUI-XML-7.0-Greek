@@ -44,6 +44,7 @@
      <string name="err_type_xiaomi_service">Εξυπηρέτηση πελατών</string>
      <string name="hot_problem">Προβολή γνωστών bugs</string>
      <string name="loading_apps">Δημιουργία λίστας…</string>
+     <string name="logo_title">Κέντρο Αναφοράς Σφαλμάτων</string>
      <string name="menu_copy">Αντιγραφή</string>
      <string name="modem_tool_log">Σύλληψη αρχείου καταγραφής modem</string>
      <string name="modem_tool_log_start">Έναρξη</string>

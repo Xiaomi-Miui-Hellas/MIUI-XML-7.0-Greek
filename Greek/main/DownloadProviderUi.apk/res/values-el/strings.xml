@@ -213,6 +213,7 @@
      <string name="setting_debug_fail">"Αδυναμία εισόδου σε κατάσταση εντοπισμού σφαλμάτων"</string>
      <string name="setting_open_debug">Λειτουργία εντοπισμού σφαλμάτων ενεργή. Πατήστε εδώ 6 φορές για απενεργοποίηση.</string>
      <string name="show_more">Εμφάνιση %s περισσότερων</string>
+     <string name="sniff_associate_text">Πατήστε την παρακάτω λέξη-κλειδί για να βρείτε περισσότερες πηγές</string>
      <string name="sniff_bt_text">Αρχείο torrent</string>
      <string name="sniff_btn_text">Εύρεση πηγής</string>
      <string name="sniff_connect_error_page_tips">"Αδυναμία ανοίγματος URL"</string>
@@ -223,6 +224,7 @@
      <string name="sniff_find_some_suffix">Στοιχεία</string>
      <string name="sniff_finding_resource_prompt">Αναζήτηση για πηγή…</string>
      <string name="sniff_no_network_tip">Ελέγξτε τη σύνδεση δικτύου σας και δοκιμάστε ξανά</string>
+     <string name="sniff_no_result_text">Δεν βρέθηκαν αποτελέσματα</string>
      <string name="sniff_result_empty_prompt">"Αδυναμία εύρεσης πηγής"</string>
      <string name="sniff_result_num_prefix">Βρέθηκαν</string>
      <string name="sniff_result_num_video_suffix">Στοιχεία</string>

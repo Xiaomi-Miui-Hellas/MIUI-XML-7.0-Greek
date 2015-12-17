@@ -136,6 +136,7 @@
      <string name="download_start_message">Το στοιχείο %1$s θα ληφθεί και θα εγκατασταθεί</string>
      <string name="download_task_with">%d εργασίες</string>
      <string name="download_url_waiting">Αναμονή ανάκτησης url</string>
+     <string name="download_url_waiting_no_wifi">Σε αναμονή για διαθέσιμο Wi‑Fi</string>
      <string name="download_with">Λήψη %1$s/%2$s</string>
      <string name="downloading_app_plugin">Λήψη στοιχείου %1$s</string>
      <string name="edit">Επεξεργασία</string>
@@ -306,6 +307,8 @@
      <string name="search">Αναζήτηση</string>
      <string name="search_hint">Αναζήτηση</string>
      <string name="search_result_empty_text">Δεν βρέθηκε τίποτα</string>
+     <string name="search_snack_more">Περισσότερες πληροφορίες</string>
+     <string name="search_snack_sniff">Ανίχνευση Λήψης</string>
      <string name="second"> Δευτερόλεπτο</string>
      <string name="see_all_count_comment">%d περισσότερα σχόλια</string>
      <string name="select_all">Επιλογή όλων</string>
@@ -322,6 +325,7 @@
      <string name="share_device">Κοινόχρηστη συσκευή</string>
      <string name="similar">Παρόμοια</string>
      <string name="sina">Sina</string>
+     <string name="sniff">Ανίχνευση</string>
      <string name="souhu">Souhu</string>
      <string name="source_error">Σφάλμα λήψης πηγής</string>
      <string name="star1">1 αστέρι</string>
@@ -412,6 +416,7 @@
      <string name="vp_download_apk_from_video_ad">Εγκατάσταση εφαρμογής</string>
      <string name="vp_download_connect_fail">Δεν μπορώ να βρω τη διεύθυνση URL. Ελέγξτε τη σύνδεσή σας και δοκιμάστε ξανά. \"</string>
      <string name="vp_download_file_fail">Η λήψη απέτυχε. Βεβαιωθείτε ότι έχετε αρκετό χώρο</string>
+     <string name="vp_downloading_apk_title">Λήψη %1$s</string>
      <string name="vp_exit">Έξοδος</string>
      <string name="vp_full_high_definition">1080P</string>
      <string name="vp_full_screen">Αναπαραγωγή σε πλήρη οθόνη</string>
@@ -442,6 +447,7 @@
      <string name="vp_mplayer_error_timed_out">Λήξη χρονικού ορίου λειτουργίας</string>
      <string name="vp_newest_ep">Πιο πρόσφατα</string>
      <string name="vp_next_ci">Το Επόμενο επεισόδιο</string>
+     <string name="vp_notify_apk_installed">Επιτυχής εγκατάσταση εφαρμογής %1$s</string>
      <string name="vp_offline">Αποσυνδεδεμένος</string>
      <string name="vp_offline_status_done">Ολοκληρώθηκε</string>
      <string name="vp_offline_status_dowloading">Κατεβαίνει</string>

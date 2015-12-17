@@ -620,6 +620,7 @@
      <string name="livetalk_name">Πακέτο top-up</string>
      <string name="livetalk_network_confirm">OK</string>
      <string name="livetalk_network_confirm_summary">Τα πακέτα top-up χρησιμοποιούν περίπου 1KB δεδομένων κινητής κάθε φορά που συνδέεται μια κλήση.</string>
+     <string name="livetalk_network_unavailable">Το δίκτυο δεν είναι διαθέσιμο</string>
      <string name="livetalk_next_step">Επόμενο</string>
      <string name="livetalk_nsufficient_balance">Ανεπαρκές υπόλοιπο.</string>
      <string name="livetalk_package_introduction_text">Αποκλειστική έκπτωση για τους χρήστες MIUI. Λιγότερη χρήση δεδομένων και χαμηλότερες τιμές.</string>

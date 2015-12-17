@@ -230,7 +230,7 @@
      <string name="notify_when">Λήψη ειδοποίησης όταν το μέγεθος των σκουπιδιών φτάσει τα 100MB</string>
      <string name="ok">OK</string>
      <string name="open">Ενεργοποίηση</string>
-     <string name="open_browser">Άνοιγμα στον πρόγραμμα περιήγησης</string>
+     <string name="open_browser">Άνοιγμα στο πρόγραμμα περιήγησης</string>
      <string name="optimizecenter_data_support">Powered by Clean Master</string>
      <string name="positive_confirm">Επιβεβαίωση</string>
      <string name="pref_category_title_auto_clean_settings">Αυτόματος καθαρισμός</string>

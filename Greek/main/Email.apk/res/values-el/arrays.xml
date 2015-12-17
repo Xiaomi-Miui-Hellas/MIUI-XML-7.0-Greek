@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="calendar_remind_string_array">
+        <item>Απόψε</item>
+        <item>Αύριο</item>
+        <item>Σαββατοκύριακο</item>
+        <item>Επόμενη εβδομάδα</item>
+        <item>Επόμενο μήνα</item>
+        <item>Διαλέξτε ημερομηνία</item>
+     </string-array>
      <string-array name="compose_modes">
         <item>Απάντηση</item>
         <item>Απάντηση όλων</item>
