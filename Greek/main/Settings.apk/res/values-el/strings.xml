@@ -727,6 +727,7 @@
      <string name="contributors_title">Συνεργάτες</string>
      <string name="controls_label">Έλεγχοι</string>
      <string name="controls_subtitle">Ρυθμίστε τη χρήση ηλεκτρικής ενέργειας</string>
+     <string name="convenience_key_category_title">Πλήκτρο ευκολίας</string>
      <string name="copyright_title">Πνευματική ιδιοκτησία</string>
      <string name="country_name">%s (σύστημα)</string>
      <string name="create">Δημιουργία</string>
@@ -1254,6 +1255,7 @@
      <string name="forget_password_button_text"><u>Ξέχασα τον κωδικό</u></string>
      <string name="forget_wifi_message">Διαγραφή αυτού του δικτύου Wi‑Fi Ενδέχεται να χρειαστείτε πάλι τον κωδικό σε περίπτωση που θελήσετε να συνδεθείτε πάλι</string>
      <string name="found_new_version">Διαθέσιμη ενημέρωση</string>
+     <string name="fp_nav_center_back_to_home_title">Πατήστε το πλήκτρο Home για να επιστρέψετε στην Αρχική οθόνη</string>
      <string name="free_wifi_agreement_remind_never">Όχι προβολή ξανά</string>
      <string name="free_wifi_confirm">Το γνωρίζω</string>
      <string name="free_wifi_connect">Σύνδεση</string>

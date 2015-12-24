@@ -26,6 +26,10 @@
      <string name="fm_record_smaple_prefix_miui">Εγγραφή FM</string>
      <string name="force_exit_message">Επιβολή τερματισμού %1$s</string>
      <string name="force_exit_skip_message">"Αδυναμία τερματισμού του %1$s γιατί είναι βασική ενότητα του συστήματος."</string>
+     <string name="fp_nav_center_action_choose_dlg_msg">Μπορείτε να επιστρέψετε στην αρχική οθόνη σας πατώντας το πλήκτρο Home. Αλλά μπορείτε να επιλέξετε να το κάνετε αυτό μόνο με ένα πάτημα. Προσαρμόστε το πλήκτρο Home στις Ρυθμίσεις > Πρόσθετες ρυθμίσεις > Πλήκτρα.</string>
+     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Όχι ευχαριστώ</string>
+     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Προσαρμογή</string>
+     <string name="fp_nav_center_action_choose_dlg_title">Προσαρμογή πλήκτρου Home</string>
      <string name="global_actions_airplane_mode">Λειτουργία πτήσης</string>
      <string name="global_actions_reboot">Επανεκκίνηση</string>
      <string name="global_actions_shutdown">Τερματισμός</string>

@@ -78,7 +78,8 @@
      <string name="indices_title_sport">Αθλητισμός</string>
      <string name="indices_title_uv">Δείκτης UV</string>
      <string name="indices_title_visibility">Ορατότητα</string>
-     <string name="information_manager">Φόρτωση μόνο σε Wi‑Fi</string>
+     <string name="information_manager_information">Πληροφορίες καιρού</string>
+     <string name="information_manager_wlan">Φόρτωση μόνο με σύνδεση Wi‑Fi</string>
      <string name="information_menu_title" />
      <string name="information_time_source">%1$s | %2$s</string>
      <string name="information_views" />

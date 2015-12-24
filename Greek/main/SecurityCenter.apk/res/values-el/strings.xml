@@ -121,6 +121,7 @@
      <string name="cmcc_app_check_dialog_negative">Αργότερα</string>
      <string name="cmcc_app_check_dialog_positive">Επανεκκίνηση τώρα</string>
      <string name="cmcc_app_check_dialog_title">Το σύστημα επιδιορθώθηκε</string>
+     <string name="confirm_reject_all_permission">Περιορισμός όλων των εφαρμογών από τη χρήση αυτής της λειτουργίας;</string>
      <string name="cta_button_text_agree">Αποδοχή</string>
      <string name="cta_button_text_cancel">Ακύρωση</string>
      <string name="cta_checkbox_title">Να μην εμφανιστεί ξανά</string>
@@ -280,11 +281,7 @@
      <string name="permission_action_reject">Απόρριψη</string>
      <string name="permission_close_permission_control_dialog_msg">Όταν η διαχείριση δικαιωμάτων είναι απενεργοποιημένη, οι εφαρμογές δεν θα ζητούν την άδειά σας πριν διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής.</string>
      <string name="permission_close_permission_control_dialog_title">Απενεργοποίηση διαχείρισης δικαιωμάτων;</string>
-     <string name="permission_group_title_charges_related">Χρεώσεις</string>
-     <string name="permission_group_title_media_related">Πολυμέσα</string>
      <string name="permission_group_title_others">Άλλο</string>
-     <string name="permission_group_title_privacy_related">Προσωπικά δεδομένα</string>
-     <string name="permission_group_title_settings_related">Ρυθμίσεις</string>
      <string name="permission_permission_control_closed_desc_dialog_msg">Οι εφαρμογές δεν θα ζητούν την άδειά σας πριν διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής. Μπορείτε να ενεργοποιήσετε αυτή την επιλογή από τις ρυθμίσεις δικαιωμάτων.</string>
      <string name="permission_permission_control_closed_desc_dialog_title">Διαχείριση δικαιωμάτων ανενεργή</string>
      <string name="permission_send_sms_descx">Αποστολή SMS και MMS</string>
@@ -475,6 +472,7 @@
      <string name="protection_category_dangerous_title">Δυνητικά επικίνδυνα: %d</string>
      <string name="protection_category_recommend_title">Προτεινόμενες βελτιστοποιήσεις: %d</string>
      <string name="protection_category_security_title">Ασφάλεια: %d</string>
+     <string name="reject_all">Περιορισμός όλων</string>
      <string name="risk_list_header_title">Ύποπτες εφαρμογές ανιχνεύθηκαν: %d</string>
      <string name="root_apply_step_1">Χορήγηση πρόσβασης root στο %s ;</string>
      <string name="root_apply_step_2">Μια εφαρμογή με πρόσβαση root μπορεί να κάνει το σύστημα ασταθές</string>

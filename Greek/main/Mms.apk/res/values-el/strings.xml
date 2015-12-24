@@ -484,6 +484,7 @@
      <string name="select_link_title">Επιλογή ενέργειας</string>
      <string name="select_local_audio">Επιλέξτε ήχο</string>
      <string name="select_local_video">Επιλέξτε βίντεο</string>
+     <string name="select_message_send_sim">Επιλέξτε κάρτα SIM</string>
      <string name="select_recipient">Επιλέξτε παραλήπτη</string>
      <string name="select_top_text">Κείμενο στην κορυφή</string>
      <string name="send">Αποστολή</string>
