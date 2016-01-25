@@ -87,7 +87,7 @@
         <item>Τοποθεσία</item>
      </string-array>
      <string-array name="app_ops_permissions">
-        <item>Επέτρεψε</item>
+        <item>Επίτρεψε</item>
         <item>Αγνόησε</item>
         <item>Ερώτηση πάντα</item>
      </string-array>
@@ -283,11 +283,11 @@
      </string-array>
      <string-array name="install_non_market_app_contents">
         <item>Να ζητάει άδεια</item>
-        <item>Επέτρεψε</item>
+        <item>Επίτρεψε</item>
      </string-array>
      <string-array name="install_non_market_app_entries">
         <item>Να ζητάει άδεια για επικίνδυνες εφαρμογές</item>
-        <item>Επέτρεψε</item>
+        <item>Επίτρεψε</item>
      </string-array>
      <string-array name="led_color_entries">
         <item>Μπλε</item>
@@ -393,7 +393,7 @@
         <item>1280x720 tvdpi και 1920x1080 xhdpi</item>
      </string-array>
      <string-array name="perm_hips_action">
-        <item>Επέτρεψε</item>
+        <item>Επίτρεψε</item>
         <item>Ερώτηση</item>
         <item>Απόρριψη</item>
      </string-array>
@@ -525,7 +525,7 @@
         <item>Απεριόριστα</item>
      </string-array>
      <string-array name="startup_hips_action">
-        <item>Επέτρεψε</item>
+        <item>Επίτρεψε</item>
         <item>Απόρριψη</item>
      </string-array>
      <string-array name="timezone_filters">

@@ -51,7 +51,7 @@
      <string name="installing">Εγκατάσταση…</string>
      <string name="launch">Άνοιγμα</string>
      <string name="lift_ban">Άρση αποκλεισμού</string>
-     <string name="lift_ban_once">Επέτρεψε μια φορά</string>
+     <string name="lift_ban_once">Επίτρεψε μια φορά</string>
      <string name="low_risk_perms">Άδειες χαμηλού κινδύνου</string>
      <string name="manage_applications">Διαχείριση εφαρμογές</string>
      <string name="manage_device_administrators">Έλεγχος των διαχειριστών της συσκευής</string>
@@ -79,7 +79,7 @@
      <string name="perm_privacy_app_trust_summary">Η MIUI θα παρακολουθεί αυτή την εφαρμογή</string>
      <string name="perm_sysopt_boost_auto_start">Δικαιώματα αυτόματης έναρξης</string>
      <string name="perm_sysopt_boost_auto_start_summary">Η εφαρμογή θα ξεκινά αυτόματα!</string>
-     <string name="permission_action_accept">Επέτρεψε</string>
+     <string name="permission_action_accept">Επίτρεψε</string>
      <string name="permission_action_prompt">Ερώτηση</string>
      <string name="permission_action_reject">Άρνηση</string>
      <string name="permission_group_title_charges_related">Τηλέφωνο</string>

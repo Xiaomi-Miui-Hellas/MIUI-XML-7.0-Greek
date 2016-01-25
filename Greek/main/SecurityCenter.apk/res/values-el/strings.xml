@@ -24,7 +24,7 @@
      <string name="activity_title_power_manager">Ενέργεια</string>
      <string name="activity_title_risk">Πιθανές απειλές</string>
      <string name="activity_title_risk_detail">Πληροφορίες απειλής</string>
-     <string name="activity_title_root_acquired">Επέτρεψε την πρόσβαση root</string>
+     <string name="activity_title_root_acquired">Επίτρεψε την πρόσβαση root</string>
      <string name="activity_title_root_manager">Προνόμια Root</string>
      <string name="activity_title_root_note">Σχετικά με την πρόσβαση root</string>
      <string name="activity_title_settings">Ρυθμίσεις</string>

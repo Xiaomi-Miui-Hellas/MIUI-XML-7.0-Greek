@@ -43,7 +43,7 @@
      <string name="aqi_short_desc">"AQI "</string>
      <string name="button_abandon">Απόρριψη αλλαγών</string>
      <string name="button_allow">OK</string>
-     <string name="button_confirm">Επέτρεψε</string>
+     <string name="button_confirm">Επίτρεψε</string>
      <string name="button_exit">Έξοδος</string>
      <string name="button_not_allow">Ακύρωση</string>
      <string name="daily_forcast_drawer_on_bottom">Απόκρυψη</string>

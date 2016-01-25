@@ -34,7 +34,7 @@
      <string name="engine_activating">Έναρξη υπηρεσίας. Παρακαλώ περιμένετε…</string>
      <string name="engine_deactivate_successfully">Επιτυχής απενεργοποίηση</string>
      <string name="info_antispam_phone">Φραγή κλήσεων</string>
-     <string name="info_unantispam_phone">Επέτρεψε κλήσεις</string>
+     <string name="info_unantispam_phone">Επίτρεψε κλήσεις</string>
      <string name="login">Σύνδεση</string>
      <string name="marked_by_others">"%d άλλοι χρήστες το επισήμαναν ως "</string>
      <string name="marked_by_user">"το έχετε επισημάνει ως "</string>

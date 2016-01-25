@@ -6,7 +6,7 @@
      <string name="apply_password_action">Ορισμός κωδικού πρόσβασης</string>
      <string name="apply_password_confirm_dlg_msg">Απαίτηση κωδικού πρόσβασης για %s​;</string>
      <string name="apply_password_confirm_dlg_title">Αυτός ο κωδικός πρόσβασης θα χρησιμοποιηθεί για %s</string>
-     <string name="auto_start_warning_allow">Επέτρεψε</string>
+     <string name="auto_start_warning_allow">Επίτρεψε</string>
      <string name="auto_start_warning_deny">Άρνηση</string>
      <string name="auto_start_warning_title">Να επιτρέπεται στο %s να ξεκινάει αυτόματα στο μέλλον;</string>
      <string name="call_record_or">" ή "</string>
@@ -59,7 +59,7 @@
      <string name="memory_clear_result">%1$sB καθαρίστηκαν | %2$sB διαθέσιμα</string>
      <string name="miui">miui</string>
      <string name="paste">Επικόλληση</string>
-     <string name="perm_send_push_dspt">Επέτρεψε την αυτόματη αποστολή μηνυμάτων Mi</string>
+     <string name="perm_send_push_dspt">Επίτρεψε την αυτόματη αποστολή μηνυμάτων Mi</string>
      <string name="perm_send_push_lab">Αποστολή αυτόματου μηνύματος</string>
      <string name="permdesc_manageLocationPolicy">Επιτρέπει στην εφαρμογή να διαχειρίζεται τις πολιτικές σχετικά με την τοποθεσία και να καθορίζει ειδικούς κανόνες εφαρμογών.</string>
      <string name="permlab_manageLocationPolicy">Διαχείριση πολιτικής εντοπισμού</string>

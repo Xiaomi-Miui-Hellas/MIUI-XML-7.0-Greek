@@ -294,7 +294,7 @@
      <string name="pref_adjust_data_usage">Πρότυπο μηνύματος φορέα</string>
      <string name="pref_adjust_traffic_data">Ρυθμίστε τη χρήση δεδομένων</string>
      <string name="pref_allow_connect_network_title">Διεθνής περιαγωγή δεδομένων</string>
-     <string name="pref_allow_connect_network_whitelist_title">Επέτρεψε τις εξαιρέσεις</string>
+     <string name="pref_allow_connect_network_whitelist_title">Επίτρεψε τις εξαιρέσεις</string>
      <string name="pref_app_traffic_managent">Περιορισμός της χρήσης δεδομένων ανά εφαρμογή</string>
      <string name="pref_auto_adjust_settings">Ρυθμίσεις αυτόματου συγχρονισμός στατιστικών των δεδομένων χρήσης</string>
      <string name="pref_auto_adjust_traffic">Αυτόματος συγχρονισμός στατιστικών των δεδομένων χρήσης</string>
@@ -346,7 +346,7 @@
      <string name="pref_title_traffic_limit_number">Μέγεθος</string>
      <string name="pref_title_traffic_speed_state">Ταχύτητα δικτύου στη μπάρα</string>
      <string name="pref_title_update_notification">Ειδοποίηση χρήσης δεδομένων</string>
-     <string name="pref_traffic_saving_auto_add_whitelist">Επέτρεψε τις έξυπνες εξαιρέσεις</string>
+     <string name="pref_traffic_saving_auto_add_whitelist">Επίτρεψε τις έξυπνες εξαιρέσεις</string>
      <string name="pref_traffic_saving_auto_add_whitelist_hint">Αυτόματη προσθήκη εφαρμογών με δυνατότητα εξοικονόμησης δεδομένων στις εξαιρέσεις</string>
      <string name="pref_traffic_saving_compressed">Συμπιεσμένα</string>
      <string name="pref_traffic_saving_issue">Συχνές ερωτήσεις</string>

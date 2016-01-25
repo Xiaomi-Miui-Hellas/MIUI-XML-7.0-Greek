@@ -97,7 +97,7 @@
      <string name="noon">ΜΜ</string>
      <string name="note">Σημείωση</string>
      <string name="organization">Οργανισμός</string>
-     <string name="perm_payment_dspt">Επέτρεψε στην εφαρμογή την πληρωμή μέσω της υπηρεσίας πληρωμής της Xiaomi</string>
+     <string name="perm_payment_dspt">Επίτρεψε στην εφαρμογή την πληρωμή μέσω της υπηρεσίας πληρωμής της Xiaomi</string>
      <string name="perm_payment_lab">Mi Pay</string>
      <string name="permdesc_sendSmsNoConfirmation">Η εφαρμογή μπορεί να στείλει μηνύματα SMS χωρίς πρώτα να σας ρωτήσει. Αυτό μπορεί να οδηγήσει σε απρόβλεπτες χρεώσεις από το φορέα σας.</string>
      <string name="permlab_sendSmsNoConfirmation">Αποστολή μηνυμάτων SMS στο παρασκήνιο</string>
