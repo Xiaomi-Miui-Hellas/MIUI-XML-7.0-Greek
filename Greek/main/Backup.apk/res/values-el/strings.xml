@@ -49,6 +49,7 @@
      <string name="button_next">Επόμενο</string>
      <string name="button_ok">Εντάξει</string>
      <string name="button_return">Πίσω</string>
+     <string name="button_send">Αποστολή</string>
      <string name="call_title">Μητρώο κλήσεων</string>
      <string name="camera_summary">Ρυθμίσεις κάμερας (χωρίς τις φωτογραφίες)</string>
      <string name="cancel">Άκυρο</string>
@@ -124,9 +125,13 @@
      <string name="local_no_backup">Δεν υπάρχουν αντίγραφα</string>
      <string name="local_restore_window_title">Επαναφορά από τοπικό αρχείο</string>
      <string name="local_select_account_contact">Λογαριασμοί / Επαφές</string>
+     <string name="local_select_audio">Ήχοι</string>
+     <string name="local_select_doc">Έγγραφα</string>
      <string name="local_select_files">Κάρτα SD</string>
+     <string name="local_select_image">Εικόνες</string>
      <string name="local_select_sysdata">Σύστημα</string>
      <string name="local_select_userapp">Εφαρμογές</string>
+     <string name="local_select_video">Βίντεο</string>
      <string name="miliao_account_guide">"Ο  λογαριασμός MiTalk αναβαθμίστηκε σε λογαριασμό Mi. Απολαύστε όλες τις online υπηρεσίες Mi"</string>
      <string name="miliao_account_login">Είσοδος στο MiTalk</string>
      <string name="mms_title">Μηνύματα πολυμέσων</string>
@@ -188,6 +193,10 @@
      <string name="select_storage_location">Επιλέξτε τη θέση αντιγράφων ασφαλείας</string>
      <string name="service_stoped">Η υπηρεσία σταμάτησε</string>
      <string name="settings_summary">Αντίγραφο ρυθμίσεων μηνυμάτων και τηλεφώνου</string>
+     <string name="size_byte">B</string>
+     <string name="size_giga_byte">GB</string>
+     <string name="size_kilo_byte">KB</string>
+     <string name="size_mega_byte">MB</string>
      <string name="sms_title">Μηνύματα</string>
      <string name="software_backup_info">Αντίγραφο εφαρμογών και των δεδομένων τους</string>
      <string name="start_backup">Εκκίνηση δημιουργίας αντιγράφου ασφαλείας</string>
@@ -244,6 +253,8 @@
      <string name="trans_main_tutor">Μεταφορά επαφών, ιστορικού κλήσεων, μηνυμάτων, διάταξη αρχικής οθόνης, εφαρμογών, ρυθμίσεων, κλπ σε μια νέα συσκευή</string>
      <string name="trans_my_device">Η συσκευή μου</string>
      <string name="trans_one_key_migrate">Μεταφορά</string>
+     <string name="trans_operate_func_one">Μέθοδος Β</string>
+     <string name="trans_operate_func_two">Μέθοδος Β</string>
      <string name="trans_operate_new_phone_tips">"Σαρώστε τον κωδικό QR χρησιμοποιώντας τη νέα συσκευή
 Πηγαίνετε στις Ρυθμίσεις > Πρόσθετες ρυθμίσεις > Μεταφορά
  Πατήστε [Είμαι ο παραλήπτης] για να δημιουργήσετε ένα κωδικό QR"</string>
@@ -254,19 +265,26 @@
      <string name="trans_operate_old_phone_tips2">"Μέθοδος Β
 Πηγαίνετε στις Ρυθμίσεις > Πρόσθετες ρυθμίσεις > Μεταφορά
  Πατήστε [Είμαι ο αποστολέας]"</string>
-     <string name="trans_progress_subdescript_br_receiver">Λήψη %s</string>
-     <string name="trans_progress_subdescript_br_sender">Λήψη αντιγράφου %s</string>
-     <string name="trans_progress_subdescript_transing_receiver">Λήψη %s</string>
-     <string name="trans_progress_subdescript_transing_sender">αποστολή %s</string>
-     <string name="trans_progress_subdescript_transingsd_receiver">Λήψη αρχείων…</string>
-     <string name="trans_progress_subdescript_transingsd_sender">Αποστολή αρχείων…</string>
+	 <string name="trans_progress_subdescript_br_receiver">Επαναφορά %1$s, %2$s ολοκληρώθηκαν</string>
+	 <string name="trans_progress_subdescript_br_sender"> Λήψη αντιγράφου %1$s, %2$s ολοκληρώθηκαν</string>
+	 <string name="trans_progress_subdescript_transing_receiver">Λήψη %1$s, %2$s ολοκληρώθηκαν</string>
+	 <string name="trans_progress_subdescript_transing_sender">Αποστολή %1$s, %2$s ολοκληρώθηκαν</string>
+	 <string name="trans_progress_subdescript_transingsd_receiver">Λήψη αρχείων, %s ολοκληρώθηκαν</string>
+	 <string name="trans_progress_subdescript_transingsd_sender">Αποστολή αρχείων, %s ολοκληρώθηκαν</string>
      <string name="trans_progress_subdescript_waiting">Αναμονή λήψης %s</string>
      <string name="trans_receiver">"Είμαι ο παραλήπτης"</string>
+     <string name="trans_receiver_time_remained">"Απομένουν %s.
+Μην κλείσετε το Wi‑Fi Hotspot. Κρατήστε τις συσκευές κοντά τη μια με την άλλη."</string>
      <string name="trans_receiving_completed">Τα δεδομένα ελήφθησαν</string>
      <string name="trans_restoring">Επαναφορά…</string>
      <string name="trans_restoring_no_items">Συγχρονισμός στοιχείων</string>
      <string name="trans_scan_invalid_qrcode">Μη έγκυρος κωδικός QR</string>
      <string name="trans_scan_qr_code_tips">Σαρώστε τον κωδικό QR χρησιμοποιώντας τη νέα συσκευή</string>
+     <string name="trans_select_data">Επιλέξτε στοιχεία για αποστολή</string>
+     <string name="trans_select_data_no_space">"%s διαθέσιμα στην νέα συσκευή
+Επιλέξτε ξανά τα αρχεία ή ελευθερώσετε χώρο αποθήκευσης"</string>
+     <string name="trans_select_data_tips">"Επιλέξτε αρχεία για μεταφορά
+Παρόμοια αρχεία στη νέα συσκευή, θα αντικατασταθούν"</string>
      <string name="trans_select_device_receive">Επιλέξτε μια συσκευή για λήψη δεδομένων.</string>
      <string name="trans_select_device_send">Επιλέξτε μια συσκευή για μεταφορά δεδομένων.</string>
      <string name="trans_sender">"Είμαι ο αποστολέας"</string>
@@ -274,10 +292,16 @@
      <string name="trans_sender_searching">Αναζήτηση για νέες συσκευές</string>
      <string name="trans_sender_searching_ensurance">"Βεβαιωθείτε ότι η παλιά συσκευή είναι ανοικτή
 Αναμονή για την παλιά συσκευή να συνδεθεί…"</string>
+     <string name="trans_sender_time_remained">"Απομένουν %s.
+Μην κλείσετε το Wi‑Fi. Κρατήστε τις συσκευές κοντά τη μια με την άλλη."</string>
      <string name="trans_sending_completed">Τα δεδομένα εστάλησαν</string>
+     <string name="trans_show_qr_code_label">Συνδέστε την παλιά συσκευή</string>
      <string name="trans_show_qr_code_tips">Σαρώστε τον κωδικό QR χρησιμοποιώντας την παλιά συσκευή</string>
      <string name="trans_time_format_second">Λιγότερο από ένα λεπτό</string>
-     <string name="trans_time_remained">, έτοιμο σε</string>
+     <string name="trans_time_spent">"
+Χρόνος που πέρασε: %s"</string>
+     <string name="trans_wait_trans_data">"Συνδεδεμένο με την παλιά συσκευή.
+Αναμονή για τη μεταφορά…"</string>
      <string name="trans_waiting_ensurance">"Βεβαιωθείτε ότι η παλιά συσκευή είναι ανοικτή
 και η Μεταφορά είναι ενεργοποιημένη"</string>
      <string name="trans_waiting_for_sender">Αναμονή για την παλιά συσκευή να συνδεθεί…</string>

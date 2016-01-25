@@ -115,7 +115,7 @@
      <string name="clear_search_history">Καθαρισμός ιστορικού</string>
      <string name="clear_video_download">Διαγραφή βίντεο</string>
      <string name="clip_dialog_title">Άνοιγμα url από αντιγραφή;</string>
-     <string name="close_ads_choice_no">Επέτρεψε</string>
+     <string name="close_ads_choice_no">Επίτρεψε</string>
      <string name="close_ads_choice_yes">Απέκλεισε</string>
      <string name="close_ads_message">"Αποκλεισμός περιεχομένου από αυτή την Ιστοσελίδα; Μπορείτε να δείτε τις αποκλεισμένες Ιστοσελίδες στις Ρυθμίσεις > Προηγμένα > Αποκλεισμένες Ιστοσελίδες."</string>
      <string name="close_ads_title">Αποκλεισμός περιεχομένου;</string>
@@ -283,6 +283,8 @@
      <string name="geolocation_settings_page_summary_allowed">Αυτή η σελίδα μπορεί να γνωρίζει την τοποθεσία σας</string>
      <string name="geolocation_settings_page_summary_not_allowed">"Αυτή η σελίδα δεν μπορεί να γνωρίζει την τοποθεσία σας"</string>
      <string name="geolocation_settings_page_title">Καθαρισμός πρόσβασης τοποθεσίας</string>
+     <string name="go_supermarket_button">Πήγαινε</string>
+     <string name="go_supermarket_title">Περισσότερες εφαρμογές, μεγαλύτερη ταχύτητα και λιγότερη χρήση δεδομένων στο App Store</string>
      <string name="google_bookmarks">"Google: "</string>
      <string name="have_sent_bookmark_to_home_screen">Σελιδοδείκτης στάλθηκε στην αρχική οθόνη</string>
      <string name="history_saved_webpage">Αποθήκευση σελίδας</string>
@@ -520,6 +522,9 @@
      <string name="profiler_started_toast">Ο Profiler ξεκίνησε</string>
      <string name="profiler_stopped_toast">Ολοκλήρωση Profiler. Τα αποτελέσματα είναι στο %1$s.</string>
      <string name="progress_dialog_setting_wallpaper">Ορίζεται φόντο…</string>
+     <string name="pull_to_refresh_pull_label">Τραβήξτε για ανανέωση</string>
+     <string name="pull_to_refresh_refreshing_label">Φόρτωση…</string>
+     <string name="pull_to_refresh_release_label">Αφήστε για ανανέωση</string>
      <string name="qr_code_title">Κωδικός QR</string>
      <string name="quicklink_bookmark_save">Αποθήκευση σε</string>
      <string name="quicklink_not_saved">"Αδυναμία προσθήκης στην σελίδα εκκίνησης"</string>

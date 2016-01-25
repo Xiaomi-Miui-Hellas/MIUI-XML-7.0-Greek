@@ -56,4 +56,9 @@
         <item>Αρχείο</item>
         <item>Προσθήκη αρχείου στις εξαιρέσεις</item>
      </string-array>
+     <string-array name="video_clean_menu">
+        <item>Καθαρισμός αυτού του αρχείου</item>
+        <item>Άνοιγμα</item>
+        <item>Προσθήκη αρχείου στις εξαιρέσεις</item>
+     </string-array>
 </resources>

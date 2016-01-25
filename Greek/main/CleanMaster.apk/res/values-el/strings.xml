@@ -5,6 +5,7 @@
      <string name="activity_title_brightness_image">Υπό-Υπερέκθεση</string>
      <string name="activity_title_cache">Cache</string>
      <string name="activity_title_cache_data">Cache</string>
+     <string name="activity_title_deep_apk">Διαγραφή APK</string>
      <string name="activity_title_deep_clean">Βαθύς καθαρισμός</string>
      <string name="activity_title_garbage_cleanup">Καθαρισμός</string>
      <string name="activity_title_ignored_image">Αγνοήθηκαν</string>
@@ -20,6 +21,7 @@
      <string name="activity_title_similar_image_group">Διαγραφή διπλότυπων</string>
      <string name="activity_title_tedious_image">Τυχαίες φωτογραφίες</string>
      <string name="activity_title_uninstall_apps">Εφαρμογές</string>
+     <string name="activity_title_video">Διαγραφή βίντεο</string>
      <string name="activity_title_white_list">Εξαιρέσεις</string>
      <string name="apk_status_damage">Κατεστραμμένο</string>
      <string name="apk_status_duplicate">Διπλότυπο</string>
@@ -84,6 +86,9 @@
      <string name="confirm_auto_cleaner">OK</string>
      <string name="conn_of_function_safe">Ασφαλής σύνδεση δικτύου</string>
      <string name="connecting">Σύνδεση…</string>
+     <string name="deepclean_apk_content">Διαγράψτε APK ή περιττές εφαρμογές</string>
+     <string name="deepclean_apk_summary_empty">Όλα δείχνουν καλά. Δεν υπάρχουν APK για διαγραφή</string>
+     <string name="deepclean_apk_version_error">Άγνωστο</string>
      <string name="deepclean_app_content">Απεγκατάσταση εφαρμογών που δεν έχουν χρησιμοποιηθεί για 7 ημέρες</string>
      <string name="deepclean_app_summary_empty">Όλα δείχνουν καλά. Δεν υπάρχουν εφαρμογές για διαγραφή</string>
      <string name="deepclean_cache_content">Εκκαθάριση δεδομένων που δημιουργούνται από εφαρμογές</string>
@@ -105,6 +110,8 @@
      <string name="deepclean_size_summary_normal">Χώρος αποθήκευσης διαθέσιμος</string>
      <string name="deepclean_title_large_file">Διαγραφή μεγάλων αρχείων</string>
      <string name="deepclean_title_uninstall_apps">Εφαρμογές με σπάνια χρήση</string>
+     <string name="deepclean_video_content">Διαγραφή όσων έχετε ήδη δει ή περιττών βίντεο</string>
+     <string name="deepclean_video_summary_empty">Όλα δείχνουν καλά</string>
      <string name="default_cache_type">Αρχεία δεδομένων</string>
      <string name="dialog_content_checkbox_delete_cloud_image">Διαγραφή φωτογραφιών και από το Mi Cloud</string>
      <string name="dialog_content_delete_image_confirm">Διαγραφή %d φωτογραφιών;</string>
@@ -131,6 +138,7 @@
      <string name="empty_title_installed_apps">Κενό</string>
      <string name="empty_title_large_files">Κενό</string>
      <string name="empty_title_residual">Δεν βρέθηκαν υπολείμματα</string>
+     <string name="empty_title_video">Δεν υπάρχουν βίντεο για διαγραφή</string>
      <string name="flow_rank_title">Χρήση δεδομένων</string>
      <string name="garbage_clean_detail">Λεπτομέρειες</string>
      <string name="garbage_cleanup_detail">%1$d φορές, καθαρίστηκαν %2$s</string>
@@ -147,6 +155,8 @@
      <string name="hints_apk_version">Έκδοση: %s</string>
      <string name="hints_app_uninstall_residual">Καθαρισμός υπολειμμάτων;</string>
      <string name="hints_cache_header_left">Αρχεία cache</string>
+     <string name="hints_cache_msd_desc">"Η διαγραφή των ενημερώσεων delta δεν θα επηρεάσει τη χρήση της εφαρμογής"</string>
+     <string name="hints_cache_msd_title">Ενημέρωση Delta</string>
      <string name="hints_cleanfinish">Ολοκλήρωση καθαρισμού</string>
      <string name="hints_deepclean_list_item_from">Από %s</string>
      <string name="hints_deepclean_scanning">Σάρωση %s</string>
@@ -165,6 +175,9 @@
      <string name="hints_install_apps_risk">ανιχνεύθηκε απειλή</string>
      <string name="hints_install_apps_today">Χρησιμοποιήθηκε σήμερα</string>
      <string name="hints_install_apps_virus">ανιχνεύθηκε ιός</string>
+     <string name="hints_installed_app_fewer">Σπάνια χρήση</string>
+     <string name="hints_installed_app_near">Πρόσφατη χρήση</string>
+     <string name="hints_installed_app_never">Καμία χρήση</string>
      <string name="hints_installed_apps_header_left">Εγκατεστημένες εφαρμογές: %d</string>
      <string name="hints_large_file_header_left">Μεγάλα αρχεία: %d</string>
      <string name="hints_latest_garbage_cleanup_date">Τελευτ. καθαρισμός: πριν %d ημέρες</string>
@@ -193,6 +206,8 @@
      <string name="hints_storage_free_size">Σύνολο %1$s. %2$s διαθέσιμα</string>
      <string name="hints_storage_news">Ειδήσεις Ασφάλειας</string>
      <string name="hints_title_garbage">Σκουπίδια</string>
+     <string name="hints_video_camera">Εγγεγραμμένα βίντεο</string>
+     <string name="hints_video_download">Ληφθέντα βίντεο</string>
      <string name="hot">Δημοφιλή</string>
      <string name="hot_today">Δημοφιλή σήμερα</string>
      <string name="installed">Εγκατεστημένα</string>
@@ -283,7 +298,7 @@
      <string name="recommended">Προτεινόμενα</string>
      <string name="safety_check_detail">%1$d φορές, αποκτήθηκαν %2$d πόντοι</string>
      <string name="safety_rank">Καλύτερα από %d%% χρήστες MIUI από άποψη ασφάλειας</string>
-     <string name="sc_allow_network_dialog_button">Επέτρεψε</string>
+     <string name="sc_allow_network_dialog_button">Επίτρεψε</string>
      <string name="sc_allow_network_dialog_message">Να επιτρέπετε στην εφαρμογή η σύνδεση στο Internet για λήψη ενημερώσεων;</string>
      <string name="see_more">Περισσότερα</string>
      <string name="set_immediately">Ορισμός</string>
@@ -296,8 +311,10 @@
      <string name="sponsored">Sponsored</string>
      <string name="start_install">Έναρξη εγκατάστασης</string>
      <string name="summary_auto_cleaner">Αυτόματος καθαρισμός συστήματος κάθε 3 ημέρες;</string>
+     <string name="summary_delete_apk">Διαγραφή επιλεγμένων APK οριστικά;</string>
      <string name="summary_delete_cache">Ορισμένες εφαρμογές, μπορεί να απαιτούν αυτά τα δεδομένα για να λειτουργήσουν κανονικά</string>
      <string name="summary_delete_large_file">Μερικά μεγάλα αρχεία, μπορεί να είναι χρήσιμα όταν δεν έχετε σύνδεση στο διαδίκτυο (π.χ. χάρτες, χρονοδιαγράμματα, κλπ.). Βεβαιωθείτε ότι δεν χρειάζεστε αυτό το αρχείο.</string>
+     <string name="summary_delete_video">>Διαγραφή επιλεγμένων βίντεο οριστικά;</string>
      <string name="summary_optimizer">Αυτή η λειτουργία ανεβάζει τα ονόματα των φακέλων για ενημέρωση της online βάσης του Cheetah Mobile και απαιτεί το ID της συσκευής σας.</string>
      <string name="text_optimizer">Αποστολή ονομάτων φακέλων</string>
      <string name="there_is_no">Όλα δείχνουν καλά. Επιστρέψτε αργότερα</string>
@@ -315,6 +332,7 @@
      <string name="title_auto_cleaner">Αυτόματος καθαρισμός;</string>
      <string name="title_delete_cache">Διαγραφή δεδομένων cache;</string>
      <string name="title_delete_clipboard">Περιεχόμενα προχείρου</string>
+     <string name="title_delete_deepclean">Διαγραφή</string>
      <string name="title_delete_large_file">Διαγραφή αυτού του αρχείου;</string>
      <string name="title_of_auto_launch_manage">Αυτόματη εκκίνηση</string>
      <string name="title_of_cloud_service">Υπηρεσίες Cloud</string>

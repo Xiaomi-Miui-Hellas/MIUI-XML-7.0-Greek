@@ -8,6 +8,10 @@
         <item quantity="few">Πριν %1$d ημέρες</item>
         <item quantity="many">Πριν %1$d ημέρες</item>
      </plurals>
+     <plurals name="deepclean_apk_summary">
+        <item quantity="other">Βρέθηκαν %d APK. Μπορείτε να διαγράψετε όσα είναι περιττά.</item>
+        <item quantity="one">Βρέθηκε %d APK. Μπορείτε να το διαγράψετε αυτό.</item>
+     </plurals>
      <plurals name="deepclean_app_summary">
         <item quantity="other">%d εγκατεστημένες εφαρμογές. Μπορείτε να διαγράψετε αυτές με σπάνια χρήση</item>
         <item quantity="one">%d εγκατεστημένη εφαρμογή. Μπορείτε να την διαγράψετε αυτήν</item>
@@ -23,6 +27,10 @@
      <plurals name="deepclean_similar_summary">
         <item quantity="other">Βρέθηκαν %d φωτογραφίες. Μπορείτε να διαγράψετε διπλές ή περιττές εικόνες</item>
         <item quantity="one">Βρέθηκε %d φωτογραφία. Μπορείτε να διαγράψετε διπλές ή περιττές εικόνες</item>
+     </plurals>
+     <plurals name="deepclean_video_summary">
+        <item quantity="other">Βρέθηκαν %d βίντεο. Μπορείτε να διαγράψετε όσα είναι περιττά.​</item>
+        <item quantity="one">Βρέθηκε %d βίντεο. Μπορείτε να το διαγράψετε αυτό.</item>
      </plurals>
      <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d ομάδες</item>

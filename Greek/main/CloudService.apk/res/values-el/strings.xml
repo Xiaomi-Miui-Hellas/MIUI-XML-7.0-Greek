@@ -32,10 +32,10 @@
      <string name="cloud_back_up_button_ok">Αναγκαστική διακοπή</string>
      <string name="cloud_back_up_close_info">Πατήστε για αντίγραφο.</string>
      <string name="cloud_back_up_dialog_content">"Διακοπή αντιγράφου ασφαλείας σε εξέλιξη; Αν σταματήσετε τώρα, δεν θα είστε σε θέση να χρησιμοποιήσετε αυτό το αντίγραφο ασφαλείας για να επαναφέρετε εφαρμογές."</string>
-     <string name="cloud_back_up_network_unavailable">"Δεν ήταν δυνατή η αφαίρεση. Συνδεθείτε στο Wi-Fi και δοκιμάστε ξανά."</string>
-     <string name="cloud_back_up_open_info">"Λήψη αντιγράφου ασφαλείας διάταξης Αρχικής Οθόνης και εφαρμογών κάθε %1$s όταν υπάρχει σύνδεση Wi-Fi
+     <string name="cloud_back_up_network_unavailable">"Δεν ήταν δυνατή η αφαίρεση. Συνδεθείτε στο Wi‑Fi και δοκιμάστε ξανά."</string>
+     <string name="cloud_back_up_open_info">"Λήψη αντιγράφου ασφαλείας διάταξης Αρχικής Οθόνης και εφαρμογών κάθε %1$s όταν υπάρχει σύνδεση Wi‑Fi
 Τελευταίο αντίγραφο: %2$s"</string>
-     <string name="cloud_back_up_open_info_no_backuptime">Λήψη αντιγράφου ασφαλείας διάταξης Αρχικής Οθόνης και εφαρμογών κάθε %1$s όταν υπάρχει σύνδεση Wi-Fi</string>
+     <string name="cloud_back_up_open_info_no_backuptime">Λήψη αντιγράφου ασφαλείας διάταξης Αρχικής Οθόνης και εφαρμογών κάθε %1$s όταν υπάρχει σύνδεση Wi‑Fi</string>
      <string name="cloud_back_up_remove_success">Το αντίγραφο διαγράφηκε</string>
      <string name="cloud_back_up_summary">Λήψη αντ.ασφαλείας όταν υπάρχει σύνδεση Wi‑Fi</string>
      <string name="cloud_back_up_title">Αντίγραφο Αρχικής Οθόνης</string>
@@ -171,7 +171,7 @@
      <string name="micloud_detail_not_synced">Μη συγχρονισμένο</string>
      <string name="micloud_detail_pending">σε αναμονή</string>
      <string name="micloud_detail_preference_syncing">συγχρονίζει</string>
-     <string name="micloud_detail_preference_wlan">Συγχρονισμός με Wi-Fi</string>
+     <string name="micloud_detail_preference_wlan">Συγχρονισμός με Wi‑Fi</string>
      <string name="micloud_detail_success">συγχρονισμένο</string>
      <string name="micloud_detail_syncing">συγχρονίζει</string>
      <string name="micloud_detail_upload_syncing">Αποστολή %s</string>
@@ -219,6 +219,7 @@
      <string name="micloud_main_last_sync_time">Τελευταίος συγχρονισμός %s</string>
      <string name="micloud_main_memory_low_message">"Για να συγχρονίσετε, διαγράψετε μερικά στοιχεία που έχετε αποθηκευμένα στο cloud."</string>
      <string name="micloud_main_memory_low_title">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>
+     <string name="micloud_main_message_not_synced">%s δεδομένα δεν έχουν συγχρονιστεί</string>
      <string name="micloud_main_network_abnormal">Αδυναμία σύνδεσης στο δίκτυο</string>
      <string name="micloud_main_network_error">Δεν είναι δυνατή η σύνδεση με το δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και δοκιμάστε ξανά.</string>
      <string name="micloud_main_set_internet">Ρύθμιση δικτύου</string>
@@ -227,14 +228,14 @@
      <string name="micloud_main_space_low">Σχεδόν χωρίς διαθέσιμο χώρο…</string>
      <string name="micloud_main_stop_sync">Διακοπή συγχρονισμού</string>
      <string name="micloud_main_suggest_master_sync">"Αδυναμία συγχρονισμού όλων των στοιχείων"</string>
-     <string name="micloud_main_suggest_setting">"Αναμονή για σύνδεση WI-Fi για συγχρονισμό
+     <string name="micloud_main_suggest_setting">"Αναμονή για σύνδεση Wi‑Fi για συγχρονισμό
 Πατήστε το κουμπί Ρυθμίσεις για να δείτε περισσότερες επιλογές"</string>
      <string name="micloud_main_suggest_sync">Ορισμένα στοιχεία θα πρέπει να συγχρονιστούν με το Mi Cloud.</string>
      <string name="micloud_main_sync_exception">Σφάλμα συγχρονισμού</string>
      <string name="micloud_main_sync_init">Λήψη πληροφοριών</string>
      <string name="micloud_main_sync_now">Συγχρονισμός τώρα</string>
      <string name="micloud_main_sync_on">Ο συγχρονισμός είναι ενεργός</string>
-     <string name="micloud_main_sync_on_wifi">Χρήση Wi-Fi</string>
+     <string name="micloud_main_sync_on_wifi">Χρήση Wi‑Fi</string>
      <string name="micloud_main_sync_pause">Παύση συγχρονισμού</string>
      <string name="micloud_main_sync_pending">Σε αναμονή για συγχρονισμό</string>
      <string name="micloud_main_sync_setting">Ρυθμίσεις συγχρονισμού</string>
@@ -242,11 +243,12 @@
      <string name="micloud_main_synced_data_count">%d συγχρονισμένα</string>
      <string name="micloud_main_syncing">συγχρονισμός…</string>
      <string name="micloud_main_title_master_sync_off">Ο αυτόματος συγχρονισμός είναι ανενεργός</string>
+     <string name="micloud_main_title_not_synced">Δεν έχουν συγχρονιστεί</string>
      <string name="micloud_main_title_sync_fail">"Αδυναμία συγχρονισμού"</string>
      <string name="micloud_main_title_sync_off">Ανενεργός συγχρονισμός</string>
-     <string name="micloud_main_title_sync_on_wifi">Χρήση Wi-Fi</string>
+     <string name="micloud_main_title_sync_on_wifi">Χρήση Wi‑Fi</string>
      <string name="micloud_main_update_space">Αποκτήστε περισσότερο χώρο αποθήκευσης.</string>
-     <string name="micloud_main_wlan_sync_data_count">%d περιμένουν συγχρονισμό μέσω Wi-Fi</string>
+     <string name="micloud_main_wlan_sync_data_count">%d περιμένουν συγχρονισμό μέσω Wi‑Fi</string>
      <string name="micloud_member">Συνδρομή Mi Cloud</string>
      <string name="micloud_member_advantage">Αποκτήστε περισσότερο χώρο αποθήκευσης.</string>
      <string name="micloud_member_buy_content" formatted="false">"Ισχύει για %s-%s-%s
@@ -263,8 +265,16 @@
      <string name="micloud_member_webload_fail_toast_4xx">"Αδυναμία φόρτωσης σελίδας"</string>
      <string name="micloud_member_webload_fail_toast_5xx">Σφάλμα διακομιστή</string>
      <string name="micloud_more">Μάθετε περισσότερα</string>
-     <string name="micloud_notif_content_depend_wifi">Συνδεθείτε σε Wi-Fi για να συγχρονίσετε.</string>
+     <string name="micloud_notif_content_battery_low">Χαμηλή μπαταρία.</string>
+     <string name="micloud_notif_content_depend_wifi">Συνδεθείτε σε Wi‑Fi για να συγχρονίσετε.</string>
+     <string name="micloud_notif_content_master_depend_wifi">Συνδεθείτε πρώτα σε Wi‑Fi.</string>
+     <string name="micloud_notif_content_memory_low">Δεν υπάρχει αρκετός χώρος αποθήκευσης.</string>
+     <string name="micloud_notif_content_sync_with_off">Πατήστε για συγχρονισμό της συσκευής τώρα.</string>
+     <string name="micloud_notif_title_battery_low">"Αδυναμία συγχρονισμού με Mi Cloud"</string>
      <string name="micloud_notif_title_depend_wifi">%d σε αναμονή συγχρονισμού</string>
+     <string name="micloud_notif_title_master_depend_wifi">"Αδυναμία συγχρονισμού με Mi Cloud"</string>
+     <string name="micloud_notif_title_memory_low">"Αδυναμία συγχρονισμού με Mi Cloud"</string>
+     <string name="micloud_notif_title_sync_with_off">Συγχρονισμός με Mi Cloud</string>
      <string name="micloud_other_product_price">Σύγκριση τιμών</string>
      <string name="micloud_proceed">Συνέχεια</string>
      <string name="micloud_sec_dspt">και να μοιραστείτε πράγματα με φίλους.</string>
@@ -275,7 +285,7 @@
      <string name="micloud_setting_gallery_summary">Φωτογραφίες και βίντεο</string>
      <string name="micloud_setting_music_summary">Λίστες αναπαραγωγής και αγαπημένα</string>
      <string name="micloud_setting_sms_summary">Μηνύματα SMS και MMS</string>
-     <string name="micloud_setting_wifi_summary">Ρυθμίσεις Wi-Fi</string>
+     <string name="micloud_setting_wifi_summary">Ρυθμίσεις Wi‑Fi</string>
      <string name="micloud_single_dspt">Χρησιμοποιήστε το Mi Cloud για συγχρονισμό δεδομένων, εντοπισμό της συσκευή σας και για να μοιραστείτε πράγματα με τους φίλους σας.</string>
      <string name="micloud_space_applist_detail">Διαχείριση των εφαρμογών στην Αρχική οθόνη σας</string>
      <string name="micloud_space_applist_title">Διαχείριση εφαρμογών</string>
@@ -342,11 +352,11 @@
      <string name="phone_number_may_required_dspt_provision">"Αυτή η υπηρεσία μπορεί να σας ζητήσει τον αριθμό του τηλεφώνου σας. "</string>
      <string name="phone_number_required_dspt_provision">"Αυτή η υπηρεσία απαιτεί τον αριθμό τηλεφώνου σας. "</string>
      <string name="photo">Φωτογραφίες</string>
-     <string name="pref_summary_sync_display_photo_on_wifi_only">Συγχρονισμός φωτογραφιών επαφών μόνο όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi</string>
-     <string name="pref_summary_sync_video_on_wifi_only">"Συγχρονισμός βίντεο προφίλ επαφών μόνο όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi"</string>
+     <string name="pref_summary_sync_display_photo_on_wifi_only">Συγχρονισμός φωτογραφιών επαφών μόνο όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi</string>
+     <string name="pref_summary_sync_video_on_wifi_only">"Συγχρονισμός βίντεο προφίλ επαφών μόνο όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi"</string>
      <string name="pref_title_sync_contacts_title">Συγχρονισμός επαφών</string>
-     <string name="pref_title_sync_display_photo_on_wifi_only">Χρήση μόνο Wi-Fi για να συγχρονίσετε φωτογραφίες</string>
-     <string name="pref_title_sync_video_on_wifi_only">Χρήση μόνο Wi-Fi για να συγχρονίσετε βίντεο</string>
+     <string name="pref_title_sync_display_photo_on_wifi_only">Χρήση μόνο Wi‑Fi για να συγχρονίσετε φωτογραφίες</string>
+     <string name="pref_title_sync_video_on_wifi_only">Χρήση μόνο Wi‑Fi για να συγχρονίσετε βίντεο</string>
      <string name="privacy_policy">Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
      <string name="remind_later">Υπενθύμιση αργότερα</string>
      <string name="restoreSync">Συγχρονισμός τώρα</string>
@@ -370,8 +380,8 @@
      <string name="sub_alert_notif_dspt_add">%s δεν έχουν συγχρονιστεί</string>
      <string name="sub_alert_notif_dspt_no">Συγχρονισμένα</string>
      <string name="sub_alert_notif_title">Χωρίς συγχρονισμό</string>
-     <string name="sub_sync_item_sms_summary">Συγχρονίσετε μόνο τα μηνύματα που περιέχουν φωτογραφίες, ήχο, ή άλλα πολυμέσα, όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi</string>
-     <string name="sub_sync_item_sms_title_wifi_only">Χρήση μόνο Wi-Fi για συγχρονισμό MMS</string>
+     <string name="sub_sync_item_sms_summary">Συγχρονίσετε μόνο τα μηνύματα που περιέχουν φωτογραφίες, ήχο, ή άλλα πολυμέσα, όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi</string>
+     <string name="sub_sync_item_sms_title_wifi_only">Χρήση μόνο Wi‑Fi για συγχρονισμό MMS</string>
      <string name="success_upgraded_space">%s προστέθηκαν</string>
      <string name="sync_dspt">Ενεργοποίηση συγχρονισμού</string>
      <string name="sync_dspt_entrance_provision">Συγχρονίσετε φωτογραφίες, επαφές, ιστορικό κλήσεων και μηνύματα, μεταξύ όλων των συσκευών σας. Δείτε τα πράγματα που έχετε συγχρονίσει, από οποιοδήποτε πρόγραμμα περιήγησης στο %s</string>
