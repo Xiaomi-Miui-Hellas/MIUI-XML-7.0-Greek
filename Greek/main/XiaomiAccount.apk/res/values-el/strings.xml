@@ -45,8 +45,8 @@
      <string name="account_user_using_facebook_avatar">Χρήση εικόνας προφίλ από Facebook</string>
      <string name="account_user_using_qq_avatar">Χρήση εικόνας προφίλ από QQ</string>
      <string name="account_user_using_weibo_avatar">Χρήση εικόνας προφίλ από Sina Weibo</string>
+     <string name="account_vip_achievements">Επιτεύγματα</string>
      <string name="account_vip_level">Λογαριασμός</string>
-     <string name="account_vip_task">Πρόοδος</string>
      <string name="account_xiaomi_service">Υπηρεσίες</string>
      <string name="activate_email_notice">Φροντίστε να ενεργοποιήσετε το λογαριασμό σας μέσα σε 24 ώρες</string>
      <string name="add_account">Προσθήκη λογαριασμού</string>
@@ -302,7 +302,6 @@
      <string name="updated_nothing">Ενημερώθηκε</string>
      <string name="user_avatar_update_title">Αλλαγή εικόνας προφίλ</string>
      <string name="user_avatar_uploading">Μισό λεπτό…</string>
-     <string name="vip_level_value">%d</string>
      <string name="wipe_data_dialog_msg">%s θα διαγραφούν αν συνεχίσετε.</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="wipe_data_dialog_title">Ορισμένα στοιχεία δεν έχουν συγχρονιστεί</string>

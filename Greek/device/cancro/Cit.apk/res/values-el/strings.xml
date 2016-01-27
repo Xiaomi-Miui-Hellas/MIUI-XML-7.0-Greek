@@ -63,6 +63,7 @@
      <string name="cit_blue_tooth_address_check_title">Διεύθυνση Bluetooth</string>
      <string name="cit_blue_tooth_scan_check_summary">Η δοκιμή θα εμφανίσει μια λίστα με διαθέσιμες συσκευές Bluetooth που έχουν εντοπιστεί σε κοντινή απόσταση.</string>
      <string name="cit_blue_tooth_scan_check_title">Σάρωση Bluetooth</string>
+     <string name="cit_blue_torch_on">Ενεργοποίηση μπλε Φλας</string>
      <string name="cit_bluetooth_address_open_error">Αδυναμία λήψης διεύθυνσης Bluetooth. Παρουσιάστηκε σφάλμα κατά το άνοιγμα της συσκευής Bluetooth.</string>
      <string name="cit_bluetooth_not_support">Αυτή η συσκευή δεν υποστηρίζει Bluetooth</string>
      <string name="cit_bluetooth_scan_retry">Σάρωση ξανά</string>
@@ -335,4 +336,5 @@
 
 Γυρίστε το τηλέφωνο και μιλήστε στο μικρόφωνο κορυφής. Θα πρέπει να ακούσετε τη φωνή σας στο ηχείο"</string>
      <string name="cit_x5_audio_lb_topmic_to_speaker_title">Μικρόφωνο κορυφής</string>
+     <string name="cit_yellow_torch_on">Ενεργοποίηση κίτρινου Φλας</string>
 </resources>
