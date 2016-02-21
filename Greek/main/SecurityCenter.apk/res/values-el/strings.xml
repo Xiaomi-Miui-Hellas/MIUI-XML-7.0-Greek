@@ -504,7 +504,7 @@
      <string name="summary_cmcc_app_check">"Μερικές εφαρμογές δεν ήταν δυνατό να επαληθευτούν"</string>
      <string name="summary_data_flow">Αποφύγετε να ξεπεράσετε το μηνιαίο όριο δεδομένων του φορέα σας</string>
      <string name="summary_default_app">"%s δεν έχει οριστεί ως προεπιλεγμένη εφαρμογή συστήματος"</string>
-     <string name="summary_dev">Εμποδίζει την κλοπή προσωπικών δεδομένων</string>
+     <string name="summary_dev">Αποφύγετε την κλοπή προσωπικών δεδομένων</string>
      <string name="summary_find_device">Εντοπίστε και κλειδώσετε τη συσκευή σας από οπουδήποτε</string>
      <string name="summary_flow_notification">Εμφάνιση μηνιαίων στατιστικών στοιχείων χρήσης των δεδομένων σας στη μπάρα ειδοποιήσεων</string>
      <string name="summary_flow_purchase_beyond">Έχετε υπερβεί το μηνιαίο όριο δεδομένων του φορέα σας κατά %sMB</string>

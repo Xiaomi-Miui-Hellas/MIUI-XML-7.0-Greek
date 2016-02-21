@@ -3,6 +3,8 @@
      <string name="account_bind_prompt">Μεταφορά δεδομένων χρήστη… Αυτό μπορεί να διαρκέσει μερικά λεπτά.</string>
      <string name="action_mode_deselect_all">Αποεπιλογή όλων</string>
      <string name="action_mode_select_all">Επιλογή όλων</string>
+     <string name="ad_download">Λήψη</string>
+     <string name="ad_downloading">Φόρτωση…</string>
      <string name="add_private">Προσθήκη αρχείων σε κρυφούς φακέλους</string>
      <string name="add_private_files">Προσθήκη αρχείων</string>
      <string name="add_task">Προσθήκη εργασιών</string>
@@ -63,6 +65,7 @@
      <string name="category_type_other">Άλλα</string>
      <string name="category_video">Βίντεο</string>
      <string name="category_zip">Συμπιεσμένα</string>
+     <string name="change_sticker">Επιλέξτε ένα άλλο</string>
      <string name="choose_send_type">Επιλογή τρόπου αποστολής</string>
      <string name="choose_upload_location">Αποστολή σε φάκελο του KuaiPan</string>
      <string name="clean_hint">Πατήστε για να ελευθερώσετε χώρο</string>
@@ -79,6 +82,7 @@
      <string name="confirm_clean">Καθαρισμός</string>
      <string name="confirm_know">ΟΚ</string>
      <string name="connect_network_setting_des">Υπενθύμιση κατά την πρόσβαση δικτύου</string>
+     <string name="connecting">Σύνδεση…</string>
      <string name="connection_error">"Αδυναμία σύνδεσης"</string>
      <string name="copy_failed">Η αντιγραφή απέτυχε</string>
      <string name="copy_file_to_kuaipan">Αντιγραφή αρχείου στο Kuaipan</string>
@@ -133,6 +137,7 @@
      <string name="directory_info_divider">"  |  "</string>
      <string name="directory_no_item">Άδειος φάκελος</string>
      <string name="dlg_error_unmount_text">Αποτυχία αποσύνδεσης USB μέσου.</string>
+     <string name="download">Λήψη</string>
      <string name="download_current_progress">%1$d/100</string>
      <string name="download_failed">Αποτυχία λήψης</string>
      <string name="download_link_completed">%1$s μοιράζονται μέσω KuaiPan. Αγγίξτε το παρακάτω link για εμφάνιση:</string>
@@ -191,8 +196,10 @@
      <string name="group_title_extra_backup">Αντίγραφα ασφαλείας</string>
      <string name="group_title_extra_expire">Πρόκειται να λήξουν</string>
      <string name="group_title_extra_new">Νέο</string>
+     <string name="has_installed">Εγκαταστάθηκε</string>
      <string name="if_cancel">Ακύρωση λειτουργίας;</string>
      <string name="image_loading_error">"Αδυναμία φόρτωσης εικόνας"</string>
+     <string name="installing">Εγκατάσταση…</string>
      <string name="instruction">Εισάγετε την παρακάτω διεύθυνση στον FTP Client </string>
      <string name="instruction_pre">Αγγίξτε για να ξεκινήσει ο διακομιστής FTP</string>
      <string name="just_now">Μόλις τώρα</string>
@@ -223,6 +230,7 @@
      <string name="kuaipan_tech_support">Είσοδος στο kuaipan.cn</string>
      <string name="load_err">Αδυναμία φόρτωσης</string>
      <string name="load_more">Δείτε περισσότερα</string>
+     <string name="load_sticker_fail">"Αδυναμία φόρτωσης. Δοκιμάστε ξανά"</string>
      <string name="loading">Φορτώνει…</string>
      <string name="local_image">Φωτογραφίες</string>
      <string name="local_music">Μουσική</string>
@@ -314,6 +322,7 @@
      <string name="no_local_sticker_tip">"Αδυναμία εύρεσης των ληφθέντων αυτοκόλλητων. Ελέγξτε τα αυτοκόλλητα που μοιράζονται από οπαδούς Mi."</string>
      <string name="no_more_space">Λίγος χώρος</string>
      <string name="no_network_str">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τη σύνδεση δικτύου σας και δοκιμάστε ξανά."</string>
+     <string name="no_network_tip">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τη σύνδεση και προσπαθήστε ξανά."</string>
      <string name="no_recent_files">Δεν υπάρχουν πρόσφατα αρχεία</string>
      <string name="no_tasks">Χωρίς εργασίες</string>
      <string name="no_wifi">Δεν υπάρχει δίκτυο Wi‑Fi</string>
@@ -462,6 +471,7 @@
      <string name="select_image">Επιλέξτε φωτογραφίες</string>
      <string name="select_music">Επιλέξτε τραγούδια</string>
      <string name="select_video">Επιλέξτε βίντεο</string>
+     <string name="send_sticker">Αποστολή αυτοκόλλητου</string>
      <string name="send_to_midrive">KuaiPan</string>
      <string name="send_to_midrive_failed_message">Ο τύπος του αρχείου δεν υποστηρίζεται</string>
      <string name="send_to_qq">Αποστολή στο QQ</string>
@@ -554,6 +564,7 @@
      <string name="user_not_login">Απαιτείται σύνδεση</string>
      <string name="utf8_summary">FTP προεπιλεγμένο σύστημα κωδικοποίησης</string>
      <string name="utf8_title">UTF-8</string>
+     <string name="view_more_sticker">Δείτε περισσότερα αυτοκόλλητα</string>
      <string name="wait_net">Αναμονή για το δίκτυο…</string>
      <string name="wait_sdcard">Αναμονή για κάρτα SD…</string>
      <string name="wait_wifi">Αναμονή για Wi‑Fi…</string>

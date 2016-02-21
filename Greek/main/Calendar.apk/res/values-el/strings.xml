@@ -194,7 +194,6 @@
      <string name="monthly">Μηνιαία</string>
      <string name="monthly_on_day">Μηνιαίως (την ίδια ημέρα κάθε μήνα)</string>
      <string name="monthly_on_day_count">Μηνιαίως (%1$s %2$s του μήνα)</string>
-     <string name="more_string">+%1$s</string>
      <string name="movable_list_header_label">σύντομη εισαγωγή</string>
      <string name="network_not_available">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="new_event_dialog_label">Νέο γεγονός</string>
