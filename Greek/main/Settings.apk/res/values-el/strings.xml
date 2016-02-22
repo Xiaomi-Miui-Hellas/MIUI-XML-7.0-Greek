@@ -2049,7 +2049,7 @@
      <string name="power_charging_duration_usb">%1$d%% - %2$s για πλήρη φόρτιση (USB)</string>
      <string name="power_charging_duration_wireless">%1$d%% - %2$s για πλήρη φόρτιση (ασύρματα)</string>
      <string name="power_discharge_remaining">%1$s υπόλοιπο</string>
-     <string name="power_discharging_duration">%1$d%% - approx. %2$s left</string>
+     <string name="power_discharging_duration">%1$d%% - περίπου %2$s υπόλοιπο</string>
      <string name="power_flashlight">Φακός</string>
      <string name="power_hide_mode_summary">"Εξοικονομήστε μπαταρία, μέσω του περιορισμού των διεργασιών παρασκηνίου μεμονωμένων εφαρμογών, όπως WLAN, συνδέσεις δεδομένων κινητής και GPS"</string>
      <string name="power_hide_mode_title">Διαχ. χρήσης μπαταρίας εφαρμογών</string>

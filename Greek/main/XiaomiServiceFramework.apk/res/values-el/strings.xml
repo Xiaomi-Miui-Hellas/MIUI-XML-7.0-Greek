@@ -13,6 +13,12 @@
      <string name="activate_feature_mx_and_voip">Mi Message και Voice</string>
      <string name="activate_feature_register_xiaomi_account">Ρύθμιση λογαριασμού Mi</string>
      <string name="activate_feature_verify_mx_token">Επαλήθευση λογαριασμού Mi</string>
+     <string name="activate_history_cancelled">ακυρώθηκε</string>
+     <string name="activate_history_multisim_overview">Ενεργοποίηση για την κάρτα SIM %3$d %1$s. Προκλήθηκε από την λειτουργία \"%2$s\".</string>
+     <string name="activate_history_overview">Ενεργοποίηση για την κάρτα SIM %1$s. Προκλήθηκε από την λειτουργία \"%2$s\".</string>
+     <string name="activate_history_sms">Ένα SMS έχει σταλεί κατά τη διάρκεια της ενεργοποίησης.</string>
+     <string name="activate_history_success">ολοκληρώθηκε</string>
+     <string name="activate_history_title">Ενεργοποίηση κάρτας SIM</string>
      <string name="activate_phone_cancel_notif_title">Η ενεργοποίηση της κάρτας SIM ακυρώθηκε</string>
      <string name="activate_phone_cancel_notif_title_msim">Η ενεργοποίηση της κάρτας SIM  %s ακυρώθηκε</string>
      <string name="activate_phone_failed_notif_title">Δεν ήταν δυνατή η ενεργοποίηση της κάρτας SIM</string>
