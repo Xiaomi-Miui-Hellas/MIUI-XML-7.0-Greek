@@ -22,6 +22,7 @@
      <string name="incorrect_pincode_remaining_attempts">Λάθος κωδικός PIN απομένουν %d προσπάθειες</string>
      <string name="incorrect_pukcode">Λανθασμένο PUK</string>
      <string name="incorrect_pukcode_remaining_attempts">Λάθος κωδικός PUK απομένουν %d προσπάθειες</string>
+     <string name="input_password_after_boot_msg">"Θα πρέπει να εισάγετε τον κωδικό πρόσβασης μετά την επανεκκίνηση της συσκευής."</string>
      <string name="input_password_hint_text">Εισάγετε τον κωδικό</string>
      <string name="input_pin_code">PIN</string>
      <string name="input_puk_code">PUK</string>
@@ -54,7 +55,6 @@
      <string name="phone_locked_string">Συσκευή κλειδωμένη</string>
      <string name="phone_locked_timeout_minutes_string">Παρακαλώ δοκιμάστε ξανά σε %s λεπτά</string>
      <string name="phone_locked_timeout_seconds_string">Παρακαλώ δοκιμάστε ξανά σε %s δευτερόλεπτα</string>
-     <string name="set_lock_wallpaper_failed">Καμία νέα ταπετσαρία</string>
      <string name="unlock_sim_string">Ξεκλειδώστε</string>
      <string name="unlock_string">Ξεκλειδώστε</string>
      <string name="unlocking_sim_card">Ξεκλείδωμα κάρτας SIM</string>
