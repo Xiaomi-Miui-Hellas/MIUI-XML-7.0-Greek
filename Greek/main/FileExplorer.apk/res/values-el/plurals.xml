@@ -136,6 +136,14 @@
         <item quantity="few">%1$d επιλεγμένα</item>
         <item quantity="many">%1$d επιλεγμένα</item>
      </plurals>
+     <plurals name="remote_video_update">
+        <item quantity="other">Found %1$d νέα βίντεο</item>
+        <item quantity="zero">Found %1$d νέα βίντεο</item>
+        <item quantity="one">Found %1$d νέο βίντεο</item>
+        <item quantity="two">Found %1$d νέα βίντεο</item>
+        <item quantity="few">Found %1$d νέα βίντεο</item>
+        <item quantity="many">Found %1$d νέα βίντεο</item>
+     </plurals>
      <plurals name="search_head_hint_app">
         <item quantity="other">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχεία)</item>
         <item quantity="zero">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχεία)</item>

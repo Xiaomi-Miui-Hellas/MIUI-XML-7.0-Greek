@@ -18,8 +18,18 @@
         <item>"Σήμερα "</item>
         <item>"Αυτό το μήνα "</item>
      </string-array>
+     <string-array name="date_of_traffic_cmcc">
+        <item>"Αυτή την εβδομάδα "</item>
+        <item>"Σήμερα "</item>
+        <item>"Αυτό το μήνα "</item>
+     </string-array>
      <string-array name="date_of_traffic_prefix">
         <item>"Χτες: "</item>
+        <item>"Σήμερα: "</item>
+        <item>"Αυτό το μήνα: "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Αυτή την εβδομάδα: "</item>
         <item>"Σήμερα: "</item>
         <item>"Αυτό το μήνα: "</item>
      </string-array>

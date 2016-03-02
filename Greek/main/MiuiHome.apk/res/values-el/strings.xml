@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="activity_not_found">Η εφαρμογή δεν είναι εγκατεστημένη στη συσκευή σας</string>
+     <string name="add_screen">Προσθήκη οθόνης</string>
      <string name="app_already_exist">Η εφαρμογή υπάρχει ήδη</string>
      <string name="app_being_backup_message">Η εφαρμογή γίνεται backup.</string>
      <string name="app_being_restored_message">Η εφαρμογή θα αποκατασταθεί</string>
@@ -21,6 +22,7 @@
      <string name="app_category_tools">Εργαλεία</string>
      <string name="app_category_travel">Ταξίδια</string>
      <string name="application_name">MiHome</string>
+     <string name="apply">Εφαρμογή</string>
      <string name="apply_action">Εφαρμογή</string>
      <string name="apply_as_lock_screen">Οθόνη κλειδώματος</string>
      <string name="apply_as_lock_wallpaper_message">Εφαρμογή αυτής της ταπετσαρίας και στην οθόνη κλειδώματος;</string>
@@ -59,6 +61,7 @@
      <string name="default_folder_title_tools">Εργαλεία</string>
      <string name="default_shortcut_title_10086">10086.cn</string>
      <string name="delete">Διαγραφή</string>
+     <string name="delete_screen">Διαγραφή οθόνης</string>
      <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
      <string name="delete_wallpapers_message">Διαγραφή %1$d επιλεγμένων ταπετσαριών;</string>
      <string name="deselect_all">Αποεπιλογή όλων</string>
@@ -142,6 +145,8 @@
      <string name="invalid_contact_shortcut">Λανθασμένη συντόμευση επαφής</string>
      <string name="is_setting_wallpaper_message">Εφαρμογή ταπετσαρίας…</string>
      <string name="is_system_wallpaper_message">Δεν είναι δυνατή η διαγραφή πόρων του συστήματος</string>
+     <string name="like">Αγαπημένο</string>
+     <string name="liked">Αγαπημένο</string>
      <string name="loading_desktop">Μισό λεπτό…</string>
      <string name="loading_wallpaper">Μισό λεπτό…</string>
      <string name="local_wallpaper">Τοπικά</string>
@@ -197,16 +202,18 @@
      <string name="process" />
      <string name="recommend_apps_default_title">Κενό</string>
      <string name="recommend_apps_notice">Προτεινόμενες εφαρμογές</string>
-     <string name="recommend_apps_switch_summary">Εμφάνιση προτεινόμενων εφαρμογών στο κάτω μέρος της οθόνης.</string>
      <string name="recommend_apps_switch_title">Προτεινόμενες εφαρμογές</string>
      <string name="recommend_apps_tips">"Για αυτή τη λειτουργία, πρέπει να συνδεθείτε στο Internet για να λειτουργήσει κανονικά. Για να την απενεργοποιήσετε, αγγίξτε το όνομα του τρέχοντος φακέλου."</string>
      <string name="reset_scene_prompt">H σκηνή θα επανέλθει στην προεπιλεγμένη διάταξη</string>
+     <string name="screen_number">Η %d οθόνη</string>
      <string name="scroll_tip_format_when_announce_accessibility">Σελίδα %1$d, %2$d εφαρμογές</string>
      <string name="select_all">Επιλογή όλων</string>
      <string name="select_frame">Κάδρο</string>
      <string name="select_photo">Φωτογραφία</string>
      <string name="setting_wallpaper_tip">Μετακίνηση ή/και αλλαγή κλίμακας</string>
+     <string name="settings">Ρυθμίσεις</string>
      <string name="settings_shortcut">Ρυθμίσεις</string>
+     <string name="share">Κοινή χρήση</string>
      <string name="sharedUserId" />
      <string name="show_all">Εμφάνιση όλων</string>
      <string name="sort_by_abc">Ταξινόμηση ανά όνομα</string>
