@@ -240,8 +240,13 @@
      <string name="total_num">%d εγγραφές στο σύνολο</string>
      <string name="trans_backingup">Λήψη αντιγράφου…</string>
      <string name="trans_backingup_no_items">Συγχρονισμός…</string>
+     <string name="trans_calculating">Υπολογισμός…</string>
+     <string name="trans_calculating_app_sd_size">Υπολογισμός μεγέθους δεδομένων που θα αποσταλούν. %s σαρώθηκαν</string>
+     <string name="trans_calculating_base_size">"Υπολογισμός μεγέθους εφαρμογών"</string>
      <string name="trans_cancel_confirm">Μεταφορά σε εξέλιξη. Ακύρωση τώρα;</string>
      <string name="trans_cancelling">Ακύρωση…</string>
+     <string name="trans_connect_failed_message">"Η σύνδεση απέτυχε. Παρακαλώ προσπαθήστε ξανά ή κάντε επανεκκίνηση. Και στην άλλη συσκευή, πηγαίνετε στις Ρυθμίσεις> Πρόσθετες ρυθμίσεις > Μεταφορά και πατήστε [Είμαι ο αποστολέας] ή ξανατρέξτε την Μεταφορά μετά από επανεκκίνηση"</string>
+     <string name="trans_connect_failed_title">Αποτυχία σύνδεσης</string>
      <string name="trans_connect_failed_toast">"Αδυναμία σύνδεσης"</string>
      <string name="trans_connecting_toast">Σύνδεση…</string>
      <string name="trans_detail_category_account">Λογαριασμοί και επαφές</string>
@@ -252,25 +257,27 @@
      <string name="trans_generate_qr_code_failed">"Αδυναμία δημιουργίας κωδικού QR"</string>
      <string name="trans_main_tutor">Μεταφορά επαφών, ιστορικού κλήσεων, μηνυμάτων, διάταξη αρχικής οθόνης, εφαρμογών, ρυθμίσεων, κλπ σε μια νέα συσκευή</string>
      <string name="trans_my_device">Η συσκευή μου</string>
+     <string name="trans_native_no_space">"Αυτή η συσκευή δεν έχει αρκετό χώρο
+Παρακαλώ καθαρίστε τουλάχιστον %s"</string>
      <string name="trans_one_key_migrate">Μεταφορά</string>
-     <string name="trans_operate_func_one">Μέθοδος Β</string>
+     <string name="trans_operate_func_one">Μέθοδος Α</string>
      <string name="trans_operate_func_two">Μέθοδος Β</string>
      <string name="trans_operate_new_phone_tips">"Σαρώστε τον κωδικό QR χρησιμοποιώντας τη νέα συσκευή
 Πηγαίνετε στις Ρυθμίσεις > Πρόσθετες ρυθμίσεις > Μεταφορά
  Πατήστε [Είμαι ο παραλήπτης] για να δημιουργήσετε ένα κωδικό QR"</string>
-     <string name="trans_operate_old_phone_tips1">"Μέθοδος Α
-1. Εγκαταστήστε την εφαρμογή Μεταφορά στην παλιά σας συσκευή
+     <string name="trans_operate_old_phone_tips1">"1. Εγκαταστήστε την εφαρμογή Μεταφορά στην παλιά σας συσκευή
 2. Ανοίξτε την εφαρμογή και επιλέξτε [Είμαι ο αποστολέας]
 3. Σαρώστε τον κωδικό QR με την παλιά σας συσκευή"</string>
-     <string name="trans_operate_old_phone_tips2">"Μέθοδος Β
-Πηγαίνετε στις Ρυθμίσεις > Πρόσθετες ρυθμίσεις > Μεταφορά
- Πατήστε [Είμαι ο αποστολέας]"</string>
-	 <string name="trans_progress_subdescript_br_receiver">Επαναφορά %1$s, %2$s ολοκληρώθηκαν</string>
-	 <string name="trans_progress_subdescript_br_sender"> Λήψη αντιγράφου %1$s, %2$s ολοκληρώθηκαν</string>
-	 <string name="trans_progress_subdescript_transing_receiver">Λήψη %1$s, %2$s ολοκληρώθηκαν</string>
-	 <string name="trans_progress_subdescript_transing_sender">Αποστολή %1$s, %2$s ολοκληρώθηκαν</string>
-	 <string name="trans_progress_subdescript_transingsd_receiver">Λήψη αρχείων, %s ολοκληρώθηκαν</string>
-	 <string name="trans_progress_subdescript_transingsd_sender">Αποστολή αρχείων, %s ολοκληρώθηκαν</string>
+     <string name="trans_operate_old_phone_tips2">"Πηγαίνετε στις Ρυθμίσεις > Πρόσθετες ρυθμίσεις > Μεταφορά και πατήστε [Είμαι ο αποστολέας]"</string>
+     <string name="trans_please_waiting">Παρακαλώ περιμένετε…</string>
+     <string name="trans_progress_subdescript_br_receiver">Επαναφορά %1$s, %2$s ολοκληρώθηκαν</string>
+     <string name="trans_progress_subdescript_br_sender"> Λήψη αντιγράφου %1$s, %2$s ολοκληρώθηκαν</string>
+     <string name="trans_progress_subdescript_transing_receiver">Λήψη %1$s, %2$s ολοκληρώθηκαν</string>
+     <string name="trans_progress_subdescript_transing_sender">Αποστολή %1$s, %2$s ολοκληρώθηκαν</string>
+     <string name="trans_progress_subdescript_transingsd_receiver">Λήψη αρχείων, %s ολοκληρώθηκαν</string>
+     <string name="trans_progress_subdescript_transingsd_sender">Αποστολή αρχείων, %s ολοκληρώθηκαν</string>
+     <string name="trans_progress_subdescript_transingsddata_receiver">Λήψη δεδομένων κάρτας SD από %1$s. %2$s ολοκληρώθηκε</string>
+     <string name="trans_progress_subdescript_transingsddata_sender">Αποστολή δεδομένων κάρτας SD στο %1$s. %2$s ολοκληρώθηκε</string>
      <string name="trans_progress_subdescript_waiting">Αναμονή λήψης %s</string>
      <string name="trans_receiver">"Είμαι ο παραλήπτης"</string>
      <string name="trans_receiver_time_remained">"Απομένουν %s.
@@ -278,6 +285,7 @@
      <string name="trans_receiving_completed">Τα δεδομένα ελήφθησαν</string>
      <string name="trans_restoring">Επαναφορά…</string>
      <string name="trans_restoring_no_items">Συγχρονισμός στοιχείων</string>
+     <string name="trans_retry">Δοκιμάστε ξανά</string>
      <string name="trans_scan_invalid_qrcode">Μη έγκυρος κωδικός QR</string>
      <string name="trans_scan_qr_code_tips">Σαρώστε τον κωδικό QR χρησιμοποιώντας τη νέα συσκευή</string>
      <string name="trans_select_data">Επιλέξτε στοιχεία για αποστολή</string>
@@ -297,6 +305,8 @@
      <string name="trans_sending_completed">Τα δεδομένα εστάλησαν</string>
      <string name="trans_show_qr_code_label">Συνδέστε την παλιά συσκευή</string>
      <string name="trans_show_qr_code_tips">Σαρώστε τον κωδικό QR χρησιμοποιώντας την παλιά συσκευή</string>
+     <string name="trans_start_failed_message">Αποτυχία έναρξης. Παρακαλώ προσπαθήστε ξανά ή να κάντε επανεκκίνηση και προσπαθήστε ξανά</string>
+     <string name="trans_start_failed_title">Αποτυχία έναρξης</string>
      <string name="trans_time_format_second">Λιγότερο από ένα λεπτό</string>
      <string name="trans_time_spent">"
 Χρόνος που πέρασε: %s"</string>

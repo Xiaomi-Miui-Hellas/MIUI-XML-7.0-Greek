@@ -12,17 +12,20 @@
      <string name="enable_find_device_error">"Αδυναμία ενεργοποίησης του Εύρεση συσκευής. %1$s"</string>
      <string name="enable_find_device_success">Εύρεση συσκευής ενεργή</string>
      <string name="find_device">Εύρεση συσκευής</string>
+     <string name="find_device_crash">Η Εύρεση συσκευής έκλεισε απροσδόκητα</string>
      <string name="find_device_error_account_sys_timeout">"Αδυναμία σύνδεσης στο λογαριασμό Mi"</string>
+     <string name="find_device_error_account_unknown_error">Σφάλμα λογαριασμού Mi (%s)</string>
      <string name="find_device_error_network">Ελέγξτε τη σύνδεση δεδομένων σας και προσπαθήστε ξανά.</string>
      <string name="find_device_error_password_changed">Ο κωδικός πρόσβασης του λογαριασμού έχει αλλάξει πρόσφατα.</string>
-     <string name="find_device_error_server">Σφάλμα διακομιστή</string>
-     <string name="find_device_error_unknown">Άγνωστο σφάλμα.</string>
+     <string name="find_device_error_server">Σφάλμα διακομιστή (%s)</string>
+     <string name="find_device_error_unknown">Άγνωστο σφάλμα (%s)</string>
      <string name="find_device_noise_title">Εύρεση συσκευής με ήχο</string>
      <string name="find_device_notice_p1">Πηγαίνετε στο</string>
      <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"για να εντοπίσετε, κλειδώσετε ή να επαναφέρετε το τηλέφωνό σας.
 Εάν αλλάξετε κάρτα SIM, ένα άλλο SMS θα σταλεί αυτόματα για να ενεργοποιήσετε ξανά αυτή τη λειτουργία."</string>
      <string name="find_device_stop_noise">Πατήστε OK για σίγαση</string>
+     <string name="find_device_storage_corrupted">Εύρεση συσκευής: η μνήμη του τηλεφώνου είναι κατεστραμμένη. Η συσκευή σας δεν είναι ασφαλής τώρα.</string>
      <string name="find_device_success_title">Εύρεση συσκευής</string>
      <string name="i_know">OK</string>
      <string name="lock_msg_phone">Στοιχεία επικοινωνίας: %s</string>
@@ -42,6 +45,15 @@
      <string name="unlock_error_ssl_hand_shake">"Αδυναμία σύνδεσης στον διακομιστή. Δοκιμάστε να ρυθμίσετε την ημερομηνία και την ώρα χειροκίνητα."</string>
      <string name="unlock_error_unknown">"Αδυναμία σύνδεσης"</string>
      <string name="unlock_error_user_name">Μη έγκυρο όνομα χρήστη</string>
+     <string name="unlock_help">"Μείνετε συνδεδεμένοι με το δίκτυο
+Βεβαιωθείτε ότι έχετε τοποθετήσει μια κάρτα SIM και ότι δεν είστε συνδεδεμένοι σε ένα ασταθές δίκτυο Wi‑Fi
+
+Ξεχάσατε τον κωδικό;
+Πηγαίνετε στο id.mi.com για επαναφορά του κωδικού σας
+
+Άλλοι λόγοι
+Συνδεθείτε στο i.mi.com και δοκιμάστε να ξεκλειδώσετε τη συσκευής σας από εκεί"</string>
+     <string name="unlock_help_title">Βοήθεια ξεκλειδώματος:</string>
      <string name="unlock_wrong_captcha">Ο κωδικός που δώσατε είναι λάθος</string>
      <string name="unlocking">Ενεργοποίηση…</string>
      <string name="verify_password_failed">"Αδυναμία επαλήθευσης ID λογαριασμού Mi. %s."</string>

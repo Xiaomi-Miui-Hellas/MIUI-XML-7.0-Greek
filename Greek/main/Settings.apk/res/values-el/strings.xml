@@ -58,7 +58,7 @@
 
 Μπορείτε επίσης προσωρινά μεγεθύνει ότι είναι κάτω από το δάχτυλό σας με τριπλό κλικ πατώντας και κρατώντας το πατημένο. Σε αυτή την κατάσταση μεγέθυνσης, μπορείτε να σύρετε το δάχτυλό σας για να εξερευνήσετε διάφορα μέρη της οθόνης. Σηκώστε το δάχτυλό σας για να επιστρέψετε στην προηγούμενη κατάσταση σας.
 
-Σημείωση: Το τριπλό χτύπημα για μεγέθυνση λειτουργεί παντού εκτός από το πληκτρολόγιο και την γραμμή πλοήγησης."</string>
+Σημείωση: Το τριπλό χτύπημα για μεγέθυνση λειτουργεί παντού εκτός από το πληκτρολόγιο και τη γραμμή πλοήγησης."</string>
      <string name="accessibility_screen_magnification_title">Χειρονομίες μεγέθυνσης</string>
      <string name="accessibility_service_default_description">Χωρίς περιγραφή</string>
      <string name="accessibility_service_no_apps_message">Το TalkBack παρέχει προφορικά σχόλια για να βοηθήσει τους τυφλούς χρήστες και με περιορισμένη όραση. Θέλετε να το εγκαταστήσετε δωρεάν από το Android Market;</string>
@@ -119,7 +119,7 @@
      <string name="add_fingerprint_toast_text">Τοποθετήστε το δάκτυλό σας στο σαρωτή τώρα</string>
      <string name="adding_profile_owner_warning">"Εάν συνεχίσετε, ο Χρήστης σας θα διαχειρίζεται από το Διαχειριστή σας ο οποίος θα είναι σε θέση να αποθηκεύσει σχετικά δεδομένα εκτός από τα προσωπικά σας δεδομένα.
 
-Ο Διαχειριστής σας έχει την  δυνατότητα να παρακολουθεί και να διαχειρίζεται τις ρυθμίσεις, πρόσβαση, εφαρμογές και δεδομένα που σχετίζονται με αυτόν τον Χρήστη, συμπεριλαμβανομένης και της δραστηριότητας των δικτύων και των πληροφοριών για τον εντοπισμό της συσκευής σας."</string>
+Ο Διαχειριστής σας έχει τη δυνατότητα να παρακολουθεί και να διαχειρίζεται τις ρυθμίσεις, πρόσβαση, εφαρμογές και δεδομένα που σχετίζονται με αυτόν τον Χρήστη, συμπεριλαμβανομένης και της δραστηριότητας των δικτύων και των πληροφοριών για τον εντοπισμό της συσκευής σας."</string>
      <string name="additional_permissions">Πρόσθετες άδειες</string>
      <string name="additional_permissions_more">%1$d ακόμα</string>
      <string name="additional_system_update" />
@@ -149,7 +149,7 @@
      <string name="allow_data_usage_title">Να επιτρέπεται η χρήση δεδομένων κατά την περιαγωγή</string>
      <string name="allow_mock_location">Να επιτρέπονται οι ψευδείς τοποθεσίες</string>
      <string name="allow_mock_location_summary">Ψευδείς τοποθεσίες</string>
-     <string name="allow_overlay_description">Αυτή η άδεια επιτρέπει σε μια εφαρμογή να εμφανίζεται πάνω από άλλες εφαρμογές που χρησιμοποιείτε και μπορεί να παρεμβαίνει στην χρήση της διεπαφής άλλων εφαρμογών ή να αλλάζει ότι περιμένετε ότι θα δείτε στο περιεχόμενο άλλων εφαρμογών.</string>
+     <string name="allow_overlay_description">Αυτή η άδεια επιτρέπει σε μια εφαρμογή να εμφανίζεται πάνω από άλλες εφαρμογές που χρησιμοποιείτε και μπορεί να παρεμβαίνει στη χρήση της διεπαφής άλλων εφαρμογών ή να αλλάζει ότι περιμένετε ότι θα δείτε στο περιεχόμενο άλλων εφαρμογών.</string>
      <string name="allow_usage_access_message">Αν επιτρέψετε την πρόσβαση, αυτή η εφαρμογή θα μπορεί να δει γενικές πληροφορίες σχετικά με τις εφαρμογές στη συσκευή σας, όπως το πόσο συχνά τις χρησιμοποιείτε.</string>
      <string name="allow_usage_access_title">Να επιτρέπεται η πρόσβαση;</string>
      <string name="alpha_build">" | Alpha"</string>
@@ -280,9 +280,9 @@
      <string name="apps_with_restrictions_header">Εφαρμογές με περιορισμούς</string>
      <string name="apps_with_restrictions_settings_button">Αναπτύξτε τις ρυθμίσεις για την εφαρμογή</string>
      <string name="ask_compatibility">Ερώτηση κατά την εκτέλεση</string>
-     <string name="assist_access_context_summary">Επιτρέπει στην βοηθητική εφαρμογή να έχει πρόσβαση στο περιεχόμενο της οθόνης ως κείμενο</string>
+     <string name="assist_access_context_summary">Επιτρέπει στη βοηθητική εφαρμογή να έχει πρόσβαση στο περιεχόμενο της οθόνης ως κείμενο</string>
      <string name="assist_access_context_title">Χρήση κειμένου από την οθόνη</string>
-     <string name="assist_access_screenshot_summary">Επιτρέπει στην βοηθητική εφαρμογή να έχει πρόσβαση σε μια εικόνα της οθόνη</string>
+     <string name="assist_access_screenshot_summary">Επιτρέπει στη βοηθητική εφαρμογή να έχει πρόσβαση σε μια εικόνα της οθόνη</string>
      <string name="assist_access_screenshot_title">Χρήση στιγμιότυπου</string>
      <string name="assist_and_voice_input_title">Βοηθός &amp; φωνητική είσοδος</string>
      <string name="assist_footer">Οι βοηθητικές εφαρμογές μπορούν να σας βοηθήσουν με βάση τις πληροφορίες από την οθόνη που βλέπετε. Ορισμένες εφαρμογές υποστηρίζουν τόσο τις φωνητικές εντολές όσο και την έναρξη υπηρεσιών για να σας παρέχουν ολοκληρωμένη βοήθεια.</string>
@@ -406,7 +406,7 @@
      <string name="battery_level_title">Επίπεδο μπαταρίας</string>
      <string name="battery_light_summary">Ενεργοποίηση του LED ειδοποίησης όταν η συσκευή φορτίζει</string>
      <string name="battery_light_title">Ανάβει κατά τη φόρτιση</string>
-     <string name="battery_msg_unaccounted">Η χρήση μπαταρίας είναι μια προσέγγιση της χρήσης ενέργειας και δεν περιλαμβάνει κάθε πηγή της κατανάλωσης μπαταρίας. Η Άλλη χρήση μπαταρίας (διάφορα) είναι η διαφορά μεταξύ της κατά προσέγγιση υπολογισμένης χρήσης ενέργειας και της πραγματικής κατανάλωσης που παρατηρείται στην μπαταρία.</string>
+     <string name="battery_msg_unaccounted">Η χρήση μπαταρίας είναι μια προσέγγιση της χρήσης ενέργειας και δεν περιλαμβάνει κάθε πηγή της κατανάλωσης μπαταρίας. Η Άλλη χρήση μπαταρίας (διάφορα) είναι η διαφορά μεταξύ της κατά προσέγγιση υπολογισμένης χρήσης ενέργειας και της πραγματικής κατανάλωσης που παρατηρείται στη μπαταρία.</string>
      <string name="battery_saver">Εξοικονόμηση μπαταρίας</string>
      <string name="battery_saver_turn_on_automatically_never">Ποτέ</string>
      <string name="battery_saver_turn_on_automatically_pct">στο %1$d%% της μπαταρίας</string>
@@ -528,7 +528,7 @@
      <string name="bluetooth_is_discoverable_always">Ορατή σε άλλες συσκευές Bluetooth</string>
      <string name="bluetooth_is_visible_message">Το %1$s είναι ορατό σε κοντινές συσκευές, όσο οι Ρυθμίσεις Bluetooth είναι ανοικτές.</string>
      <string name="bluetooth_lock_voice_dialing">Εμπλοκή φωνητικής κλήσης</string>
-     <string name="bluetooth_lock_voice_dialing_summary">Αποτρέπει την χρήση της φωνητικής κλήσης Bluetooth όταν η οθόνη δεν είναι ενεργή</string>
+     <string name="bluetooth_lock_voice_dialing_summary">Αποτρέπει τη χρήση της φωνητικής κλήσης Bluetooth όταν η οθόνη δεν είναι ενεργή</string>
      <string name="bluetooth_map_acceptance_dialog_text">%1$s επιθυμεί να αποκτήσει πρόσβαση στα μηνύματά σας. Παραχώρηση πρόσβασης σε %2$s;</string>
      <string name="bluetooth_map_profile_summary_connected">Συνδεδεμένο στο χάρτη</string>
      <string name="bluetooth_map_profile_summary_use_for">Χρήση για χάρτη</string>
@@ -621,11 +621,11 @@
      <string name="bluetooth_turning_on">Ενεργοποίηση Bluetooth…</string>
      <string name="bluetooth_unknown" />
      <string name="bluetooth_unlock_add_device">Προσθήκη συσκευής</string>
-     <string name="bluetooth_unlock_change_device_confirm_msg">Η παλιά συσκευή θα αντικατασταθεί με την νέα, είστε σίγουροι ;</string>
+     <string name="bluetooth_unlock_change_device_confirm_msg">Η παλιά συσκευή θα αντικατασταθεί με τη νέα, είστε σίγουροι ;</string>
      <string name="bluetooth_unlock_change_matched_device">Επιλογή άλλης συσκευής</string>
      <string name="bluetooth_unlock_confirm_device_text">Παρακαλούμε κάντε επιβεβαίωση της συσκευής</string>
      <string name="bluetooth_unlock_delete_device">Διαγραφή της συσκευής</string>
-     <string name="bluetooth_unlock_delete_device_confirm_msg">Είσαι σίγουρος για την διαγραφή;</string>
+     <string name="bluetooth_unlock_delete_device_confirm_msg">Είσαι σίγουρος για τη διαγραφή;</string>
      <string name="bluetooth_unlock_device_matched_text">Χρήση της συσκευής για ξεκλείδωμα φρουρού</string>
      <string name="bluetooth_unlock_no_matched_device_yet">Δεν υπάρχει διαθέσιμη συσκευή</string>
      <string name="bluetooth_unlock_settings_devices_title">Συσκευή</string>
@@ -756,6 +756,8 @@
      <string name="clear_failed_dlg_title">Εκκαθάριση δεδομένων</string>
      <string name="clear_user_data_text">Καθαρισμός δεδομένων</string>
      <string name="close_dialog">OK</string>
+     <string name="close_miui_optimization_title">Απενεργοποίηση βελτιστοποίησης MIUI</string>
+     <string name="close_miui_optimization_warning_message">Η συσκευή σας θα επανεκκινήσει για εφαρμογή αυτής της αλλαγής. Σημείωση: η απενεργοποίηση αυτής της λειτουργίας, θα επιφέρει σημαντικές αλλαγές στις διατάξεις και άλλα στοιχεία του UI.</string>
      <string name="cloud_backup_section_title">Αντ.ασφαλείας Mi Cloud</string>
      <string name="cloud_backup_settings_section_title">Ρυθμίσεις αντιγράφων</string>
      <string name="cloud_restore_section_summary">Επαναφορά εφαρμογών, διάταξη Αρχικής Οθόνης και ρυθμίσεις συστήματος</string>
@@ -781,7 +783,7 @@
      <string name="common_settings">Απλές ρυθμίσεις</string>
      <string name="complete_settings">Πλήρεις ρυθμίσεις</string>
      <string name="computing_size">Υπολογισμός…</string>
-     <string name="condition_provider_security_warning_summary">Το %1$s θα είναι σε θέση να προσθέσει προϋποθέσεις εξόδου στην λειτουργία Μην Ενοχλείτε.</string>
+     <string name="condition_provider_security_warning_summary">Το %1$s θα είναι σε θέση να προσθέσει προϋποθέσεις εξόδου στη λειτουργία Μην Ενοχλείτε.</string>
      <string name="condition_provider_security_warning_title">Ενεργοποίηση %1$s;</string>
      <string name="config_charging_function_name">φόρτιση</string>
      <string name="config_list_label">Ρυθμισμένα δίκτυα</string>
@@ -893,7 +895,7 @@
      <string name="data_size_label">Δεδομένα</string>
      <string name="data_summary_format">%1$s χρήση από %2$s</string>
      <string name="data_switch_started">Εναλλαγή SIM δεδομένων. Αυτό μπορεί να διαρκέσει μέχρι και ένα λεπτό…</string>
-     <string name="data_usage_accounting">Τα στοιχεία χρεώσεων δεδομένων του φορέα μπορεί να διαφέρουν από αυτά στην συσκευή σας.</string>
+     <string name="data_usage_accounting">Τα στοιχεία χρεώσεων δεδομένων του φορέα μπορεί να διαφέρουν από αυτά στη συσκευή σας.</string>
      <string name="data_usage_app">Χρήση εφαρμογών</string>
      <string name="data_usage_app_info_label">ΠΛΗΡΟΦΟΡΙΕΣ ΕΦΑΡΜΟΓΩΝ</string>
      <string name="data_usage_app_items_header_text">Χρήση εφαρμογών</string>
@@ -917,7 +919,7 @@
      <string name="data_usage_auto_sync_on_dialog_title">Ενεργοποίηση δεδομένων αυτόματου συγχρονισμού;</string>
      <string name="data_usage_background_label">Παρασκήνιο:</string>
      <string name="data_usage_cellular_data">Δεδομένα κινητής</string>
-     <string name="data_usage_cellular_data_summary">Σε παύση λόγο ορίου</string>
+     <string name="data_usage_cellular_data_summary">Σε παύση λόγω ορίου</string>
      <string name="data_usage_change_cycle">Αλλαγή του κύκλου …</string>
      <string name="data_usage_cycle">Κύκλος χρήσης δεδομένων</string>
      <string name="data_usage_cycle_editor_positive">Ορισμός</string>
@@ -929,7 +931,7 @@
      <string name="data_usage_disable_mobile">Απενεργοποίηση δεδομένων κινητής τηλεφωνίας;</string>
      <string name="data_usage_disable_mobile_limit">Ορισμός ορίου δεδομένων κινητής</string>
      <string name="data_usage_disable_wifi_limit">Ορισμός Wi‑Fi ορίου δεδομένων</string>
-     <string name="data_usage_disclaimer">Τα στοιχεία χρεώσεων δεδομένων του φορέα μπορεί να διαφέρουν από αυτά στην συσκευή σας.</string>
+     <string name="data_usage_disclaimer">Τα στοιχεία χρεώσεων δεδομένων του φορέα μπορεί να διαφέρουν από αυτά στη συσκευή σας.</string>
      <string name="data_usage_empty">Δεν υπάρχουν εφαρμογές που χρησιμοποιούνται τα δεδομένα κατά τη διάρκεια αυτής της περιόδου.</string>
      <string name="data_usage_enable_3g">2G-3G δεδομένα</string>
      <string name="data_usage_enable_4g">4G δεδομένα</string>
@@ -941,7 +943,7 @@
 
 Μιας και η χρήση των δεδομένων μετριέται με το τηλέφωνό σας, και ο φορέας σας μπορεί να ευθύνεται για τη χρήση διαφορετικά, σκεφτείτε να χρησιμοποιήσετε ένα συντηρητικό όριο."</string>
      <string name="data_usage_limit_dialog_title">Περιορισμός της χρήσης δεδομένων</string>
-     <string name="data_usage_limit_editor_title">Όριο που ορίζεται για την χρήση δεδομένων</string>
+     <string name="data_usage_limit_editor_title">Όριο που ορίζεται για τη χρήση δεδομένων</string>
      <string name="data_usage_list_mobile">Κινητή</string>
      <string name="data_usage_list_none">Κανένα</string>
      <string name="data_usage_menu_allow_background">Επιτρέψτε τα δεδομένα παρασκηνίου</string>
@@ -964,7 +966,7 @@
      <string name="data_usage_pick_cycle_day">Ημέρα του μήνα για να επαναφέρετε τον κύκλο χρήσης δεδομένων:</string>
      <string name="data_usage_received_sent">%1$s ελήφθησαν, %2$s εστάλησαν</string>
      <string name="data_usage_restrict_background">Αν περιορίσετε στο παρασκήνιο δεδομένων κινητής τηλεφωνίας, ορισμένες εφαρμογές και υπηρεσίες δεν θα λειτουργούν, εκτός αν είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi.</string>
-     <string name="data_usage_restrict_background_multiuser">"Αν περιορίσετε την χρήση δεδομένων κινητής τηλεφωνίας στο παρασκήνιο, ορισμένες εφαρμογές και υπηρεσίες δεν θα λειτουργούν, εκτός αν είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi.
+     <string name="data_usage_restrict_background_multiuser">"Αν περιορίσετε τη χρήση δεδομένων κινητής τηλεφωνίας στο παρασκήνιο, ορισμένες εφαρμογές και υπηρεσίες δεν θα λειτουργούν, εκτός αν είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi.
 
 Αυτή η ρύθμιση επηρεάζει όλους τους χρήστες σε αυτό το τηλέφωνο."</string>
      <string name="data_usage_restrict_background_title">Περιορισμός δεδομένων παρασκηνίου;</string>
@@ -1124,10 +1126,16 @@
      <string name="display_settings_title">Οθόνη</string>
      <string name="dlg_cancel">Άκυρο</string>
      <string name="dlg_close">Κλείσιμο</string>
-     <string name="dlg_confirm_unmount_text">Εάν αποσυνδέσετε την συσκευή USB, μερικές εφαρμογές που χρησιμοποιείτε θα σταματήσουν και δε θα είναι διαθέσιμες μέχρι να συνδέσετε ξανά την συσκευή USB</string>
+     <string name="dlg_confirm_uicc_unmount_text">Εάν αφαιρέσετε τη συσκευή αποθήκευσης UICC, ορισμένες εφαρμογές μπορεί να σταματήσουν και να μην είναι διαθέσιμες μέχρι να  τοποθετήσετε ξανά τον αποθηκευτικό χώρο UICC.</string>
+     <string name="dlg_confirm_uicc_unmount_title">Αφαίρεση συσκευής αποθήκευσης UICC;</string>
+     <string name="dlg_confirm_unmount_text">Εάν αποσυνδέσετε τη συσκευή USB, μερικές εφαρμογές που χρησιμοποιείτε θα σταματήσουν και δε θα είναι διαθέσιμες μέχρι να συνδέσετε ξανά τη συσκευή USB</string>
      <string name="dlg_confirm_unmount_title">Αποσύνδεση συσκευής USB</string>
+     <string name="dlg_confirm_usb_unmount_text">Εάν αφαιρέσετε τη συσκευή αποθήκευσης USB, ορισμένες εφαρμογές μπορεί να σταματήσουν και να μην είναι διαθέσιμες μέχρι να τοποθετήσετε ξανά τη συσκευή αποθήκευσης USB.</string>
+     <string name="dlg_confirm_usb_unmount_title">Αφαίρεση συσκευής αποθήκευσης USB;</string>
+     <string name="dlg_error_uicc_unmount_text">"Αδυναμία εξαγωγής συσκευής αποθήκευσης UICC. Δοκιμάστε ξανά αργότερα."</string>
      <string name="dlg_error_unmount_text">"Αδύνατη η αποσύνδεση της συσκευής USB. Δοκιμάστε αργότερα "</string>
      <string name="dlg_error_unmount_title" />
+     <string name="dlg_error_usb_unmount_text">"Αδυναμία εξαγωγής συσκευής αποθήκευσης USB. Δοκιμάστε ξανά αργότερα."</string>
      <string name="dlg_ok">OK</string>
      <string name="dlg_switch">Εναλλαγή</string>
      <string name="dndm_alarm_content">Ήχοι</string>
@@ -1219,7 +1227,7 @@
      <string name="done_button">Τέλος</string>
      <string name="download_current_rom">Λήψη τελευταίας έκδοσης της MIUI</string>
      <string name="downloading_description">Λήψη…</string>
-     <string name="doze_summary">Ενεργοποίηση οθόνης όταν την σηκώνετε ή όταν φτάνει νέα ειδοποίηση</string>
+     <string name="doze_summary">Ενεργοποίηση οθόνης όταν τη σηκώνετε ή όταν φτάνει νέα ειδοποίηση</string>
      <string name="draw_overlay">Επικάλυψη άλλων εφαρμογών</string>
      <string name="draw_overlay_title">Εφαρμογές που μπορούν να επικαλύψουν άλλες εφαρμογές</string>
      <string name="drive_mode">Λειτουργία αυτοκινήτου</string>
@@ -1266,7 +1274,7 @@
      <string name="enable_multi_window_summary">Πολλαπλές δραστηριότητες στην οθόνη την ίδια στιγμή.</string>
      <string name="enable_opengl_traces_title">Ενεργοποίηση ίχνη OpenGL</string>
      <string name="enable_quick_setting">Εμφάνιση στις Γρήγορες Ρυθμίσεις</string>
-     <string name="enable_quickboot_summary">Θέστε την συσκευή σε λειτουργία γρήγορης εκκίνησης αντί της κανονικής απενεργοποίησης</string>
+     <string name="enable_quickboot_summary">Θέστε τη συσκευή σε λειτουργία γρήγορης εκκίνησης αντί της κανονικής απενεργοποίησης</string>
      <string name="enable_quickboot_title">Λειτουργία γρήγορης εκκίνησης</string>
      <string name="enable_service_encryption_warning">Εάν ενεργοποιήσετε το %1$s, η συσκευή σας δεν θα χρησιμοποιήσει το κλείδωμα οθόνης για βελτίωση της κρυπτογράφησης δεδομένων.</string>
      <string name="enable_service_password_reason">Επειδή η ενεργοποίηση του %1$s επηρεάζει την κρυπτογράφηση δεδομένων, θα πρέπει να επιβεβαιώσετε τον κωδικό πρόσβασή σας.</string>
@@ -1404,7 +1412,7 @@
      <string name="font_size_preview_text">Προεπισκόπηση μεγέθους γραμματοσειράς</string>
      <string name="font_size_save">Εντάξει</string>
      <string name="font_size_small">Μικρή</string>
-     <string name="font_size_summary">Ρύθμιση μεγέθους γραμματοσειράς στις εφαρμογές όπως πχ Τηλέφωνο, Μηνύματα, Επαφές κτλ για την βελτίωση της ανάγνωσης</string>
+     <string name="font_size_summary">Ρύθμιση μεγέθους γραμματοσειράς στις εφαρμογές όπως πχ Τηλέφωνο, Μηνύματα, Επαφές κτλ για τη βελτίωση της ανάγνωσης</string>
      <string name="font_size_summary1">"
 Δυσαρεστημένοι; Δοκιμάστε "</string>
      <string name="font_size_summary2">Lite mode</string>
@@ -1509,7 +1517,7 @@
      <string name="header_category_system">Σύστημα</string>
      <string name="header_category_wireless_networks">Δίκτυο &amp; συνδεσιμότητα</string>
      <string name="header_data_and_synchronization">Δεδομένα &amp; Συγχρονισμός</string>
-     <string name="heavy_weight_stop_description">Αυτή η εφαρμογή δεν μπορεί να σταματήσει με ασφάλεια. Αν την σταματήσεις, μπορεί να χάσετε κάποια από την τρέχουσα εργασία σας.</string>
+     <string name="heavy_weight_stop_description">Αυτή η εφαρμογή δεν μπορεί να σταματήσει με ασφάλεια. Αν τη σταματήσεις, μπορεί να χάσετε κάποια από την τρέχουσα εργασία σας.</string>
      <string name="help_label">Βοήθεια</string>
      <string name="help_uri_about" />
      <string name="help_uri_accessibility" />
@@ -1545,7 +1553,7 @@
      <string name="hidden_ssid_label">Κρυφό SSID:</string>
      <string name="high_performance_notif_summary">Η συσκευή μπορεί να υπερθερμανθεί.</string>
      <string name="high_performance_notif_title">Υψηλή απόδοση ενεργή</string>
-     <string name="high_performance_title">Φαίνεται πως τρέχετε ένα Benchmark. Θέστε την διαχείριση ενέργειας στην \"Απόδοση\" για καλύτερα αποτελέσματα.</string>
+     <string name="high_performance_title">Φαίνεται πως τρέχετε ένα Benchmark. Θέστε τη διαχείριση ενέργειας στην \"Απόδοση\" για καλύτερα αποτελέσματα.</string>
      <string name="history_details_title">Λεπτομέρειες Ιστορικού</string>
      <string name="home_app_uninstall_button">Κατάργηση εγκατάστασης αυτής της εφαρμογής</string>
      <string name="home_key">Αρχική οθόνη</string>
@@ -1594,8 +1602,8 @@
      <string name="internal_format">Διαμόρφωση εσωτερικού χώρου</string>
      <string name="internal_format_summary">Η διαμόρφωση του εσωτερικού χώρου θα διαγράψει όλα τα αρχεία όπως μουσική και φωτογραφίες</string>
      <string name="internal_media_format_button_text">Διαγραφή εσωτερικού χώρου αποθήκευσης</string>
-     <string name="internal_media_format_desc">Διαγραφή εσωτερικού χώρου αποθήκευσης; <b>Όλα</b> τα δεδομένα σας θα διαγραφούν οριστικά. Τηλέφωνο θα ξεκινήσει ξανά μετά από την διαγραφή της εσωτερική μνήμης.</string>
-     <string name="internal_media_format_final_desc">Διαγραφή εσωτερικού χώρου αποθήκευσης; Δεν μπορείτε να αντιστρέψετε αυτή την ενέργεια! Τηλέφωνο θα ξεκινήσει ξανά μετά από την διαγραφή της εσωτερική μνήμης.</string>
+     <string name="internal_media_format_desc">Διαγραφή εσωτερικού χώρου αποθήκευσης; <b>Όλα</b> τα δεδομένα σας θα διαγραφούν οριστικά. Τηλέφωνο θα ξεκινήσει ξανά μετά από τη διαγραφή της εσωτερική μνήμης.</string>
+     <string name="internal_media_format_final_desc">Διαγραφή εσωτερικού χώρου αποθήκευσης; Δεν μπορείτε να αντιστρέψετε αυτή την ενέργεια! Τηλέφωνο θα ξεκινήσει ξανά μετά από τη διαγραφή της εσωτερική μνήμης.</string>
      <string name="internal_media_format_title">Διαγραφή εσωτερικού χώρου αποθήκευσης</string>
      <string name="internal_memory">Εσωτερικός χώρος αποθήκευσης</string>
      <string name="internal_storage">Εσωτερικός χώρος</string>
@@ -1653,7 +1661,7 @@
      <string name="legal_workday_message">(Παράλειψη αργιών)</string>
      <string name="license_title">Άδεια</string>
      <string name="lift_to_wake_title">Σηκώστε για να ξυπνήσει</string>
-     <string name="line_breaking_summary">Βελτιστοποιήστε την γραμμή θραύσης παραγράφου</string>
+     <string name="line_breaking_summary">Βελτιστοποιήστε τη γραμμή θραύσης παραγράφου</string>
      <string name="line_breaking_title">βελτιστοποιήσετε το κείμενο</string>
      <string name="link_speed_label">Ταχύτητα σύνδεσης:</string>
      <string name="loading_notification_apps">Φόρτωση εφαρμογών…</string>
@@ -1726,7 +1734,6 @@
      <string name="location_title">Η τοποθεσία μου</string>
      <string name="lock_after_timeout">Αυτόματο κλείδωμα</string>
      <string name="lock_after_timeout_summary">%1$s μετά τον ύπνο</string>
-     <string name="lock_intro_message">Lock_intro_message</string>
      <string name="lock_screen_secure_after_timeout_immediately_summary">Απαιτείται άμεσα κωδικός πρόσβασης</string>
      <string name="lock_screen_secure_after_timeout_summary">Απαιτείται κωδικός πρόσβασης στο %1$s</string>
      <string name="lock_screen_secure_after_timeout_title">Απαιτείται κωδικός πρόσβασης</string>
@@ -1838,7 +1845,7 @@
 "<li>Άλλα δεδομένα σας</li>"</string>
      <string name="master_clear_desc_erase_external_storage">"
 
-Για την διαγραφή μουσικής, φωτογραφιών, και άλλων δεδομένων, ο "<b>αποθηκευτικός χώρος USB</b> πρέπει να διαγραφεί."</string>
+Για τη διαγραφή μουσικής, φωτογραφιών, και άλλων δεδομένων, ο "<b>αποθηκευτικός χώρος USB</b> πρέπει να διαγραφεί."</string>
      <string name="master_clear_erase_application_progress">Διαγραφή εφαρμογών σε εξέλιξη</string>
      <string name="master_clear_failed">Δεν πραγματοποιήθηκε επαναφορά επειδή η υπηρεσία Εκκαθάρισης του συστήματος δεν είναι διαθέσιμη</string>
      <string name="master_clear_final_button_text">Διαγραφή όλων</string>
@@ -1972,7 +1979,7 @@
      <string name="move_app_failed_dlg_text">Αδύνατη η μετακίνηση της εφαρμογής %1$s</string>
      <string name="move_app_failed_dlg_title" />
      <string name="move_app_to_internal">Στο τηλέφωνο</string>
-     <string name="move_app_to_sdcard">Στην συσκευή αποθήκευσης USB</string>
+     <string name="move_app_to_sdcard">Στη συσκευή αποθήκευσης USB</string>
      <string name="moving">Μετακίνηση</string>
      <string name="msd_driver_download">Κατεβάστε τον οδηγό προγράμματος</string>
      <string name="msd_driver_download_mac">OSX: Λήψη του οδηγού και εγκατάσταση του AndroidFileTransfer.dmg.</string>
@@ -1986,7 +1993,7 @@
      <string name="msd_install_download_zhushou">Έγινε λήψη του Mi Phone Manager</string>
      <string name="msd_install_finish">ΟΚ</string>
      <string name="msd_install_next">Επόμενο</string>
-     <string name="msd_install_retry">Αν το PC σας δεν βρίσκει την συσκευή, δοκιμάστε τα ακόλουθα:</string>
+     <string name="msd_install_retry">Αν το PC σας δεν βρίσκει τη συσκευή, δοκιμάστε τα ακόλουθα:</string>
      <string name="msd_install_retry_connect">Επανασυνδέστε το καλώδιο USB.</string>
      <string name="msd_install_retry_reinstall">Επανεγκαταστήστε τον οδηγό(Driver).</string>
      <string name="msd_install_retry_reinstall_mac">Εγκαταστήστε πρώτα την εφαρμογή Transfer, και τρέξτε την εφαρμογή.</string>
@@ -2089,7 +2096,7 @@
      <string name="no_services">Μη ενεργές υπηρεσίες</string>
      <string name="no_update_found">Έχετε την τελευταία έκδοση της MIUI</string>
      <string name="no_updates_found">Έχετε την τελευταία έκδοση της MIUI</string>
-     <string name="no_updates_warning">Δεν βρέθηκαν ενημερώσεις για την συσκευή σας</string>
+     <string name="no_updates_warning">Δεν βρέθηκαν ενημερώσεις για τη συσκευή σας</string>
      <string name="no_updates_warning2">Ησυχάστε, θα σας ενημερώσουμε όταν βρεθεί νέα έκδοση :)</string>
      <string name="noise_suppression">Μείωση του θορύβου περιβάλλοντος</string>
      <string name="normal_date_format">Κανονικό (%s)</string>
@@ -2252,7 +2259,7 @@
      <string name="power_usage_level_and_status">%1$s - %2$s</string>
      <string name="power_usage_list_summary">Χρήση από την τελευταία πλήρη φόρτιση</string>
      <string name="power_usage_not_available">Τα δεδομένα χρήσης της μπαταρίας δεν είναι διαθέσιμα</string>
-     <string name="power_usage_summary">Τι χρησιμοποιούσε την μπαταρία</string>
+     <string name="power_usage_summary">Τι χρησιμοποιούσε τη μπαταρία</string>
      <string name="power_usage_summary_title">Μπαταρία</string>
      <string name="power_wifi">Wi‑Fi</string>
      <string name="pref_button_light">Φωτισμός πλήκτρων</string>
@@ -2310,7 +2317,7 @@
      <string name="priority_storage_settings_summary">Εάν δεν βρεθεί κάρτα SD, τα δεδομένα θα σωθούν αυτόματα στον εσωτερικό αποθηκευτικό χώρο της συσκευής</string>
      <string name="priority_storage_summary">Επιλέξτε τον προεπιλεγμένο τόπο για σώσιμο δεδομένων χρήστη</string>
      <string name="priority_storage_title">Ρυθμίσεις αποθήκευσης</string>
-     <string name="privacy_mode_dialog_message">Με την λειτουργία επισκέπτη, κλήσεις, μηνύματα κειμένου, σημειώσεις και άλμπουμ, θα είναι κρυμμένα. Αυτή η λειτουργία δεν θα είναι ασφαλής και θα μπορεί να αναιρεθεί από τον επισκέπτη, εκτός και αν έχετε κάνει τις απαραίτητες ρυθμίσεις περιορισμού πρόσβασης στις Ρυθμίσεις > Ασφάλεια &amp; απόρρητο > Ασφάλεια απορρήτου</string>
+     <string name="privacy_mode_dialog_message">Με τη λειτουργία επισκέπτη, κλήσεις, μηνύματα κειμένου, σημειώσεις και άλμπουμ, θα είναι κρυμμένα. Αυτή η λειτουργία δεν θα είναι ασφαλής και θα μπορεί να αναιρεθεί από τον επισκέπτη, εκτός και αν έχετε κάνει τις απαραίτητες ρυθμίσεις περιορισμού πρόσβασης στις Ρυθμίσεις > Ασφάλεια &amp; απόρρητο > Ασφάλεια απορρήτου</string>
      <string name="privacy_mode_dialog_title">Λειτουργία επισκέπτη</string>
      <string name="privacy_mode_enable_sum">Απόκρυψη μηνυμάτων, σημειώσεων, φωτογραφιών και εισερχόμενων κλήσεων</string>
      <string name="privacy_mode_enable_title">Λειτουργία επισκεπτών</string>
@@ -2564,7 +2571,7 @@
      <string name="screen_timeout_summary">Μετά από %1$s αδράνειας</string>
      <string name="screen_timeout_title">Κατάσταση νάρκης</string>
      <string name="screensaver_settings_button">Ρυθμίσεις</string>
-     <string name="screensaver_settings_disabled_prompt">Για τον έλεγχο της συμπεριφοράς του τηλεφώνου όταν εισαχθεί στη βάση ή/και όταν κοιμάται, ενεργοποιήστε την Διαδραστική Προφύλαξη Οθόνης.</string>
+     <string name="screensaver_settings_disabled_prompt">Για τον έλεγχο της συμπεριφοράς του τηλεφώνου όταν εισαχθεί στη βάση ή/και όταν κοιμάται, ενεργοποιήστε τη Διαδραστική Προφύλαξη Οθόνης.</string>
      <string name="screensaver_settings_dream_start">Έναρξη τώρα</string>
      <string name="screensaver_settings_summary_dock">Ενώ είναι στη βάση</string>
      <string name="screensaver_settings_summary_either_long">Όταν είναι σε βάση ή κοιμάται και φορτίζει</string>
@@ -2576,7 +2583,7 @@
      <string name="sd_card_settings_label">Συσκευή αποθήκευσης USB</string>
      <string name="sd_card_storage">Συσκευή αποθήκευσης USB</string>
      <string name="sd_eject">Αποσύνδεση κοινόχρηστου αποθηκευτικού χώρου</string>
-     <string name="sd_eject_summary">Αποσυνδέσετε την συσκευή αποθήκευσης USB ώστε να την αφαιρέσετε με ασφάλεια</string>
+     <string name="sd_eject_summary">Αποσυνδέσετε τη συσκευή αποθήκευσης USB ώστε να την αφαιρέσετε με ασφάλεια</string>
      <string name="sd_ejecting_summary">Αποσύνδεση σε εξέλιξη</string>
      <string name="sd_ejecting_title">Αποσύνδεση</string>
      <string name="sd_format">Διαγραφή συσκευής αποθήκευσης USB</string>
@@ -2585,7 +2592,7 @@
      <string name="sd_memory">Συσκευή αποθήκευσης USB</string>
      <string name="sd_mount">Σύνδεση συσκευής αποθήκευσης USB</string>
      <string name="sd_mount_summary" />
-     <string name="sdcard_changes_instructions">Οι αλλαγές θα ισχύσουν όταν ξανασυνδέσετε την συσκευή USB</string>
+     <string name="sdcard_changes_instructions">Οι αλλαγές θα ισχύσουν όταν ξανασυνδέσετε τη συσκευή USB</string>
      <string name="sdcard_format">Διαμόρφωση συσκευής αποθήκευσης USB</string>
      <string name="sdcard_setting">Συσκευή αποθήκευσης USB</string>
      <string name="sdcard_settings_available_bytes_label">Διαθέσιμος χώρος:</string>
@@ -3096,7 +3103,7 @@
      <string name="usb_charging_summary">Απενεργοποιήστε όλα τα άλλα χαρακτηριστικά συνδέσεων USB για επιτάχυνση της φόρτισης.</string>
      <string name="usb_charging_title">Επιτάχυνση φόρτισης</string>
      <string name="usb_connection_category">Σύνδεση ως</string>
-     <string name="usb_host_mode_subtext">Για να χρησιμοποιήσετε ελεγκτές παιχνιδιών και άλλα περιφερειακά στη θύρα USB, μπορεί να μειώσει την διάρκεια ζωής της μπαταρίας</string>
+     <string name="usb_host_mode_subtext">Για να χρησιμοποιήσετε ελεγκτές παιχνιδιών και άλλα περιφερειακά στη θύρα USB, μπορεί να μειώσει τη διάρκεια ζωής της μπαταρίας</string>
      <string name="usb_host_mode_text">Ενεργοποίηση λειτουργίας υποδοχής USB</string>
      <string name="usb_label_installer_cd">Εγκατάσταση εργαλείων μεταφοράς αρχείων</string>
      <string name="usb_mount_summary" />
@@ -3104,7 +3111,7 @@
      <string name="usb_msd_driver_installer_title">Δίσκος εγκατάστασης Driver (MSD)</string>
      <string name="usb_msd_summary">Μετακίνηση αρχείων σε Windows και Mac</string>
      <string name="usb_msd_title">Μαζική αποθήκευση</string>
-     <string name="usb_mtp_summary">Σας επιτρέπει να μεταφέρετε αρχεία πολυμέσων στα Windows ή χρησιμοποιώντας την μεταφορά αρχείων Android σε Mac δείτε www android com/filetransfer</string>
+     <string name="usb_mtp_summary">Σας επιτρέπει να μεταφέρετε αρχεία πολυμέσων στα Windows ή χρησιμοποιώντας τη μεταφορά αρχείων Android σε Mac δείτε www android com/filetransfer</string>
      <string name="usb_mtp_title">Συσκευή πολυμέσων(MTP)</string>
      <string name="usb_ptp_summary">Σας επιτρέπει να μεταφέρετε εικόνες χρησιμοποιώντας λογισμικό της κάμερας και να μεταφέρετε αρχεία σε υπολογιστές που δεν υποστηρίζουν το MTP</string>
      <string name="usb_ptp_title">Κάμερα (PTP)</string>
@@ -3179,7 +3186,7 @@
      <string name="user_profile_confirm_remove_message">Χώρος αυτού του προφίλ και τα δεδομένα θα εξαφανιστούν από αυτό το τηλέφωνο. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.</string>
      <string name="user_profile_confirm_remove_title">Αφαιρέστε το προφίλ;</string>
      <string name="user_remove_user">Διαγραφή χρήστη</string>
-     <string name="user_remove_user_menu">Διαγραφή του %1$s από την συσκευή</string>
+     <string name="user_remove_user_menu">Διαγραφή του %1$s από τη συσκευή</string>
      <string name="user_rename">Μετονομασία</string>
      <string name="user_restrictions_controlled_by">Ελέγχεται από %1$s</string>
      <string name="user_restrictions_title">Περιορισμοί εφαρμογής και περιεχόμενου</string>
@@ -3248,7 +3255,7 @@
      <string name="voice_input_output_settings_title">Φωνητική είσοδος &amp; ρυθμίσεις εξόδου</string>
      <string name="voice_input_settings">Ρυθμίσεις φωνητικής εισόδου</string>
      <string name="voice_input_settings_title">Φωνητική είσοδος</string>
-     <string name="voice_interaction_security_warning">Αυτή η υπηρεσία φωνητικής εισόδου θα είναι σε θέση να παρακολουθεί την φωνή σας και να ελέγχει όλες τις εφαρμογές με δυνατότητα φωνητικής εισόδου για λογαριασμό σας. Βασίζεται στην εφαρμογή %s. Ενεργοποίηση αυτής της υπηρεσίας;</string>
+     <string name="voice_interaction_security_warning">Αυτή η υπηρεσία φωνητικής εισόδου θα είναι σε θέση να παρακολουθεί τη φωνή σας και να ελέγχει όλες τις εφαρμογές με δυνατότητα φωνητικής εισόδου για λογαριασμό σας. Βασίζεται στην εφαρμογή %s. Ενεργοποίηση αυτής της υπηρεσίας;</string>
      <string name="voice_interactor_preference_summary">Πλήρη με λέξεις-κλειδιά και αλληλεπίδραση</string>
      <string name="voice_recognizer_preference_summary">Απλή ομιλία σε κείμενο</string>
      <string name="voice_search_settings_title">Ηχητική αναζήτηση</string>
@@ -3496,7 +3503,7 @@
      <string name="wifi_scan_always_available_title">Να επιτρέπετε πάντα η σάρωση</string>
      <string name="wifi_scan_always_confirm_allow">Επιτρέψτε</string>
      <string name="wifi_scan_always_confirm_deny">Άρνηση</string>
-     <string name="wifi_scan_always_turnon_message">"Για να βελτιωθεί η ακρίβεια θέσης και για άλλους σκοπούς, %1$s θέλει να ενεργοποιήσει την σάρωση δικτύου, ακόμα και όταν το Wi‑Fi είναι απενεργοποιημένο.
+     <string name="wifi_scan_always_turnon_message">"Για να βελτιωθεί η ακρίβεια θέσης και για άλλους σκοπούς, %1$s θέλει να ενεργοποιήσει τη σάρωση δικτύου, ακόμα και όταν το Wi‑Fi είναι απενεργοποιημένο.
 
 Να επιτρέπεται αυτό για όλες τις εφαρμογές οι οποίες θέλουν να κάνουν σάρωση;"</string>
      <string name="wifi_scan_notify_remember_choice">Να μην εμφανιστεί ξανά</string>
