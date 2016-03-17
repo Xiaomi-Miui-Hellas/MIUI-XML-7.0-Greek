@@ -110,7 +110,6 @@
      <string name="ext_media_safe_unmount_notification_title">Η συσκευή αποθήκευσης USB μπορεί να αφαιρεθεί με ασφάλεια</string>
      <string name="ext_media_unmountable_notification_message">Η συσκευή αποθήκευσης USB έχει υποστεί βλάβη. Ίσως χρειαστεί να τη διαμορφώσετε.</string>
      <string name="ext_media_unmountable_notification_title">Κατεστραμμένη συσκευή αποθήκευσης USB</string>
-     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
      <string name="gps_notification_found_text">Η τοποθεσία έχει καθοριστεί από το GPS</string>
      <string name="gps_notification_searching_text">Ανίχνευση για GPS</string>
      <string name="headset_custom">Προσαρμογή</string>
@@ -120,7 +119,6 @@
 Κάντε χρήση του φορτιστή σας."</string>
      <string name="kilobyte_per_second">K/s</string>
      <string name="label_view">Μορφή</string>
-     <string name="lland">L Land</string>
      <string name="lockscreen_carrier_default">(χωρίς δίκτυο)</string>
      <string name="managed_profile_foreground_toast">"Χρησιμοποιείτε το προφίλ εργασίας σας"</string>
      <string name="mdb_entering">Εισέρχεται…</string>
@@ -155,8 +153,8 @@
      <string name="notification_otg_unknow_in">Η συσκευή OTG συνδέθηκε</string>
      <string name="notification_otg_unknow_out">Η συσκευή OTG αποσυνδέθηκε</string>
      <string name="notification_template_text">Υπάρχει μήνυμα. Πατήστε για εμφάνιση</string>
-     <string name="oldman_airplane_mode_text">airplane</string>
-     <string name="oldman_incall_text">incall</string>
+     <string name="oldman_airplane_mode_text">λειτουργία πτήσης</string>
+     <string name="oldman_incall_text">κλήση</string>
      <string name="oldman_status_bar_time_format_12">h:mm</string>
      <string name="oldman_status_bar_time_format_24">HH:mm</string>
      <string name="reject_call">Απόρριψη κλήσης</string>
