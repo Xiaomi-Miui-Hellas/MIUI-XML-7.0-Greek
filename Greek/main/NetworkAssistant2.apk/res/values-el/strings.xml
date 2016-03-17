@@ -63,7 +63,7 @@
      <string name="datausage_purchase_confirm_tip">Η παραγγελία σας:</string>
      <string name="datausage_purchase_get_captcha">Λήψη κωδικού επαλήθευσης ( %d )</string>
      <string name="datausage_purchase_get_captcha_again">Αποστολή νέου κωδικού</string>
-     <string name="datausage_purchase_get_captcha_failed">Αδυναμία λήψης κωδικού. Ελέγξτε την σύνδεσή σας και προσπαθήστε πάλι.</string>
+     <string name="datausage_purchase_get_captcha_failed">Αδυναμία λήψης κωδικού. Ελέγξτε τη σύνδεσή σας και προσπαθήστε πάλι.</string>
      <string name="datausage_purchase_goto_monthsetting">Επεξεργασία πληροφ.πακέτου</string>
      <string name="datausage_purchase_none_history">Άδεια</string>
      <string name="datausage_purchase_order_failure">Αποτυχία αγοράς</string>
@@ -92,7 +92,7 @@
      <string name="dialog_app_roaming_message">Όταν είστε σε περιαγωγή στο εξωτερικό, μόνο εφαρμογές που έχετε προσθέσει στη λίστα εξαιρέσεων μπορούν να χρησιμοποιήσουν τις υπηρεσίες δεδομένων. %1$s δεν έχει προστεθεί στη λίστα εξαιρέσεων. Προβολή λίστας τώρα;</string>
      <string name="dialog_app_roaming_title">Η διεθνής περιαγωγή δεν είναι ενεργοποιημένη για %1$s</string>
      <string name="dialog_roaming_apps_sorted_title">Ταξινόμηση κατά</string>
-     <string name="dialog_roaming_message">Οι εφαρμογές στην λίστα εξαιρέσεων θα μπορούν να συνδεθούν σε υπηρεσίες δεδομένων κατά τη διεθνή περιαγωγή. Προσθήκη αυτής της εφαρμογής στην λίστα εξαιρέσεων;</string>
+     <string name="dialog_roaming_message">Οι εφαρμογές στη λίστα εξαιρέσεων θα μπορούν να συνδεθούν σε υπηρεσίες δεδομένων κατά τη διεθνή περιαγωγή. Προσθήκη αυτής της εφαρμογής στη λίστα εξαιρέσεων;</string>
      <string name="dialog_roaming_title">Διεθνής περιαγωγή</string>
      <string name="dialog_title_attention">Προσοχή</string>
      <string name="disable_air_mode">Απενεργοποίηση λειτουργίας πτήσης</string>
@@ -115,7 +115,7 @@
      <string name="firewall_rule_group_title_mobile">Κινητή</string>
      <string name="firewall_rule_group_title_roaming">Διεθνής περιαγωγή</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
-     <string name="firewall_service_network_blocked">%1$s έχει περιοριστεί από την χρήση %2$s δικτύων</string>
+     <string name="firewall_service_network_blocked">%1$s έχει περιοριστεί από τη χρήση %2$s δικτύων</string>
      <string name="five_percent_total_pkg">%s (5%% των μηνιαίων σας δεδομένων κινητής)</string>
      <string name="force_stop_dlg_text">Αν περιορίσετε τα δεδομένα κινητής τηλεφωνίας, ορισμένες εφαρμογές και υπηρεσίες δεν θα λειτουργούν, εκτός αν είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi.</string>
      <string name="force_stop_dlg_title">Περιορισμός δεδομένων παρασκηνίου</string>
@@ -331,6 +331,7 @@
      <string name="pref_package_traffic_settings">Όριο δεδομένων</string>
      <string name="pref_pkg_begin_date">Ημερομηνία επαναφοράς του κύκλου χρήσης</string>
      <string name="pref_roaming_daily_limit_setting">Ημερήσιο όριο δεδομένων για την περιαγωγή</string>
+     <string name="pref_roaming_daily_limit_setting_cat_title">Ημερήσιο όριο δεδομένων</string>
      <string name="pref_roaming_setting_gategory">Περιαγωγή δεδομένων</string>
      <string name="pref_setting_operators_message">Επεξεργαστείτε το μήνυμα της συσκευής σας που αποστέλλεται στο φορέα σας για να συγχρονίσετε τα στατιστικά χρήσης των δεδομένων σας</string>
      <string name="pref_show_mobile_traffic">Όταν ξεκλειδώσετε το τηλέφωνο, εμφάνιση στατιστικών χρήσης δεδομένων για την περίοδο κατά την οποία η συσκευή σας είχε κλειδωθεί (πρέπει να είναι μεγαλύτερη από 5 λεπτά)</string>
@@ -385,8 +386,8 @@
      <string name="roaming_limit_dialog_message">Το ημερήσιο όριο δεδομένων έχει επιτευχθεί.</string>
      <string name="roaming_limit_network_notification_body">Πατήστε για να δείτε τα διαθέσιμα δίκτυα δεδομένων</string>
      <string name="roaming_limit_notification_title">Το ημερήσιο όριο δεδομένων έχει επιτευχθεί</string>
-     <string name="roaming_limit_warning_notification_body">Πατήστε για να δείτε την χρήση δεδομένων.</string>
-     <string name="roaming_not_start_body">Οι εφαρμογές στην λίστα εξαιρέσεων θα μπορούν να συνδεθούν σε υπηρεσίες δεδομένων κατά τη διεθνή περιαγωγή.</string>
+     <string name="roaming_limit_warning_notification_body">Πατήστε για να δείτε τη χρήση δεδομένων.</string>
+     <string name="roaming_not_start_body">Οι εφαρμογές στη λίστα εξαιρέσεων θα μπορούν να συνδεθούν σε υπηρεσίες δεδομένων κατά τη διεθνή περιαγωγή.</string>
      <string name="roaming_not_start_title">Διεθνής περιαγωγή</string>
      <string name="roaming_start_body">Επιτρέψτε στις εφαρμογές στη λίστα εξαιρέσεων να συνδεθούν σε υπηρεσίες δεδομένων κατά τη διεθνή περιαγωγή.</string>
      <string name="roaming_start_title">Διεθνής περιαγωγή</string>
@@ -401,8 +402,8 @@
      <string name="see_detail">Λεπτομέρειες</string>
      <string name="setting_traffic_pkg">Ορισμός πακέτου δεδομένων</string>
      <string name="settings">Ρυθμίσεις χρήσης δεδομένων</string>
-     <string name="show_traffic_dialog_message">Οι πληροφορίες χρήσης δεδομένων θα εμφανίζονται στην μπάρα ειδοποιήσεων. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή από τη Χρήση Δεδομένων > Ρυθμίσεις</string>
-     <string name="show_traffic_dialog_title">Εμφάνιση χρήσης στην μπάρα ειδοποιήσεων</string>
+     <string name="show_traffic_dialog_message">Οι πληροφορίες χρήσης δεδομένων θα εμφανίζονται στη μπάρα ειδοποιήσεων. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή τη δυνατότητα οποιαδήποτε στιγμή από τη Χρήση Δεδομένων > Ρυθμίσεις</string>
+     <string name="show_traffic_dialog_title">Εμφάνιση χρήσης στη μπάρα ειδοποιήσεων</string>
      <string name="signal_exception_summary">"Δεν είναι δυνατή η σύνδεση στο δίκτυο σε αυτή την περιοχή."</string>
      <string name="signal_exception_title">Ασθενές σήμα δικτύου</string>
      <string name="sim_location_error_dialog_message">"Η SIM που χρησιμοποιείτε είναι από %1$s. Αυτό είναι διαφορετικό από την τοποθεσία που ρυθμίσετε χειροκίνητα (%2$s). Αλλαγή τοποθεσίας SIM σε %3$s;"</string>
@@ -425,8 +426,8 @@
      <string name="tc_sms_report_get_sms_failure">Αδυναμία λήψης φόρμας SMS χρήσης δεδομένων</string>
      <string name="tc_sms_report_get_sms_successs">Φόρμα SMS χρήσης δεδομένων ενημερώθηκε</string>
      <string name="tc_sms_report_get_sms_timeout">Αδυναμία λήψης φόρμας δεδομένων SMS: λήξη χρονικού ορίου</string>
-     <string name="tc_sms_report_get_success">Ελήφθη SMS με αναφορά χρήσης δεδομένων από τον φορέα. Βεβαιωθείτε ότι είναι ακριβής και υποβάλετέ την σε μας.</string>
-     <string name="tc_sms_report_get_success_notify_body">Βεβαιωθείτε ότι η αναφορά είναι ακριβής και στείλτε την στην MIUI.</string>
+     <string name="tc_sms_report_get_success">Ελήφθη SMS με αναφορά χρήσης δεδομένων από τον φορέα. Βεβαιωθείτε ότι είναι ακριβής και υποβάλετέ τη σε μας.</string>
+     <string name="tc_sms_report_get_success_notify_body">Βεβαιωθείτε ότι η αναφορά είναι ακριβής και στείλτε τη στην MIUI.</string>
      <string name="tc_sms_report_get_success_notify_title">Ελήφθη SMS με αναφορά χρήσης δεδομένων</string>
      <string name="tc_sms_report_geting_sms">Λαμβάνεται SMS με αναφορά χρήσης δεδομένων</string>
      <string name="tc_sms_report_notify_correction_body">Πηγαίνετε στην εφαρμογή Χρήση δεδομένων στο Κέντρο Ασφαλείας και ξαναπροσπαθήστε χειροκίνητα.</string>
@@ -531,7 +532,7 @@
      <string name="traffic_saving_ratio_low">"Δεν μπορεί να μειωθεί σημαντικά η χρήση δεδομένων"</string>
      <string name="traffic_saving_recommanded_close">Απενεργοποίηση</string>
      <string name="traffic_saving_recommanded_open">Ενεργοποίηση</string>
-     <string name="traffic_saving_start_tip_context">"&lt;big>&lt;font color='#7F000000'>Αυτόματη ενεργοποίηση εξοικονόμησης δεδομένων για την μείωση χρήσης δεδομένων των εφαρμογών.&lt;/font>&lt;/big>&lt;br />&lt;br />&lt;font color='#FF000000'>Αν έχετε ένα μηνιαίο πρόγραμμα δεδομένων, θυμηθείτε να απενεργοποιήσετε την εξοικονόμηση δεδομένων για μεμονωμένες εφαρμογές, για να αποφύγετε επιπλέον χρεώσεις από το φορέα σας.&lt;/font>"</string>
+     <string name="traffic_saving_start_tip_context">"&lt;big>&lt;font color='#7F000000'>Αυτόματη ενεργοποίηση εξοικονόμησης δεδομένων για τη μείωση χρήσης δεδομένων των εφαρμογών.&lt;/font>&lt;/big>&lt;br />&lt;br />&lt;font color='#FF000000'>Αν έχετε ένα μηνιαίο πρόγραμμα δεδομένων, θυμηθείτε να απενεργοποιήσετε την εξοικονόμηση δεδομένων για μεμονωμένες εφαρμογές, για να αποφύγετε επιπλέον χρεώσεις από το φορέα σας.&lt;/font>"</string>
      <string name="traffic_saving_start_tip_title">Ενεργοποίηση</string>
      <string name="traffic_saving_tecsupport">Powered by Opera</string>
      <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
@@ -544,7 +545,7 @@
      <string name="traffic_saving_whitelist_btn_add_app">Προσθήκη</string>
      <string name="traffic_saving_whitelist_btn_added">Προστέθηκε</string>
      <string name="traffic_saving_whitelist_btn_remove">Διαγραφή</string>
-     <string name="traffic_saving_whitelist_btn_removed">Η εφαρμογή διαγράφηκε από την λίστα</string>
+     <string name="traffic_saving_whitelist_btn_removed">Η εφαρμογή διαγράφηκε από τη λίστα</string>
      <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'>%1$d&lt;/font> εφαρμογές δεν έχουν περιορισμούς δεδομένων"</string>
      <string name="traffic_saving_whitelist_no_app">Χωρίς εφαρμογές</string>
      <string name="traffic_saving_wifi_usage">Χρήση Wi-Fi</string>

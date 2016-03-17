@@ -119,11 +119,13 @@
      <string name="dialog_msg_backup_and_uninstall_apps">Αποθήκευση και απεγκατάσταση επιλεγμένων εφαρμογών;</string>
      <string name="dialog_msg_check_all">Επιβεβαίωση επιλογής του %1$s που περιέχει %2$d στοιχεία</string>
      <string name="dialog_msg_load_cleanup_engine_error">Η εφαρμογή Cleaner είναι κατεστραμμένη</string>
+     <string name="dialog_msg_stop_scan">"Διακοπή σάρωσης σκουπιδιών πριν τελειώσει;"</string>
      <string name="dialog_msg_uninstall_apps">Κατάργηση αυτών των εφαρμογών;</string>
      <string name="dialog_title_backup_and_uninstall_apps">Αποθήκευση και απεγκατάσταση</string>
      <string name="dialog_title_check_all">Επιλογή όλων</string>
      <string name="dialog_title_delete_image">Διαγραφή επιλεγμένων εικόνων</string>
      <string name="dialog_title_load_cleanup_engine_error">Κάτι πήγε στραβά</string>
+     <string name="dialog_title_stop_scan">Διακοπή σάρωσης σκουπιδιών</string>
      <string name="dialog_title_uninstall_apps">Απεγκατάσταση</string>
      <string name="download">Λήψη</string>
      <string name="downloading">Λήψη…</string>
@@ -210,6 +212,7 @@
      <string name="hints_video_download">Ληφθέντα βίντεο</string>
      <string name="hot">Δημοφιλή</string>
      <string name="hot_today">Δημοφιλή σήμερα</string>
+     <string name="information_setting">Ρυθμίσεις ροής ειδήσεων</string>
      <string name="installed">Εγκατεστημένα</string>
      <string name="installing">Εγκατάσταση…</string>
      <string name="item_title_process_mode">Επιλέξτε μια ενέργεια</string>
@@ -217,6 +220,7 @@
      <string name="label_image_list_none">Τίποτα</string>
      <string name="label_preserve_the_best_image">Αποθήκευση των ευκρινέστερων φωτογραφιών</string>
      <string name="last_check_canceled">Η προηγούμενη σάρωση είχε ακυρωθεί</string>
+     <string name="load_only_under_wlan">Λήψη ειδήσεων όταν υπάρχει σύνδεση Wi‑Fi</string>
      <string name="login_immediately">Σύνδεση</string>
      <string name="mainbtn_text_quick_cleanup">Καθαρισμός %s</string>
      <string name="mainbtn_text_quick_cleanup_default">Καθαρισμός</string>

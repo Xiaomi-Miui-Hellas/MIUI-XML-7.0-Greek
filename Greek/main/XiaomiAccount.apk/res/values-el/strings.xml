@@ -49,6 +49,7 @@
      <string name="account_vip_level">Λογαριασμός</string>
      <string name="account_xiaomi_service">Υπηρεσίες</string>
      <string name="activate_email_notice">Φροντίστε να ενεργοποιήσετε το λογαριασμό σας μέσα σε 24 ώρες</string>
+     <string name="activity_not_found_notice">"Αδυναμία εύρεσης εφαρμογής"</string>
      <string name="add_account">Προσθήκη λογαριασμού</string>
      <string name="agree_add_continue">Συμφωνώ</string>
      <string name="alert_title_remove_account">Διαγραφή λογαριασμού;</string>

@@ -30,7 +30,7 @@
      <string name="activity_title_settings">Ρυθμίσεις</string>
      <string name="activity_title_system">Σύστημα</string>
      <string name="activity_title_trash">Cache</string>
-     <string name="activity_title_virus">Virus</string>
+     <string name="activity_title_virus">Ιός</string>
      <string name="activity_title_virus_detail">Πληροφορίες Ιών</string>
      <string name="activity_title_virus_settings">Ρυθμίσεις</string>
      <string name="antivirus_choose_engine">Χρήση βάσης ιών από %s</string>
@@ -50,6 +50,7 @@
      <string name="antivirus_privacy_dialog_title">Πολιτική Απορρήτου</string>
      <string name="antivirus_sec_support">Powered by %s</string>
      <string name="antivirus_update_db">%s</string>
+     <string name="app_install_intercept">Αποκλεισμός εγκατάστασης</string>
      <string name="app_name_securitycenter">Κέντρο Ασφάλειας</string>
      <string name="app_not_installed_toast">"Η εφαρμογή δεν είναι εγκατεστημένη στη συσκευή σας."</string>
      <string name="auto_handle_title">ΓΕΝΙΚΑ</string>
@@ -92,8 +93,8 @@
      <string name="btn_text_start_check">Έλεγχος</string>
      <string name="btn_text_stop">Διακοπή</string>
      <string name="btn_text_virus_scan">Αναλύστε</string>
-     <string name="button_text_accept">Εξουσιοδότηση</string>
-     <string name="button_text_accept_timer">Επιτρέψτε ( %d )</string>
+     <string name="button_text_accept">Αποδοχή</string>
+     <string name="button_text_accept_timer">Αποδοχή (%d)</string>
      <string name="button_text_cancel">Ακύρωση</string>
      <string name="button_text_cancel_clean">Ακύρωση</string>
      <string name="button_text_cancel_optimize">Ακύρωση</string>
@@ -122,6 +123,7 @@
      <string name="cmcc_app_check_dialog_positive">Επανεκκίνηση τώρα</string>
      <string name="cmcc_app_check_dialog_title">Το σύστημα επιδιορθώθηκε</string>
      <string name="confirm_reject_all_permission">Περιορισμός όλων των εφαρμογών από τη χρήση αυτής της λειτουργίας;</string>
+     <string name="continue_install">Εγκατάσταση</string>
      <string name="cta_button_text_agree">Αποδοχή</string>
      <string name="cta_button_text_cancel">Ακύρωση</string>
      <string name="cta_checkbox_title">Να μην εμφανιστεί ξανά</string>
@@ -152,12 +154,13 @@
      <string name="dialog_msg_stop_virus_scan">Είσαι σίγουρος;</string>
      <string name="dialog_title_auto_start_declare">Πληροφορίες</string>
      <string name="dialog_title_stop_virus_scan">Σταμάτημα της ανάλυσης</string>
+     <string name="empty_app">Δεν υπάρχουν εφαρμογές</string>
      <string name="empty_title_auto_start_list">Καμία αίτηση</string>
      <string name="empty_title_manual_item_white_list">Χωρίς εξαιρέσεις.</string>
      <string name="empty_title_perm_apps">Καμία αίτηση</string>
      <string name="empty_title_permission_apps_list">Καμία αίτηση</string>
      <string name="empty_title_risk_list">Καμία απειλή</string>
-     <string name="empty_title_root_apps">Δεν έχουν root</string>
+     <string name="empty_title_root_apps">Καμία εφαρμογή με πρόσβαση root</string>
      <string name="empty_title_system_cache_list">Κενή μνήμη cache</string>
      <string name="empty_title_system_process_list">Καμία διεργασία στη μνήμη</string>
      <string name="empty_title_virus_list">Κανένας ιός</string>
@@ -213,12 +216,13 @@
      <string name="hints_virus_scan_result_descx">Αυτή η εφαρμογή αντιπροσωπεύει μια σημαντική απειλή για την ασφάλεια του τηλεφώνου σας</string>
      <string name="history_details_title">Λεπτομέρειες ιστορικού</string>
      <string name="info_and_call">Κλήσεις και μηνύματα</string>
+     <string name="install_title">Εγκατάσταση μέσω USB</string>
      <string name="item_app_permission">Δικαιώματα εφαρμ.</string>
      <string name="item_dev_mode">Επιλογές προγραμματιστή</string>
      <string name="item_install_monitor">Εγκατάσταση ελέγχου</string>
      <string name="item_mms">Φιλτράρισμα ανεπιθύμητων μηνυμάτων</string>
      <string name="item_usb_debug">Εντοπισμός σφαλμάτων USB</string>
-     <string name="item_virus">Virus</string>
+     <string name="item_virus">Ιός</string>
      <string name="item_virus_lib">Αυτόματη ενημέρωση βάσης ιών</string>
      <string name="last_check_canceled">Η προηγούμενη σάρωση είχε ακυρωθεί</string>
      <string name="last_check_date_today">Τελευταία ανάλυση σήμερα</string>
@@ -267,6 +271,7 @@
      <string name="menu_text_power_manager">Διαχείριση της ενέργειας</string>
      <string name="menu_text_power_percent">Μπαταρία | %s</string>
      <string name="menu_text_power_percent_title">Μπαταρία %s</string>
+     <string name="monitor_requests_from_pc">Διαχείριση εγκατάστασης εφαρμογών μέσω USB</string>
      <string name="month_report_month_report_switch">Εμφάνιση μηνιαίας αναφοράς</string>
      <string name="never">Μόνο μια φορά</string>
      <string name="notification_button_text_of_low_memory">Καθαρίστε</string>
@@ -275,6 +280,8 @@
      <string name="notification_title_firewall_blocked">Αποκλεισμένα</string>
      <string name="ok">OK</string>
      <string name="packages_subtitle">Ενότητες που περιλαμβάνονται</string>
+     <string name="pc_install_manager">Εγκατάσταση μέσω USB</string>
+     <string name="pc_to_phone_install">Αποκλεισμένη η εγκατάσταση του %s μέσω USB</string>
      <string name="percentage">%d%%</string>
      <string name="permission_action_accept">Αποδοχή</string>
      <string name="permission_action_prompt">Αίτηση</string>
@@ -293,6 +300,7 @@
      <string name="pm_auto_start_by_other_services">Δοκιμάστε να απενεργοποιήσετε αυτές τις υπηρεσίες</string>
      <string name="pm_auto_start_by_system">Έναρξη εφαρμογών</string>
      <string name="pm_auto_start_proc_is_running">Τρέχουν</string>
+     <string name="pm_remember_choice">Να θυμάται την επιλογή</string>
      <string name="pm_root_success_notification_title">Πρόσβαση root ενεργή</string>
      <string name="power_20s_enter_mode">Λειτουργία. %2$s στο %1$d</string>
      <string name="power_20s_shutdown">Η συσκευή θα απενεργοποιηθεί σε 20 δευτερόλεπτα</string>
@@ -478,7 +486,11 @@
      <string name="protection_category_dangerous_title">Δυνητικά επικίνδυνα: %d</string>
      <string name="protection_category_recommend_title">Προτεινόμενες βελτιστοποιήσεις: %d</string>
      <string name="protection_category_security_title">Ασφάλεια: %d</string>
+     <string name="recently_reject_message">Απορρίφθηκε η εγκατάσταση του %1$s και %2$d άλλων εφαρμογών</string>
+     <string name="recently_reject_message_one">Απορρίφθηκαν %1$s αιτήσεις εγκατάστασης</string>
      <string name="reject_all">Περιορισμός όλων</string>
+     <string name="reject_countdown">Απόρριψη (%d)</string>
+     <string name="reject_usb_install">Απορρίφθηκε η εγκατάσταση μέσω USB των παρακάτω εφαρμογών</string>
      <string name="risk_list_header_title">Ύποπτες εφαρμογές ανιχνεύθηκαν: %d</string>
      <string name="root_apply_step_1">Χορήγηση πρόσβασης root στο %s ;</string>
      <string name="root_apply_step_2">Μια εφαρμογή με πρόσβαση root μπορεί να κάνει το σύστημα ασταθές</string>
@@ -580,8 +592,8 @@
      <string name="toast_flow_notification">Ενεργοποίηση ειδοποιήσεων για χρήση δεδομένων</string>
      <string name="toast_garbage_lib">Ενεργοποίηση αυτόματων ενημερώσεων για Cleaner</string>
      <string name="toast_network_switch">Αυτή η εφαρμογή μπορεί να συνδεθεί στο Internet</string>
-     <string name="toast_root_apply_accept">Παραχώρηση Root στο ( %s )</string>
-     <string name="toast_root_apply_reject">Άρνηση Root στο ( %s )</string>
+     <string name="toast_root_apply_accept">Παραχώρηση πρόσβασης root στο %s</string>
+     <string name="toast_root_apply_reject">Άρνηση πρόσβασης root στο %s</string>
      <string name="toast_shortcut_install">Δημιουργία συντόμευσης</string>
      <string name="toast_shortcut_uninstall">Διαγραφή συντόμευσης</string>
      <string name="toast_show_notification">Καρφιτσώθηκε στη μπάρα ειδοποιήσεων</string>
@@ -601,5 +613,6 @@
      <string name="usage_type_video">Βίντεο</string>
      <string name="usage_type_wake_lock">Ενεργό</string>
      <string name="usage_type_wifi_running">Ενεργό Wi-Fi</string>
-     <string name="virus_list_header_title">Εντοπίστηκαν Ιοί: %d</string>
+     <string name="usb_install_desc">Εγκατάσταση αυτής της εφαρμογής μέσω USB;</string>
+     <string name="virus_list_header_title">Εντοπίστηκαν %d ιοί</string>
 </resources>
