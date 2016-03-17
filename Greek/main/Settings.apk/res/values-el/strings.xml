@@ -1555,7 +1555,7 @@
      <string name="high_performance_notif_title">Υψηλή απόδοση ενεργή</string>
      <string name="high_performance_title">Φαίνεται πως τρέχετε ένα Benchmark. Θέστε τη διαχείριση ενέργειας στην \"Απόδοση\" για καλύτερα αποτελέσματα.</string>
      <string name="high_power_apps">Βελτιστοποίηση μπαταρίας</string>
-     <string name="high_power_desc">Χωρίς βελτιστοποίησης μπαταρίας. Η μπαταρία μπορεί να αδειάσει γρηγορότερα.</string>
+     <string name="high_power_desc">Χωρίς βελτιστοποίηση μπαταρίας. Η μπαταρία μπορεί να αδειάσει γρηγορότερα.</string>
      <string name="high_power_filter_on">Χωρίς βελτιστοποίηση</string>
      <string name="high_power_off">Βελτιστοποίηση χρήσης μπαταρίας</string>
      <string name="high_power_on">Αγνόηση βελτιστοποίησης της μπαταρίας</string>
@@ -2837,7 +2837,7 @@
      <string name="sim_calls_always_use">Πάντα το ίδιο για τις κλήσεις</string>
      <string name="sim_calls_ask_first_prefs_title">Ερώτηση κάθε φορά</string>
      <string name="sim_card_number_title">SIM %1$d</string>
-     <string name="sim_card_select_title">επιλέξτε κάρτα SIM</string>
+     <string name="sim_card_select_title">Επιλέξτε κάρτα SIM</string>
      <string name="sim_cards_changed_message">Οι κάρτες SIM  άλλαξαν</string>
      <string name="sim_cards_changed_message_summary">Πατήστε για να ορίσετε δραστηριότητες</string>
      <string name="sim_cellular_data_unavailable">Τα δεδομένα κινητής δεν είναι διαθέσιμα</string>
