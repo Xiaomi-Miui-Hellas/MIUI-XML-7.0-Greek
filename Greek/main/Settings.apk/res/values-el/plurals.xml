@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Πάντα ενεργά για %d εφαρμογές</item>
+        <item quantity="one">Πάντα ενεργά για 1 εφαρμογή</item>
+     </plurals>
+     <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Πάντα ανενεργά για %d εφαρμογές</item>
+        <item quantity="one">Πάντα ενενεργά για 1 εφαρμογή</item>
+     </plurals>
      <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d γράμματα.</item>
         <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 γράμμα.</item>
