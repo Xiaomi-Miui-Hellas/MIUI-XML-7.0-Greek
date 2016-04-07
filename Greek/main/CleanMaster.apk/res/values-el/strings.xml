@@ -299,6 +299,8 @@
      <string name="privacy_search_desc">Ιστορικό αναζήτησης</string>
      <string name="privacy_search_type">Αναζήτηση Google</string>
      <string name="promotion">"Επιλογές Συντάκτη"</string>
+     <string name="recommend_news">Συνιστώμενες πηγές</string>
+     <string name="recommend_the_following">Κάντε τα ακόλουθα, για να αξιοποιήσετε στο έπακρο τις δυνατότητες της συσκευής σας</string>
      <string name="recommended">Προτεινόμενα</string>
      <string name="safety_check_detail">%1$d φορές, αποκτήθηκαν %2$d πόντοι</string>
      <string name="safety_rank">Καλύτερα από %d%% χρήστες MIUI από άποψη ασφάλειας</string>

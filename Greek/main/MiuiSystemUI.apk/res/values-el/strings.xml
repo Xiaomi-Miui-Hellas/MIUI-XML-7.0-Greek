@@ -45,6 +45,7 @@
      <string name="accessibility_wimax_signal_full">Τέλειο σήμα WiMAX.</string>
      <string name="accessibility_wimax_three_bars">Τρεις γραμμές WiMAX.</string>
      <string name="accessibility_wimax_two_bars">Μια γραμμή WiMAX.</string>
+     <string name="account_info">Δεν έχετε συνδεθεί</string>
      <string name="activate_usb_message">Για να ενεργοποιήσετε αυτή τη λειτουργία, τοποθετήστε την κάρτα SIM.</string>
      <string name="activate_usb_title">Ενεργοποίηση USB</string>
      <string name="always_use_accessory">Χρήση προεπιλογών για αυτό το αξεσουάρ USB</string>
@@ -135,6 +136,7 @@
      <string name="mount_storage">Ναι</string>
      <string name="network_speed_suffix">%1$s%2$s</string>
      <string name="no_notification_tips">Χωρίς ειδοποιήσεις</string>
+     <string name="notification_header_title">Ειδοποιήσεις</string>
      <string name="notification_hidden_text">Κρυφό περιεχόμενο</string>
      <string name="notification_otg_gamestick_in">Ο ελεγκτής παιχνιδιού συνδέθηκε</string>
      <string name="notification_otg_gamestick_out">Ο ελεγκτής παιχνιδιού αποσυνδέθηκε</string>
@@ -179,6 +181,8 @@
      <string name="settings_toggle_position_reset">Επαναφορά διακοπτών</string>
      <string name="share">Κοινή χρήση</string>
      <string name="status_bar_date_format">d MMMM, yyyy</string>
+     <string name="status_bar_date_format_12">"EEEE
+d MMMM"</string>
      <string name="status_bar_date_formatter">%2$s</string>
      <string name="status_bar_network_flow_content">"Σήμερα: %1$s   Υπόλοιπο: %2$s"</string>
      <string name="status_bar_network_flow_exceed_content">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Υπέρβαση:&lt;font color=%2$s>%3$s&lt;/font></string>

@@ -13,7 +13,7 @@
      <string name="auto_backup_choose_empty">Χωρίς αντίγραφα</string>
      <string name="auto_backup_choose_title">Ορισμός ονόματος</string>
      <string name="auto_backup_date">Συχνότητα (σε μέρες)</string>
-     <string name="auto_backup_only_wifi">Αυτόματα αντίγραφα μόνο όταν υπάρχει σύνδεση Wi-Fi</string>
+     <string name="auto_backup_only_wifi">Αυτόματα αντίγραφα μόνο όταν υπάρχει σύνδεση Wi‑Fi</string>
      <string name="auto_backup_open">Ενεργ. αυτόματου αντιγράφου</string>
      <string name="auto_backup_progress">Εκτέλεση αυτόματου αντιγράφου παρακαλώ περιμένετε …</string>
      <string name="auto_backup_select_user_apps">Επιλογή εφαρμογών</string>
@@ -114,7 +114,7 @@
      <string name="files_backup_info">Όλα τα αρχεία στην κάρτα SD (συμπεριλαμβανομένων των φωτογραφιών, τραγουδιών, βίντεο, δεδομένα εφαρμογών, κλπ)</string>
      <string name="findlost_contact">Εύρεση διαγραμμένων επαφών</string>
      <string name="findlost_contact_online">Επαναφορά διαγραμμένων επαφών απ το Cloud</string>
-     <string name="guarded_mode_dialog_message">Αδύνατη η χρήση της εφαρμογής στην λειτουργία προστασίας</string>
+     <string name="guarded_mode_dialog_message">Αδύνατη η χρήση της εφαρμογής στη λειτουργία προστασίας</string>
      <string name="guarded_mode_dialog_title">Λειτουργία προστασίας</string>
      <string name="import_from_xiaomi_account_hint1">1. Εγκαταστήστε το MiTalk και συνδεθείτε.\n2. http://www.miliao.com\n\n3. Πηγαίνετε στις ρυθμίσεις MiTalk και επιλέξτε Αντίγραφο επαφών στο λογαριασμό Mi</string>
      <string name="import_from_xiaomi_account_hint2">Σημείωση Μεταβείτε στο επόμενο βήμα εάν υπάρχει ήδη αντίγραφο</string>
@@ -148,6 +148,8 @@
      <string name="notif_restore_complete_title">Επιτυχής επαναφορά</string>
      <string name="notif_restore_content">Επαναφορά δεδομένων χρήστη</string>
      <string name="notif_restore_title">Επαναφορά δεδομένων</string>
+     <string name="notif_trans_receiving_completed">Επιτυχής λήψη δεδομένων</string>
+     <string name="notif_trans_sending_completed">Επιτυχής αποστολή δεδομένων</string>
      <string name="page_loading">Μισό λεπτό…</string>
      <string name="progress_backup_hint">Αντιγραφή </string>
      <string name="progress_restore_hint">Επαναφορά </string>
@@ -181,7 +183,7 @@
      <string name="sc_precondition_failed">Θα πρέπει πρώτα να προσθέσετε μια διεύθυνση email στον Mi λογαριασμό σας.</string>
      <string name="sc_request_timeout">Τέλος χρόνου αιτήματος</string>
      <string name="sc_service_unavailable">Η υπηρεσία cloud δεν είναι διαθέσιμη</string>
-     <string name="sc_unaccess_password_file">Χωρίς αποθήκευση λεπτομερειών κωδικών Wi-Fi</string>
+     <string name="sc_unaccess_password_file">Χωρίς αποθήκευση λεπτομερειών κωδικών Wi‑Fi</string>
      <string name="sc_unauthorized">Το πιστοποιητικό δεν είναι έγκυρο</string>
      <string name="sd_not_available">Δεν εντοπίστηκε κάρτα SD</string>
      <string name="sdcard_no_enough_space">Δεν υπάρχει αρκετός χώρος στην κάρτα SD</string>
@@ -249,6 +251,7 @@
      <string name="trans_connect_failed_title">Αποτυχία σύνδεσης</string>
      <string name="trans_connect_failed_toast">"Αδυναμία σύνδεσης"</string>
      <string name="trans_connecting_toast">Σύνδεση…</string>
+     <string name="trans_connection_failed">Η συσκευή αποσυνδέθηκε</string>
      <string name="trans_detail_category_account">Λογαριασμοί και επαφές</string>
      <string name="trans_detail_category_files">Αρχεία</string>
      <string name="trans_detail_category_sysdata">Δεδομένα συστήματος</string>
@@ -272,7 +275,9 @@
      <string name="trans_please_waiting">Παρακαλώ περιμένετε…</string>
      <string name="trans_progress_subdescript_br_receiver">Επαναφορά %1$s, %2$s ολοκληρώθηκαν</string>
      <string name="trans_progress_subdescript_br_sender"> Λήψη αντιγράφου %1$s, %2$s ολοκληρώθηκαν</string>
+     <string name="trans_progress_subdescript_br_sender_finish">Έγινε λήψη αντιγράφου σε %s. Αναμονή για αποστολή…</string>
      <string name="trans_progress_subdescript_transing_receiver">Λήψη %1$s, %2$s ολοκληρώθηκαν</string>
+     <string name="trans_progress_subdescript_transing_receiver_finish">Ελήφθησαν %s. Αναμονή για επαναφορά…</string>
      <string name="trans_progress_subdescript_transing_sender">Αποστολή %1$s, %2$s ολοκληρώθηκαν</string>
      <string name="trans_progress_subdescript_transingsd_receiver">Λήψη αρχείων, %s ολοκληρώθηκαν</string>
      <string name="trans_progress_subdescript_transingsd_sender">Αποστολή αρχείων, %s ολοκληρώθηκαν</string>
@@ -289,7 +294,7 @@
      <string name="trans_scan_invalid_qrcode">Μη έγκυρος κωδικός QR</string>
      <string name="trans_scan_qr_code_tips">Σαρώστε τον κωδικό QR χρησιμοποιώντας τη νέα συσκευή</string>
      <string name="trans_select_data">Επιλέξτε στοιχεία για αποστολή</string>
-     <string name="trans_select_data_no_space">"%s διαθέσιμα στην νέα συσκευή
+     <string name="trans_select_data_no_space">"%s διαθέσιμα στη νέα συσκευή
 Επιλέξτε ξανά τα αρχεία ή ελευθερώσετε χώρο αποθήκευσης"</string>
      <string name="trans_select_data_tips">"Επιλέξτε αρχεία για μεταφορά
 Παρόμοια αρχεία στη νέα συσκευή, θα αντικατασταθούν"</string>
@@ -318,8 +323,21 @@
      <string name="unit_byte">"  bytes"</string>
      <string name="unit_piece">"  Μονάδες"</string>
      <string name="unknown_hint">Άγνωστο</string>
-     <string name="wifi_title">Ρυθμίσεις Wi-Fi</string>
+     <string name="user_notice_declaration_ignore">"Να μην εμφανιστεί ξανά"</string>
+     <string name="user_notice_message">Ορισμένες λειτουργίες απαιτούν πρόσβαση στο Internet για να λειτουργήσουν κανονικά.</string>
+     <string name="user_notice_title">Ειδοποίηση χρήστη</string>
+     <string name="wifi_title">Ρυθμίσεις Wi‑Fi</string>
      <string name="xiaomi_account_type">com.xiaomi</string>
+     <string name="xiaomi_bytes_unit">%1$sB</string>
+     <string name="xiaomi_connect_download_manager_fail">Αποτυχία σύνδεσης Διαχειριστή Λήψεων. Παρακαλώ ελέγξτε την κατάσταση του Διαχειριστή Λήψεων στη Διαχείριση Εφαρμογών.</string>
+     <string name="xiaomi_external_storage_unavailable">Ο χώρος αποθήκευσης δεν είναι διαθέσιμος. Παρακαλώ ελέγξτε την κάρτα SD.</string>
+     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+     <string name="xiaomi_megabytes_unit">%1$sMB</string>
      <string name="xiaomi_router">Mi Router</string>
      <string name="xiaomi_router_location">Mi Router %s</string>
+     <string name="xiaomi_update_dialog_message">"Σας παρουσιάζουμε την έκδοση %1$s
+Μέγεθος: %2$s"</string>
+     <string name="xiaomi_update_dialog_message_diff">"Σας παρουσιάζουμε την έκδοση %1$s
+Μέγεθος ενημέρωσης Delta: %2$s"</string>
+     <string name="xiaomi_update_dialog_title">Νέα έκδοση είναι διαθέσιμη!</string>
 </resources>
