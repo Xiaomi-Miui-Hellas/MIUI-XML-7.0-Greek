@@ -362,7 +362,7 @@
      <string name="not_login">Είσοδος</string>
      <string name="not_now">Όχι τώρα</string>
      <string name="not_selected">Παρακαλώ επιλέξετε ένα τραγούδι</string>
-     <string name="notification_des_next_song">επόμενο τραγούδι: %s</string>
+     <string name="notification_des_next_song">Επόμενο τραγούδι: %s</string>
      <string name="notification_des_no_song">Mi Music. Νέα κάθε μέρα.</string>
      <string name="notification_headset_custom">Παράβλεψη</string>
      <string name="notification_headset_info">Πατήστε για να δείτε τις ρυθμίσεις.</string>

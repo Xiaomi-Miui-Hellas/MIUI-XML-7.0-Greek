@@ -1079,7 +1079,7 @@
      <string name="registration_status_checking_status">Έλεγχος κατάστασης…</string>
      <string name="registration_status_done">Λήψη κλήσεων.</string>
      <string name="registration_status_failed_try_later">Αποτυχία εγγραφής λογαριασμού: (%s); Προσπαθήστε αργότερα</string>
-     <string name="registration_status_invalid_credentials">Αποτυχία εγγραφής λογαριασμού: Λάθος όνομα χρήστη ή κωδικού πρόσβασης.</string>
+     <string name="registration_status_invalid_credentials">Αποτυχία εγγραφής λογαριασμού: Λάθος όνομα χρήστη ή κωδικός πρόσβασης.</string>
      <string name="registration_status_no_data">Η εγγραφή λογαριασμού διεκόπη επειδή δεν υπάρχει σύνδεση στο Internet.</string>
      <string name="registration_status_no_wifi_data">Η εγγραφή λογαριασμού διεκόπη επειδή δεν υπάρχει σύνδεση Wi‑Fi.</string>
      <string name="registration_status_not_receiving">Δεν λαμβάνετε κλήσεις.</string>

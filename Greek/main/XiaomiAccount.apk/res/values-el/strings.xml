@@ -147,7 +147,7 @@
      <string name="passport_delete_account">Αποσύνδεση</string>
      <string name="passport_email">Διεύθυνση email</string>
      <string name="passport_email_or_id_hint_text">Διεύθυνση email ή Mi Account ID</string>
-     <string name="passport_email_reg_success_summary">%1$s έχει προστεθεί στον λογαριασμό σας. Μπορείτε να το χρησιμοποιήσετε για είσοδο ή επαναφορά του κωδικού σας.</string>
+     <string name="passport_email_reg_success_summary">Το %1$s έχει συνδεθεί με το λογαριασμό σας. Μπορείτε να το χρησιμοποιήσετε για είσοδο ή επαναφορά του κωδικού σας.</string>
      <string name="passport_error_device_id">Αδυναμία ανάγνωσης ID συσκευής</string>
      <string name="passport_error_dup_email">Αυτή η διεύθυνση email έχει ήδη συσχετιστεί με έναν άλλο λογαριασμό</string>
      <string name="passport_error_dup_phone">Αυτός ο αριθμός τηλεφώνου έχει ήδη συσχετιστεί με έναν άλλο λογαριασμό</string>

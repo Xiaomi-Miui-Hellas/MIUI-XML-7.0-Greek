@@ -422,7 +422,7 @@
      <string name="lockpattern_confirm_button_text">OK</string>
      <string name="lockpattern_continue_button_text">Επόμενο</string>
      <string name="lockpattern_need_to_confirm">Σχεδιάστε ξανά το μοτίβο για επιβεβαίωση</string>
-     <string name="lockpattern_need_to_unlock">επιβεβαιώστε το αποθηκευμένο μοτίβο</string>
+     <string name="lockpattern_need_to_unlock">Επιβεβαιώστε το αποθηκευμένο μοτίβο</string>
      <string name="lockpattern_need_to_unlock_wrong">Προσπαθήστε ξανά</string>
      <string name="lockpattern_pattern_confirmed_header">Το νέο σας μοτίβο ξεκλειδώματος</string>
      <string name="lockpattern_pattern_entered_header">Το μοτίβο προστέθηκε</string>
