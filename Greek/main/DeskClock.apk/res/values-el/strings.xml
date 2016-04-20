@@ -7,7 +7,7 @@
      <string name="alarm_ascending_mode_summary">Σταδιακή αύξηση έντασης</string>
      <string name="alarm_ascending_mode_title">Αυξανόμενη ένταση</string>
      <string name="alarm_disabled">Ανενεργό</string>
-     <string name="alarm_in_silent_mode_title">Σίγαση αφύπνισης</string>
+     <string name="alarm_in_silent_mode_title">Αφύπνιση στην αθόρυβη λειτουργία</string>
      <string name="alarm_klaxon_service_desc">Η υπηρεσία αναπαραγωγής ήχου για ειδοποιήσεις έχει ρυθμιστεί στο ρολόι.</string>
      <string name="alarm_label_hint">Ξυπνητήρι</string>
      <string name="alarm_list_title">Ξυπνητήρι</string>

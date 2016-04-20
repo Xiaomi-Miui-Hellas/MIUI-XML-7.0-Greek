@@ -2757,7 +2757,7 @@
      <string name="search_screen_timeout">Χρονικό όριο οθόνης</string>
      <string name="search_settings">Αναζήτηση</string>
      <string name="search_settings_summary">Συγχώνευση ρυθμίσεων αναζήτησης και ιστορικού</string>
-     <string name="search_silent">Σιωπηλό</string>
+     <string name="search_silent">Αθόρυβο</string>
      <string name="search_sms_received">Ληφθέντα SMS</string>
      <string name="search_status_bar">Γραμμή κατάστασης</string>
      <string name="search_storage">αποθήκευση</string>

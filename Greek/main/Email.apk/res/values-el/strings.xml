@@ -755,7 +755,7 @@
      <string name="signature">"
 
 %s"</string>
-     <string name="silent_ringtone">Σιωπηλό</string>
+     <string name="silent_ringtone">Αθόρυβο</string>
      <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
      <string name="single_new_message_notification_title">%1$s: %2$s</string>

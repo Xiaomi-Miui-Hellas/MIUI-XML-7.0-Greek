@@ -51,7 +51,7 @@
      <string name="preference_led_indicator_prompt">Κατά την εγγραφή, εμφάνιση στη γραμμή κατάστασης και ένδειξη LED όταν η οθόνη είναι κλειδωμένη</string>
      <string name="preference_record_scenes_dialog_title">Επιλογή σκηνής εγγραφής</string>
      <string name="preference_scenes">Ρυθμίσεις σκηνών</string>
-     <string name="preference_silent_mode">Σιωπηλή λειτ. ηχογράφησης</string>
+     <string name="preference_silent_mode">Αθόρυβη λειτ. ηχογράφησης</string>
      <string name="preference_tip_rename">Μετονομασία αρχείου μετά την εγγραφή</string>
      <string name="record_back_pressed_hint">Για να σταματήσετε την εγγραφή, πατήστε ξανά το Πίσω</string>
      <string name="record_download">Λήψη από το Mi Cloud</string>

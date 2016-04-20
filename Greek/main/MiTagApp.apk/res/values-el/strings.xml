@@ -145,7 +145,7 @@
   <string name="remove_alert">Διαγραφή επιλεγμένων εργασιών;</string>
   <string name="ringer_mode">Λειτουργία Κουδουνιού</string>
   <string name="ringer_normal">Κουδούνι</string>
-  <string name="ringer_silent">Σιωπηλό</string>
+  <string name="ringer_silent">Αθόρυβο</string>
   <string name="ringer_value">Κουδούνι %s%%</string>
   <string name="running">τρέχει</string>
   <string name="save_alert">Αποθήκευση αυτού του έργου;</string>
