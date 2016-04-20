@@ -264,7 +264,7 @@
      <string name="dialog_title_attention">Προσοχή</string>
      <string name="dialog_title_auto_start_declare">Πληροφορίες</string>
      <string name="dialog_title_stop_virus_scan">Διακοπή σάρωσης ιών</string>
-     <string name="disable_air_mode">Απενεργοποίηση λειτουργίας πτήσης</string>
+     <string name="disable_air_mode">Απενεργοποιήστε πρώτα τη λειτουργία πτήσης</string>
      <string name="dns_exception_summary">"Έλεγχος ρυθμίσεων DNS του router."</string>
      <string name="dns_exception_title">Έλεγχος ρυθμίσεων DNS</string>
      <string name="dual_setting_simcard1">SIM 1</string>

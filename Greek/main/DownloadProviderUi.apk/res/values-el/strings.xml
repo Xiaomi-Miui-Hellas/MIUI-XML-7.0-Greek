@@ -5,7 +5,7 @@
      <string name="DOWNLOAD_UNIT_KB">KB</string>
      <string name="DOWNLOAD_UNIT_MB">MB</string>
      <string name="DOWNLOAD_UNIT_TB">TB</string>
-     <string name="Only_the_wifi">Χρήση μόνο με Wi-Fi</string>
+     <string name="Only_the_wifi">Χρήση μόνο με Wi‑Fi</string>
      <string name="about">Σχετικά</string>
      <string name="action_settings">Ρυθμίσεις</string>
      <string name="add_flow_fail_haveget_msg">Η δοκιμαστική περίοδος έληξε.</string>
@@ -46,12 +46,12 @@
      <string name="dialog_confirm_delete_downloads_message">Διαγραφή %d εργασιών;</string>
      <string name="dialog_confirm_delete_the_download_item_message">Διαγραφή αυτών των εργασιών</string>
      <string name="dialog_failed_body">Θέλετε να ξαναπροσπαθήσετε την λήψη του αρχείου αργότερα ή να το αφαιρέσετε από την αναμονή λήψεων;</string>
-     <string name="dialog_file_already_exists">Αδύνατη λήψη. Το αρχείο προορισμού υπάρχει ήδη.</string>
+     <string name="dialog_file_already_exists">Αδυναμία λήψης. Το αρχείο προορισμού υπάρχει ήδη.</string>
      <string name="dialog_file_missing_body">Αδύνατη η εύρεση του ληφθέντος αρχείου.</string>
      <string name="dialog_file_missing_title">Αποτυχία ανοίγματος αρχείου</string>
-     <string name="dialog_insufficient_space_on_cache">Αδύνατη ολοκλήρωση λήψης. Δεν υπάρχει επαρκής εσωτερικός χώρος αποθήκευσης.</string>
-     <string name="dialog_insufficient_space_on_external">Αδύνατη ολοκλήρωση λήψης. Δεν υπάρχει επαρκής χώρος στο εξωτερικό μέσο αποθήκευσης.</string>
-     <string name="dialog_media_not_found">Αδύνατη λήψη. Το εξωτερικό μέσο αποθήκευσης δεν είναι διαθέσιμο.</string>
+     <string name="dialog_insufficient_space_on_cache">Αδυναμία ολοκλήρωσης λήψης. Δεν υπάρχει επαρκής εσωτερικός χώρος αποθήκευσης.</string>
+     <string name="dialog_insufficient_space_on_external">Αδυναμία ολοκλήρωσης λήψης. Δεν υπάρχει επαρκής χώρος στον εξωτερικό μέσο αποθήκευσης.</string>
+     <string name="dialog_media_not_found">Αδυναμία λήψης. Το εξωτερικό μέσο αποθήκευσης δεν είναι διαθέσιμο.</string>
      <string name="dialog_queued_body">Θα γίνει λήψη του αρχείου στο μέλλον.</string>
      <string name="dialog_title_not_available">Λήψη Απέτυχε</string>
      <string name="dialog_title_queued_body">Το αρχείο δεν είναι ακόμα διαθέσιμο</string>
@@ -79,7 +79,7 @@
      <string name="download_list_open_xl_message">Η επιτάχυνση λήψεων Xunlei θα βοηθήσει να επιταχύνετε τις λήψεις σας.</string>
      <string name="download_list_open_xl_ok">OK</string>
      <string name="download_list_open_xl_title">Επιτάχυνση λήψεων Xunlei</string>
-     <string name="download_no_application_title">Δεν είναι δυνατό το άνοιγμα του αρχείου</string>
+     <string name="download_no_application_title">Αδυναμία ανοίγματος αρχείου</string>
      <string name="download_paused">Λήψη σε παύση</string>
      <string name="download_pending">Λήψη σε αναμονή</string>
      <string name="download_queued">Σε σειρά</string>
@@ -126,7 +126,7 @@
      <string name="member_cost">Ετήσια</string>
      <string name="menu_all_task_pause">Παύση όλων</string>
      <string name="menu_all_task_start">Έναρξη όλων</string>
-     <string name="menu_enter_edit_mode">Επεξεργαστής</string>
+     <string name="menu_enter_edit_mode">Επεξεργασία</string>
      <string name="menu_preferences">Ρυθμίσεις λήψεων</string>
      <string name="menu_title_pause_all">Παύση όλων</string>
      <string name="menu_title_resume_all">Έναρξη όλων</string>
@@ -165,14 +165,14 @@
      <string name="pref_download_settings_title">Όριο μεγέθους λήψης</string>
      <string name="pref_download_storage_path">Δημιουργήστε ένα νέο φάκελο για τις λήψεις</string>
      <string name="pref_sniff_shortcut">Δημιουργία συντόμευσης</string>
-     <string name="pref_summary_any_bytes_popup">Πάντα αναμονή για λήψη μέσω Wi-Fi</string>
+     <string name="pref_summary_any_bytes_popup">Πάντα αναμονή για σύνδεση Wi‑Fi για λήψη αρχείων</string>
      <string name="pref_summary_enable_max_bytes_popup">Εμφάνιση αναδυόμενης ειδοποίησης όταν χρησιμοποιείτε σύνδεση δεδομένων κινητής  για να κατεβάσετε περιεχόμενο</string>
-     <string name="pref_summary_max_bytes_limit_format">Αναμονή για δίκτυο Wi-Fi εάν το μέγεθος αρχείου ξεπερνάει τα %s</string>
+     <string name="pref_summary_max_bytes_limit_format">Αναμονή για δίκτυο Wi‑Fi εάν το μέγεθος αρχείου ξεπερνάει τα %s</string>
      <string name="pref_summary_no_limit_popup">Απεριόριστο</string>
      <string name="pref_title_enable_max_bytes_popup">Εμφάνιση προτροπής χρήσης δεδομένων</string>
      <string name="preferences_title">Ρυθμίσεις</string>
      <string name="privacy_tip_cancel">Ακύρωση</string>
-     <string name="privacy_tip_content">"Χρήση του επιταχυντή Xunlei για επιτάχυνση λήψεων; Η διεύθυνση URL λήψης θα φορτωθεί στους διακομιστές του Xunlei. Επίσης θα φορτωθούν τα στοιχεία του Mi λογαριασμού σας, για να ελεγχθεί αν έχετε ενεργές συνδρομές σε αυτή την υπηρεσία."</string>
+     <string name="privacy_tip_content">"Χρήση του επιταχυντή Xunlei για επιτάχυνση λήψεων; Η διεύθυνση URL λήψης θα φορτωθεί στους διακομιστές της Xunlei. Επίσης θα φορτωθούν τα στοιχεία του Mi λογαριασμού σας, για να ελεγχθεί αν έχετε ενεργές συνδρομές σε αυτή την υπηρεσία."</string>
      <string name="privacy_tip_ok">OK</string>
      <string name="privacy_tip_title">Χρήση του επιταχυντή Xunlei;</string>
      <string name="quit_btn">Έξοδος</string>
@@ -272,13 +272,13 @@
      <string name="torrent_file_error">"Αδυναμία ανάλυσης αυτού του αρχείου torrent"</string>
      <string name="torrent_no_subfile">Δεν υπάρχουν υποφάκελλοι σε αυτό το torrent</string>
      <string name="turn_off_xunlei_message">Μπορεί να έχετε αργή ταχύτητα λήψεων</string>
-     <string name="turn_off_xunlei_tips">Η επιτάχυνση της Xunlei είναι ανενεργή</string>
+     <string name="turn_off_xunlei_tips">Η επιτάχυνση λήψεων Xunlei είναι ανενεργή</string>
      <string name="turn_off_xunlei_title">Απενεργοποίηση της μηχανής λήψεων Xunlei</string>
      <string name="unbind_xunlei_2_success">Προστέθηκε λογαριασμός Xunlei</string>
      <string name="unbind_xunlei_success">Έξοδος από το λογαριασμό Xunlei</string>
      <string name="valid_in_this_month">Ισχύει μόνο αυτό το μήνα</string>
      <string name="version">Έκδοση %s</string>
-     <string name="vip_auto_speedup">Η επιτάχυνση λήψεων της Xunlei είναι ενεργή</string>
+     <string name="vip_auto_speedup">Η επιτάχυνση λήψεων Xunlei είναι ενεργή</string>
      <string name="vip_expire_show_info">"Η συνδρομή Xunlei έληξε.
 Ανανεώστε τώρα και κερδίστε 5% έκπτωση."</string>
      <string name="vip_expire_today_show_info">"Η συνδρομή Xunlei έληξε.

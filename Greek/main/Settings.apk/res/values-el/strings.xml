@@ -2200,7 +2200,7 @@
      <string name="notification_app_settings_button">Ρυθμίσεις ειδοποίησης</string>
      <string name="notification_breathing_light_color_title">Χρωματισμός LED ειδοποίησης</string>
      <string name="notification_breathing_light_freq_title">Συχνότητα LED flash ειδοποιήσεων</string>
-     <string name="notification_listener_security_warning_summary">%1$s θα είναι σε θέση να διαβάσει όλες τις κοινοποιήσεις που δημοσιεύτηκε από το σύστημα ή εγκατεστημένη εφαρμογή, που μπορεί να περιλαμβάνουν προσωπικές πληροφορίες, όπως τα ονόματα των επαφών και του κειμένου των μηνυμάτων που αποστέλλονται σε εσάς. Επίσης, θα είναι σε θέση να απορρίψει αυτές τις ειδοποιήσεις ή να αγγίξετε τα κουμπιά δράσης στο εσωτερικό τους.</string>
+     <string name="notification_listener_security_warning_summary">Το %1$s θα είναι σε θέση να διαβάσει όλες τις ειδοποιήσεις, συμπεριλαμβανομένων των προσωπικών πληροφοριών, όπως ονόματα επαφών και του κειμένου των μηνυμάτων που λαμβάνετε. Θα είναι επίσης σε θέση να απορρίψει τις ειδοποιήσεις ή να πατήσει τα κουμπιά ενεργειών που περιέχουν.</string>
      <string name="notification_listener_security_warning_title">Ενεργοποίηση %1$s;</string>
      <string name="notification_pulse_title">LED ειδοποίησης</string>
      <string name="notification_ringtone_title">Προεπιλεγμένος ήχος ειδοποίησης</string>
@@ -2227,7 +2227,7 @@
      <string name="oldman_mode_entry_title">Απλή λειτουργία</string>
      <string name="oldman_mode_settings_caption">Ρυθμίσεις Απλής λειτουργίας</string>
      <string name="oldman_mode_summary">Χρησιμοποιήστε απλοποιημένη Αρχική οθόνη και μενού</string>
-     <string name="oldman_mode_summary_cta">Η λειτουργία Lite χρειάζεται να συνδεθεί στο internet και να διαβάσει τις επαφές σας, τα μηνύματά  σας και τις πληροφορίες σχετικά με την τοποθεσίας σας για να λειτουργήσει κανονικά.</string>
+     <string name="oldman_mode_summary_cta">Η λειτουργία Lite χρειάζεται να συνδεθεί στο Internet και να διαβάσει τις επαφές σας, τα μηνύματά  σας και τις πληροφορίες σχετικά με την τοποθεσίας σας για να λειτουργήσει κανονικά.</string>
      <string name="onekey_migrate">Μεταφορά</string>
      <string name="online_resource_entry">Online πηγές</string>
      <string name="only_one_home_message">Θα γίνει απόκρυψη των ρυθμίσεων της Αρχικής οθόνης μέχρι να εγκαταστήσετε μια άλλη εφαρμογή αρχικής οθόνης.</string>
@@ -3447,7 +3447,7 @@
      <string name="volume_notification_description">Ειδοποιήσεις</string>
      <string name="volume_notification_mute">Σίγαση ειδοποιήσεων</string>
      <string name="volume_restore">Επαναφορά έντασης</string>
-     <string name="volume_restore_alert">Όλες οι ρυθμίσεις έντασης θα επανέλθουν στις προεπιλεγμένες ρυθμίσεις είστε σίγουροι</string>
+     <string name="volume_restore_alert">Όλες οι ρυθμίσεις έντασης θα επανέλθουν στις προεπιλεγμένες ρυθμίσεις. Είστε σίγουροι;</string>
      <string name="volume_ring_description">Ήχος κλήσης &amp; ειδοποιήσεις</string>
      <string name="volume_ring_mute">Σίγαση ήχου κλήσης &amp; ειδοποιήσεις</string>
      <string name="volume_system_description">Ένταση συστήματος, κλείστρο κάμερας, κλείδωμα οθόνης και άλλες ειδοποιήσεις συστήματος</string>
