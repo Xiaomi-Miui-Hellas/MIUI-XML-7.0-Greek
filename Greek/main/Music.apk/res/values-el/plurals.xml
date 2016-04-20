@@ -8,6 +8,12 @@
         <item quantity="other">Θα ληφθούν %d τραγούδια.</item>
         <item quantity="one">Θα ληφθεί 1 τραγούδι.</item>
      </plurals>
+     <plurals name="Nalert_msg_vip_songs_for_download_limited">
+        <item quantity="other">" Μπορείτε να κατεβάσετε μόνο %d Premium τραγούδια αυτό το μήνα. Να γίνει λήψη των επιλεγμένων τραγουδιών;"</item>
+     </plurals>
+     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+        <item quantity="other">"Μπορείτε να κατεβάσετε μόνο %d Premium τραγούδια αυτό το μήνα. Αναβαθμίστε το Premium πακέτο μουσικής για να κάνετε λήψη περισσότερων. "</item>
+     </plurals>
      <plurals name="Nartists_count">
         <item quantity="other">%d καλλιτέχνες</item>
         <item quantity="one">%d καλλιτέχνης</item>
@@ -63,6 +69,14 @@
      <plurals name="dialog_remove_descript">
         <item quantity="other">Διαγραφή %d τραγουδιών;</item>
         <item quantity="one">Διαγραφή %d τραγουδιού;</item>
+     </plurals>
+     <plurals name="download_finished">
+        <item quantity="other">&amp;lt;font color=\"red\">%d τραγούδια&amp;lt;/font> ελήφθησαν</item>
+        <item quantity="one">&amp;lt;font color==\"red\">%d τραγούδι&amp;lt;/font> ελήφθη</item>
+     </plurals>
+     <plurals name="download_running">
+        <item quantity="other">&amp;lt;font color=\"red\">%d τραγούδια&amp;lt;/font> λαμβάνονται</item>
+        <item quantity="one">&amp;lt;font color==\"red\">%d τραγούδι&amp;lt;/font> λαμβάνεται</item>
      </plurals>
      <plurals name="folder_songs_count">
         <item quantity="other">%d τραγούδια</item>

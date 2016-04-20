@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="age_day">
+        <item quantity="other">%d ημέρες</item>
+        <item quantity="one">%d ημέρα</item>
+     </plurals>
+     <plurals name="age_month">
+        <item quantity="other">%d μήνες</item>
+        <item quantity="one">%d μήνα</item>
+     </plurals>
+     <plurals name="age_year">
+        <item quantity="other">%d χρόνια</item>
+        <item quantity="one">%d χρόνο</item>
+     </plurals>
+     <plurals name="album_already_share_user_count">
+        <item quantity="other">Μοιράστηκε ήδη σε %d άτομα</item>
+        <item quantity="one">Μοιράστηκε ήδη σε %d άτομο</item>
+     </plurals>
+     <plurals name="album_count">
+        <item quantity="other">%d φωτογραφίες</item>
+        <item quantity="one">%d φωτογραφία</item>
+     </plurals>
+     <plurals name="album_count_and_size">
+        <item quantity="other">%1$d στοιχεία | %2$s</item>
+        <item quantity="one">%1$d στοιχείο | %2$s</item>
+     </plurals>
+     <plurals name="album_item_msg_format">
+        <item quantity="other">(%d στοιχεία συνολικά)</item>
+        <item quantity="one">(%d στοιχείο συνολικά)</item>
+     </plurals>
      <plurals name="baby_age_subtitle_day">
         <item quantity="other">%1$d ημέρες</item>
         <item quantity="one">%1$d ημέρα</item>
@@ -79,6 +107,18 @@
      <plurals name="confirm_delete_video_from_many_albums">
         <item quantity="other">Διαγραφή %1$d βίντεο από %2$d άλμπουμ;</item>
         <item quantity="one">Διαγραφή %1$d βίντεο από %2$d άλμπουμ;</item>
+     </plurals>
+     <plurals name="delete_media_msg_format">
+        <item quantity="other">Διαγραφή %1$d στοιχείων %2$s;</item>
+        <item quantity="one">Διαγραφή %1$d στοιχείο %2$s;</item>
+     </plurals>
+     <plurals name="delete_photo_msg_format">
+        <item quantity="other">Διαγραφή %1$d φωτογραφιών %2$s;</item>
+        <item quantity="one">Διαγραφή αυτής της φωτογραφίας %2$s;</item>
+     </plurals>
+     <plurals name="delete_video_msg_format">
+        <item quantity="other">Διαγραφή %1$d βίντεο %2$s;</item>
+        <item quantity="one">Διαγραφή αυτού του βίντεο %2$s;</item>
      </plurals>
      <plurals name="how_many_pics">
         <item quantity="other">%d φωτογραφίες</item>
