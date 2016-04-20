@@ -254,9 +254,9 @@
      <string name="confirm_merge_many_face_albums">" "<Data> Συγχώνευση αυτών των άλμπουμ με %s; </Data>" "</string>
      <string name="confirm_not_face">Δεν είναι αυτό το άτομο</string>
      <string name="confirm_recommandation_face_is">" "<Data> Είστε σίγουροι ότι είναι αυτό &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>; Αυτό το πρόσωπο θα μεταφερθεί στο \"%2$s\" άλμπουμ μετά την επιβεβαίωση. </Data>" "</string>
-     <string name="confirm_recommandation_face_not">" "<Data> Είστε σίγουροι ότι δεν είναι αυτό &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>; Αυτό το πρόσωπο θα μεταφερθεί στο \"%2$s\" άλμπουμ μετά την επιβεβαίωση. </Data>" "</string>
+     <string name="confirm_recommandation_face_not">" "<Data> Είστε σίγουροι ότι δεν είναι αυτό &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>; </Data>" "</string>
      <string name="confirm_recommandation_multiple_faces_are">" "<Data> Είστε σίγουροι ότι είναι αυτοί &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>; Αυτά τα πρόσωπα θα μεταφερθούν στο \"%2$s\" άλμπουμ μετά την επιβεβαίωση. </Data>" "</string>
-     <string name="confirm_recommandation_multiple_faces_not">" "<Data> Είστε σίγουροι ότι δεν είναι αυτοί &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>; Αυτά τα πρόσωπα θα μεταφερθούν στο \"%2$s\" άλμπουμ μετά την επιβεβαίωση. </Data>" "</string>
+     <string name="confirm_recommandation_multiple_faces_not">" "<Data> Είστε σίγουροι ότι δεν είναι αυτοί &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>; </Data>" "</string>
      <string name="contact_photo">Εικόνα επαφής</string>
      <string name="contact_tip">Επαφές</string>
      <string name="context_menu_add_contact">Προσθήκη στις επαφές</string>

@@ -29,7 +29,7 @@
      <string name="find_device_success_title">Εύρεση συσκευής</string>
      <string name="i_know">OK</string>
      <string name="lock_msg_phone">Στοιχεία επικοινωνίας: %s</string>
-     <string name="login_failed">"Αδυναμία σύνδεσης"</string>
+     <string name="login_failed">"Αδυναμία σύνδεσης. %s."</string>
      <string name="password">Κωδικός πρόσβασης</string>
      <string name="phone_locked">Αυτή η συσκευή μπορεί να έχει συσχετισθεί με έναν υφιστάμενο λογαριασμό Mi (%s). Συνδεθείτε για να ενεργοποιήσετε τη συσκευή.</string>
      <string name="stop_on_empty_captcha">"Το Captcha δεν μπορεί να είναι κενό"</string>
