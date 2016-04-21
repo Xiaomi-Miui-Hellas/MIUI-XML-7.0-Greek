@@ -2465,7 +2465,7 @@
      <string name="process_stats_type_foreground">Προσκήνιο</string>
      <string name="profile_info_settings_title">Πληροφορίες προφίλ</string>
      <string name="progress_scanning">Σάρωση</string>
-     <string name="provider_label">Push συνδρομές</string>
+     <string name="provider_label">Συνδρομές Push</string>
      <string name="provision_next">Επόμενο</string>
      <string name="provision_page_layout_confirm_message">Η συσκευή σας πρέπει να κάνει επανεκκίνηση για να εφαρμόσει αυτές τις αλλαγές. Αυτό διαρκεί περίπου 1 λεπτό.</string>
      <string name="proxy_action_text">Αποθήκευση</string>

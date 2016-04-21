@@ -14,6 +14,7 @@
      <string name="experimental_validate_username">Όνομα χρήστη</string>
      <string name="experimental_validate_warning">Οι προτάσεις σας βοηθούν στην βελτίωση της MIUI!</string>
      <string name="find_device_turn_off_flight_mode">Απενεργοποιήστε τη λειτουργία πτήσης</string>
+     <string name="fingerprint_lockout_msg">Περιμένετε ένα λεπτό και μετά δοκιμάστε πάλι να ξεκλειδώσετε με το δακτυλικό σας αποτύπωμα</string>
      <string name="fingerprint_not_identified_msg">Για να ξεκλειδώσετε τη συσκευή σας, πληκτρολογήστε τον κωδικό πρόσβασής σας.</string>
      <string name="fingerprint_not_identified_title">"Αδυναμία ανάγνωσης δακτυλικού αποτυπώματος"</string>
      <string name="fingerprint_try_again_text">Προσπαθήστε ξανά</string>

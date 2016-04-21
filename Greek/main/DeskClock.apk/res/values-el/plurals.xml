@@ -8,6 +8,13 @@
         <item quantity="other">Οι αφυπνίσεις θα σιγήσουν μετά από %d λεπτά</item>
         <item quantity="one">Οι αφυπνίσεις θα σιγήσουν μετά από %d λεπτό</item>
      </plurals>
+     <plurals name="delete_alarm_confirm">
+        <item quantity="other">Διαγραφή των επιλεγμένων αφυπνίσεων;</item>
+        <item quantity="one">Διαγραφή αυτής της αφύπνισης;</item>
+     </plurals>
+     <plurals name="delete_timezone_confirm">
+        <item quantity="one">Διαγραφή αυτής της ζώνης ώρας;</item>
+     </plurals>
      <plurals name="snooze_message">
         <item quantity="other">Αναβολή για %d λεπτά</item>
         <item quantity="one">Αναβολή για %d λεπτό</item>

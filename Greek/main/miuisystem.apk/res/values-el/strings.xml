@@ -14,6 +14,11 @@
      <string name="presentation_payphone">Καρτοτηλέφωνο</string>
      <string name="presentation_private">Απόρρητος αριθμός</string>
      <string name="presentation_unknown">Άγνωστος αριθμός</string>
+     <string name="vip_achievements">Επιτεύγματα</string>
+     <string name="vip_level">LV%d</string>
+     <string name="vip_login">Πατήστε για να συνδεθείτε</string>
+     <string name="vip_not_login">Δεν έχετε συνδεθεί</string>
+     <string name="vip_sign">Υπογραφή:</string>
      <string name="yellow_page_module_sms_sent">Αποστολή SMS</string>
      <string name="yellow_page_sms_disabled_in_privacy_mode">"Δεν είναι δυνατή η αποστολή μηνυμάτων σε λειτουργία επισκέπτη"</string>
      <string name="yellow_page_sms_send_failed">"Αδυναμία αποστολής SMS"</string>
