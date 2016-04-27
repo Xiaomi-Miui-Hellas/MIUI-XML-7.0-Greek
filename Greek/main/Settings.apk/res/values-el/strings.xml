@@ -2380,11 +2380,11 @@
      <string name="pref_volume_wake_summary">Η χρήση των πλήκτρων έντασης ξυπνά τη συσκευή. Συνίσταται για συσκευές με ελαττωματικό πλήκτρο ενεργοποίησης</string>
      <string name="pref_volume_wake_title">Αφύπνιση με τα πλήκτρα έντασης</string>
      <string name="preference_change_password_title">Αλλαγή κωδικού</string>
-     <string name="preferred_app_settings">Προεπιλεγμένες ρυθμίσεις εφαρμογών</string>
+     <string name="preferred_app_settings">Προεπιλογές</string>
      <string name="preferred_app_settings_default">Προεπιλεγμένα</string>
-     <string name="preferred_app_settings_reset">Επαναφορά προεπιλεγμένων εφαρμογών;</string>
+     <string name="preferred_app_settings_reset">Επαναφορά προεπιλογών</string>
      <string name="preferred_app_settings_reset_button">Επαναφορά</string>
-     <string name="preferred_app_settings_reset_message">Όλες οι προεπιλεγμένες εφαρμογές θα πρέπει να αποκατασταθεί σε MIUI προεπιλογές.</string>
+     <string name="preferred_app_settings_reset_message">Οι προεπιλεγμένες προτιμήσεις των εφαρμογών, θα επανέλθουν στις εργοστασιακές προεπιλογές</string>
      <string name="preferred_application_title">Προεπιλεγμένα %s</string>
      <string name="preferred_application_warning_message">Αντικατάσταση της προεπιλογής %1$s μπορεί να αυξήσει την κατανάλωση ενέργειας, να μειώσει την ταχύτητα, και μπορεί να θέσει τα περιεχόμενα του τηλεφώνου σας σε κίνδυνο. Χρησιμοποιείστε το %2$s αντί αυτού.</string>
      <string name="preferred_application_warning_replace">Αντικατάσταση</string>

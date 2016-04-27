@@ -22,7 +22,7 @@
      <string name="allPerms">Όλα</string>
      <string name="all_permissions">Όλα τα δικαιώματα</string>
      <string name="allow_source_dlg_text">"%1$s θέλει να εγκαταστήσει άλλες εφαρμογές. Να επιτραπεί αυτό τώρα και στο μέλλον;"</string>
-     <string name="allow_source_dlg_title">Επιτρέψτε νέα πηγή για εφαρμογές;</string>
+     <string name="allow_source_dlg_title">Νέα πηγή για εφαρμογές</string>
      <string name="app_name">Εγκατάσταση πακέτου</string>
      <string name="app_not_found_dlg_text">Η εφαρμογή δεν βρέθηκε στη λίστα των εγκατεστημένων εφαρμογών.</string>
      <string name="app_not_found_dlg_title">Η εφαρμογή δεν βρέθηκε</string>
