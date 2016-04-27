@@ -114,11 +114,12 @@
      <string name="files_backup_info">Όλα τα αρχεία στην κάρτα SD (συμπεριλαμβανομένων των φωτογραφιών, τραγουδιών, βίντεο, δεδομένα εφαρμογών, κλπ)</string>
      <string name="findlost_contact">Εύρεση διαγραμμένων επαφών</string>
      <string name="findlost_contact_online">Επαναφορά διαγραμμένων επαφών απ το Cloud</string>
-     <string name="guarded_mode_dialog_message">Αδύνατη η χρήση της εφαρμογής στη λειτουργία προστασίας</string>
+     <string name="guarded_mode_dialog_backup_message">"Αδύνατη η λήψη backup σε λειτουργία Επισκέπτη."</string>
      <string name="guarded_mode_dialog_title">Λειτουργία προστασίας</string>
+     <string name="guarded_mode_dialog_transfer_message">"Αδύνατη η χρήση της Μεταφοράς σε λειτουργία Επισκέπτη."</string>
      <string name="import_from_xiaomi_account_hint1">1. Εγκαταστήστε το MiTalk και συνδεθείτε.\n2. http://www.miliao.com\n\n3. Πηγαίνετε στις ρυθμίσεις MiTalk και επιλέξτε Αντίγραφο επαφών στο λογαριασμό Mi</string>
      <string name="import_from_xiaomi_account_hint2">Σημείωση Μεταβείτε στο επόμενο βήμα εάν υπάρχει ήδη αντίγραφο</string>
-     <string name="import_from_xiaomi_account_hint_title">Χρησιμοποιήστε το MiTalk για να αποθηκεύσετε επαφές σε άλλα τηλέφωνα όχι στο MI-ONE</string>
+     <string name="import_from_xiaomi_account_hint_title">Χρησιμοποιήστε το MiTalk για να κάνετε backup των επαφών σας σε όλες τις συσκευές</string>
      <string name="local_app_name">Αντίγραφα</string>
      <string name="local_backup_window_title">Τοπικό</string>
      <string name="local_home_title">Τοπικό</string>
@@ -136,6 +137,8 @@
      <string name="miliao_account_login">Είσοδος στο MiTalk</string>
      <string name="mms_title">Μηνύματα πολυμέσων</string>
      <string name="multi_select_title">Επιλέχθηκαν %1$s αντικείμενα</string>
+     <string name="multi_user_mode_dialog_message">"Αδύνατη η χρήση της Μεταφοράς σε λειτουργία Multi-user. Απενεργοποιήστε την για να συνεχίσετε."</string>
+     <string name="multi_user_mode_dialog_title">"Είστε σε λειτουργία Multi-user"</string>
      <string name="never">Ποτέ</string>
      <string name="new_backup">Αντίγραφο ασφαλείας</string>
      <string name="no_encrypt_password">Χωρίς κωδικό κρυπτογράφησης</string>
