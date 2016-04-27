@@ -95,7 +95,7 @@
      <string name="commit_thanks">Ευχαριστούμε για τα σχόλιά σας</string>
      <string name="common_use">Με συχνή χρήση</string>
      <string name="confirm">OK</string>
-     <string name="confirm_on">Επιβεβαίωση</string>
+     <string name="confirm_on">OK</string>
      <string name="connect_to_retry">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τη σύνδεσή σας και προσπαθήστε ξανά."</string>
      <string name="connected">Συνδεδεμένα</string>
      <string name="continue_to_add_other_rc">Συνέχεια για να προσθήκη άλλων τηλεχειριστηρίων</string>
@@ -140,7 +140,7 @@
      <string name="edit">Επεξεργασία</string>
      <string name="edit_controller">Επεξεργασία</string>
      <string name="edit_ir_device">Όνομα τηλεχειριστηρίου</string>
-     <string name="eject">﻿Εξαγωγή</string>
+     <string name="eject">Εξαγωγή</string>
      <string name="empty_name_tip">Δώστε ένα όνομα σε αυτό το τηλεχειριστήριο</string>
      <string name="epg_all_channels">Όλα τα κανάλια</string>
      <string name="epg_bookable">Κράτηση</string>

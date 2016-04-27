@@ -236,7 +236,7 @@
      <string name="compose_picturesexceedlimits">Ο αριθμός των ενσωματωμένων εικόνων δεν μπορεί να υπερβαίνει τις 5 !</string>
      <string name="compose_send">Αποστολή</string>
      <string name="compose_sent">Ολοκληρώθηκε η αποστολή</string>
-     <string name="confirm">Επιβεβαίωση</string>
+     <string name="confirm">OK</string>
      <string name="confirm_delete_conversation_title">Διαγραφή</string>
      <string name="confirm_discard_text">Απορρίψτε αυτό το μήνυμα;</string>
      <string name="confirm_response">Αποστολή απάντησης…</string>

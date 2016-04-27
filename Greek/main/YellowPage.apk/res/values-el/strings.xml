@@ -280,7 +280,7 @@
      <string name="order_type_recharge">Ανανέωση</string>
      <string name="packages_no_package">Δεν υπάρχουν συνιστώμενα πακέτα</string>
      <string name="packages_pay">Αγορά</string>
-     <string name="packages_pay_confirm">Επιβεβαίωση</string>
+     <string name="packages_pay_confirm">Πληρωμή τώρα</string>
      <string name="packages_pay_hint">Αποστολή Send SMS (δωρεάν)</string>
      <string name="packages_pay_success">Το μήνυμα εστάλη</string>
      <string name="packages_select_sim_cards_summmary">Το σύστημα θα χρησιμοποιήσει με την κάρτα SIM το πακέτο δεδομένων που θα επιλέξετε από τα συνιστώμενα.</string>

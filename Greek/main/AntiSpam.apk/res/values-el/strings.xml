@@ -329,7 +329,7 @@
      <string name="st_title_sim_card">%1$s-SIM %2$s</string>
      <string name="st_title_sim_unknown">Άγνωστο</string>
      <string name="st_title_whitelist_numbers">Εξαιρέσεις</string>
-     <string name="sure">Επιβεβαίωση</string>
+     <string name="sure">OK</string>
      <string name="tab_blacklist">Λίστα αποκλεισμένων</string>
      <string name="tab_block_log">Ιστορικό</string>
      <string name="tab_block_log_unKnowNumber">Άγνωστος αριθμός</string>

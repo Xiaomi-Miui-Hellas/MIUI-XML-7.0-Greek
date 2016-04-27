@@ -23,7 +23,7 @@
      <string name="add_event">Προσθήκη γεγονότος</string>
      <string name="add_event_hint">Εισάγετε ετικέτα</string>
      <string name="add_sharer">Προσθήκη μέλους</string>
-     <string name="add_to_album">Προθήκη στο άλμπουμ</string>
+     <string name="add_to_album">Προσθήκη σε άλμπουμ</string>
      <string name="add_to_album_bulk_result">Σφάλμα (%d)</string>
      <string name="add_to_album_exist">Αυτή η φωτογραφία υπάρχει ήδη</string>
      <string name="add_to_album_failed">"Αδυναμία προσθήκης στο άλμπουμ"</string>
@@ -628,9 +628,9 @@
      <string name="open_public_title">Κοινή χρήση</string>
      <string name="open_single_image_failure">Σφάλμα κατά τη φόρτωση της εικόνας!</string>
      <string name="open_sync_title">Απαιτείται συγχρονισμός</string>
-     <string name="operation_add_album">Προσθήκη στο άλμπουμ</string>
+     <string name="operation_add_album">Προσθήκη σε άλμπουμ</string>
      <string name="operation_add_picture">Προσθήκη φωτογραφιών</string>
-     <string name="operation_add_secret">Προσθήκη στο κρυφό άλμπουμ</string>
+     <string name="operation_add_secret">Απόκρυψη</string>
      <string name="operation_add_secret_button">Απόκρυψη</string>
      <string name="operation_delete">Διαγραφή</string>
      <string name="operation_delete_confirm_message_folder">Οι φάκελοι και τα αρχεία θα διαγραφούν ταυτόχρονα.</string>

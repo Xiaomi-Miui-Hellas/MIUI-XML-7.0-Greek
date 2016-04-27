@@ -805,7 +805,7 @@
      <string name="confirm_enable_multi_window_title">Ενεργοποίηση λειτουργίας πολλαπλών παραθύρων;</string>
      <string name="confirm_enable_oem_unlock_text">ΠΡΟΣΟΧΗ: Οι λειτουργίες προστασίας της συσκευής δεν θα λειτουργήσουν σε αυτή τη συσκευή, όσο αυτή η ρύθμιση είναι ενεργοποιημένη.</string>
      <string name="confirm_enable_oem_unlock_title">Ενεργοποίηση OEM unlock;</string>
-     <string name="confirm_erase">Επιβεβαίωση</string>
+     <string name="confirm_erase">Διαγραφή</string>
      <string name="confirm_fingerprint_icon_content_description">Χρήση δακτυλικού αποτυπώματος για συνέχεια.</string>
      <string name="confirm_fingerprint_msg">Τοποθετήστε το δάκτυλό σας στο σαρωτή δακτυλικών αποτυπωμάτων</string>
      <string name="confirm_new_backup_pw_prompt">Πληκτρολογήστε ξανά τον κωδικό του νέου πλήρες αντιγράφου ασφαλείας σας</string>

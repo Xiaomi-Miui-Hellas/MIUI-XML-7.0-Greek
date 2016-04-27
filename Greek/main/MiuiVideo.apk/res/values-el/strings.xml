@@ -404,8 +404,8 @@
      <string name="vp_brightness">Φωτεινότητα</string>
      <string name="vp_cancel">Ακύρωση</string>
      <string name="vp_client_message">Θέλετε να εγκαταστήσετε το %1$s ;</string>
-     <string name="vp_closedialog">Επιβεβαίωση</string>
-     <string name="vp_confirm">Επιβεβαίωση</string>
+     <string name="vp_closedialog">OK</string>
+     <string name="vp_confirm">OK</string>
      <string name="vp_content_description">Περιγραφή περιεχομένου</string>
      <string name="vp_datastream_alert_hint">Μπορείτε να απενεργοποιήσετε τις ειδοποιήσεις χρήσης δεδομένων οποιαδήποτε στιγμή από τις Ρυθμίσεις.</string>
      <string name="vp_datastream_alert_negative_button">Cancel</string>

@@ -94,7 +94,7 @@
      <string name="dlg_error_title">Η λειτουργία USB απέτυχε</string>
      <string name="dlg_ok">OK</string>
      <string name="drive_mode_tip">Λειτουργία στο αυτοκίνητο, παρακαλώ οδηγείτε προσεχτικά</string>
-     <string name="expanded_confirm_disable_notification">Επιβεβαίωση</string>
+     <string name="expanded_confirm_disable_notification">Απόκρυψη</string>
      <string name="expanded_notification_manager">Διαχείριση</string>
      <string name="ext_media_badremoval_notification_message">Αποσυνδέστε τη συσκευή αποθήκευσης USB πριν από την αφαίρεση για να αποφύγετε απώλεια δεδομένων.</string>
      <string name="ext_media_badremoval_notification_title">Η συσκευή αποθήκευσης USB αφαιρέθηκε απροσδόκητα</string>

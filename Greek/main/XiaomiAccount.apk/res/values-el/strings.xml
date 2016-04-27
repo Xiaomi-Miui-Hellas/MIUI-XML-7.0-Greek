@@ -142,7 +142,7 @@
 Για την ενεργοποίηση του λογαριασμού σας, 
  ακολουθήστε το σύνδεσμο που στείλαμε στα εισερχόμενά σας."</string>
      <string name="passport_completed">Ολοκληρώθηκε</string>
-     <string name="passport_confirm">Επιβεβαίωση</string>
+     <string name="passport_confirm">OK</string>
      <string name="passport_confirm_recycle_account">Ναι</string>
      <string name="passport_delete_account">Αποσύνδεση</string>
      <string name="passport_email">Διεύθυνση email</string>

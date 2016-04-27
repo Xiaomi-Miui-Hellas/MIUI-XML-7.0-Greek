@@ -83,7 +83,7 @@
      <string name="compress_fail_unknown">"Αδυναμία συμπίεσης. Ο χώρος αποθήκευσης είναι πλήρης ή παρουσιάστηκε άγνωστο σφάλμα."</string>
      <string name="compress_message">Συμπίεση σε…</string>
      <string name="compress_title">Συμπίεση</string>
-     <string name="confirm">Επιβεβαίωση</string>
+     <string name="confirm">OK</string>
      <string name="confirm_clean">Καθαρισμός</string>
      <string name="confirm_know">ΟΚ</string>
      <string name="connect_network_setting_des">Υπενθύμιση κατά την πρόσβαση δικτύου</string>

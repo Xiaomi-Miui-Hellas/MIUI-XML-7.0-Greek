@@ -171,7 +171,7 @@
      <string name="resource_downloaded_title">Πόροι που ελήφθησαν</string>
      <string name="resource_downloading">Λήψη</string>
      <string name="resource_exchange">Εξαργύρωση</string>
-     <string name="resource_exchange_confirm">Επιβεβαίωση</string>
+     <string name="resource_exchange_confirm">OK</string>
      <string name="resource_exchange_empty_format">Εισάγετε τον κωδικό δώρου</string>
      <string name="resource_exchange_has_bought">"Έχετε ήδη αγοράσει αυτό το θέμα."</string>
      <string name="resource_exchange_has_expired">Ο κωδικός που εισαγάγατε έχει λήξει.</string>

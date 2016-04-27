@@ -251,7 +251,7 @@
      <string name="open">Ενεργοποίηση</string>
      <string name="open_browser">Άνοιγμα στο πρόγραμμα περιήγησης</string>
      <string name="optimizecenter_data_support">Powered by Clean Master</string>
-     <string name="positive_confirm">Επιβεβαίωση</string>
+     <string name="positive_confirm">OK</string>
      <string name="pref_category_title_auto_clean_settings">Αυτόματος καθαρισμός</string>
      <string name="pref_category_title_auto_update_cleanup_db">Πρόσθετες ρυθμίσεις</string>
      <string name="pref_category_title_cleanup_white_list">Εξαιρέσεις</string>
