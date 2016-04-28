@@ -19,6 +19,9 @@
      <string name="accessibility_time_picker_second">Δευτερόλεπτο</string>
      <string name="account_prifix">Λογαριασμός:</string>
      <string name="action">Είσοδος</string>
+     <string name="action_menu_account_not_login">Δεν έχετε συνδεθεί</string>
+     <string name="action_menu_account_not_login_hint">Συνδεθείτε για να συγχρονίσετε με το Mi Cloud</string>
+     <string name="action_menu_bookshelf">Βιβλιοθήκη</string>
      <string name="action_menu_current_version">Τρέχουσα έκδοση</string>
      <string name="action_menu_text_add_bookmark">Προσθήκη σελιδοδείκτη</string>
      <string name="action_menu_text_bandwidth">Εύρος ζώνης</string>
@@ -40,6 +43,9 @@
      <string name="action_menu_text_share">Κοινή χρήση</string>
      <string name="action_menu_text_snapshot">Αποθήκευση σελίδας</string>
      <string name="action_menu_text_video">Βίντεο</string>
+     <string name="action_menu_toolbox">Εργαλειοθήκη</string>
+     <string name="action_menu_useful_page">Στα χρήσιμα</string>
+     <string name="action_menu_useful_page_added">Προστέθηκε</string>
      <string name="actionbar_share">Κοινή χρήση</string>
      <string name="actionbar_web_search">Αναζήτηση ιστού</string>
      <string name="adblock_notification">μπλοκ %d διαφημίσεων</string>
@@ -145,6 +151,8 @@
      <string name="color_picker_hue">Χροιά</string>
      <string name="color_picker_saturation">Κορεσμός</string>
      <string name="color_picker_value">Τιμή</string>
+     <string name="comment_app_menu">σχόλιο</string>
+     <string name="comment_menu">σχόλιο</string>
      <string name="common_use_phrase_bottom_bar_cn_txt">.gr</string>
      <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
      <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -180,6 +188,10 @@
      <string name="current_version_pad">Tablet</string>
      <string name="current_version_pc">Υπολογιστής</string>
      <string name="current_version_phone">Τηλέφωνο</string>
+     <string name="custom_head_card_text">"Πάντα να πιστεύεις ότι κάτι υπέροχο
+πρόκειται να συμβεί"</string>
+     <string name="custom_head_card_text_incognito">"Μόνο ο Θεός και εσείς ξέρετε αυτό
+ιδιωτικό παράθυρο"</string>
      <string name="data_traffic_prompt_change">Χρησιμοποιώντας τα δεδομένα κινητής για να δείτε βίντεο, θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
      <string name="data_traffic_prompt_message">Χρησιμοποιώντας τα δεδομένα κινητής για περιήγηση, θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
      <string name="data_traffic_prompt_title">Προειδοποίηση χρήσης δεδομένων</string>
@@ -320,6 +332,7 @@
      <string name="license_activity_title">Άδειες συστήματος WebView</string>
      <string name="loading_tips">Σύρετε κάτω για ανανέωση</string>
      <string name="local_bookmarks">Τοπικά</string>
+     <string name="login_failed_toast">Αποτυχία σύνδεσης. Ανανεώστε τη σελίδα.</string>
      <string name="low_memory_error">Αδυναμία ολοκλήρωσης της λειτουργίας λόγο χαμηλής μνήμης</string>
      <string name="max_tabs_warning">Χωρίς άλλες διαθέσιμες καρτέλες</string>
      <string name="maximum_input_alert">Μέγιστη εισαγωγή 2048 χαρακτήρες</string>
@@ -578,6 +591,7 @@
      <string name="remove_history_item">Αφαίρεση από ιστορικό</string>
      <string name="remove_snapshot">Διαγραφή αποθηκευμένης σελίδας</string>
      <string name="removed_from_bookmarks">Αφαιρέθηκε από σελιδοδείκτες.</string>
+     <string name="reply_comment_title">απάντηση: %s</string>
      <string name="resume_download">Έναρξη</string>
      <string name="retry_after_network_available">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="retry_download">Δοκιμάστε ξανά</string>
@@ -632,6 +646,8 @@
      <string name="security_warnings_confirm_message">Η απενεργοποίηση αυτής της λειτουργίας μπορεί να δημιουργήσει προβλήματα ασφάλειας.</string>
      <string name="select_dot">Επιλέξτε κείμενο</string>
      <string name="select_download_device">Επιλογή συσκευής</string>
+     <string name="send_comment_button">αποστολή</string>
+     <string name="send_comment_title">σχόλιο</string>
      <string name="share_page_text">"Απολαμβάνω 【%1$s】 | %2$s"</string>
      <string name="show_check_security_url_check_tip_dialog_description">"Αυτή η σελίδα(URL) θα σταλθεί στους Server της Xiaomi για έλεγχο της ασφάλειας. Μπορείτε να απενεργοποιήσετε αυτή τη λειτουργαία από τις ρυθμίσεις."</string>
      <string name="show_security_tip_dialog_title">Όροι Παροχής Υπηρεσιών</string>

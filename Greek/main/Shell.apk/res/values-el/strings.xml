@@ -5,4 +5,5 @@
      <string name="bugreport_confirm_repeat">Εμφάνιση αυτού του μηνύματος την επόμενη φορά</string>
      <string name="bugreport_finished_text">Πατήστε για κοινή χρήση της αναφοράς</string>
      <string name="bugreport_finished_title">Η αναφορά σφάλματος δημιουργήθηκε</string>
+     <string name="bugreport_storage_title">Αναφορές σφαλμάτων</string>
 </resources>

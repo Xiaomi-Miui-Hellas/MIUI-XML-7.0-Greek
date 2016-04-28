@@ -103,6 +103,11 @@
         <item>Περισσότερη χρήση</item>
         <item>Όνομα</item>
      </string-array>
+     <string-array name="roaming_network_type">
+        <item>Πάντα</item>
+        <item>Μόνο για τις εξαιρέσεις</item>
+        <item>Ποτέ</item>
+     </string-array>
      <string-array name="traffic_saving_compress_level_string_array">
         <item>Κανένα</item>
         <item>Χαμηλό</item>

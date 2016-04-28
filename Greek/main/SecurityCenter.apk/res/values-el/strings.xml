@@ -149,6 +149,7 @@
      <string name="button_text_uninstall_shortcut">Διαγραφή συντόμευσης</string>
      <string name="button_text_view">Προβολή</string>
      <string name="button_text_view_power">Προβολή ενέργειας</string>
+     <string name="byteShort">B</string>
      <string name="cache_header_title">%2$s μπορούν να απελευθερωθούν (αρχεία cache %1$d εφαρμ.)</string>
      <string name="call_and_contact">Κλήσεις και Επαφές</string>
      <string name="cancal_to_setting_fingerprint">Ακύρωση</string>
@@ -328,6 +329,7 @@
      <string name="gateway_exception_summary">Ελέγξτε το router και δοκιμάστε ξανά.</string>
      <string name="gateway_exception_summary2">"Αδυναμία σύνδεσης στον διακομιστή"</string>
      <string name="gateway_exception_title">Δοκιμή router</string>
+     <string name="gigabyteShort">GB</string>
      <string name="go_to_setting_fingerprint">Πηγαίνετε στις Ρυθμίσεις</string>
      <string name="handle_text_cache">Cache</string>
      <string name="handle_text_memory">Μνήμη</string>
@@ -392,6 +394,7 @@
      <string name="item_usb_debug">Εντοπισμός σφαλμάτων USB</string>
      <string name="item_virus">Ιός</string>
      <string name="item_virus_lib">Αυτόματη ενημέρωση βάσης ιών</string>
+     <string name="kilobyteShort">KB</string>
      <string name="kilobyte_per_second">K/s</string>
      <string name="last_check_canceled">Η προηγούμενη σάρωση είχε ακυρωθεί</string>
      <string name="last_check_date_today">Τελευταία ανάλυση σήμερα</string>
@@ -435,6 +438,10 @@
      <string name="lockpattern_too_many_failed_confirmation_attempts_header">Πάρα πολλές ανεπιτυχείς προσπάθειες!</string>
      <string name="lockpattern_tutorial_cancel_label">Ακύρωση</string>
      <string name="lockpattern_tutorial_continue_label">Επόμενο</string>
+     <string name="lockscreen_access_pattern_cell_added">Το μοτίβο προστέθηκε</string>
+     <string name="lockscreen_access_pattern_cleared">Το μοτίβο ακυρώθηκε</string>
+     <string name="lockscreen_access_pattern_detected">Το μοτίβο ολοκληρώθηκε</string>
+     <string name="lockscreen_access_pattern_start">Έναρξη μοτίβου</string>
      <string name="lockscreen_glogin_checking_password">Έλεγχος…</string>
      <string name="lockscreen_glogin_password_hint">Κωδικός</string>
      <string name="lockscreen_glogin_submit_button">Σύνδεση</string>
@@ -486,6 +493,7 @@
      <string name="manual_item_white_list_summary">Αποτρέπει τη βελτιστοποίηση των επιλεγμένων εφαρμογών</string>
      <string name="manual_item_white_list_title">Εξαιρέσεις</string>
      <string name="manual_white_list_header">%d εξαιρέσεις</string>
+     <string name="megabyteShort">MB</string>
      <string name="megabyte_per_second">M/s</string>
      <string name="memory_check_content_none">Κανένα</string>
      <string name="menu_item_about_content">Έκδοση: %s</string>
@@ -580,6 +588,7 @@
      <string name="never">Μόνο μια φορά</string>
      <string name="none_mi_service_app_detail">Κενό</string>
      <string name="notification_button_text_of_low_memory">Καθαρίστε</string>
+     <string name="notification_item">Ενεργοποίηση Κλειδώματος Εφαρμογής</string>
      <string name="notification_summary_cmcc_app_check">Πατήστε για να δείτε λεπτομέρειες.</string>
      <string name="notification_title_cmcc_app_check">Τελευταίος έλεγχος πριν %d ημέρες</string>
      <string name="notification_title_firewall_blocked">Αποκλεισμένα</string>
@@ -638,8 +647,11 @@
      <string name="pm_auto_start_basic_services_lock">Κλείδωμα</string>
      <string name="pm_auto_start_basic_services_unlock">Ξεκλείδωμα</string>
      <string name="pm_auto_start_by_basic_services">Βασικές υπηρεσίες</string>
+     <string name="pm_auto_start_by_other">Έμμεση έναρξη</string>
+     <string name="pm_auto_start_by_other_app">Επιτρέψτε την εκκίνηση της εφαρμογής από άλλες εφαρμογές</string>
      <string name="pm_auto_start_by_other_services">Δοκιμάστε να απενεργοποιήσετε αυτές τις υπηρεσίες</string>
      <string name="pm_auto_start_by_system">Έναρξη εφαρμογών</string>
+     <string name="pm_auto_start_by_system_event">Επιτρέψτε στις εφαρμογές να ξεκινάνε αυτόματα</string>
      <string name="pm_auto_start_proc_is_running">Τρέχουν</string>
      <string name="pm_remember_choice">Να θυμάται την επιλογή</string>
      <string name="pm_root_success_notification_title">Πρόσβαση root ενεργή</string>
@@ -933,6 +945,7 @@
      <string name="restrictbackground_conflict_saving_msg">"Δεν είναι δυνατή η χρήση εξοικονόμησης δεδομένων όταν τα δεδομένα παρασκηνίου είναι περιορισμένα. Απενεργοποίηση εξοικονόμησης δεδομένων και περιορισμός δεδομένων παρασκηνίου;"</string>
      <string name="right_precent">100%</string>
      <string name="risk_list_header_title">Ύποπτες εφαρμογές ανιχνεύθηκαν: %d</string>
+     <string name="roaming_allow_network_dialog_title">Να επιτρέπεται η περιαγωγή δεδομένων κινητής;</string>
      <string name="roaming_limit_dialog_message">Το ημερήσιο όριο δεδομένων έχει επιτευχθεί.</string>
      <string name="roaming_limit_network_notification_body">Πατήστε για να δείτε τα διαθέσιμα δίκτυα δεδομένων</string>
      <string name="roaming_limit_notification_title">Το ημερήσιο όριο δεδομένων έχει επιτευχθεί</string>
@@ -994,6 +1007,7 @@
      <string name="suffix_virus_count_bottom">Σύνολο</string>
      <string name="suffix_virus_count_top">Απειλές</string>
      <string name="suggest_app_tolock">Προτάσεις</string>
+     <string name="summary_app_lock_disable">Κλειδώστε εφαρμογές για την προστασία της ιδιωτικής ζωής σας</string>
      <string name="summary_cleaner_cloudscan">Ανέβασε και σύγκρινε τα άγνωστα ονόματα φακέλων με την online βάση</string>
      <string name="summary_cloud_account">Αξιοποιήστε στο έπακρο τις δυνατότητες της συσκευής σας</string>
      <string name="summary_cloud_service">Συγχρονίστε φωτογραφίες, επαφές, σημειώσεις, εφαρμογές και πολλά άλλα μεταξύ των συσκευών σας</string>
@@ -1111,6 +1125,7 @@
      <string name="timeshow_s">%dδ</string>
      <string name="tips_dialog_title">Δεν ξέρετε το όριο σας;</string>
      <string name="tips_message">"Για να δείτε τις λεπτομέρειες του προγράμματος δεδομένων σας, καλέστε %2$s (%1$s)."</string>
+     <string name="title_app_lock_disable">Κλειδώστε εφαρμογές</string>
      <string name="title_app_update">Διαθέσιμες ενημερώσεις</string>
      <string name="title_cleaner_cloudscan">Μεταφόρτωση ονομάτων φακέλων</string>
      <string name="title_cloud_account">Λογαριασμός Mi</string>
