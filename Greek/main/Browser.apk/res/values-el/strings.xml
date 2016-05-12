@@ -194,6 +194,7 @@
 ιδιωτικό παράθυρο"</string>
      <string name="data_traffic_prompt_change">Χρησιμοποιώντας τα δεδομένα κινητής για να δείτε βίντεο, θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
      <string name="data_traffic_prompt_message">Χρησιμοποιώντας τα δεδομένα κινητής για περιήγηση, θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
+     <string name="data_traffic_prompt_message_short">Χρησιμοποιώντας τα δεδομένα κινητής για να δείτε βίντεο, μπορεί να ξεπεράσετε το όριο χρήσης δεδομένων του πακέτου σας.</string>
      <string name="data_traffic_prompt_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="date_picker_dialog_clear">Καθαρισμός</string>
      <string name="date_picker_dialog_other_button_label">Άλλα</string>
@@ -757,6 +758,9 @@
      <string name="video_downloaded_group">Λήφθηκε</string>
      <string name="video_downloading_group">Λήψη…</string>
      <string name="video_edit">Επεξεργασία</string>
+     <string name="video_float_window">PopUp</string>
+     <string name="video_float_window_playing">Αναπαραγωγή βίντεο</string>
+     <string name="video_float_window_text">PopUp</string>
      <string name="video_fragment_name_collections">Οι Συλλογές μου</string>
      <string name="video_fragment_name_download">Offline βίντεο</string>
      <string name="video_fragment_name_historys">Ιστορικό</string>

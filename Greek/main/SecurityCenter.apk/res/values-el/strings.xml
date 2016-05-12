@@ -7,6 +7,7 @@
      <string name="Settings_title_garbage_cleanup">Παράμετροι Καθαρισμού</string>
      <string name="Settings_title_network_assistants">Παράμετροι βοηθού δικτύου</string>
      <string name="Settings_title_power_center">Παράμετροι ενέργειας</string>
+     <string name="ac_enable_title">Ενεργοποίηση Κλειδώματος Εφαρμογής</string>
      <string name="access_control_need_password">"%sΕπιτυχής προσθήκη κλειδώματος
 "</string>
      <string name="access_control_need_to_unlock">"Ξεκλειδώστε με δακτυλικό αποτύπωμα
@@ -52,6 +53,7 @@
      <string name="adjust_traffic_carrier_summary_two_day_before">Ενημερώθηκε πριν 2 μέρες</string>
      <string name="adjust_traffic_carrier_summary_yesterday">Ενημερώθηκε χθες στις %s</string>
      <string name="adjust_traffic_data">Ορισμός χρήσης δεδομένων</string>
+     <string name="after_the_lock_screen">"Η εφαρμογή κλειδώνει μαζί με την οθόνη. Μπορείτε να το αλλάξετε αυτό στις ρυθμίσεις του Κλειδώματος Εφαρμογής."</string>
      <string name="antivirus_choose_engine">Χρήση βάσης ιών από %s</string>
      <string name="antivirus_choose_engine_dialog_title">Επιλογή βάσης ιών</string>
      <string name="antivirus_choose_engine_disable_toast">"Δεν είναι δυνατή η αλλαγή βάσης ιών, ενώ η σάρωση βρίσκεται σε εξέλιξη"</string>
@@ -410,6 +412,7 @@
      <string name="list_empty_text">Κενό</string>
      <string name="load_fail">"Αδυναμία φόρτωσης"</string>
      <string name="local_ip_exception_summary">"Αδυναμία λήψης τοπικής διεύθυνσης IP. Για να αναφέρετε αυτό το πρόβλημα στη MIUI, πηγαίνετε στην εφαρμογή Σχόλια και στείλτε ένα αρχείο καταγραφής από τη συσκευή σας."</string>
+     <string name="lock_mode_title">Ρυθμίσεις κλειδώματος</string>
      <string name="lock_screen_traffic_guide_notification_summary">%s χρησιμοποιήθηκαν με κλειδωμένη οθόνη.</string>
      <string name="lock_screen_traffic_guide_notification_title">Πατήστε για διαχείριση χρήσης δεδομένων</string>
      <string name="lock_screen_traffic_notify_body">Κλειδωμένο για %2$s στο %1$s. Χρησιμοποιήθηκαν %3$s δεδομένα κινητής</string>

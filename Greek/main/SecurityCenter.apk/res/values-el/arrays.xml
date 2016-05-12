@@ -53,6 +53,11 @@
         <item>"Σήμερα: "</item>
         <item>"Αυτό το μήνα: "</item>
      </string-array>
+     <string-array name="lock_mode">
+        <item>Όταν κλειδώσει η συσκευή</item>
+        <item>Μετά την έξοδο από την εφαρμογή</item>
+        <item>Σε 1 λεπτό μετά την έξοδο από την εφαρμογή</item>
+     </string-array>
      <string-array name="mi_service_traffic_type">
         <item>"Χρήση δεδομένων "</item>
         <item>"Χρήση Wi‑Fi "</item>
