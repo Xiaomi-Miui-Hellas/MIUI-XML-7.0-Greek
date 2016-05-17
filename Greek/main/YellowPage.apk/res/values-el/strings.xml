@@ -93,7 +93,7 @@
      <string name="express_contact_phone">Εισάγετε τον αριθμό του τηλεφώνου σας</string>
      <string name="express_contact_phone_finding">Λήψη αριθμού τηλεφώνου…</string>
      <string name="express_contact_prefix">"Επικοινωνία "</string>
-     <string name="express_copied">Ο αριθμός αποστολής αντιγράφηκε</string>
+     <string name="express_copied">Ο αριθμός αποστολής αντιγράφτηκε</string>
      <string name="express_copy_number">Αντιγραφή</string>
      <string name="express_delete_order">Διαγραφή</string>
      <string name="express_dest_city_label">Προορισμός</string>

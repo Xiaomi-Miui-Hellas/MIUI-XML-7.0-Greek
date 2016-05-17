@@ -283,7 +283,7 @@
      <string name="conversation_item_mark_read">Διαβασμένο</string>
      <string name="conversation_item_mark_unread">Αδιάβαστο</string>
      <string name="conversation_photo_welcome_text">Αγγίξτε μια εικόνα αποστολέα για να επιλέξετε αυτή τη συζήτηση.</string>
-     <string name="copied">Αντιγράφηκε</string>
+     <string name="copied">Αντιγράφτηκε</string>
      <string name="copy_email">Αντιγραφή email</string>
      <string name="copy_number">Αντιγραφή τηλεφώνου</string>
      <string name="create_action">Δημιουργία νέου</string>

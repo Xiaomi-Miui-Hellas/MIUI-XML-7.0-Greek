@@ -1168,7 +1168,7 @@
      <string name="title_virus_update_yes">Ενεργή η αυτόματη ενημέρωση ιών</string>
      <string name="title_virus_yes">Δεν βρέθηκαν ιοί</string>
      <string name="title_xiaomi_roaming">Περιαγωγή Mi</string>
-     <string name="toast_cleaner_cloudscan">Το Cleaner θα χρησιμοποιήσει την online βάση ορισμών</string>
+     <string name="toast_cleaner_cloudscan">Το Cleaner θα χρησιμοποιήσει την online βάση ιών</string>
      <string name="toast_default_app">"%1$s ορισμός ως προεπιλογή συστήματος %2$s"</string>
      <string name="toast_flow_notification">Ενεργοποίηση ειδοποιήσεων για χρήση δεδομένων</string>
      <string name="toast_garbage_lib">Ενεργοποίηση αυτόματων ενημερώσεων για Cleaner</string>
@@ -1179,7 +1179,7 @@
      <string name="toast_shortcut_install">Δημιουργία συντόμευσης</string>
      <string name="toast_shortcut_uninstall">Διαγραφή συντόμευσης</string>
      <string name="toast_show_notification">Καρφιτσώθηκε στη μπάρα ειδοποιήσεων</string>
-     <string name="toast_virus_cloudscan">Η σάρωση Ιών θα χρησιμοποιήσει την online βάση ορισμών</string>
+     <string name="toast_virus_cloudscan">Η σάρωση ιών θα χρησιμοποιήσει την online βάση ιών</string>
      <string name="toast_virus_in_cloud_scanning">Δεν μπορεί να σταματήσει η σάρωση ιών στο cloud</string>
      <string name="traffic_alert_auto_modify_notification_sumarry">Το μηνιαίο πρόγραμμα άλλαξε σε %s.</string>
      <string name="traffic_alert_auto_modify_notification_titile">Ενημερώθηκε το πρόγραμμα δεδομένων</string>

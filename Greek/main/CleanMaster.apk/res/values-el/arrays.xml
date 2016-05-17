@@ -2,9 +2,8 @@
 <resources>
      <string-array name="apk_clean_menu">
         <item>Καθαρισμός</item>
-        <item>Αρχείο</item>
-        <item>Εξαίρεση</item>
-        <item>Εγκατάσταση</item>
+        <item>Εγκατάσταση αυτής της εφαρμογής</item>
+        <item>Προβολή στο φάκελο</item>
      </string-array>
      <string-array name="app_clean_menu">
         <item>Απεγκατάσταση</item>
@@ -31,10 +30,8 @@
         <item>Προβολή ειδοποίησης μετά</item>
      </string-array>
      <string-array name="cache_clean_menu">
-        <item>Καθαρισμός</item>
-        <item>Αρχείο</item>
-        <item>Προσθήκη αρχείου στις εξαιρέσεις</item>
-        <item>Προσθήκη εφαρμογής στις εξαιρέσεις</item>
+        <item>Καθαρισμός αρχείου</item>
+        <item>"Προβολή τοποθεσίας αρχείου"</item>
      </string-array>
      <string-array name="cache_sort_type">
         <item>Μέγεθος</item>
@@ -51,14 +48,22 @@
         <item>Μέγεθος</item>
         <item>Όνομα</item>
      </string-array>
+     <string-array name="long_add_app_menu">
+        <item>Προσθήκη εφαρμογής στις εξαιρέσεις</item>
+     </string-array>
+     <string-array name="long_add_menu">
+        <item>Προσθήκη στις εξαιρέσεις</item>
+     </string-array>
+     <string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
+     </string-array>
      <string-array name="trash_clean_menu">
-        <item>Καθαρισμός</item>
-        <item>Αρχείο</item>
-        <item>Προσθήκη αρχείου στις εξαιρέσεις</item>
+        <item>Καθαρισμός αυτού του αρχείου</item>
+        <item>"Προβολή τοποθεσίας αρχείου"</item>
      </string-array>
      <string-array name="video_clean_menu">
         <item>Καθαρισμός αυτού του αρχείου</item>
         <item>Άνοιγμα</item>
-        <item>Προσθήκη αρχείου στις εξαιρέσεις</item>
      </string-array>
 </resources>

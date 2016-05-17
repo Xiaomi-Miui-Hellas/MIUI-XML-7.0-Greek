@@ -567,7 +567,7 @@
      <string name="storage_unavailable">Δεν υπάρχει διαθέσιμος χώρος</string>
      <string name="subject_hint">Θέμα</string>
      <string name="subject_label">"Θέμα: "</string>
-     <string name="text_in_popup_saved_to_clipboard">Αντιγράφηκε στο πρόχειρο</string>
+     <string name="text_in_popup_saved_to_clipboard">Αντιγράφτηκε στο πρόχειρο</string>
      <string name="text_message">Μήνυμα κειμένου</string>
      <string name="timed_message_expired_title">%d χρονικά μηνύματα δεν εστάλησαν</string>
      <string name="timed_message_expired_title_2">Αποστολή τώρα;</string>

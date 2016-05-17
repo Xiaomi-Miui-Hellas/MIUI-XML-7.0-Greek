@@ -395,6 +395,7 @@
      <string name="export_to_sim1">Εξαγωγή σε κάρτα SIM 1</string>
      <string name="export_to_sim2">Εξαγωγή σε κάρτα SIM 2</string>
      <string name="export_to_sim_title">Εξαγωγή…</string>
+     <string name="export_to_storage">Εξαγωγή στον αποθηκευτικό χώρο</string>
      <string name="export_vcard_description">"Εξαγωγή vCard στον εσωτερικό χώρο αποθήκευσης του τηλεφώνου"</string>
      <string name="exporting_contact_failed_message">"Τα στοιχεία επικοινωνίας δεν εξήχθησαν.
 Αιτία: \"%s\""</string>
@@ -456,6 +457,12 @@
      <string name="hint_distance" />
      <string name="hint_findContacts">Εύρεση επαφών</string>
      <string name="hint_more_contact">Συγχώνευση διπλών επαφών</string>
+     <string name="hybrid_check_network">Ρυθμίσεις δικτύου</string>
+     <string name="hybrid_data_error">Παρουσιάστηκε σφάλμα</string>
+     <string name="hybrid_locating_fail">"Αδυναμία εύρεσης της τοποθεσίας σας"</string>
+     <string name="hybrid_network_unavaliable">"Αδυναμία σύνδεσης στο δίκτυο"</string>
+     <string name="hybrid_service_unavailiable">Μη διαθέσιμη υπηρεσία</string>
+     <string name="hybrid_try_again">Προσπαθήστε ξανά</string>
      <string name="ic_menu_back">Πίσω</string>
      <string name="ic_menu_done">Ολοκληρώθηκε</string>
      <string name="imLabelsGroup">IM</string>
@@ -686,6 +693,7 @@
      <string name="miprofile_switch_on_alertdialog_title">Ενημέρωση φωτογραφίας προφίλ</string>
      <string name="missing_name">(Ανώνυμο)</string>
      <string name="missing_required_permission">Έχετε απενεργοποιήσει την απαιτούμενη άδεια.</string>
+     <string name="mobile_equipment_identification">Ταυτοποίηση Εξοπλισμού Κινητής</string>
      <string name="more_call_logs">Περισσότερες εγγραφές κλήσεων στο i.mi.com</string>
      <string name="move_and_resize">Μετακίνηση και αλλαγή μεγέθους</string>
      <string name="multi_number_menu_call">Κλήση</string>
@@ -885,6 +893,7 @@
      <string name="preference_import">Εισαγωγή</string>
      <string name="preference_import_export">Εισαγωγή/Εξαγωγή</string>
      <string name="preference_import_export_title">Εισαγωγή/Εξαγωγή επαφών</string>
+     <string name="preference_key_trash_bin_title">Δείτε αποθηκευμένες επαφές που διαγράφηκαν πρόσφατα</string>
      <string name="preference_others">Άλλο</string>
      <string name="preference_phone">Τηλέφωνο</string>
      <string name="preference_phone_more_title">Ρυθμίσεις κλήσεων</string>
@@ -1066,6 +1075,10 @@
      <string name="status_available">Διαθέσιμος</string>
      <string name="status_away">Απουσιάζω</string>
      <string name="status_busy">Απασχολημένος</string>
+     <string name="storage_internal_description">Εσωτερική μνήμη</string>
+     <string name="storage_sd_card">Κάρτα SD</string>
+     <string name="storage_sd_card_description">Κάρτα SD</string>
+     <string name="storage_usb_description">Μνήμη USB</string>
      <string name="strequentList">Αγαπημένα</string>
      <string name="success_message_import_from_account">Η επαφή έχει εισαχθεί</string>
      <string name="summary_kind_title">Σύνοψη</string>
@@ -1094,6 +1107,7 @@
      <string name="type_mx_msg">Ανταλλαγή μηνυμάτων μέσω Cloud</string>
      <string name="type_outgoing">Εξερχόμενη κλήση</string>
      <string name="type_voicemail">Τηλεφωνητής</string>
+     <string name="unable_get_device_id">Αδυναμία λήψης IMEI</string>
      <string name="unknow_phone_number_call_failed">"Δεν είναι δυνατή η κλήση άγνωστου αριθμού"</string>
      <string name="unknow_phone_number_mms_failed">"Δεν είναι δυνατή η αποστολή μηνύματος σε άγνωστο αριθμό"</string>
      <string name="unknown">Άγνωστος</string>

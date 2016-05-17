@@ -11,6 +11,7 @@
      <string name="activity_title_ignored_image">Αγνοήθηκαν</string>
      <string name="activity_title_image_gallery">Διαγραφή διπλότυπων</string>
      <string name="activity_title_large_file">Μεγάλα αρχεία</string>
+     <string name="activity_title_main">Clean Master</string>
      <string name="activity_title_news">Ειδήσεις</string>
      <string name="activity_title_privacy_cache">Cache Προσωπικών Δεδομένων</string>
      <string name="activity_title_residual">Υπολείμματα</string>
@@ -116,14 +117,19 @@
      <string name="dialog_content_checkbox_delete_cloud_image">Διαγραφή φωτογραφιών και από το Mi Cloud</string>
      <string name="dialog_content_delete_image_confirm">Διαγραφή %d φωτογραφιών;</string>
      <string name="dialog_content_select_all_confirm">Να διατηρηθεί ένα αντίγραφο αυτής της φωτογραφίας;</string>
+     <string name="dialog_msg_add_white_list_error">"Το αρχείο δεν υποστηρίζει την προσθήκη στις εξαιρέσεις"</string>
      <string name="dialog_msg_backup_and_uninstall_apps">Αποθήκευση και απεγκατάσταση επιλεγμένων εφαρμογών;</string>
      <string name="dialog_msg_check_all">Επιβεβαίωση επιλογής του %1$s που περιέχει %2$d στοιχεία</string>
+     <string name="dialog_msg_esc_cleanmaster">Διακοπή σάρωσης πριν τελειώσει;</string>
      <string name="dialog_msg_load_cleanup_engine_error">Η εφαρμογή Cleaner είναι κατεστραμμένη</string>
      <string name="dialog_msg_stop_scan">"Διακοπή σάρωσης σκουπιδιών πριν τελειώσει;"</string>
      <string name="dialog_msg_uninstall_apps">Κατάργηση αυτών των εφαρμογών;</string>
+     <string name="dialog_ok_add_white_list_error">Το κατάλαβα</string>
+     <string name="dialog_title_add_white_list_error">Προσοχή</string>
      <string name="dialog_title_backup_and_uninstall_apps">Αποθήκευση και απεγκατάσταση</string>
      <string name="dialog_title_check_all">Επιλογή όλων</string>
      <string name="dialog_title_delete_image">Διαγραφή επιλεγμένων εικόνων</string>
+     <string name="dialog_title_esc_cleanmaster">Κλείσιμο Clean Master</string>
      <string name="dialog_title_load_cleanup_engine_error">Κάτι πήγε στραβά</string>
      <string name="dialog_title_stop_scan">Διακοπή σάρωσης σκουπιδιών</string>
      <string name="dialog_title_uninstall_apps">Απεγκατάσταση</string>
@@ -142,6 +148,7 @@
      <string name="empty_title_residual">Δεν βρέθηκαν υπολείμματα</string>
      <string name="empty_title_video">Δεν υπάρχουν βίντεο για διαγραφή</string>
      <string name="flow_rank_title">Χρήση δεδομένων</string>
+     <string name="function_app_lock_title">%d εφαρμογές περιέχουν κινδύνους για την ιδιωτικότητα</string>
      <string name="garbage_clean_detail">Λεπτομέρειες</string>
      <string name="garbage_cleanup_detail">%1$d φορές, καθαρίστηκαν %2$s</string>
      <string name="garbage_month">Καθαρίστηκαν %s αυτό το μήνα</string>
@@ -222,6 +229,8 @@
      <string name="last_check_canceled">Η προηγούμενη σάρωση είχε ακυρωθεί</string>
      <string name="load_only_under_wlan">Λήψη ειδήσεων όταν υπάρχει σύνδεση Wi‑Fi</string>
      <string name="login_immediately">Σύνδεση</string>
+     <string name="long_click_dialog_summary">Πατήστε παρατεταμένα για προσθήκη στις εξαιρέσεις.</string>
+     <string name="long_click_dialog_title">Ειδοποίηση</string>
      <string name="mainbtn_text_quick_cleanup">Καθαρισμός %s</string>
      <string name="mainbtn_text_quick_cleanup_default">Καθαρισμός</string>
      <string name="memeory_check_content">%1$d εφαρμογές, μνήμη %2$s</string>
@@ -239,6 +248,7 @@
      <string name="net_assistant_detail">Χρησιμοποιήθηκαν %1$s, εξοικονομήθηκαν %2$s</string>
      <string name="net_assistant_title">Χρησιμοποιήθηκαν %s δεδομένα κινητής αυτό τον μήνα</string>
      <string name="network_not_available">"Αδυναμία σύνδεσης στο δίκτυο"</string>
+     <string name="news_change">Αλλαγή</string>
      <string name="no_network">"Αδυναμία σύνδεσης στο δίκτυο. Δοκιμάστε ξανά αργότερα"</string>
      <string name="no_network_btn">Δοκιμάστε ξανά</string>
      <string name="notification_summary_after_auto_cleanup">Καθαρισμένα %s.</string>
@@ -250,15 +260,19 @@
      <string name="ok">OK</string>
      <string name="open">Ενεργοποίηση</string>
      <string name="open_browser">Άνοιγμα στο πρόγραμμα περιήγησης</string>
-     <string name="optimizecenter_data_support">Powered by Clean Master</string>
+     <string name="optimizecenter_data_support_cm">Υποστηρίζεται από Clean Master</string>
+     <string name="optimizecenter_data_support_tc">Υποστηρίζεται από Tencent</string>
      <string name="positive_confirm">OK</string>
      <string name="pref_category_title_auto_clean_settings">Αυτόματος καθαρισμός</string>
      <string name="pref_category_title_auto_update_cleanup_db">Πρόσθετες ρυθμίσεις</string>
      <string name="pref_category_title_cleanup_white_list">Εξαιρέσεις</string>
+     <string name="pref_category_title_engine_settings">Ρυθμίσεις βάσης ιών σάρωσης</string>
      <string name="pref_category_title_garbage_cleanup_check">Ειδοποιήσεις</string>
      <string name="pref_category_title_other_clean_settings">Πρόσθετες ρυθμίσεις</string>
      <string name="pref_content_cleanup_white_list_none">Τίποτα</string>
-     <string name="pref_summary_auto_clean_and_alert">Ρυθμίστε το cleaner να τρέχει αυτόματα</string>
+     <string name="pref_section_auto_clean_and_alert">Αυτόματος καθαρισμός</string>
+     <string name="pref_summary_auto_clean_and_alert">Ρυθμίστε το Cleaner να τρέχει αυτόματα</string>
+     <string name="pref_summary_auto_deepclean_and_alert">Ειδοποίηση αχρησιμοποίητων εφαρμογών</string>
      <string name="pref_summary_auto_update_cleanup_db">Τελευταία Ενημέρωση: %s</string>
      <string name="pref_summary_cleanup_white_list">Εξαίρεση των επιλεγμένων εφαρμογών από τον καθαρισμό</string>
      <string name="pref_summary_expand_cache_group">Αυτόματη ανάπτυξη στοιχείων λίστας Cache</string>
@@ -267,7 +281,6 @@
      <string name="pref_summary_garbage_cleanup_check_time">Προγραμματισμός ενός καθαρισμού ρουτίνας</string>
      <string name="pref_summary_garbage_process_mode">Ρυθμίστε τις ειδοποιήσεις για όταν τρέχει το cleaner</string>
      <string name="pref_summary_open_optimizer_cloud_scan">Ανέβασε και σύγκρινε τα άγνωστα ονόματα φακέλων με την online βάση</string>
-     <string name="pref_summary_open_optimizer_memory_scan">Αυτόματος έλεγχος και καθαρισμός μνήμης</string>
      <string name="pref_title_apps_check_size">Όριο χώρου αποθήκευσης</string>
      <string name="pref_title_apps_check_time">Συχνότητα</string>
      <string name="pref_title_apps_cleanup_size">​Όταν το μέγεθος cache φτάσει</string>
@@ -275,6 +288,7 @@
      <string name="pref_title_auto_clean_content_choose">Επιλέξτε στοιχεία για καθαρισμό</string>
      <string name="pref_title_auto_deepclean_and_alert">Ειδοποιήσεις αχρησιμοποίητων εφαρμογών</string>
      <string name="pref_title_auto_update_cleanup_db">Αυτόματη ενημέρωση</string>
+     <string name="pref_title_choose_engine">Βάση ιών</string>
      <string name="pref_title_cleanup_white_list">Εξαιρέσεις</string>
      <string name="pref_title_expand_cache_group">Εμφάνιση στοιχείων λίστας Cache</string>
      <string name="pref_title_garbage_auto_clean_content">Επιλέξτε στοιχεία για καθαρισμό</string>
@@ -324,6 +338,7 @@
      <string name="summary_optimizer">Αυτή η λειτουργία ανεβάζει τα ονόματα των φακέλων για ενημέρωση της online βάσης του Cheetah Mobile και απαιτεί το ID της συσκευής σας.</string>
      <string name="text_optimizer">Αποστολή ονομάτων φακέλων</string>
      <string name="there_is_no">Όλα δείχνουν καλά. Επιστρέψτε αργότερα</string>
+     <string name="tips_of_app_manage">Διαγραφή εφαρμογών με σπάνια χρήση για εξοικονόμηση χώρου</string>
      <string name="tips_of_auto_launch_manage">Αποτρέψτε την αυτόματη εκκίνηση εφαρμογών με σπάνια χρήση</string>
      <string name="tips_of_cloud_service">Συνδεθείτε με τον Mi λογαριασμό σας για να κάνετε χρήση περισσότερων υπηρεσιών Mi</string>
      <string name="tips_of_connect">Συνδεθείτε στο Internet για να χρησιμοποιήσετε το πλήρες σύνολο των χαρακτηριστικών Ασφαλείας</string>
@@ -340,6 +355,7 @@
      <string name="title_delete_clipboard">Περιεχόμενα προχείρου</string>
      <string name="title_delete_deepclean">Διαγραφή</string>
      <string name="title_delete_large_file">Διαγραφή αυτού του αρχείου;</string>
+     <string name="title_of_app_manage">Εφαρμογές</string>
      <string name="title_of_auto_launch_manage">Αυτόματη εκκίνηση</string>
      <string name="title_of_cloud_service">Υπηρεσίες Cloud</string>
      <string name="title_of_garbage_cloud_scan">Σάρωση Cloud</string>

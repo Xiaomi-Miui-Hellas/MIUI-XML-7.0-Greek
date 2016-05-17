@@ -2,7 +2,9 @@
 <resources>
      <string name="access_denied">Δεν επιτρέπεται η πρόσβαση</string>
      <string name="account">Λογαριασμός</string>
+     <string name="account_related">Η συσκευή σας είναι συνδεδεμένη με έναν υπάρχοντα λογαριασμό Mi(%s). Συνδεθείτε στο δίκτυο για επαλήθευση της συσκευής.</string>
      <string name="activate">Ενεργοποίηση</string>
+     <string name="activate_finddevice">Συνδεθείτε στο δίκτυο για να ενεργοποιήσετε τη συσκευή</string>
      <string name="activate_number_change_dialog_message">Επιλέξτε τον αριθμό τηλεφώνου για την ενεργοποίηση. Όταν γίνεται κλήση VoIP, αυτός ο αριθμός θα εμφανίζεται στον καλούμενο</string>
      <string name="activating">Ενεργοποίηση…</string>
      <string name="alert_notif_title_dspt">Χωρίς συγχρονισμό</string>
@@ -12,7 +14,7 @@
      <string name="apple_cloud">Υπηρεσία Apple Cloud</string>
      <string name="apple_cloud_eng">iCloud</string>
      <string name="apple_cloud_price">Περίπου 72 RMB το χρόνο</string>
-     <string name="bad_authentication">Μη έγκυρο όνομα χρήστη ή κωδικός πρόσβασης</string>
+     <string name="bad_authentication">Μη έγκυρο όνομα χρήστη ή κωδικού πρόσβασης</string>
      <string name="btn_return">Πίσω</string>
      <string name="button_cancel">Ακύρωση</string>
      <string name="buy_more_space_b_class">"Συνδεθείτε στο mi.com/micloud για να πάρετε περισσότερο χώρο αποθήκευσης.
@@ -40,8 +42,6 @@
      <string name="cloud_back_up_summary">Λήψη αντ.ασφαλείας όταν υπάρχει σύνδεση Wi‑Fi</string>
      <string name="cloud_back_up_title">Αντίγραφο Αρχικής Οθόνης</string>
      <string name="cloud_backup_dialog_title">Αντίγραφα Mi Cloud</string>
-     <string name="cloud_backup_have_data">Βρέθηκε αντίγραφο στο Mi Cloud</string>
-     <string name="cloud_backup_select_recover">Επιλέξτε αντίγραφο από το Mi Cloud</string>
      <string name="cloud_find_device">Εύρεση συσκευής</string>
      <string name="cloud_restore_title">Επαναφορά από αντίγραφο</string>
      <string name="cloud_space_upgrade_message">Πατήστε για να προσθέσετε %sGB στο cloud σας</string>
@@ -49,8 +49,11 @@
      <string name="cloud_space_upgrade_title">Περισσότερος χώρος για το Mi Cloud</string>
      <string name="cloudservice_new_sync">Συγχρονισμός %s με το Mi Cloud</string>
      <string name="cmcc_micloud_dspt">Χρησιμοποιήστε το Mi Cloud για να συγχρονίσετε τα δεδομένα, να εντοπίσετε τη συσκευή σας,</string>
+     <string name="connect_network">Συνδεθείτε στο Wi‑Fi ή τοποθετείστε μια κάρτα SIM</string>
+     <string name="connect_wlan">Συνδεθείτε στο Wi‑Fi</string>
      <string name="contact">Επαφές</string>
      <string name="deskclock_backup">Αντίγραφο ασφαλείας Ρολογιών</string>
+     <string name="detect_sim_card">Αναζήτηση ξανά για κάρτα SIM</string>
      <string name="disable_find_device_error">Αδυναμία απενεργοποίησης Εύρεσης συσκευής. %1$s</string>
      <string name="disable_find_device_success">Εύρεση συσκευής ανενεργή.</string>
      <string name="enableAll">Συγχρονισμός όλων</string>
@@ -266,11 +269,13 @@
      <string name="micloud_member_webload_fail_toast_5xx">Σφάλμα διακομιστή</string>
      <string name="micloud_more">Μάθετε περισσότερα</string>
      <string name="micloud_notif_content_battery_low">Χαμηλή μπαταρία.</string>
+     <string name="micloud_notif_content_clipboard_push">Μπορείτε να το κάνετε επικόλληση οπουδήποτε.</string>
      <string name="micloud_notif_content_depend_wifi">Συνδεθείτε σε Wi‑Fi για να συγχρονίσετε.</string>
      <string name="micloud_notif_content_master_depend_wifi">Συνδεθείτε πρώτα σε Wi‑Fi.</string>
      <string name="micloud_notif_content_memory_low">Δεν υπάρχει αρκετός χώρος αποθήκευσης.</string>
      <string name="micloud_notif_content_sync_with_off">Πατήστε για συγχρονισμό της συσκευής τώρα.</string>
      <string name="micloud_notif_title_battery_low">"Αδυναμία συγχρονισμού με Mi Cloud"</string>
+     <string name="micloud_notif_title_clipboard_push">Το περιεχόμενο αντιγράφτηκε στο πρόχειρο</string>
      <string name="micloud_notif_title_depend_wifi">%d σε αναμονή συγχρονισμού</string>
      <string name="micloud_notif_title_master_depend_wifi">"Αδυναμία συγχρονισμού με Mi Cloud"</string>
      <string name="micloud_notif_title_memory_low">"Αδυναμία συγχρονισμού με Mi Cloud"</string>
@@ -375,6 +380,9 @@
      <string name="sina_token_expired_warning">Ο λογαριασμός Weibo έχει λήξει: Παρακαλώ επανασυνδέστε τον</string>
      <string name="sina_token_invalid_warning">Ο λογαριασμός Weibo είναι άκυρος: Παρακαλώ επανασυνδέστε τον</string>
      <string name="sms">SMS</string>
+     <string name="soundrecorder_sync_only_in_wifi">Χρήση μόνο Wi‑Fi για συγχρονισμό</string>
+     <string name="soundrecorder_sync_only_in_wifi_summary">Η Ηχογράφηση δεν θα χρησιμοποιήσει δεδομένα κινητής για λήψη ή αποστολή εγγραφών</string>
+     <string name="soundrecorder_sync_records">Συγχρονισμός με Mi Cloud</string>
      <string name="start_micloud">Εκκίνηση</string>
      <string name="storage">Αποθήκευση</string>
      <string name="sub_alert_notif_dspt_add">%s δεν έχουν συγχρονιστεί</string>

@@ -1375,10 +1375,10 @@ Attempts Remaining :"</string>
      <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
      <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
      <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
-     <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
+     <string name="storage_internal">Εσωτερική μνήμη</string>
      <string name="storage_sd_card">Κάρτα SD</string>
-     <string name="storage_uicc">UICC storage</string>
-     <string name="storage_usb">Χώρος αποθήκευσης USB</string>
+     <string name="storage_uicc">Μνήμη UICC</string>
+     <string name="storage_usb">Μνήμη USB</string>
      <string name="submit">Υποβολή</string>
      <string name="sync_binding_label">Συγχρονισμός</string>
      <string name="sync_do_nothing">Να μην γίνει καμία ενέργεια τώρα.</string>

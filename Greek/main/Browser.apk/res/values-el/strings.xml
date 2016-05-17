@@ -89,6 +89,8 @@
      <string name="block_ads_message">Θέλετε να αποκλείστε τα μηνύματα από αυτήν την  Ιστοσελίδα;</string>
      <string name="block_ads_title">Το περιεχόμενο μπορεί να περιέχει διαφημίσεις</string>
      <string name="bookmark_add_to">Προσθήκη σε</string>
+     <string name="bookmark_btn_select_all">Επιλογή όλων</string>
+     <string name="bookmark_btn_select_none">Αποεπιλογή όλων</string>
      <string name="bookmark_cannot_save_url">"Αυτό το URL είναι αδύνατον να προστεθεί στους σελιδοδείκτες."</string>
      <string name="bookmark_folder_needs_title">Εισάγετε όνομα φακέλου</string>
      <string name="bookmark_group_lable">Ομάδα</string>
@@ -202,6 +204,7 @@
      <string name="date_picker_dialog_title">Ορισμός ημερομηνίας</string>
      <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
      <string name="delete">Διαγραφή</string>
+     <string name="delete_bookmark">Διαγραφή</string>
      <string name="delete_bookmark_group_warning">Διαγραφή \"%s\"; Όλα τα αγαπημένα αυτής της ομάδας θα διαγραφούν.</string>
      <string name="delete_bookmark_warning">Διαγραφή σελιδοδείκτη \"%s\";</string>
      <string name="delete_download">Διαγραφή</string>
@@ -705,7 +708,7 @@
      <string name="up_to_loading_tips">Ελευθερώστε για ανανέωση</string>
      <string name="update_no_network_toast">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="uploads_disabled">Ανέβασμα αρχείων έχει απενεργοποιηθεί.</string>
-     <string name="url_copy_done">Η ιστοσελίδα αντιγράφηκε</string>
+     <string name="url_copy_done">Η ιστοσελίδα αντιγράφτηκε</string>
      <string name="url_find_on_page_result">Προβολή στο πρόγραμμα περιήγησης</string>
      <string name="url_find_on_page_result_item">Δείτε όλο το κείμενο για \"%s\"</string>
      <string name="url_hint">Εύρεση ή εισαγωγή ιστοσελίδας</string>
