@@ -8,6 +8,11 @@
      <string name="Settings_title_network_assistants">Παράμετροι βοηθού δικτύου</string>
      <string name="Settings_title_power_center">Παράμετροι ενέργειας</string>
      <string name="ac_enable_title">Ενεργοποίηση Κλειδώματος Εφαρμογής</string>
+     <string name="ac_enter_applock">Εισάγετε το Κλείδωμα Εφαρμογής</string>
+     <string name="ac_firstUseApplock_subTitle">Χρησιμοποιήστε το Κλείδωμα Εφαρμογής για την προστασία της ιδιωτικής ζωής σας</string>
+     <string name="ac_firstUseApplock_title">Απαίτηση κωδικού πρόσβασης για το άνοιγμα επιλεγμένων εφαρμογών</string>
+     <string name="ac_summaryOff">Ανενεργό. Δεν απαιτείται κωδικός για το άνοιγμα εφαρμογών</string>
+     <string name="ac_summaryOn">Ενεργό. Απαιτείται κωδικός για το άνοιγμα εφαρμογών</string>
      <string name="access_control_need_password">"%sΕπιτυχής προσθήκη κλειδώματος
 "</string>
      <string name="access_control_need_to_unlock">"Ξεκλειδώστε με δακτυλικό αποτύπωμα
@@ -27,6 +32,7 @@
      <string name="activity_title_network_speed_detail">Σύνδεση</string>
      <string name="activity_title_networkassistants">Χρήση δεδομένων</string>
      <string name="activity_title_notification_bar_manager">Ειδοποιήσεις</string>
+     <string name="activity_title_other_permission_manager">Άλλα δικαιώματα</string>
      <string name="activity_title_perm_manager">Διαχείριση αδειών</string>
      <string name="activity_title_permission_manager">Δικαιώματα</string>
      <string name="activity_title_permissions_manager">Δικαιώματα</string>
@@ -592,6 +598,7 @@
      <string name="none_mi_service_app_detail">Κενό</string>
      <string name="notification_button_text_of_low_memory">Καθαρίστε</string>
      <string name="notification_item">Ενεργοποίηση Κλειδώματος Εφαρμογής</string>
+     <string name="notification_subtitle">Πατήστε για ενεργοποίηση</string>
      <string name="notification_summary_cmcc_app_check">Πατήστε για να δείτε λεπτομέρειες.</string>
      <string name="notification_title_cmcc_app_check">Τελευταίος έλεγχος πριν %d ημέρες</string>
      <string name="notification_title_firewall_blocked">Αποκλεισμένα</string>
@@ -612,6 +619,7 @@
      <string name="online_songs">Μουσική</string>
      <string name="open_now">Να επιτρέπεται στην εφαρμογή η χρήση δεδομένων κινητής</string>
      <string name="operator_diagnostic">Διαγνωστικά φορέα</string>
+     <string name="operator_mi_sim">Mi SIM</string>
      <string name="operator_name_cmcc">China Mobile</string>
      <string name="operator_name_telcom">China Telecom</string>
      <string name="operator_name_unicom">China Unicom</string>
@@ -861,6 +869,7 @@
      <string name="pref_leisure_no_overlay">Ενεργό</string>
      <string name="pref_leisure_not_opened">Ανενεργό</string>
      <string name="pref_manual_adjust">Ορισμός στατιστικών χρήσης δεδομένων χειροκίνητα</string>
+     <string name="pref_mi_sim_settings">Ρυθμίσεις Mi SIM</string>
      <string name="pref_month_begin_date">Ημερομηνία μηδενισμού χρήσης</string>
      <string name="pref_month_first_day">1</string>
      <string name="pref_more_traffic_settings">Πρόσθετες ρυθμίσεις</string>
@@ -1324,6 +1333,7 @@
      <string name="usbsharenet_exception_title">Δοκιμή κοινόχρηστου Internet μέσω USB</string>
      <string name="usbsharenet_pc_exception_summary">"Αδυναμία σύνδεσης στο Internet με χρήση της κοινόχρηστης σύνδεσης USB. Ελέγξτε τη σύνδεση Internet του υπολογιστή σας."</string>
      <string name="virus_list_header_title">Εντοπίστηκαν %d ιοί</string>
+     <string name="warning_open_mi_sim">Ενεργοποίηση Mi SIM</string>
      <string name="wifi_exception_summary">Δοκιμή ενός διαθέσιμου δικτύου Wi‑Fi</string>
      <string name="wifi_exception_title">Δοκιμή δικτύου Wi‑Fi</string>
      <string name="wifi_network_blocked_notification_title">Δεν υπάρχει σύνδεση στο Internet</string>

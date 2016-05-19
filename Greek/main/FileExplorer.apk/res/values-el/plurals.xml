@@ -184,4 +184,36 @@
         <item quantity="few">%1$d αρχεία έμειναν για αποστολή</item>
         <item quantity="many">%1$d αρχεία έμειναν για αποστολή</item>
      </plurals>
+     <plurals name="user_upload_items">
+        <item quantity="other">βίντεο</item>
+        <item quantity="zero">βίντεο</item>
+        <item quantity="one">βίντεο</item>
+        <item quantity="two">βίντεο</item>
+        <item quantity="few">βίντεο</item>
+        <item quantity="many">βίντεο</item>
+     </plurals>
+     <plurals name="video_ad_download_tip">
+        <item quantity="other"> λήψεις</item>
+        <item quantity="zero"> λήψεις</item>
+        <item quantity="one"> λήψη</item>
+        <item quantity="two"> λήψεις</item>
+        <item quantity="few"> λήψεις</item>
+        <item quantity="many"> λήψεις</item>
+     </plurals>
+     <plurals name="video_num">
+        <item quantity="other">%1$s βίντεο</item>
+        <item quantity="zero">%1$s βίντεο</item>
+        <item quantity="one">%1$s βίντεο</item>
+        <item quantity="two">%1$s βίντεο</item>
+        <item quantity="few">%1$s βίντεο</item>
+        <item quantity="many">%1$s βίντεο</item>
+     </plurals>
+     <plurals name="video_play_num">
+        <item quantity="other">έπαιξε %1$s φορές</item>
+        <item quantity="zero">έπαιξε %1$s φορές</item>
+        <item quantity="one">έπαιξε %1$s φορά</item>
+        <item quantity="two">έπαιξε %1$s φορές</item>
+        <item quantity="few">έπαιξε %1$s φορές</item>
+        <item quantity="many">έπαιξε %1$s φορές</item>
+     </plurals>
 </resources>

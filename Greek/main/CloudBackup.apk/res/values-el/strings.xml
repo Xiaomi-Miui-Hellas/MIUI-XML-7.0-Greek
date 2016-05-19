@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about_to_recover">Μισό λεπτό…</string>
+     <string name="account_error">Σφάλμα λογαριασμού</string>
      <string name="app_name">Αντ.ασφαλείας Mi Cloud​</string>
      <string name="as_new_device">Αντικατάσταση προηγούμενης Αρχικής οθόνης και ρυθμίσεων</string>
      <string name="as_new_device_summary">Διαγραφή προηγούμενων αντιγράφων Mi Cloud</string>

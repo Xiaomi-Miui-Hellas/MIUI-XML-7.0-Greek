@@ -109,6 +109,7 @@
      <string name="delete_addon">Διαγραφή</string>
      <string name="delete_addon_content">Διαγράψετε αυτό το στοιχείο;</string>
      <string name="delete_with">Διαγραφή (%d)</string>
+     <string name="detail">Λεπτομέρειες</string>
      <string name="detail_comment_empty">Κενό</string>
      <string name="develop_version">Ανάπτυξη εφαρμογής</string>
      <string name="development_setting">Ρυθμίσεις Ανάπτυξης</string>
@@ -144,7 +145,8 @@
      <string name="empty_data">Σφάλμα φόρτωσης</string>
      <string name="empty_keyword_hint">Η λέξη-κλειδί δεν μπορεί να είναι κενή</string>
      <string name="empty_tv_exiting">Έξοδος από το…</string>
-     <string name="episode_name_format">第%1$s集</string>
+     <string name="enter_detail">Περισσότερες Πληροφορίες</string>
+     <string name="episode_name_format">Επ. %1$s</string>
      <string name="episode_suffix">Eπ. %d</string>
      <string name="error_empty_filter_title">Κανένα αποτέλεσμα</string>
      <string name="error_empty_title">Κάτι πήγε στραβά</string>
@@ -233,7 +235,7 @@
      <string name="nowifi_alert_dialog_continue">Συνέχεια</string>
      <string name="nowifi_alert_dialog_exit">Έξοδος</string>
      <string name="nowifi_alert_dialog_message">Χρησιμοποίηση δικτύου κινητής τηλεφωνίας για λήψη του βίντεο, θέλετε να συνεχίσετε;</string>
-     <string name="nowifi_alert_dialog_title">Συναγερμός κίνησης δεδομένων</string>
+     <string name="nowifi_alert_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="offline">Εκτός σύνδεσης</string>
      <string name="offline_add_queue_fail">Αδυναμία λήψης \"%1$s\". Παρακαλώ δοκιμάστε αργότερα</string>
      <string name="offline_alert_title">Προσωρινή αποθήκευση κοινοποιήσεων</string>
@@ -258,6 +260,7 @@
      <string name="online_video">Online βίντεο</string>
      <string name="online_video_oneweek">Κατά την τελευταία εβδομάδα</string>
      <string name="online_video_oneweek_ago">Πριν μια εβδομάδα</string>
+     <string name="open_in_browser">Άνοιγμα στον Browser</string>
      <string name="operator_test">Λειτουργία διαχειριστή</string>
      <string name="operator_test_summary">Είσοδος σε λειτουργία διαχειριστή</string>
      <string name="original_price">Αρχική τιμή</string>
@@ -288,6 +291,8 @@
      <string name="qiyi">iQiyi</string>
      <string name="rank_title_movie">Ταινία</string>
      <string name="receive_develop_summary">Λήψη ενημέρωσης της εφαρμογής, όταν υπάρχει διαθέσιμη νέα dev έκδοση</string>
+     <string name="receive_follow">Ειδοποιήσεις νέων επεισοδίων</string>
+     <string name="receive_follow_summary">Λήψη ειδοποιήσεων όταν ένα νέο επεισόδιο είναι διαθέσιμο</string>
      <string name="receive_mipush">Λήψη Xiaomi push</string>
      <string name="receive_mipush_summary">Λάβετε ειδοποιήσεις για νέα και ενημερωμένες σε απευθείας σύνδεση περιεχόμενου</string>
      <string name="recentplay">Έπαιξαν πρόσφατα</string>
@@ -336,6 +341,7 @@
      <string name="start_addon">έναρξη πρόσθετου</string>
      <string name="storage_remain">"Διαθέσιμα: "</string>
      <string name="storage_total">"Συνολικός χώρος: "</string>
+     <string name="subscribe">Εγγραφή</string>
      <string name="suffix_countdown">δευτερόλεπτα</string>
      <string name="system_setting">Ρυθμίσεις συστήματος</string>
      <string name="tab_loading"><CDATA>...</CDATA></string>
@@ -394,6 +400,10 @@
      <string name="vp_VideoView_error_text_invalid_progressive_playback">Δυστυχώς, η επιλεγμένη μορφή βίντεο δεν είναι έγκυρη για ροή σε αυτή τη συσκευή</string>
      <string name="vp_VideoView_error_text_unknown">Δυστυχώς, η επιλεγμένη μορφή βίντεο δεν μπορεί να αναπαραχθεί</string>
      <string name="vp_VideoView_error_title">Σφάλμα αναπαραγωγής βίντεο!</string>
+     <string name="vp_ad_countdown_m_s">Διαφήμιση %1$dλ%2$sδ</string>
+     <string name="vp_ad_countdown_s">AD %1$s</string>
+     <string name="vp_ad_skip">Παράλειψη διαφήμισης</string>
+     <string name="vp_ad_skip_at">Παράλειψη διαφήμισης μετά από %1$d</string>
      <string name="vp_adapt_height">Ταίριασμα ύψους</string>
      <string name="vp_adapt_width">Ταίριασμα πλάτους</string>
      <string name="vp_app_download">Λήψη εφαρμογής</string>
@@ -441,6 +451,7 @@
      <string name="vp_mobile_network_using_warning">Χρησιμοποιώντας τα δεδομένα κινητής για να δείτε βίντεο, θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
      <string name="vp_mobile_network_using_warning_line_1">Χρησιμοποιώντας τα δεδομένα κινητής για να δείτε βίντεο, θα αυξηθεί η χρήση των δεδομένων σας.</string>
      <string name="vp_mobile_network_using_warning_line_2">Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
+     <string name="vp_more_show_video">Εμφάνιση διαφήμισης</string>
      <string name="vp_mplayer_error_io">Σφάλμα λειτουργίας I/O</string>
      <string name="vp_mplayer_error_malformed">Ακατάλληλο περιεχόμενο βίντεο</string>
      <string name="vp_mplayer_error_server_died">Αποτυχία διακομιστή πολυμέσων</string>

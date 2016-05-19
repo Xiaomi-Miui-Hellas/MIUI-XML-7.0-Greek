@@ -126,6 +126,7 @@
      <string name="desktop_lyric_dialog_msg">Ανοίξτε το, στο Η μουσική μου-Ρυθμίσεις-Προχωρημένες ρυθμίσεις</string>
      <string name="desktop_lyric_dialog_positive_button">Δοκιμάστε το τώρα</string>
      <string name="desktop_lyric_dialog_title">Δοκιμάστε τους στίχους στην επιφάνειας εργασίας</string>
+     <string name="desktop_lyric_lock_toast">Κλειδωμένο. Χρησιμοποιήστε τον έλεγχο μουσικής στη μπάρα ειδοποιήσεων για να το ξεκλειδώσετε</string>
      <string name="desktop_lyric_setting_summary">Εμφάνιση αναδυόμενων στίχων στην επιφάνεια εργασίας</string>
      <string name="desktop_lyric_setting_title">Στίχοι στην επιφάνεια εργασίας</string>
      <string name="desktop_lyric_textsize">Κείμενο</string>
@@ -511,6 +512,10 @@
      <string name="payment_fail">Αποτυχία πληρωμής</string>
      <string name="payment_success">Ολοκλήρωση πληρωμής</string>
      <string name="period_format">%1$s-%2$s</string>
+     <string name="permission_declaration_message">Επιτρέψτε την πρόσβαση στον αποθηκευτικό χώρο στο Κέντρο Ασφάλειας > Δικαιώματα > Δικαιώματα > Αποθήκευση > Μουσική, για να μπορείτε να χρησιμοποιήσετε την Μουσική κανονικά.</string>
+     <string name="permission_declaration_negative_text">Αργότερα</string>
+     <string name="permission_declaration_positive_text">Μετάβαση στο Κέντρο Ασφάλειας</string>
+     <string name="permission_declaration_title">Επιτρέψτε την πρόσβαση</string>
      <string name="play_all_song">Αναπαραγωγή όλων</string>
      <string name="play_next">Αναπαραγωγή επόμενου</string>
      <string name="playback_failed_no_title_by_bad_file">Το τραγούδι δεν μπορεί να αναπαραχθεί. δεν υποστηρίζεται ο τύπος του αρχείου ή το αρχείο δεν υπάρχει.</string>

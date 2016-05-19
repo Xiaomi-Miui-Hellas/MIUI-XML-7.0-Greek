@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="agree">Συμφωνώ</string>
+     <string name="alert_dialog_btn_close">Απενεργοποίηση</string>
+     <string name="alert_dialog_btn_open">Επίτρεψε</string>
+     <string name="alert_dialog_msg">"Some of MIUI's core features and services won't be able to work as intended without these permissions (e.g. your device won't be able to display contact info during a call). If you disable these permissions, MIUI's apps will ask for individual permissions when they're required for a specific activity."</string>
+     <string name="alert_dialog_title">Ορισμένες υπηρεσίες μπορεί να δυσλειτουργούν</string>
      <string name="congratulation_label" />
      <string name="desc_extra_fingerprint" />
      <string name="desc_extra_international_fingerprint" />
@@ -23,6 +27,8 @@
      <string name="other_settings">Πρόσθετες ρυθμίσεις</string>
      <string name="other_settings_location">Τοποθεσία</string>
      <string name="other_settings_location_summary">Επιτρέψτε στις εφαρμογές να έχουν πρόσβαση στην τοποθεσία σας</string>
+     <string name="other_settings_permission">Δικαιώματα υπηρεσιών MIUI</string>
+     <string name="other_settings_permission_summary">Δώστε στο Mi Cloud, στο Τηλέφωνο και σε άλλες λειτουργίες και βασικές υπηρεσίες τα δικαιώματα που χρειάζονται για να λειτουργήσουν όπως έχουν σχεδιαστεί</string>
      <string name="other_settings_user_experience">Πρόγραμμα εμπειρίας χρηστών</string>
      <string name="other_settings_user_experience_summary">Βοηθήστε στην βελτίωση του MIUI με την αποστολή ανώνυμων δεδομένων χρήσης (%s)</string>
      <string name="other_settings_user_experience_summary1">Προβολή πολιτικής απορρήτου</string>

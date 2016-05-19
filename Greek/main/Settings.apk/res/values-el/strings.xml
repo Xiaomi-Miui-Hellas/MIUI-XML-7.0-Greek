@@ -3223,6 +3223,7 @@
      <string name="toast_need_login">Σύνδεση στο λογαριασμό Mi</string>
      <string name="total_size">%s Σύνολο</string>
      <string name="total_size_label">Σύνολο</string>
+     <string name="touch_assistant">Βοηθός Αφής</string>
      <string name="touch_sensitive_summary">Κάντε την οθόνη πιο ευαίσθητη στην πίεση για καλύτερη ανταπόκριση όταν φοράτε γάντια</string>
      <string name="touch_sensitive_title">Λειτουργία γαντιού</string>
      <string name="touch_sensitive_turn_off_cancel">Ακύρωση</string>
