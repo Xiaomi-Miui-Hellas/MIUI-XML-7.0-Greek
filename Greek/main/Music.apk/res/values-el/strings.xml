@@ -512,9 +512,9 @@
      <string name="payment_fail">Αποτυχία πληρωμής</string>
      <string name="payment_success">Ολοκλήρωση πληρωμής</string>
      <string name="period_format">%1$s-%2$s</string>
-     <string name="permission_declaration_message">Επιτρέψτε την πρόσβαση στον αποθηκευτικό χώρο στο Κέντρο Ασφάλειας > Δικαιώματα > Δικαιώματα > Αποθήκευση > Μουσική, για να μπορείτε να χρησιμοποιήσετε την Μουσική κανονικά.</string>
+     <string name="permission_declaration_message">Επιτρέψτε την πρόσβαση στον αποθηκευτικό χώρο στην Ασφάλεια > Δικαιώματα > Δικαιώματα > Αποθήκευση > Μουσική, για να μπορείτε να χρησιμοποιήσετε την Μουσική κανονικά.</string>
      <string name="permission_declaration_negative_text">Αργότερα</string>
-     <string name="permission_declaration_positive_text">Μετάβαση στο Κέντρο Ασφάλειας</string>
+     <string name="permission_declaration_positive_text">Μετάβαση στην Ασφάλεια</string>
      <string name="permission_declaration_title">Επιτρέψτε την πρόσβαση</string>
      <string name="play_all_song">Αναπαραγωγή όλων</string>
      <string name="play_next">Αναπαραγωγή επόμενου</string>

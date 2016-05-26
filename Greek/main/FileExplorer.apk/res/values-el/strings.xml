@@ -633,7 +633,6 @@
      <string name="storage_usb_description">Μνήμη USB</string>
      <string name="storage_warning">Η εξωτερική αποθήκευση δεν είναι διαθέσιμη.</string>
      <string name="subtitle_report_video">Από %1$s</string>
-     <string name="symbol_for_storage_tip">:</string>
      <string name="sys_size_enable">" διαθέσιμα"</string>
      <string name="system_alert">Υπενθύμιση</string>
      <string name="system_sticker_control">Εμφάνιση δημοφιλών αυτοκόλλητων</string>

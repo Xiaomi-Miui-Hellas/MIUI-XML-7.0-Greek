@@ -7,7 +7,6 @@
      <string name="activate_finddevice">Συνδεθείτε στο δίκτυο για να ενεργοποιήσετε τη συσκευή</string>
      <string name="activate_number_change_dialog_message">Επιλέξτε τον αριθμό τηλεφώνου για την ενεργοποίηση. Όταν γίνεται κλήση VoIP, αυτός ο αριθμός θα εμφανίζεται στον καλούμενο</string>
      <string name="activating">Ενεργοποίηση…</string>
-     <string name="alert_notif_title_dspt">Χωρίς συγχρονισμό</string>
      <string name="antispam_sync">Ρυθμίσεις Μην Ενοχλείτε</string>
      <string name="app_name">Mi Cloud</string>
      <string name="apple_10gb">20GB</string>
@@ -123,7 +122,7 @@
      <string name="master_alert_notif_content">%d δεδομένα δεν συγχρονίστηκαν.</string>
      <string name="master_alert_notif_dspt_add">%s δεν έχουν συγχρονιστεί</string>
      <string name="master_alert_notif_dspt_no">Συγχρονισμένα</string>
-     <string name="master_alert_notif_title">Τελευταίος συγχρονισμός πριν %s ημέρες</string>
+     <string name="master_alert_notif_title">Ενεργοποίηση MiCloud</string>
      <string name="micloud_all_sub_1_intl_sms">"Ένα διεθνές SMS θα σταλεί για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας. Όταν ενεργοποιείτε την Εύρεση συσκευής, ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM."</string>
      <string name="micloud_all_sub_1_sms">"Ένα κανονικό SMS θα σταλεί για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας. Όταν ενεργοποιείτε την Εύρεση συσκευής, ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM."</string>
      <string name="micloud_all_sub_1_sms_1_intl_sms">"2 μηνύματα κειμένου (κανονικό και διεθνές) θα σταλούν για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας. Όταν ενεργοποιείτε την Εύρεση συσκευής, ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM."</string>
@@ -183,8 +182,6 @@
      <string name="micloud_detail_ok">OK</string>
      <string name="micloud_detail_pending">σε αναμονή</string>
      <string name="micloud_detail_preference_sync_items">Στοιχεία</string>
-     <string name="micloud_detail_preference_syncing">συγχρονίζει</string>
-     <string name="micloud_detail_preference_wlan">Συγχρονισμός με Wi‑Fi</string>
      <string name="micloud_detail_query_error">"Αδυναμία λήψης κατάστασης συγχρονισμού"</string>
      <string name="micloud_detail_query_error_detail">"Αδυναμία ελέγχου κατάστασης συγχρονισμού. Παρακαλώ επικοινωνήστε με τους προγραμματιστές."</string>
      <string name="micloud_detail_query_error_title">"Αδυναμία λήψης κατάστασης συγχρονισμού"</string>
@@ -228,8 +225,7 @@
 Για να το διορθώσετε αυτό, μπορείτε είτε να διαγράψετε κάποια παλιά αρχεία για να δημιουργηθεί χώρος για νέα, ή μπορείτε να αγοράσετε επιπλέον αποθηκευτικό χώρο."</string>
      <string name="micloud_full_influence_title">Όταν Mi Cloud σας είναι γεμάτο…</string>
      <string name="micloud_main_battery_low">Δεν υπάρχει αρκετή μπαταρία για συγχρονισμό</string>
-     <string name="micloud_main_battery_message">"Συνδέστε τη συσκευή σας σε μια πηγή τροφοδοσίας για να συγχρονίσετε
-%d στοιχεία"</string>
+     <string name="micloud_main_battery_message">Συνδέστε τη συσκευή σας σε μια πηγή τροφοδοσίας για να συγχρονίσετε</string>
      <string name="micloud_main_clear_now">Καθαρισμός</string>
      <string name="micloud_main_data_unsynced">%d δεν συγχρονίζονται</string>
      <string name="micloud_main_detail">δείτε λεπτομέρειες</string>

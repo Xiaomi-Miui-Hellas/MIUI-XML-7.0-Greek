@@ -84,7 +84,7 @@
      <string name="app_mobile">Κινητή</string>
      <string name="app_name">Κλείδωμα Εφαρμογής</string>
      <string name="app_name_na">Χρήση δεδομένων</string>
-     <string name="app_name_securitycenter">Κέντρο Ασφάλειας</string>
+     <string name="app_name_securitycenter">Ασφάλεια</string>
      <string name="app_not_installed_toast">"Η εφαρμογή δεν είναι εγκατεστημένη στη συσκευή σας."</string>
      <string name="app_version">Έκδοση</string>
      <string name="app_wifi">Wi‑Fi</string>
@@ -182,7 +182,7 @@
      <string name="cta_button_text_agree">Αποδοχή</string>
      <string name="cta_button_text_cancel">Ακύρωση</string>
      <string name="cta_checkbox_title">Να μην εμφανιστεί ξανά</string>
-     <string name="cta_dialog_msg">To κέντρο Ασφαλείας απαιτεί πρόσβαση στο Internet για να λαμβάνετε ενημερώσεις.</string>
+     <string name="cta_dialog_msg">Η Ασφάλεια απαιτεί πρόσβαση στο Internet για να λαμβάνετε ενημερώσεις.</string>
      <string name="cta_dialog_title">Πληροφορίες</string>
      <string name="cta_settings">Πρόσβαση στο Internet</string>
      <string name="current_network_state_not_need_diagnose">Η σύνδεση στο Internet είναι φυσιολογική</string>
@@ -848,7 +848,7 @@
      <string name="pref_category_title_module_settings">Ρύθμιση παραμέτρων</string>
      <string name="pref_category_title_other">Πρόσθετες ρυθμίσεις</string>
      <string name="pref_category_title_reference_settings">Άλλες παράμετροι</string>
-     <string name="pref_category_title_securitycenter_settings">Ρυθμίσεις Κέντρο Ασφάλειας</string>
+     <string name="pref_category_title_securitycenter_settings">Ρυθμίσεις Ασφάλειας</string>
      <string name="pref_category_title_virus_lib_auto_update">Ορισμός ενημέρωσης ιών</string>
      <string name="pref_check_network_diagnostics">Έλεγχος σύνδεσης Internet της συσκευής</string>
      <string name="pref_connect_settings_enable_background">Επιτρέψτε τα δεδομένα παρασκηνίου</string>
@@ -1039,7 +1039,7 @@
      <string name="summary_live_talk_purchase">Μόνο ¥ 0.05 το λεπτό για εγχώριες κλήσεις.</string>
      <string name="summary_miui_update">Διαθέσιμη ενημέρωση για %s.</string>
      <string name="summary_mms">Αποκλεισμός ανεπιθύμητων μηνυμάτων (πωλήσεις, αγγελίες, κ.λπ.)</string>
-     <string name="summary_network_switch">Επιτρέψτε στο Κέντρο Ασφάλειας την πρόσβαση στο Internet</string>
+     <string name="summary_network_switch">Επιτρέψτε στην Ασφάλεια την πρόσβαση στο Internet</string>
      <string name="summary_never_flow_verify">"Αυτός ο αριθμός δεν έχει επιβεβαιωθεί με τον φορέα σας"</string>
      <string name="summary_permission">Προστασία απορρήτου από εφαρμογές</string>
      <string name="summary_permission_root">Η συσκευή σας και τα προσωπικά δεδομένα είναι πιο ευάλωτα σε επιθέσεις από εφαρμογές που έχουν πρόσβαση root</string>
@@ -1106,7 +1106,7 @@
      <string name="tc_sms_report_get_success_notify_body">Βεβαιωθείτε ότι η αναφορά είναι ακριβής και στείλτε τη στην MIUI.</string>
      <string name="tc_sms_report_get_success_notify_title">Ελήφθη SMS με αναφορά χρήσης δεδομένων</string>
      <string name="tc_sms_report_geting_sms">Λήψη πληροφοριών SMS…</string>
-     <string name="tc_sms_report_notify_correction_body">Πηγαίνετε στην εφαρμογή Χρήση Δεδομένων στο Κέντρο Ασφαλείας και ξαναπροσπαθήστε χειροκίνητα.</string>
+     <string name="tc_sms_report_notify_correction_body">Πηγαίνετε στην εφαρμογή Χρήση Δεδομένων στην Ασφάλεια και ξαναπροσπαθήστε χειροκίνητα.</string>
      <string name="tc_sms_report_notify_correction_failure_title">Αδυναμία ενημέρωσης πληροφοριών χρήσης δεδομένων</string>
      <string name="tc_sms_report_notify_get_failure_body">Αδυναμία υποβολής αναφοράς χρήσης δεδομένων. Βεβαιωθείτε ότι είστε συνδεδεμένοι σε ένα δίκτυο κινητής τηλεφωνίας.</string>
      <string name="tc_sms_report_notify_get_failure_title">Αδυναμία λήψης SMS χρήσης δεδομένων</string>
